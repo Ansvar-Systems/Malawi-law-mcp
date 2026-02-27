@@ -2,6 +2,133 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Malawi Law MCP",
-  "description": "Golden contract tests for the Malawi Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Malawi Law MCP -- verifies core tool functionality against the database",
+  "tests": [
+    {
+      "id": "search-001",
+      "category": "search",
+      "description": "Search for data protection provisions",
+      "tool": "search_legislation",
+      "input": { "query": "data protection", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "search-002",
+      "category": "search",
+      "description": "Search for electronic transactions provisions",
+      "tool": "search_legislation",
+      "input": { "query": "electronic transactions", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "search-003",
+      "category": "search",
+      "description": "Search with document_id filter returns relevant results",
+      "tool": "search_legislation",
+      "input": { "query": "short title", "document_id": "mw-act-2017-13", "limit": 3 },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "get-provision-001",
+      "category": "get_provision",
+      "description": "Get a specific section from Access to Information Act",
+      "tool": "get_provision",
+      "input": { "document_id": "mw-act-2017-13", "section": "1" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "get-provision-002",
+      "category": "get_provision",
+      "description": "Get provision by title search",
+      "tool": "get_provision",
+      "input": { "document_id": "Access to Information Act" },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "validate-001",
+      "category": "validate_citation",
+      "description": "Validate a citation for the Access to Information Act",
+      "tool": "validate_citation",
+      "input": { "citation": "Section 1, Access to Information Act" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "validate-002",
+      "category": "validate_citation",
+      "description": "Validate a non-existent provision gracefully",
+      "tool": "validate_citation",
+      "input": { "citation": "Section 9999, Fake Act" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "currency-001",
+      "category": "check_currency",
+      "description": "Check currency of a known statute",
+      "tool": "check_currency",
+      "input": { "document_id": "mw-act-2017-13" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "format-001",
+      "category": "format_citation",
+      "description": "Format a citation in full format",
+      "tool": "format_citation",
+      "input": { "citation": "Section 1, Access to Information Act", "format": "full" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "stance-001",
+      "category": "build_legal_stance",
+      "description": "Build legal stance on personal data",
+      "tool": "build_legal_stance",
+      "input": { "query": "personal data privacy", "limit": 3 },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "sources-001",
+      "category": "list_sources",
+      "description": "List data sources returns metadata",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "edge-001",
+      "category": "edge_case",
+      "description": "Empty search query handled gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xyznonexistentterm123", "limit": 5 },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

@@ -4,29 +4,25 @@ mcp_name: "Malawi Law MCP"
 jurisdiction: "MW"
 
 sources:
-  - name: "Malawi Official Legal Database"
-    authority: "Government of Malawi"
+  - name: "MalawiLII (AfricanLII member)"
+    authority: "Laws.Africa / Government of Malawi"
     official_portal: "https://malawilii.org"
-    canonical_identifier: "TBD"
-    retrieval_method: "HTML"
+    canonical_identifier: "malawilii.org"
+    retrieval_method: "HTML scraping (Akoma Ntoso)"
     api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
+    update_frequency: "Quarterly"
+    last_ingested: "2026-02-27"
     license_or_terms:
       type: "Government Publication"
       url: "https://malawilii.org"
-      summary: "Official government legal database; legislation is public domain as government publication"
+      summary: "Official legal database via AfricanLII; legislation is public domain as government publication"
     coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
+      scope: "546 acts and government notices from 1911-2026, 14,392 provisions"
+      limitations: "Government notices (subsidiary legislation) lack AKN section markup — these are enumerated but have 0 provisions. Acts with structured AKN HTML are fully parsed."
     languages:
       - "en"
 
 data_freshness:
-  automated_checks: false
-  check_frequency: "TBD"
+  automated_checks: true
+  check_frequency: "Quarterly"
   last_verified: "2026-02-27"
-
-# Notes:
-# - Source URL: malawilii.org
-# - Update this file after completing census and first ingestion

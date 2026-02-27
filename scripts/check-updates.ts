@@ -24,7 +24,7 @@ const DB_PATH = resolve(__dirname, '../data/database.db');
 const CENSUS_PATH = resolve(__dirname, '../data/census.json');
 
 const MAX_DB_AGE_DAYS = Number(process.env['MAX_DB_AGE_DAYS'] ?? '90');
-const PORTAL_URL = 'http://malawilii.org';
+const PORTAL_URL = 'https://malawilii.org';
 const PORTAL_NAME = 'Malawi Law';
 
 interface CensusSummary {
@@ -75,7 +75,7 @@ async function main(): Promise<void> {
 
   let buildDate: string | null = null;
   try {
-    const row = db.prepare("SELECT value FROM db_metadata WHERE key = 'build_date'").get() as { value: string } | undefined;
+    const row = db.prepare("SELECT value FROM db_metadata WHERE key = 'built_at'").get() as { value: string } | undefined;
     buildDate = row?.value ?? null;
   } catch {
     // db_metadata table may not exist
