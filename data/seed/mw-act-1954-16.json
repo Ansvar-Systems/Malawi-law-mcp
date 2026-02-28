@@ -1,0 +1,74 @@
+{
+  "id": "mw-act-1954-16",
+  "type": "statute",
+  "title": "Convicted Persons (Employment on Public Work) Act",
+  "title_en": "Convicted Persons (Employment on Public Work) Act",
+  "short_name": "Convicted Persons (Employme...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1954/16/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Convicted Persons (Employment on Public Work) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ court ” means a subordinate court and includes a Traditional Court to the extent to which it is empowered under the Traditional Courts Act to make an order to perform public work. [Cap. 3:01]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power or court to order persons to perform public work",
+      "content": "(1) When a person is convicted of any offence by a court and such court is of opinion that the offence would be adequately punished by a sentence of imprisonment not exceeding six months, the court may, instead of awarding a sentence of imprisonment, order such person to perform public work for a period not exceeding six months. (2) Subject to subsection (1), the court shall not order any person to perform public work for a longer period than the maximum sentence of imprisonment which it could have imposed on such person in respect of the offence of which he has been convicted. (3) Where any Act provides that an offence is punishable by fine only or by fine and imprisonment in default of payment of such fine, the court may order the person convicted to perform public work for a period not exceeding six months in default of payment. (4) Notwithstanding the Criminal Procedure and Evidence Code, no court may order a person to perform public work for a total period exceeding six months where such order is made in respect of two or more offences tried together. [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Payment of fine either in full or in part",
+      "content": "(1) If any person, ordered to perform public work in default of payment of a fine, pays such fine in full to the court which so ordered him, the order shall thereupon determine. (2) If any person, ordered to perform public work in default of payment of a fine, pays any sum in part satisfaction of such fine, the period of the public work ordered to be performed by him shall be reduced by a number of days bearing as nearly as possible the same proportion to the total number of days for which such person was ordered to perform public work as the sum so paid bears to the fine imposed. (3) Where any person is desirous of taking advantage of subsection (2), any payment in part satisfaction of the fine shall be made by such person to the court which ordered him to perform public work and the court shall certify the number of days by which the period of public work originally ordered is reduced by such payment."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duties of persons ordered to perform public work",
+      "content": "A person ordered by a court to perform public work shall— (a) work for a period not exceeding eight hours each day (excluding Sundays and public holidays) on such work as shall be allotted to him by the District Commissioner of the District in which such person was convicted or by any person authorized by such District Commissioner in that behalf; (b) reside in such place as the District Commissioner shall direct, or, if the court so orders, in a camp."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Penalty for failure to comply with an order to perform public work",
+      "content": "(1) Every person ordered by a court to perform public work who shall without reasonable cause— (a) fail to perform the work lawfully allotted to him; or (b) absent himself from his place of work or of residence; or (c) fail to comply with any Rules made under this Act, shall be liable to imprisonment for six months: Provided that where any person is sentenced to a term of imprisonment under this subsection, the court imposing such sentence of imprisonment may, in its discretion, revoke the order to perform public work. (2) A return of all sentences imposed by a court under this section shall be made monthly to the High Court."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Revision and appeal",
+      "content": "Where sentence of fine or imprisonment or an order to perform public work comes before the High Court on appeal or in exercise of its powers of revision, the High Court may alter any sentence of fine or imprisonment to an order to perform public work, or an order to perform public work to a sentence of fine or imprisonment."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Rules",
+      "content": "The Minister may make Rules— (a) prescribing the nature of the public work to be performed under this Act; (b) establishing camps in which persons ordered to perform public work may be required to reside; (c) prescribing the manner in which persons ordered to perform public work shall be supervised; (d) prescribing anything which, under this Act, may be or is to be prescribed; (e) generally for the better carrying into effect of this Act."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Savings",
+      "content": "Any rules made under the Convicted persons (Employment on Work) Ordinance, l946 (now repealed) and in force at the time of the coming into operation of this Act shall be deemed to have been made under this Act and shall continue in force until other Rules shall be made by virtue of this Act. [22 of 1946] History of this document 31 December 2014 this version Consolidation 28 May 1954 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "a subordinate court and includes a Traditional Court to the extent to which it is empowered under the Traditional Courts Act to make an order to perform public work. [Cap. 3:01]",
+      "source_provision": "s2"
+    }
+  ]
+}

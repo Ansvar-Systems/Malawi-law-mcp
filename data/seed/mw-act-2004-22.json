@@ -1,0 +1,545 @@
+{
+  "id": "mw-act-2004-22",
+  "type": "statute",
+  "title": "Electricity Act",
+  "title_en": "Electricity Act",
+  "short_name": "Electricity Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2004/22/eng@2017-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Electricity Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires— “ Authority ” means the Malaŵi Energy Regulatory Authority established under section 3 of the Energy Regulation Act. [Cap. 73:02] “ average selling price ” means the weighted average of the price paid by the single buyer in its contracts with generators, imports and any other supply obtained by the single buyer ; [12 of 2016] “ bulk consumer ” means a consumer that is allowed to buy electricity directly from a generator ; [12 of 2016] “ case of emergency ” with reference to a right of entry on or to land or premises conferred under this Act, means a case in which the person requiring entry to the land or premises in question has reasonable cause to believe that circumstances exist which are likely to endanger life or property, and that immediate entry to such land or premises is necessary to verify the existence of the circumstances or to ascertain the cause or to effect a remedy; “ customer ” means a person purchasing electricity ; “ consumer ” means a person using electricity ; “ contract of supply ” means a contract between the operator of an electricity undertaking and any other person for the supply of electricity to that person; “ distribution ” means the conveyance of electricity at less than 66,000 volts, or as may be prescribed by notice in the Gazette , from the transmission grid to customers through a distribution power system, and the terms “distribute” and “distributing” have corresponding meanings; “ distributor ” means a person distributing electricity ; “ distribution line ” means any cable underground or overhead line for the distribution or reticulation of electricity from an electricity undertaking to a customer , together with any transformers, switchgear or other works necessary to, and used in connexion with, such cable underground or overhead line, and the buildings or such part thereof as may be required to accommodate transformers, switchgear and other works; “ electricity ” means electric energy generated from hydro, thermal, coal, diesel, oil, biomass, gas, photovoltaic, wind, nuclear and any other source as defined in Energy Laws; “ electricity undertaking ” means any installation works or services for the commercial generation , transmission , wheeling, distribution or supply of electricity which is owned or operated by a licensee , and ‘ electricity undertaker’ bears a corresponding meaning; “ energy laws ” has the meaning ascribed thereto in the Energy Regulation Act; [Cap. 73:02] “ generation ” means the production of electricity for sale, and the terms ‘generate’ and ‘generating’ have corresponding meanings; “ generator ” means a person generating electricity ; “ generation station ” means any station for generating electricity , including any building, plant and machinery used for the purpose and all accessories necessarily incidental thereto, together with the site thereof, and any site intended to be used for such a station; “ Grid Code ” means the set of rules made by the Authority for operation, dispatch and reporting of the Malaŵi electricity supply industry; [12 of 2016] “ independent power producer ” means a person that privately builds, owns and operates facilities to generate and sell electricity to the Malaŵi electricity supply industry; [12 of 2016] “ interconnected system ” means all high voltage electricity lines of 66,000 volts and above, or as may be prescribed by notice in the Gazette , including the related substations and associated equipment and generation stations to which they are connected and any distribution system connected thereto; “ licensee ” means the holder of a licence granted by the Authority under this Act for the generation , transmission , distribution , importation or exportation of electricity , system and market operator and single buyer of electricity ; [12 of 2016] “ Load Dispatch Centre ” means a business area within the system and market operator which is used for coordination of generation , transmission and distribution of electricity in the interconnected electricity system; [12 of 2016] “ power purchase agreement ” means a contract between a generator and a single buyer or between a single buyer and a distributor to buy electricity for a pre-established period of time; [12 of 2016] “ regulated consumer ” means a consumer that must buy electricity from a distributor ; [12 of 2016] “ rural electrification ” means grid or off-grid extension of distribution lines and generation of electricity in rural and remote areas whose internal rate of return is up to a maximum value set by the Authority , line voltage level is less than 66 kilovolts and generation capacity is up to 5 megawatts; [12 of 2016] “ single buyer ” means a licensee responsible for buying electricity from generators; [12 of 2016] “ supply ” means the sale of electricity to customers; “ supplier ” means a person supplying electricity ; “ system and market operator ” means a licensee responsible for operating the transmission system and the electricity market of Malaŵi; [12 of 2016] “ transmission ” means the conveyance of electricity at 66,000 volts or more, or as may be prescribed by notice published in the Gazette , from generators or import points to distributors or large customers or export point through a transmission power system, and the terms “transmit” and “transmitting” have corresponding meanings; “ transmitter ” means a person transmitting electricity ; [12 of 2016] “ wheeling of power ” means the transmission of power from a seller to a buyer using a transmission system of one grid to a load outside the grid boundary. [12 of 2016] Part II – Licences"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Electricity supply activities to be carried on under licence",
+      "content": "(1) A person shall not carry on or be engaged in any activity for the supply of electricity , including the export of electricity from, and import of electricity into, Malaŵi, without a generation , transmission , importation, exportation, system and market operation, single buyer or distribution licence, as the case may be, issued by the Authority . (2) The activities in the electricity supply industry for which a licence is required are— (a) generation of electricity for sale; (b) operation of a transmission network; (c) operation of a distribution network for the supply of electricity ; (d) importation of electricity into Malaŵi; (e) exportation of electricity out of Malaŵi; (f) system and market operation; and (g) buying electricity from generators. (3) The Authority has the power— (a) to determine whether any person is carrying on or engaging in any activity for the supply of electricity ; and (b) to order any person not holding a licence and who is required to apply for and hold a licence under this Act to cease carrying on or be engaged in any activity in the generation , transmission , importation, exportation or distribution of electricity . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Licensees to hold only one type of licence",
+      "content": "(1) Save as provided for in subsection (2), a licensee shall not be granted more than one type of licence listed in section 3 (2). (2) A holder of a transmission licence before commencement of this Act, shall hold simultaneously licences for distribution , imports, exports, system and market operator and single buyer . (3) A person may hold more than one generation licence. (4) A licensee breaches this section if he or she holds more than five per cent shares in another company which holds a licence under this Act. (5) A person that holds a licence for generation may also hold a licence for exportation. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Application for licences",
+      "content": "(1) A person required to hold a licence under this Act shall apply to the Authority for a generation , transmission , system and market operator , single buyer , exportation, importation or distribution licence, as the case may be. (2) On commencement of this Act, the Authority shall issue licences for system and market operation and single buyer to the current holder of transmission and distribution licences. (3) On commencement of this Act, the Authority shall issue a licence for the generation facilities currently in the country. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Mode and procedure of application for licence",
+      "content": "(1) Every application for a licence shall be made to the Authority and be advertised by the Authority at the expense of the applicant, in the prescribed manner. (2) Every application for the licence shall be accompanied by— (a) licence application fees as the Authority shall prescribe by notice published in the Gazette ; and (b) a schedule of the proposed tariffs which a licensee intends to charge customers. (3) Any person may object to the issuing of the licence, and any such objection shall be submitted to the Authority in the prescribed manner and time. (4) The Authority shall consider an application under subsection (1) and any objection thereto, and may for that purpose arrange for a public hearing of the application at a suitable time and place of which not less than fourteen days’ notice shall be given to the applicant and every objector. (5) At the hearing of an application under subsection (4) the applicant and any objector may be represented by a legal practitioner and may lead evidence in support of the application or objection. (6) Not later than thirty days after conclusion of a hearing in terms of subsection (4) or if no hearing was arranged, thirty days after the expiry of the period allowed for the submission of objections in terms of subsection (3), the Authority shall either grant or refuse the application for the issue of a licence. (7) If an application for the issue of a licence is refused, the Authority shall inform the applicant in writing of the reasons for the refusal. (8) If an application for the issue of a licence is granted, the Authority shall issue the licence in the prescribed manner and the licence shall— (a) specify the particular activity authorized by the licence; (b) define the area in respect of which the licence is issued; (c) contain or have attached to it any conditions imposed in relation to the licence in accordance with this Act; and (d) contain a schedule specifying the approved tariffs that may be charged by the licensee to its customers."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Criteria for consideration of application for licence",
+      "content": "(1) The Authority shall, in considering the application for the issue renewal, amendment or transfer of a licence, give due consideration to matters or activities which may adversely affect, or result in damage to, the environment or the rights of others, weighed against the advantages in general that may be derived from the grant of the application. (2) Without derogating from the generality of the provisions of subsection (1) the Authority may— (a) request from the applicant, an environmental and social impact assessment study indicating the extent of any potential damage to or pollution of the environment or social disruption and the steps proposed to be taken by the applicant to prevent or minimize such damage or pollution and to restore the environment generally and in terms of existing environmental legislation; (b) request the applicant to submit details of the technical and economic-financial resources available to the applicant to execute the work, to operate the system in an effective, efficient and safe manner and to carry on the business to which the application or licence relates, substantiated by documentary proof where applicable; (c) request the applicant to submit details of its shareholding structure and related business interests as would be material in terms of section 4 (4); (d) take into consideration the extent to which the activities of the applicant may be detrimental to or adversely affect the rights and operation of other licensees or their customers in their area of operation; and (e) take into consideration the ability of the applicant to provide an effective service to customers."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Incomplete premises",
+      "content": "(1) If an application for a licence is made in respect of premises which still require work of a structural nature to be carried out including the installation of plant and equipment, before operations under the licence can be commenced, the Authority may, upon approval of the plans in respect of such work grant the licence subject to compliance with such conditions and requirements, and within such period, as the Authority may determine before the licence can be issued. (2) The Authority shall in writing inform the applicant of the conditions and requirements imposed under subsection (1). (3) The Authority may at any time, on application of the applicant concerned— (a) withdraw or amend any condition or requirement referred to in subsection (1); (b) extend or further extend the period referred to in subsection (1); and (c) approve an amended plan in respect of the premises. (4) When the Authority is satisfied that the subsection (1) have been completed in accordance with the approved plan thereof, the conditions and requirements have been complied with and the premises are suitable for the purpose for which they will be used under the licence, the Authority shall issue such licence. (5) A licence granted in terms of subsection (1) shall lapse if it is not issued before the expiration of the period referred to in that subsection or any extension thereof under subsection (3)(b)."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Conditions of a licence",
+      "content": "(1) A licence shall be subject to such conditions as may be prescribed under this Act. (2) Without derogating from the generality of the power conferred by subsection (1) conditions prescribed under that subsection may include provisions relating to— (a) implementation of environmental impact mitigation measures proposed by the licensee in his or her application; (b) the obligation of the licensee , upon cessation of the activities carried on under the licence concerned, with regard to the destruction, dismantling or removal of any buildings, walls, installations, equipment, structures, waste dumps or other facilities erected or used for purposes of, or in connexion with, those activities, whether on the premises of the licensee or elsewhere, and the restoration of any land disturbed by such activities; (c) the furnishing by the licensee of acceptable security for compliance with any condition contemplated in paragraph (a) or (b) or acceptable security for compliance with duties of a licensee under this Act; and (d) lodging with the Authority of annual returns containing prescribed particulars."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Amendment or revocation of licences",
+      "content": "(1) Subject to section 11 , the Authority may revoke or amend a licence or a condition of a licence (a) on application, or with the consent, of a licensee ; (b) upon material breach by the licensee of any of the conditions of the licence or the provisions of this Act, or the Energy Regulation Act; or [Cap. 73:02] (c) if subsequent to granting of the licence it is discovered that information furnished in connexion with that application was incorrect or incomplete in a material respect. (2) The provisions of section 6 shall apply mutatis mutandis to applications for amendment or revocation of a licence under subsection (1)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Breach of conditions of licence",
+      "content": "If a licensee fails to comply with his licence, the conditions on which it was granted or the provisions of this Act or the Energy Regulation Act, or modifies the purpose for which the licence was granted, or fails to commence or complete any works required in his licence, the Authority may serve him or her a notice in writing requiring him to comply within such reasonable period as the Authority may determine, and where the licensee fails to comply, the Authority may— (a) call for any security provided by the licensee to rectify the breach where feasible; (b) impose such penalties or sanctions as may be provided for under this Act or the Energy Regulation Act, or the licensing conditions of such licensee which may include recovery in a court by the Authority from such licensee of any profit earned by the licensee as a result of the non-compliance; (c) amend the licence; and (d) revoke the licence or suspend the licence and appoint new managers, for a period not exceeding one year, to manage the operations of the licensed activity temporarily while conducting competitive bidding to identify a licensee to take over that licensed activity. [Cap. 73:02]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Duration and renewal of licences",
+      "content": "(1) Unless sooner revoked under section 10 , a licence shall remain valid for such period as shall be prescribed in the licence which period shall not exceed— (a) in the case of a generation licence, fifty years; (b) in the case of a transmission licence, thirty years; (c) in the case of a distribution licence, twenty years; (d) in the case of a licence to export or import electricity , thirty years; and (e) in the case of a system and market operator and a single buyer , twenty-five years. (2) A licensee may within a period of not less than twelve months before the date fixed for the termination of the licence, make application to the Authority for a renewal of such licence and the application shall be made in accordance with this Act. (3) A licence shall be renewed if the Authority is satisfied that the licensee has acted in accordance with the terms and conditions of the licence and the provisions of this Act, and that renewal of such licence will further enhance the objectives of this Act. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Transfer of licence",
+      "content": "(1) A licence may not be transferred or ceded to any other person, unless the Authority has granted approval therefor. (2) An application for the transfer of a licence shall— (a) be made by the licensee and proposed transferee jointly; (b) be submitted to the Authority ; and (c) be advertised at the expense of the applicant, in the prescribed manner. (3) Any objection to the transfer of a licence shall be submitted to the Authority in the prescribed manner. (4) The Authority shall consider an application in terms of subsection (1) and any objection thereto, and may for that purpose, at its discretion, arrange for public hearing of the application at a suitable time and place of which not less than fourteen days notice shall be given to the applicants and every objector. (5) At a hearing of an application under subsection (4), the applicant and an objector may be represented by a legal practitioner and may lead evidence in support of the application or objection. (6) Not later than thirty days after conclusion of a hearing under subsection (4) or, if no hearing was arranged, thirty days after expiry of the period allowed for the submission of objections under subsection (3), the Authority shall either grant or refuse the application for transfer."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Rural electrification licensees",
+      "content": "The Authority may, by notice published in the Gazette , prescribe special and less onerous licensing regulations in respect of applications for rural electrification ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Register of licences",
+      "content": "The Authority shall keep and maintain a public register of licences issued, including the following information— (a) the terms and conditions of each licence; and (b) such other information as may be prescribed or required under this Act. Part III – Tariffs"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Licensees to charge only approved tariffs",
+      "content": "(1) Subject to the provisions of this Part, a licensee shall not charge any customer any tariffs higher than those specified in the schedule of approved tariffs for his or her licence. (2) The schedule of tariffs approved by the Authority under subsection (1) shall comprise— (a) a base tariff determined in accordance with the principles laid down in section 18 ; and (b) a tariff adjustment formula which takes into consideration exchange rate movement, consumer price index increases and other unavoidable cost increases and expected efficiency gains in the sector. (3) The expected efficiency gains referred to in subsection (2) for distribution licensee shall include— (a) reduction of technical and non-technical losses; (b) accounts receivables of not more than sixty days; (c) connexion rates; (d) customer -employee ratio; and (e) any other performance indicator as deemed necessary by the Authority . (4) The Authority shall determine the components of the base tariff from time to time, by notice published in the Gazette . (5) The Authority shall, every four years, revise the base tariff and review the tariff adjustment formula referred to in subsection (2) for all licensees, with the exception of generation licensees. (6) At the end of four years and before the Authority approves the new base tariff or new tariff adjustment formula for the next period, the base tariff and respective tariff adjustment formula shall remain in force. (7) The generation component of the base tariff shall be adjusted based on the respective power purchase agreements, and informed by the single buyer to the Authority . (8) Every licensee , with the exception of a generation licensee , shall publish the approved tariff or any revision thereof in a manner prescribed by the Authority . (9) A single buyer shall publish the tariff agreed in each power purchase agreement , as well as the resulting average selling price . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Public hearing before tariff revision",
+      "content": "(1) Before revising the base tariff and the tariff adjustment formula in accordance with section 16 (5) the Authority shall publish the proposed tariff revision and may cause tariff studies to be carried out. (2) Any objection to the tariff revision shall be submitted to the Authority in the prescribed manner and time. (3) The Authority shall consider the objections and tariff studies in terms of subsection (1), and shall for that purpose, arrange for a public hearing of the tariff revision at a suitable time and place of which not less than fourteen days notice shall be given. (4) At a hearing in terms of subsection (3) any objector may be represented by a legal practitioner and may lead evidence in support of the objection. (5) Not later than thirty days after conclusion of a hearing under subsection (3), the Authority shall either revise the tariff or leave it as it may be or modify the proposed revisions."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Criteria for granting or revising tariffs",
+      "content": "(1) The tariff of charges for new entrants or revision of tariff of charges provided under this Act shall be approved by the Authority and shall be set at levels sufficient to allow the licensee an opportunity to recover his costs of service, including a reasonable return on capital and encourage efficiency. (2) In addition to the principles set in subsection (1), the Authority shall have regard to the following when setting or revising tariff of charges— (a) predictability of adjustments; (b) financial sustainability of licensees; (c) price stability; (d) equity and fairness; (e) cost of service; (f) quality of service; and (g) the value of the Malaŵi Kwacha in relation to foreign currencies. Part IV – Transmission, distribution , system and market operator and single buyer licensee"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Transmission licence",
+      "content": "(1) The Authority shall issue a transmission licence to the system and market operator to build, operate and maintain the transmission network in Malaŵi. (2) The Authority shall issue additional transmission licences to generators that need to connect their plants with the network owned and operated by the system and market operator . (3) On recommendation of the single buyer and upon approval by the Minister, the Authority may issue a transmission licence to a person different from a transmission operator to build, operate and maintain transmission facilities: Provided that the holder of this licence shall operate under the coordination of the transmission licensee , following the orders of the system and market operator licensee . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Duties and functions of a transmission licensee and a distribution licensee",
+      "content": "(1) The duties and functions of the transmission licensee shall be to— (a) build, operate and maintain the transmission network in Malaŵi; (b) undertake transmission planning in collaboration with the single buyer licensee ; (c) provide information for the single buyer licensee ’s planning activities; (d) coordinate the operation of the transmission system with the system and market operator licensee ; (e) comply with the operation procedures and criteria established in the market rules and Grid Code for the reliable and economic operation of the transmission system; and (f) coordinate the importation and exportation of electricity as instructed by the single buyer licensee . (2) The duties and functions of the distribution licensee shall be to— (a) plan, build, operate and maintain the distribution network in Malaŵi; (b) supply electricity to consumers; (c) take meter readings, prepare and deliver invoices, and collect payments from consumers; (d) provide information to the single buyer licensee for planning and forecasts purposes; (e) coordinate the operation of the distribution system with the system and market operator licensee ; (f) forecast the electricity consumption in each node or zone supplied by the licensee at every time segment of the day; and (g) provide information to the system and market operator licensee for the daily generation dispatch. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s20A",
+      "chapter": "Part IV",
+      "section": "20A",
+      "title": "Duties and functions of system and market operation licensee",
+      "content": "(1) The duties and functions of the system and market operator licensee shall be, to— (a) guarantee to all generation plants a fair dispatch and non-discriminatory access to the transmission system; (b) own, manage and operate the Load Dispatch Centre in a non-discriminatory manner and at least cost in the interconnected system ; (c) plan and control the daily operation of the integrated and interconnected system ; (d) dispatch generation in line with market rules and the Grid Code ; (e) optimize the use of reservoirs, taking into consideration other water usages and environmental constraints; (f) supervise and coordinate the real time operation of the market; (g) meter and settle transactions between licensees; (h) determine the actual power of generation units of the interconnected system ; (i) determine the valued balance of the movement of electricity resulting from the integrated operation of the system; (j) provide accurate information to licensees and companies interested to invest in the sectors; (k) manage imports and exports arising from the operation of the Southern Africa Power Pool’s Day Ahead electricity market; (l) represent Malaŵi in the Southern Africa Power Pool; (m) submit periodic reports to the Authority in respect of each of the functions in this subsection; and (n) perform such other duties incidental to and connected with the objective of the Load Dispatch Centre . (2) For the purposes of subsection (1), “Southern Africa Power Pool” means a cooperation of the national electricity companies in Southern Africa that have created a common power grid between their countries and a common market for electricity . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s20B",
+      "chapter": "Part IV",
+      "section": "20B",
+      "title": "Duties and functions of single buyer licensee",
+      "content": "The duties and functions of the single buyer licensee shall be to— (a) prepare a long term forecast of demand, taking into consideration the targets of electricity supply coverage and expected economic growth in consultation with the Minister; (b) undertake least cost long-term generation and transmission expansion plan; (c) prepare a ranking of generation projects to be tendered out with the approval of the Minister; (d) prepare a ranking of transmission projects to be built, in coordination with the transmission licensee , with the approval of the Minister; (e) organize, with the approval of the Minister, open tenders for independent power producers that shall comply with guidelines established by the Authority ; (f) evaluate unsolicited proposals from independent power producers and recommend to the Minister for approval; (g) negotiate and submit power purchase contracts to the Authority for approval, and sign the contracts with the independent power producers; (h) prepare the annual generation forecast; (i) conclude power purchase agreements with generation licensees; (j) conclude power supply contracts with distribution licensees; and (k) conclude power purchase agreements for importation and exportation of electricity . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Power sales and purchase contracts",
+      "content": "(1) In order to comply with their obligations to meet the total demand for electricity within their area of distribution , distributors shall sign electricity supply contracts with the single buyer licensee at rates agreed upon between the parties and approved by the Authority . (2) All licensees shall sell or purchase bulk power through the single buyer licensee . (3) Upon approval by the Authority , a bulk consumer may buy power directly from generators. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Import and export of power",
+      "content": "(1) The single buyer licensee shall, under licence from the Authority , whenever there is need for additional generation capacity, consider purchase of power from other countries through international interconnectors. (2) The single buyer licensee shall under licence from the Authority , whenever there is excess generation capacity or reserve capacity when feasible, consider sale of power to other countries through international interconnectors. (3) Apart from the single buyer licensee no other licensee shall be licensed to import or export power into and out of Malaŵi, respectively: Provided that a distribution licensee may be licensed to export power out of Malaŵi if such export is through a distribution line , and provided further that export of power shall not affect the local capacity to meet the demand for power at any time. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Wheeling of power",
+      "content": "The wheeling of power through the Malaŵi transmission system shall be in accordance with the principles of the Southern Africa Power Pool."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Third party access",
+      "content": "(1) A transmission licensee who is licensed to transmit electricity may not, upon the request of another licensee , refuse that licensee the right of transmitting electricity through its electrical or transmission line against payment of compensation at a rate approved by the Authority , except if such refusal is reasonably based on an insufficiency of technical availability of capacity: Provided that in case of insufficiency of technical availability of capacity, the allocation shall be based on the economical dispatch of generation . [12 of 2016] (2) For purposes of this section there is a rebuttable presumption that there is always available capacity in the transmission system until the contrary is demonstrated by the transmission licensee to the satisfaction of the Authority . (3) The tariff of charges charged by a transmission licensee shall be approved by the Authority and the tariff shall reflect cost of service and be non-discriminative. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Load Dispatch Centre",
+      "content": "A transmission licensee shall own, manage and operate the Load Dispatch Centre which shall be responsible for coordination of generation , transmission , load dispatch and distribution in a non-discriminatory manner and at least cost in the interconnected system ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Functions and reports of the Load Dispatch Centre",
+      "content": "(1) A transmission licensee shall, through the Load Dispatch Centre , be responsible for the following functions— (a) the planning and control daily of the integrated operation of the interconnected system to ensure satisfaction of demand through safe, reliable and low cost operation; (b) the carrying out of load dispatch in real time at minimum cost; (c) the determination of the actual power of generation units of the interconnected system ; (d) the determination of the valued balance of the movement of electricity resulting from the integrated operation of the system; and (e) the performance of such other duties incidental to and connected with the objective of the Load Dispatch Centre . (2) A transmission licensee shall submit periodic reports to the Authority in respect of each of the functions in subsection (1). [12 of 2016] Part V – System operation"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Requirements of the Load Dispatch Centre",
+      "content": "(1) The Load Dispatch Centre shall perform daily the economical dispatch of generation , in accordance with the market rules and the Grid Code . (2) Every generator shall comply with the instructions of the Load Dispatch Centre and shall inform the Load Dispatch Centre daily of its availability. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Transmission or distribution licensee not to own a generation station",
+      "content": "No transmission licensee or distribution licensee shall be licensed to build, own or operate and maintain a generation station for sale of power whether for firm or standby purpose."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Transmission or distribution licensee to conduct operations in accordance with Grid Code",
+      "content": "A transmission and distribution licensee shall conduct its operations in accordance with the Grid Code . [12 of 2016]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Generators to sell power to single buyer",
+      "content": "All generators shall sign power sale agreements with the single buyer for sale of their power at a price to be agreed between the parties but approved by the Authority . [12 of 2016] Part VI – Distribution"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Duties of distributor",
+      "content": "Subject to the terms and conditions of a licence issued in accordance with this Act and the Energy Regulation Act, every distributor shall supply electricity to every consumer who is in a position to make satisfactory arrangements for payment under a contract of supply with that operator. [Cap. 73:02]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Delays in supply",
+      "content": "Where a distributor unduly refuses to supply any applicant with electricity , the applicant may appeal to the Authority , which shall determine the conditions under which the distributor shall undertake such supply ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Standby supply",
+      "content": "A consumer shall not be entitled to a standby supply of electricity from the distributor in respect of any premises unless that consumer has agreed to pay and has given security to pay, such minimum annual sum as shall give to the distributor a reasonable return (which return shall be determined by the Authority ) on any capital expenditure and any other standing charges which may be incurred in meeting the maximum demand for the premises."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Customers’ installation testing",
+      "content": "A distributor shall test any installation of an applicant before a supply of electricity : Provided that the testing of such installation shall not render the operator liable in law for any damages or injury flowing from defective installations of applicants."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Interference with licensee ’s system",
+      "content": "A customer shall ensure that the operations of his or her system does not interfere with the smooth and safe operation of the licensee ’s system to which he or she is connected. Part VII – Inspection, accidents, inquiries and investigations"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Entry and inspection of premises",
+      "content": "The Authority , or any person authorized by it in writing, may at all reasonable times enter any premises or any licensed activity for the purpose of ascertaining whether or not the provisions, of this Act or the Energy Regulation Act, or the conditions of any licence are being complied with, or for the purpose of any inspection which is incidental to or connected with the carrying out of the duties of the licensee . [Cap. 73:02]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Licensee to report accidents",
+      "content": "(1) A licensee shall send to the Authority notice of any accident of such a kind as to have caused, or likely to have caused, loss of life or serious personal injury which has occurred in any part of such licensee ’s works or equipment, together with notice of any loss of life or serious personal injury occasioned by any such accident. (2) Nothing contained in subsection (1) shall absolve the licensee from the duty of complying with the provisions of any other written law relating to the reporting of accidents."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Inquiries and investigations",
+      "content": "(1) The Authority may, at its own instance or on receipt of a complaint or inquiry relating to the supply of electricity , appoint any person to make inquiries in respect thereof and report thereon to the Authority . (2) On receipt of a report under subsection (1), the Authority may— (a) issue such notice, licensing conditions, guidelines, or directives as it is empowered to do under this Act or the Energy Regulation Act; or [Cap. 73:02] (b) institute a formal investigation. (3) The Authority shall on receipt of a complaint regarding unlawful conduct by a licensee , institute a formal investigation in respect of that complaint. (4) Upon instituting a formal investigation under subsection (2) or (3) the Authority may appoint any person to chair the investigation and as many persons as may be necessary to assist with the investigation; and the person so appointed and the persons assisting him may summon witnesses and conduct the investigation in accordance with the procedure the Authority shall publish in the Gazette . (5) On completion of the investigation under subsection (4) the person chairing it shall submit his written report thereon to the Authority . (6) On receipt of the report under subsection (5), the Authority — (a) may refer it to the Attorney General for his consideration; (b) if a licensee is involved— (i) may issue notice, licensing conditions, guidelines, or directives as it is empowered to do or make under this Act or the Energy Regulation Act; or [Cap. 73:02] (ii) may amend or revoke the licence of that licensee in accordance with this Act or the Energy Regulation Act; and [Cap. 73:02] (c) shall give a copy of the report to a concerned customer or consumer or affected person who requests for it. Part VIII – Rights over land"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VIII",
+      "section": "39",
+      "title": "Wayleaves over land",
+      "content": "(1) Subject to the Public Roads Act, a licensee may, for the purpose of the construction, maintenance, carrying on or extension of any of its works, place, lay down or carry any transmission line or distribution line or water pipeline or other equipment through, over or under any land whatsoever: Provided that the licensee shall not, without the consent of the owner, be entitled under this section to interfere with any existing building. (2) A licensee shall, not less than thirty days before placing, laying down or carrying any transmission line, or distribution line , water pipeline or other equipment through, over or under any land without the consent of the owner, lessee or occupier of such land, give notice of the intended work either by notice published in the Gazette or in a paper in general circulation. (3) Every notice referred to in subsection (2) shall— (a) describe the nature of the intended work; (b) describe the name of the place where the plan of the intended work shall be open for inspection during normal hours of business; and (c) be served on any person resident in Malaŵi whose place of residence is known to the licensee , its staff or agents, and who is known or believed to be the owner, lessee or occupier of any land through, over and under which it is intended that any transmission or distribution line , water pipeline or other equipment shall be carried. (4) If the place of residence of any person who is believed by the licensee , its officers, servants or agents to be the owner, lessee or occupier of any land is not known to the licensee , its staff or agents, or if for any reason it is not possible to effect service of the notice upon such persons, then, or in either of those events, the licensee shall cause such notice, or a true copy thereof, to be posted in a conspicuous position upon such land. (5) If the owner, lessee or occupier of any land through, over or under which it is intended that any transmission line or distribution line , water pipeline or other equipment shall be placed, laid down or carried, objects to the intended work and shall have served notice in writing of such objection at the office of the licensee at any time within the period of thirty days referred to in subsection (2), the intended work, in so far as it affects the land of the person serving such notice of objection, shall not be commenced unless the Authority approves the commencement of the intended work notwithstanding such objection. (6) Where any notice of objection is given in accordance with subsection (5), the Authority may appoint such person or persons as it may think fit to make inquiry into the necessity, propriety or desirability of the intended work, and into the objections made thereto, and to report to the Authority in respect of those matters and on receiving the report of such person or persons, the Authority may make a decision either to allow the intended work, with such modifications, if any, or disallow the intended work, as it may deem necessary. (7) Nothing in this section shall authorise or empower the licensee to lay down or place any transmission line or distribution line , water pipeline or other equipment in, through or against any building, or in, on or through any land covered with buildings, without the consent of the owner, lessee or occupier thereof, so however that any overhead line and any support, stay, strut or structure required for the sole purpose of supporting any overhead line may be placed in, on, through or over any land or against any building with the consent of the Authority if, in his opinion, the consent of such owner, lessee or occupier is being unreasonably withheld, and in any such case, the Authority shall determine the amount of compensation, whether by way of payment of a lump sum or an annual rental, or of both, to such owner, lessee or occupier. (8) If the owner, lessee or occupier of any land in, on, through or over which any transmission line or distribution line , water pipeline or other equipment is placed, laid down or carried, or, in the case of a street, the local or other authority concerned, shall require and request that the position of such transmission line or distribution line , water pipeline or other equipment be changed, the Authority may, by notice in writing, order the licensee to alter the position of such transmission line or distribution line , water pipeline or other equipment, subject to such conditions as, in the absence of agreement between the parties, may be specified by the Authority . (9) Where any rights over land have been acquired by a licensee , whether by an agreement or under this Part, then, notwithstanding the fact that those rights may not have been registered against the title to the land which they relate in accordance with the written law relating to registration of title or deed, those rights shall be binding on the owner of such land and on the successor in title. [Cap. 69:02]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Right of entry on land",
+      "content": "(1) Any member, or staff or agent of the licensee , duly authorized in that behalf by the licensee , and any contractor executing any work for the licensee together with its agents and staff may, on giving to the occupier such notice as, having regard to all the circumstances of the case, is reasonable, enter upon land at any time between the hours of six o’clock in the forenoon and six o’clock in the evening for the purpose of surveying, setting out and marking the line of any intended transmission line or distribution line , water pipeline or other equipment. (2) It shall be lawful for the licensee or any person in that behalf duly authorized by the licensee in writing any time between the hours of six o’clock in the forenoon and six o’clock in the evening, or, in the case of emergency , at any other time, to enter into and upon any premises, through, or under which the licensee has placed a transmission line or distribution line , water pipeline or other equipment, in order to perform and carry out the licensee ’s purpose on such and or premises, or to maintain, remove, repair or replace any such transmission line or distribution line , water pipeline or other equipment or carrying out any works urgently needed to be done in relation thereto."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Trees or buildings interfering with electricity supply and equipment",
+      "content": "(1) Where, on any land, trees or undergrowth of any kind obstruct or interfere with the construction, working or supply and maintenance of any transmission line, distribution line , water equipment, pipeline or other equipment, the licensee may give to the owner, lessee or occupier of the land upon which such trees or growth are situated not less than fourteen days’ notice in writing of its intention to enter upon the land and to cut down or to trim such trees or growth, and after the expiry of the time limit in the notice, may enter upon the land and effect such notified intention. (2) The owner, lessee or occupier, on receiving notice in accordance with subsection (1), may at his or her own expense and at any time before the expiry of the time limit in the notice, but in consultation with the licensee to ensure safety, cut down or trim the trees or undergrowth so as to comply with the requirements of the licensee in that regard. (3) Notwithstanding the provisions of subsection (1) and after taking such immediate action which is essential in order to protect any transmission line, distribution line , water pipeline or other equipment from damage by any trees or undergrowth on any land, the licensee may without any notice to the owner, lessee or occupier, enter upon such land and cause such trees or undergrowth to be cut down or trimmed in such a manner as may be necessary to prevent the anticipated or other damage. (4) Except with the permission of the licensee , no person shall erect any building or structure in the wayleave or in such a position or in such a manner as likely to interfere with the supply of electricity through any transmission line or distribution line and if after a transmission line or distribution line has been constructed, any person erects any building or structure in the wayleave or in such a position or in such a manner as likely to interfere with the supply of electricity through such transmission line or distribution line the licensee may request such a person to remove or adjust such a building or structure as may be necessary; and if such person fails or omits to comply with such a request, the licensee may apply to the Authority for an order for the removal or adjustment of the building or structure and, after such inquiry as it may deem necessary, the Authority may make such order as it deems fit. (5) No person, owner, occupier or lessee shall grow trees or undergrowths or allow trees or undergrowths to grow or to be grown on the land he owns, occupies or leases in such a manner as likely to interfere with the supply of electricity through any transmission or distribution line of the licensee ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VIII",
+      "section": "42",
+      "title": "Breaking up of streets",
+      "content": "(1) Subject to subsection (2), where the licensee has acquired the right to place the transmission line or distribution line across, under or along any street either in accordance with the Act or any other written law, the licensee may break up any street in which such right has been acquired and may from time to time as may be necessary repair, alter or remove any such lines. (2) Before the licensee exercises any power conferred by this section, it shall give to the local or other authority concerned and to respective owners of all water pipes, telephone cables or other installations at least thirty days notice in writing of its intention to exercise such power: Provided that in any case of emergency , the licensee shall give notice thereof to such authority and to respective owners of all water pipes, telephone cables or other installations, as soon as is practically possible after the emergency has arisen. (3) Except in cases of emergency, the powers conferred by this section shall only be exercised under the superintendence of the local authority or other authority concerned, and according to such specifications and such plan showing the route along which the transmission lines or distribution lines are to be erected as may be approved by that authority, or if any difference arises with regard to the specification, plan or route, then according to such specification and such plan as may be approved by the Authority : Provided that if the authority concerned fails, within reasonable time, to exercise the powers of superintendent conferred by this section, after such notice shall have been given to the authority, then the licensee may exercise those powers without superintendent of the authority. (4) Every licensee that carries out any work authorized by this section shall— (a) comply with the relevant by-laws and regulations of the local or other authority concerned; (b) complete the work with reasonable dispatch; (c) reinstate and make good the street opened or broken up in the course of such work and remove therefrom all material remaining as a result of the work; (d) leave the street in all respects in a clean and tidy state; and (e) cause all works to be at all times properly fenced and guarded and to be adequately marked with warning lights during the hours of darkness while the street is in the course of being opened, broken up or obstructed. (5) If a licensee fails to comply with subsection (4), the local authority or other authority concerned may cause to be carried out, at the expense of the licensee , any work necessary for the due discharge of that duty."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Licensees’ equipment not part of the land",
+      "content": "Any lines, meters, fittings, works or apparatus belonging to a licensee and lawfully placed or installed in or upon any premises not in his possession shall, whether or not fixed to any part of such premises, remain the property of and may be removed by the licensee , and are not liable to be taken in execution under any process of law or any proceedings in insolvency or liquidation against the owner or occupier of such premises."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Compensation for damage caused by licensee",
+      "content": "(1) The licensee shall make good to the reasonable satisfaction of the local or other authority, or the owner, as the case may be, of all public and private roads, streets and paths opened or broken up by the licensee in the course of its operations and shall also pay fair and reasonable compensation or rent or both for all losses or damage caused in the execution of any of its powers conferred by this Act. (2) Where a dispute arises as to whether any road, street or path has been adequately made good, or as to the amount of compensation or annual rent to be paid under subsection (1), such dispute shall be referred to a Resident Magistrate having jurisdiction in the District in which the cause of the dispute arose and for that purpose the Resident Magistrate shall have jurisdiction in all of such disputes irrespective of the amount of compensation or rent involved and may make such award as he deems fair and reasonable to the person who is found to be entitled thereto. (3) Either party to the dispute may appeal from the decision of the Resident Magistrate to the High Court. Part IX – Offences and penalties"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IX",
+      "section": "45",
+      "title": "Offences",
+      "content": "(1) Any person who carries on in any manner any activity for the supply of electricity in contravention of this Act, or fails to carry out any order or decision of the Authority made or given under this Act or otherwise contravenes the provisions of this Act, shall be guilty of an offence. (2) Without prejudice to the right of a licensee to recover for any illegal consumption of electricity , including costs associated with such recovery, a customer or any other person who— (a) illegally connects electricity to any premises; (b) disturbs or tampers with any electricity meter or other measuring instrument or apparatus; (c) denies access to premises for inspections by authorized personnel of the licensee or the Authority ; or (d) damages or vandalizes any electricity installation equipment or apparatus, shall be guilty of an offence. (3) Any transmitter who denies access on his system to licensees shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part IX",
+      "section": "46",
+      "title": "Penalties",
+      "content": "Any person who is guilty of an offence under this Act shall be liable to a fine of K5,000,000 and to imprisonment for ten years. Part X – Miscellaneous provision"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part X",
+      "section": "47",
+      "title": "Consumer and customer education brochure",
+      "content": "The Authority shall develop and publish an information brochure and other modes of communication for consumer and customer education on the structure and price regulation or on technical, safety and legal aspects of the electricity supply industry."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part X",
+      "section": "48",
+      "title": "Resolution of disputes by the Authority",
+      "content": "(1) The Authority shall, if requested by a party to a dispute, act as a mediator or arbitrator in disputes between licensees or between a licensee and its customer or a licensee and the Coordination Centre relating to— (a) the right to supply electricity ; (b) the duty to supply electricity ; (c) the tariffs and charges at which electricity is applied; (d) delays in or refusal to supply electricity ; and (e) the quality of electricity supply and the provision of services in connexion therewith. (2) The Authority may act as mediator or arbitrator in any matter in respect of which a licensee or customer requests the Authority to act as such. (3) The Authority may, on approval of the parties involved, appoint a suitable person to act as mediator or arbitrator on its behalf and any action or decision of a person so appointed shall be deemed to be an action by or decision of the Authority . (4) The Authority shall by notice published in the Gazette prescribe the procedure to be followed and arbitration fees to be paid in arbitrating a dispute and the decision of the Authority , shall be binding on the disputing parties, subject only to the right of each party to appeal to the High Court as provided in this Act."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part X",
+      "section": "49",
+      "title": "Service of notice",
+      "content": "Any notice or other document required or authorized to be given, delivered or served under this Act may be given, delivered or served— (a) by delivering it to the person to whom it is to be given or delivered or on whom it is to be served; (b) by leaving it at the usual or last known place of abode of that person; (c) by sending it in a prepaid registered letter addressed to that person at his usual or last known place of abode or postal address; (d) in the case of company, by delivering it to the secretary or clerk thereof at its registered or numbered office or by sending it in a prepaid registered letter addressed to the secretary or clerk of the company at that office; or (e) if it is not practicable after reasonable enquiry to ascertain the name or address of a person to whom it should be given or delivered or on whom it should be served, as being a person having an interest in land, being the person to whom by the description of the person having that interest in the premises (naming those premises) to which it relates, or by delivering it to some person on the premises or, if there is no person on the premises to whom it can be addressed, by affixing a true copy of it to some conspicuous part of the premises."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part X",
+      "section": "50",
+      "title": "Distribution licensee may discontinue supply for non-payment, etc.",
+      "content": "(1) A licensee shall not vary or discontinue a supply which is required to be constantly maintained except— (a) for causes beyond the control of the licensee ; or (b) where the consumer has failed to pay charges lawfully due in accordance with the conditions of supply or any written law, as the case may be; or (c) where the consumer has failed to comply with the conditions of supply or any written law and failed to remedy his default within seven days of receiving written notice from the licensee calling upon him to do so. (2) A licensee may temporarily vary or discontinue a supply of electricity under subsection (1)— (a) without prior notice to a consumer likely to be affected— (i) where such action is necessary to prevent danger to life or damage to property; (ii) in any emergency, from whatsoever cause arising, to ensure the proper working of the licensed activity or of any other licensed activity with which it is interconnected; (iii) by the automatic operation of a protective device installed to disconnect supply of electricity in fault conditions; or (iv) by the automatic or hand operation of a device installed to disconnect a supply of electricity in terms of the conditions or agreement to supply ; or (b) on giving not less than twenty-four hours notice— (i) for the purposes of making alterations or additions to a system; (ii) for normal maintenance work; or (iii) for testing a device referred to in paragraph (a)(iii) or (iv). [12 of 2016]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Right of appeal to the High Court",
+      "content": "(1) Any person aggrieved by the decision or action of the Authority under this Act may appeal to the High Court by way of petition and lodged within three months from the date of the decision or action of the Authority . (2) The Chief Justice may make such rules as he considers proper in relation to the procedure on the hearing of such appeals, including the appointment and remuneration of assessors and regulating the costs of the appeal."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "By-laws, rules, codes and guidelines",
+      "content": "(1) The Authority may make by-laws, rules, codes and guidelines to give effect to this Act or for its better administration. (2) The by-laws, rules, codes and guidelines to be promulgated by the Authority under subsection (1) for distribution licensees shall apply to rural electrification schemes. [12 of 2016]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part X",
+      "section": "53",
+      "title": "Repeal and savings",
+      "content": "(1) Subject to subsection (2), the Electricity Act is hereby repealed. (2) Anything done in accordance with the Electricity Act repealed by subsection (1), prior to the commencement of this Act and which may be done in accordance with the provisions of this Act shall be deemed to have been done in accordance with this Act. (3) Any subsidiary legislation made or deemed to have been made under the Electricity Act, repealed by subsection (1) in force immediately before the commencement of this Act— (a) shall remain in force, unless in conflict with this Act, and shall be deemed to be subsidiary legislation made under this Act; and (b) may be replaced, amended or repealed by subsidiary legislation made under this Act. (4) All licences issued by the Electricity Council in accordance with the Electricity Act repealed by subsection (1), prior to the commencement of this Act, if not in conflict with the provisions of this Act, shall be deemed to be licences granted by the Authority in accordance with this Act. [Cap. 73:01] History of this document 31 May 2024 amendment not yet applied Amended by Electricity (Amendment) Act, 2024 31 December 2017 this version Consolidation 28 December 2007 Commenced Related documents Is amended by Electricity (Amendment) Act, 2024 Subsidiary legislation Title Electricity (Amendment) Act, 2024 Act 19 of 2024 Electricity (Amendment) By-laws, 2021 Government Notice 22 of 2021 Electricity (Amendment) By-laws, 2018 Government Notice 91 of 2018 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Malaŵi Energy Regulatory Authority established under section 3 of the Energy Regulation Act. [Cap. 73:02] “ average selling price ” means the weighted average of the price paid by the single buyer in its contracts with generators, imports and any other supply obtained by the single buyer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bulk consumer",
+      "definition": "a consumer that is allowed to buy electricity directly from a generator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "a person purchasing electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "a person using electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contract of supply",
+      "definition": "a contract between the operator of an electricity undertaking and any other person for the supply of electricity to that person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution",
+      "definition": "the conveyance of electricity at less than 66,000 volts, or as may be prescribed by notice in the Gazette , from the transmission grid to customers through a distribution power system, and the terms “distribute” and “distributing” have corresponding meanings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distributor",
+      "definition": "a person distributing electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution line",
+      "definition": "any cable underground or overhead line for the distribution or reticulation of electricity from an electricity undertaking to a customer , together with any transformers, switchgear or other works necessary to, and used in connexion with, such cable underground or overhead line, and the buildings or such part thereof as may be required to accommodate transformers, switchgear and other works",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electricity",
+      "definition": "electric energy generated from hydro, thermal, coal, diesel, oil, biomass, gas, photovoltaic, wind, nuclear and any other source as defined in Energy Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electricity undertaking",
+      "definition": "any installation works or services for the commercial generation , transmission , wheeling, distribution or supply of electricity which is owned or operated by a licensee , and ‘ electricity undertaker’ bears a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "energy laws",
+      "definition": "ascribed thereto in the Energy Regulation Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generation",
+      "definition": "the production of electricity for sale, and the terms ‘generate’ and ‘generating’ have corresponding meanings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generator",
+      "definition": "a person generating electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generation station",
+      "definition": "any station for generating electricity , including any building, plant and machinery used for the purpose and all accessories necessarily incidental thereto, together with the site thereof, and any site intended to be used for such a station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Grid Code",
+      "definition": "the set of rules made by the Authority for operation, dispatch and reporting of the Malaŵi electricity supply industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independent power producer",
+      "definition": "a person that privately builds, owns and operates facilities to generate and sell electricity to the Malaŵi electricity supply industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interconnected system",
+      "definition": "all high voltage electricity lines of 66,000 volts and above, or as may be prescribed by notice in the Gazette , including the related substations and associated equipment and generation stations to which they are connected and any distribution system connected thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of a licence granted by the Authority under this Act for the generation , transmission , distribution , importation or exportation of electricity , system and market operator and single buyer of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Load Dispatch Centre",
+      "definition": "a business area within the system and market operator which is used for coordination of generation , transmission and distribution of electricity in the interconnected electricity system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "power purchase agreement",
+      "definition": "a contract between a generator and a single buyer or between a single buyer and a distributor to buy electricity for a pre-established period of time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated consumer",
+      "definition": "a consumer that must buy electricity from a distributor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rural electrification",
+      "definition": "grid or off-grid extension of distribution lines and generation of electricity in rural and remote areas whose internal rate of return is up to a maximum value set by the Authority , line voltage level is less than 66 kilovolts and generation capacity is up to 5 megawatts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "single buyer",
+      "definition": "a licensee responsible for buying electricity from generators",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supply",
+      "definition": "the sale of electricity to customers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplier",
+      "definition": "a person supplying electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "system and market operator",
+      "definition": "a licensee responsible for operating the transmission system and the electricity market of Malaŵi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transmission",
+      "definition": "the conveyance of electricity at 66,000 volts or more, or as may be prescribed by notice published in the Gazette , from generators or import points to distributors or large customers or export point through a transmission power system, and the terms “transmit” and “transmitting” have corresponding meanings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transmitter",
+      "definition": "a person transmitting electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wheeling of power",
+      "definition": "the transmission of power from a seller to a buyer using a transmission system of one grid to a load outside the grid boundary. [12 of 2016] Part II – Licences",
+      "source_provision": "s2"
+    }
+  ]
+}

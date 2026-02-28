@@ -1,0 +1,268 @@
+{
+  "id": "mw-act-1948-9",
+  "type": "statute",
+  "title": "Inquests Act",
+  "title_en": "Inquests Act",
+  "short_name": "Inquests Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1948/9/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Inquests Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act— “ coroner ” means any person empowered to hold inquests under this Act; “ medical practitioner ” means any person registered or licensed as a medical practitioner under the Medical Practitioners and Dentists Registration Act; [Cap. 36:01] “ police officer in charge of a police station ” has the meaning assigned thereto in section 2 of the Criminal Procedure and Evidence Code. [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Who may hold inquests",
+      "content": "(1) Every magistrate may hold inquests under this Act. (2) The Minister may, by notice published in the Gazette , empower any other fit person or class of fit persons to hold inquests under this Act within any area specified in such notice. (3) Any inquest commenced by a coroner may be continued, resumed, or reopened in the manner provided by this Act by such coroner or by his successor in office."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "When inquest to be held",
+      "content": "Whenever a coroner is credibly informed that the body of a deceased person is lying within his jurisdiction, and that there is reasonable cause to suspect that such person had died either a violent or an unnatural death, or in prison or in custody, or in a mental hospital, or in any place or circumstances which, in the opinion of the coroner , makes the holding of an inquest necessary or desirable, such coroner shall, subject as hereinafter in this section provided, hold an inquest on such body as soon as practicable: Provided that— (a) Power to dispense with inquest in certain cases whenever it shall appear to the coroner , either from the report of a medical practitioner rendered under section 13 or otherwise, that the death is due to natural causes, and that the body shows no appearance of death being attributable to or having been accelerated by violence or by any culpable or negligent conduct either on the part of the deceased or of any other person, it shall thereupon be lawful for the coroner at his discretion (except in the cases specified in section 6 ) to dispense with the holding of an inquest; (b) where the coroner is informed that criminal proceedings have been or are about to be instituted against any person already in custody or about to be arrested in respect of such death, the inquest shall not be commenced, or if commenced shall not be continued or resumed, until such proceedings have been concluded."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Power to order exhumation",
+      "content": "Notwithstanding any law or custom to the contrary enacted or obtaining, whenever it shall appear to any coroner that the body of any person, who has died in circumstances requiring the holding of an inquest thereon, has been buried without being viewed or without such inquest having been held, or where such inquest, although held, has been quashed or reopened, it shall be lawful for such coroner by his warrant in Form A in the First Schedule to order the exhumation of such body; and he shall after such exhumation proceed to hold an inquest on such body and thereupon direct the reinterment thereof; and the expenses of such exhumation and reinterment shall be paid, upon the coroner ’s order, out of moneys provided by Parliament: Provided that such exhumation shall not be ordered in any case where in the opinion of the coroner it would be injurious to public health, or where there is no reasonable probability of a satisfactory result being obtained thereby."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Inquest on all prisoners and on patients in mental hospitals",
+      "content": "Notwithstanding anything contained in this Act, whenever any prisoner, or any person in custody, or any patient in a mental hospital, shall die from any cause whatsoever, a coroner of the district in which such death has occurred shall hold an inquest."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Inquest to be held by coroner of place where body lying",
+      "content": "Only a coroner having jurisdiction in the place where the body of any person upon whose death an inquest ought to be held is lying shall hold the inquest, notwithstanding that the cause of death arose elsewhere; and if any body is found in any river or in any inland waters, the inquest shall be held by a coroner within whose jurisdiction the body is first brought to land: Provided that where it appears to a coroner by whom an inquest has been commenced that, owing to special circumstances to be entered upon the record of the inquest, it is expedient for the inquest to be continued by another coroner , he shall, after viewing the body (if such view is necessary in accordance with section 15 (1) and making such entry upon the record as is required to be made under section 15 (4), refer the record to such other coroner; and such other coroner shall thereupon, subject to any directions in that behalf which may be given by the High Court and which the High Court is hereby empowered to give, continue the inquest and conclude the same in accordance with this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part I",
+      "section": "8",
+      "title": "Inquest where body destroyed or irrecoverable",
+      "content": "When a coroner has reason to believe that a death has occurred in the area within which he has jurisdiction in such circumstances that an inquest ought to be held, and that owing to the destruction of the body by fire or otherwise or to the fact that the body is lying in a place from which it cannot be recovered, an inquest cannot be held except by virtue of this section, he may, if he considers it desirable so to do, hold an inquest touching the death, and the law relating to inquests shall apply with such modifications as may be necessary in consequence of the inquest being held otherwise than on or after view of a body lying within the coroner ’s jurisdiction."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part I",
+      "section": "9",
+      "title": "Coroner may prohibit burial or cremation till after inquest",
+      "content": "A coroner may prohibit the burial or cremation of any body lying within his jurisdiction until an inquest shall have been held."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part I",
+      "section": "10",
+      "title": "Notice of death",
+      "content": "When any body is found or a person has died in such circumstances as to make the holding of an inquest under this Act necessary or desirable, it shall be the duty of any person finding the body or becoming aware of the death forthwith to inform the nearest Chief, officer in charge of a police station or administrative officer, and upon receiving any such information such Chief, police officer or administrative officer, shall notify the coroner having jurisdiction to hold an inquest. Any person who fails without good cause to inform the Chief, police officer or administrative officer, as required by this section, shall be liable to a fine of £25 and to imprisonment for three months: Provided that in the event of the occurrence of any death referred to in section 6 , the person having the custody or care of the deceased at the time of his death shall, in Form B in the First Schedule (with such modifications therein as may be necessary), notify the coroner having jurisdiction to hold an inquest directly."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part I",
+      "section": "11",
+      "title": "Duty of police officer or Chief",
+      "content": "(1) On information being given to a Chief, officer in charge of a police station or administrative officer in pursuance of section 10 , such Chief or officer or a person delegated by him (hereinafter referred to as “the Authority”) shall proceed to the place where the body of the deceased person is lying and shall make a full investigation into the circumstances, surrounding the death of the deceased and the probable cause thereof, and may arrest any person reasonably suspected of having caused the death. (2) The Authority shall without delay cause notice of the death in Form B in the First Schedule (or a translation thereof in Chichewa or such other written language as the Authority understands) to be sent to a coroner having jurisdiction to hold an inquest, stating any particulars concerning the cause of death disclosed by the investigation and giving an opinion as to whether or not the death is due to any unlawful act or omission. (3) In any case where the death is believed by the Authority not to be due to any unlawful act or omission, such Authority shall, if the dead body is not already buried, view the body and authorize its interment, but in all other cases the Authority shall cause the body to be taken to the nearest hospital or other place appointed for the reception of dead bodies unless the Authority certifies to the coroner that the requirements of this subsection cannot reasonably be complied with, having regard to the condition of the body, the weather and the distance to be travelled."
+    },
+    {
+      "provision_ref": "s11A",
+      "chapter": "Part I",
+      "section": "11A",
+      "title": "Coroner may call for statement recorded by police",
+      "content": "(1) Where a death has occurred in such circumstances that an inquest is required or ought to be held under the provisions of this Act, the coroner having jurisdiction may direct any police officer having charge of or concerned in an investigation into the death to produce to the coroner , prior to the holding of the inquest, any statement made to, and recorded in writing by, such police officer by any person having knowledge of the circumstances, the cause of the death or the identity of the deceased, as the case may be, and the coroner may postpone the holding of the inquest for such time as may be necessary to enable him to obtain and peruse any such statement. (2) The coroner to whom a statement is produced under subsection (1) shall, before holding the inquest, return the statement to the police officer by whom it is so produced and may, at the same time, notify him of the name of any person whose attendance at the inquest will not be required unless otherwise ordered: Provided that nothing in this section shall be construed as to prohibit the attendance at the inquest of any such person if he desires to attend. [51 of 1971] Part II – Post-mortem examination"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Coroner may direct post-mortem examinations",
+      "content": "(1) If any coroner considers it necessary, with a view to investigating the circumstances of the death of any person, to obtain a medical report on the appearance of the body of such person, and as to the conclusions to be drawn therefrom, he may, by written order in Form C in the First Schedule, require any Government medical officer or, in the absence of such officer, any other medical practitioner within his jurisdiction to make an examination of the body and to report thereon. (2) In any case of emergency where it would be impracticable to secure a coroner ’s order, any police officer in charge of a police station may exercise the authority conferred on a coroner under subsection (1)."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Medical practitioner to make an examination and report",
+      "content": "Every medical practitioner upon the receipt of such order shall, unless he procures the services of some other medical practitioner to perform the duty, immediately make an examination of the body, with a view to determining therefrom the cause of death, and to ascertaining the circumstances connected therewith, and shall make a report in writing to the coroner describing the appearance of the body, and the conclusions which he draws therefrom touching the death of such person. The examination shall extend, when the medical practitioner considers it necessary but not otherwise, to such dissection of the body as he may think requisite. The report shall be in Form D in the First Schedule, and shall state the cause of death, and shall be signed and dated by the medical practitioner . Such report on being read at the inquest by the coroner shall be prima facie evidence of the facts therein stated without further proof, unless it is proved that the medical practitioner purporting to sign the report did not in fact sign it. Part III – Procedure at Inquest"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Inquiries to be made by coroner",
+      "content": "At every inquest the coroner shall take on oath all such evidence as is procurable as to the identity of the deceased, and the time, place and manner of his death."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Provisions regarding the viewing of body",
+      "content": "(1) At or before the first sitting of an inquest on a body, the coroner shall view the body or shall satisfy himself that the body has been viewed by a police officer, medical practitioner or Chief: Provided that, when an inquest on the body has been previously opened, it shall not be necessary upon a resumed, continued, or subsequent inquest for the body to be viewed a second time. (2) An order authorizing the burial of a body upon which it has been decided to hold an inquest may be issued at any time after the body has been viewed. (3) If the body has been buried and has not been viewed in the manner provided in subsection (1), the coroner shall order the exhumation of the body for the purpose of a view in the manner provided by section 5 unless he certifies that in his opinion such exhumation would be injurious to the public health or that no satisfactory result would be obtained thereby. (4) In any case in which the coroner himself has viewed the body he shall certify the fact upon the record of the inquest, and in other cases he shall record evidence (if any) of the view of the body by a police officer, medical practitioner or Chief."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Coroner may summon witnesses",
+      "content": "(1) A coroner holding an inquest shall have and may exercise all the powers of a court with regard to summoning and compelling the attendance of witnesses and requiring them to give evidence, and with regard to the production of any document or thing at such inquest. (2) Every summons and warrant of arrest and summons to produce shall be in writing signed by the coroner , and shall bear the seal of his court. (3) Where the inquest concerns the death of a person executed in pursuance of a death warrant the medical practitioner who was present at the execution shall be an essential witness at such inquest. (4) The Criminal Procedure and Evidence Code shall, as far as may be, apply to summonses, warrants and summonses to produce issued by a coroner . [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Coroner not bound by rules of evidence",
+      "content": "A coroner holding an inquest shall not be bound by any rules of evidence which may pertain to civil or criminal proceedings, but any witness who objects to answer any question on the ground that it will tend to incriminate him shall not be required to answer the question nor be liable to any penalty for refusing so to answer."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Evidence how recorded",
+      "content": "The evidence of every witness shall be taken down and recorded in the form of a deposition in the manner prescribed for preliminary inquiries under Part VIII of the Criminal Procedure and Evidence Code. [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s18A",
+      "chapter": "Part III",
+      "section": "18A",
+      "title": "Statements recorded by police may be evidence in inquest",
+      "content": "Where, upon hearing the evidence of a police officer having charge of or concerned in an investigation into the death of the deceased person, the coroner is satisfied that there are no grounds for making a charge against any person in connexon with the death, the coroner may, notwithstanding the provisions of section 18 , admit as evidence a statement made to, and recorded in writing by, a police officer by any person relating to the death or the identity of the deceased, and any such statement admitted as aforesaid shall be evidence in the inquest and shall form part of the record. [51 of 1971]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Power to take evidence of witnesses unable to attend",
+      "content": "(1) Where any person within the coroner ’s jurisdiction who is able to give material evidence in respect of any inquest is, owing to illness or other cause which appears satisfactory to the coroner , unable to attend at the place where the coroner usually sits, it shall be lawful for the coroner to take the deposition of such person in the place where such person is. (2) The provisions of the Criminal Procedure and Evidence Code, which provide for the examination of witnesses on commission, shall, mutatis mutandis , apply for the purpose of inquests held under this Act. [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Inquest on Sunday, etc., or in private",
+      "content": "(1) A coroner may lawfully hold inquests on any Sunday or public holiday. (2) If the coroner thinks it expedient in the interests of justice that any inquest should be held in private, he shall hold the same in private. (3) Whenever an inquest is held in private, the coroner shall record his reasons for so holding it."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Adjournment of inquest",
+      "content": "A coroner holding an inquest in any place may adjourn the inquest to another day and may order the adjourned inquest to be held in the same or any other place."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Staying of inquest and its resumption",
+      "content": "(1) If, in the course of an inquest the coroner is of opinion that sufficient grounds have been disclosed for instituting criminal proceedings in connexon with the death against any person already in custody or whose arrest is contemplated, the coroner shall stay the inquest until the trial of the person to be charged is concluded or he is discharged by a subordinate court under section 54 or section 270 of the Criminal Procedure and Evidence Code or it appears improbable that such person will be found. [Cap. 8:01] (2) Where an inquest is stayed in pursuance of subsection (1), the coroner may resume and conclude the inquest after the conclusion of the criminal proceedings if he is of opinion that public benefit is likely to result from his so doing; but, if he is of opinion that no public benefit is likely to result from his so doing, he shall certify his opinion to that effect and transmit to the Director of Public Prosecutions a copy of the inquest proceedings: Provided that, if in the course of the criminal proceedings any person has been charged, then upon the resumed inquest no inquisition shall charge that person with an offence of which he could have been convicted on such information or contain any finding which is inconsistent with the determination of any matter by the result of those proceedings. [25 of 1968] (3) Notwithstanding subsection (2), where an inquest is stayed in pursuance of subsection (1), and it is ascertained that the person to be charged cannot be found, the coroner shall resume and conclude the inquest. (4) For the purpose of this section, the expression “the criminal proceedings” means the proceedings before a subordinate court and before any court to which the accused person is committed for trial or before which an appeal from the conviction of that person is heard, and criminal proceedings shall not be deemed to be concluded until no further appeal can, without an extension of time being granted by any court to which an appeal lies, be made in the course thereof."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Issue of summons or warrant",
+      "content": "If, during the course or at the close of any inquest, the coroner is of opinion that sufficient grounds are disclosed for making a charge against any person in connexion with the death, he may issue a summons or warrant to secure the attendance of such person before any subordinate court having jurisdiction, and may bind over any witness who has been examined by or before him on a recognizance with or without surety to appear and give evidence before such court."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "The inquisition",
+      "content": "After the view (if any) of the body and hearing the evidence, the coroner holding the inquest shall give his verdict and certify it by an inquisition in writing in Form E in the First Schedule, showing, so far as such particulars have been proved to him, who the deceased was, and how, when and where the deceased came by his death: Provided that, where the inquest concerns the death of a person executed in pursuance of a death warrant the verdict and inquisition shall include a finding as to whether the death was instantaneous and the person executed was the person mentioned in such warrant."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Where guilty party unknown",
+      "content": "If, at the close of any inquest, the coroner is of opinion that there is ground for suspecting that some person is guilty of an offence in respect of the matter inquired into, but cannot ascertain who such person is, he shall certify his opinion to that effect and transmit a copy of the proceedings to the Commissioner of Police."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Where guilty party cannot be found",
+      "content": "Where the proceedings upon any inquest have been transmitted to the Commissioner of Police under section 25 and the guilty person remains undiscovered, and if, in the opinion of the Commissioner of Police, there is no probability that such person will be discovered, he shall certify his opinion to that effect and transmit the copy of the proceedings to the Director of Public Prosecutions."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Return of inquisitions",
+      "content": "(1) Every inquisition, including the depositions and the recognizances of the witnesses, if any, shall be transmitted by the coroner , with all convenient dispatch, to the Director of Public Prosecutions, who, after perusal thereof shall forward the same as soon as practicable to the Registrar of the High Court, who shall take charge thereof and preserve the same in safe custody [5 of 1971] (2) When a coroner forwards an inquisition to the Director of Public Prosecutions under this section, he shall forward a copy of the inquisition to the person who, under section 19 of the Births and Deaths Registration Act, is Registration Officer for the District, or the specified part of the District, where the death occurred. Such Officer shall treat such copy as if it were a death report delivered to him under section 19 of that Act. Where under section 28 of this Act the verdict in an inquest is quashed, or another verdict is substituted for the one recorded, the Registrar of the High Court shall forthwith inform the Registrar General of such quashing or substitution and the Registrar General may correct any entry made by him in respect thereof. [Cap. 24:01]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Powers of High Court",
+      "content": "(1) Where the High Court, upon request made by or under the authority of the Director of Public Prosecutions, is satisfied that it is necessary or desirable so to do, it may— (a) order an inquest to be held touching the death of any person; (b) direct any inquest to be reopened for the taking of further evidence, or for the inclusion in the proceedings thereof and consideration with the evidence, already taken, of any evidence taken in any judicial proceeding which may be relevant to any issue determinable at such inquest, and the recording of a fresh verdict upon the proceedings as a whole; (c) quash the verdict in any inquest substituting therefor some other verdict which appears to be lawful and in accordance with the evidence recorded or included as hereinbefore in this section provided; or (d) quash any inquest, with or without ordering a new inquest to be held. (2) This section shall apply to all inquests and the verdicts therein. (3) For the purpose of this section the expression “judicial proceeding” means a proceeding before any court, tribunal or person having by law power to hear, receive and examine evidence on oath. (4) a request may be made under subsection (1) in such form as the Director of Public Prosecutions deems appropriate and may be considered by a Judge sitting in Chambers who may thereupon take such action authorized by subsection (1) as he deems proper without the attendance of any person or may adjourn the matter for determination in open court and give such direction regarding the attendance of any person in court in relation to the matter as he may deem appropriate. Part IV – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Penalty where body is buried without authority",
+      "content": "(1) Any person who without lawful authority or excuse interns, or cremates any body, the burial or cremation of which has been prohibited under section 9 , or the body of any person who has died in any of the circumstances mentioned in section 4 , or who removes or causes to be removed any body which he has found from the place in which it was lying when he found it, shall be liable to a fine of K50 and to imprisonment for three months. (2) Where any person is charged with having committed an offence under this section the onus of proving that he has lawful authority or excuse shall be on the person charged."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Obstructing medical officer, etc.",
+      "content": "Any person who obstructs a medical practitioner , police officer or Chief in the execution of any duty imposed upon him by this Act, shall be liable to a fine of K50 and to imprisonment for three months."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Power to make rules",
+      "content": "(1) The Minister may make Rules prescribing the scale of fees to be paid by the Accountant General to medical practitioners for an examination, autopsy or other service required of them under this Act. (2) The Rules in the Second Schedule shall be deemed to have been made under the power herein conferred."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Forms first schedule",
+      "content": "The forms set out in the First Schedule shall be used for the several matters to which they relate with such variations as circumstances may require. The Minister may from time to time by order published in the Gazette amend, revoke, or add to the said Schedule. First Schedule (Section 32) Form A – Order for exhumation (Section 5) The Inquests Act __________________ District To __________________________________________ Whereas it appears that ____________________________ has died in circumstances requiring the holding of an inquest upon his body and that the body of the said ________ has been buried at ________________________ without such inquest being held (or without the said body being viewed) (or that the inquest held at ________________ on the ____ day of ____ 19 ______, was insufficient): These are to charge and command you that you forthwith cause the said body to be taken up (and viewed) (or, and safely conveyed to ______________ in the above-named District) that I may proceed to inquire into the cause of the death of the said ____________________ (or as the case may be). Herein fail not. Given under my hand at ____________ this ____ day of ______ 19 ______ ____________ Coroner Form B – Death report to coroner (Sections 10 and 11(2)) The Inquests Act Particulars of deceased, etc. 1. Name, sex and approximate age of deceased ________________ 2. Nationality or Tribe ________________ 3. Occupation ________________. 4. Date, hour and place of death ________________________ 5. Supposed cause of death __________________________ 6. Person who found body or gave first information of death ______________________________________ 7. Date and hour first information received by police or Chief ____________________________________ 8. Circumstances of death and names of persons who can give information thereof ________________ 9. Name of police officer or Chief making first investigation ______________________________ 10. Date and time of investigation ______________________________ 11. Describe where and how body found ______________________________ 12. Marks of violence (if any) ____________________________ 13. Circumstances of suspicion (if any) __________________________ 14. Date and hour when report sent to coroner ____________________ Having made full inquiries I have the honour to report that— (i) there are no suspicious circumstances surrounding the death nor are there any marks of violence on the body. (ii) in my opinion an inquest ought to / need not * ________________ be held; * Strike out the statements of fact which are not applicable. (iii) the body has been viewed by me and buried at __________________ I am satisfied that the body viewed by me was the body of ____________________________ (iv) the body has been sent by me to ________________________________ (v) the following persons have been arrested (or are about to be arrested) in connexion with the death on the charges stated hereunder— Station ________________________________ Police Officer/Chief/Administrative Officer I order that an inquest be opened at __________________________ on the __________ day of __ 19 ______. (or) I do not consider that an inquest is necessary or desirable. Date ____________________ __________________________ Coroner Form C – Order for post-mortem examination (Section 12) The Inquests Act To ______________________________ Dr ______________________________ Whereas I am credibly informed that one ____________________ has died in circumstances which may require the holding of an inquest under the Inquests Act, you are hereby authorized and required to make a post-mortem examination of the body of the said whichwill be delivered to you by and to make a report to me thereon: Given under my hand at this ____ day of ________________ 19 ____ ________________________ Coroner Form D – Report of post-mortem examination (Section 13) The Inquests Act To the ______________________________ I Hereby Certify that, at (1) ____________ on the day of ________, 19 __________, commencing at the hour of ____________ I examined the body of (2) __________ (3) __________ (4) __________ (1) Place. (2) Sex. (3) Race (European, African, Asiatic or mixed). (4) Infant, child or adult. That the body was identified by ______________ of ______________ as being that of (5) ____________________ (5) Name of deceased. That as the result of my observations, a schedule of which is appended, I have formed the opinion that the death occurred (6) ______________________ prior to my examination, and that it was due to (6) Approximate time in hours, days etc. (7) ________________________________________________________________________________________________ (7) Give cause or causes of death as evidenced solely by objective appearances. If more than one cause state primary first. If the cause of death has not been found the fact must be recorded. (8) Remarks ______________________________________________________________________________________ (8) These should always include a brief statement by the officer in charge of the case (who should attend the postmortem) of the circumstances in which death is reported to have taken place. Appearances which raise a presumption of criminality or of culpable neglect should also be briefly referred to here. See also Note (H) Dated at ____________ this ______ day of ______ 19 ______ Signature __________________________ Qualifications ______________________ Designation ________________________ Schedule of observations (See Note (A)) External appearances (9) ____________________________________________________________________________________________________________________________________ (9) Note position and attitude of body; state of pupils; condition as to nutrition; bodily warmth, and rigidity; presence of p.m. lividity and signs of putrefaction; presence of bruises, wounds, bums, fractures or other injuries; positions, form, direction and dimensions of injuries; condition of external apertures of body and presence of injury to or foreign bodies in same. See also Note (B) and (H). Age of deceased: Apparent ______________________ Reputed ________________________________ Skull and its contents (10) ________________________________________ (10) In addition to contents of cranium those of orbits, nasal cavities, etc., may be noted here. Mouth, Pharynx and Oesophagus __________________________ Pericardium Pericardial Sac, and Heart (11) ________________________ (11) In case of suspected irritant metal poisoning, the endocardium lining the left ventricle should be carefully examined and the presence or absence of petechial or arger haemorrhages noted. Large Blood - vessels (12) ________________________________ (12) Indications of disease in aorta, thrombosis or suppuration in large veins, etc., maybe noted here. Larynx, Trachea and Bronchi ____________________________ Pleurae, Pleural Sacs and Lungs: __________________________ Right ________________________________________ Left __________________________________________ Thymus, Thyroid and Lymphatic Glands (13) ________________________ (13) Special attention should be paid to these organs in cases of sudden death not explained by other changes. Peritoneum and Peritoneal Sac (14) __________________________ (14) Special attention should be paid, in the female, to the pouch of Douglas. Spleen ____________________________________ Stomach (15) and Omenta ______________________________ (15) The entire stomach should be ligatured off at both ends, removed from the body, planed in a clean dish, opened along its lesser curvature and a careful note made of its contents and the appearance of its inner surfaces. Where poisoning is suspected the stomach and its contents should then be transferred to one of the two small special jars provided by the laboratories for this purpose. In such cases both kidneys and the whole liver should also be removed and placed together in the large jar. See also Note (C). Intestines (16) and Mesentery ______________________________ (16) Where poisoning is suspected the intestines should, after removal of the stomach, be removed, slit open, washed out and the appearance of the mucous membrane, especially that of the rectum, then carefully examined and noted. The presence or absence of solid faeces in the lower bowel should also be noted before the intestines are washed out. It is very rarely necessary to forward the intestines to the laboratory. Vermiform Appendix ____________________________________ Liver (17) , Gall Bladder and Bile Ducts __________________________ (17) See note (15) above Kidneys (18) , Ureters and Suprarenal Glands: __________________ (18) See note (15) above Right ________________________________________ Left __________________________________________ Urinary Bladder (19) and Urethra ________________________________ (19) In all cases of suspected poisoning any urine which the bladder may contain should be preserved. In other cases, unless putrefaction be advanced, an examination of a sample of the urine may throw light on the cause of death. Pancreas ________________________________________ Generative Organs (20) ____________________________________ (20) In females, where abortion is suspected, after a thorough vaginal examination, the pelvic organs should be removed from the body in a mass, after ligaturing of the intestines, and the various organs dissected out one by one. To do this it is advisable to saw through the symphisis, separate the pelvic bones and remove all the tissues from the pelvis by cutting close to bones. NB.—The condition of the uterus and appendages, the presence or absence of products of conception, signs of recent delivery, etc., should always be noted. Spinal Column and Spinal Cord (21) ______________________________ (21) The spinal cord need only be exposed when positive information may be expected from its examination. Fractured-dislocation, especially in the upper cervical region, should always be examined for by manipulation; if detected, it should be investigated by dissection. Additional Observations Organs, Parts or Material reserved for further investigation, and how disposed of ________________________________________ Notes (A) The scheme, as given here, for the examination of a body is devised to meet the maximum requirements of any case. Although the following out of this scheme in every detail may be but rarely necessary, yet the examination of the body and its organs should be, in all cases, as exhaustive as the circumstances warrant and the occasion permits. A Medical Officer may be called upon to give considerably more information — arising from his examination of the body — than the mere cause of death. In the event of the death forming the subject of court proceedings, any omission to examine a particular part of an organ may, by providing cause for uncertainly, seriously prejudice the course of justice: the responsibility for such omission must He with the Medical Officer who conducted the autopsy. All the cavities of the body, as a rule, should be opened, even though an apparently sufficient CAUSE OF DEATH may have been found in the region first examined. When there is definite suspicion as to the cause of death, that cavity is to be opened first in which the principal changes are supposed to exist. In the case of a new - born child, when it has to be determined whether the child has breathed or not, the trachea should first be ligatured above the sternum, the abdomen opened and the position of the diaphragm ascertained, and the thorax then opened and its organs removed — after dividing the trachea above the ligature. In all other cases the head should be opened first, the thorax, and lastly the abdomen. (B) If the body be that of an unknown person, the apparent age, the height, colour of eyes and hair, number and condition of teeth, deformities, scars and tattoo marks should be noted as aids to subsequent identification. (C) When the viscera are being kept"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "coroner",
+      "definition": "any person empowered to hold inquests under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "any person registered or licensed as a medical practitioner under the Medical Practitioners and Dentists Registration Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer in charge of a police station",
+      "definition": "assigned thereto in section 2 of the Criminal Procedure and Evidence Code. [Cap. 8:01]",
+      "source_provision": "s2"
+    }
+  ]
+}

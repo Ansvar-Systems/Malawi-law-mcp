@@ -1,0 +1,387 @@
+{
+  "id": "mw-act-2002-13",
+  "type": "statute",
+  "title": "Biosafety Act",
+  "title_en": "Biosafety Act",
+  "short_name": "Biosafety Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2002/13/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part 1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Biosafety Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part 1",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ accident ” means any incident involving an unintended general release of biotechnological products which could have an immediate or delayed adverse impact on the environment ; “ appeals committee ” means an appeals committee appointed under section 35 ; “ biotechnology ” means any technique that uses living organisms or parts of organisms to— (a) make or modify products; (b) improve plants or animals: or (c) develop micro-organisms for specific purposes; “ contained use ” means any activity in which organisms are genetically modified or in which genetically modified organisms are cultured, stored, used, transported, destroyed or disposed of and for which physical barriers or a combination of physical, chemical or biological barriers are used to limit contact thereof with the environment ; “ environment ” means the aggregate of surrounding objects, conditions and influences that affect the life and habits of man or any other organisms or collection of organisms; “ Fund ” means the Biosafety Fund established under section 7 ; “ general release ” means the introduction of genetically modified organisms into the environment , by whatever means, where the organisms are no longer under the control of any person; “ gene therapy ” means a technique for delivering functional genes to replace aberrant ones into living cells by means of a genetically modified vector or by physical means in order to genetically alter the living cell; “ genetically modified organism ” means an organism whose genes or genetic material has been modified in a way that does not occur naturally through mating or natural recombination; “ hazard ” means an intrinsic biological chemical or physical characteristic of genetically modified organisms or products thereof which could lead to an adverse impact on the environment ; “ inspector ” means a person appointed as an inspector under section 30 ; “ organism ” means any biological entity, whether microscopic or not, capable of replication; “ permit ” means a permit issued under section 18 ; “ risk ” means the combination of the magnitude of the consequences of a hazard , if it occurs, and the likelihood that the consequences will occur; “ trial release ” means the deliberate release of genetically modified organisms into the environment under conditions where the degree of dissemination of the genetically organisms is limited by chemical or physical barriers or by built-in barriers which prevent the survival of such organisms in the environment ; “ waste ” means any matter, whether gaseous, liquid, solid or any combination thereof, which is an undesirable or superfluous by­-product, emission, resolve or remainder of any process or activity in connexion with genetically modified organisms."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part 1",
+      "section": "3",
+      "title": "Application",
+      "content": "This Act shall apply to— (a) the genetic modification of organisms; (b) the importation, development, production, testing, release, use and application of genetically modified organisms; and (c) the use of gene therapy in animals, including human beings. Part II – Administration"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Administration of the Act",
+      "content": "This Act shall be administered by the Minister responsible for environmental affairs, and such other officers subordinate to him as may be appointed under this Part, whose offices shall be public offices."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Appointment of other officers",
+      "content": "In addition to the Minister, there shall be appointed in the public service such other officers subordinate to the Minister, as may be required for the proper performance of his functions."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Functions of the Minister",
+      "content": "The Minister shall— (a) formulate and review guidelines on biosafety; (b) establish contact and maintain liaison with appropriate bodies involved in biosafety; (c) promote awareness of biosafety issues; (d) maintain an inventory of all premises and persons involved in biotechnology ; (e) approve safety aspects of import, export, manufacture, processing and selling of genetically modified organisms and products thereof; (f) conduct an inquiry, including a public inquiry, into any matter requiring an investigation under this Act; (g) collect or arrange for the collection of information relating to accidents involving biotechnological matter; (h) collect and disseminate information on safety procedures; (i) advise generally on all biosafety activities including— (i) the application of biotechnology ; (ii) the biosafety manpower requirements of Malawi; (iii) biosafety research and technology; (iv) biosafety education, not only at advanced level in respect of quality and quantity of potential manpower training, but also at lower levels in respect of general science education for the public; and (v) biosafety documentation, statistics, surveys and general information; (j) carry out independently or in collaboration with any appropriate person, body of persons, agency or institution such surveys and investigations as he may consider necessary; (k) sponsor such national and international biosafety conferences as he may consider appropriate; (l) act as a channel for liaison with the outside world for the routing of information and resources of aid to assist the country’s research efforts; and (m) promote and ensure the maximum coordination of and cooperation in all biosafety activities in order to benefit from the concentration of efforts and to minimize undesired duplications in order to achieve maximum efficiency from, and throughout, the entire socio-economic system. Part III – Biosafety Fund"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Establishment of the Biosafety Fund",
+      "content": "(1) There is hereby established a fund to be known as the Biosafety Fund (in this Act otherwise referred to as the “ Fund ”). (2) The Fund shall consist of— (a) such sums as shall be appropriated by Parliament for the purposes of the Fund ; (b) all fees payable under this Act; (c) the levy imposed under section 8 ; (d) such sums or other assets as may be received for the purpose of the Fund by way of voluntary contributions or donations; and (e) such sums as are paid by way of penalties or costs in respect of offences under this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Levy",
+      "content": "The Minister may, from time to time, by order published in the Gazette , impose a levy on gross or net income accruing to any person or class of persons licensed under this Act and such levy shall be applied for the objects of the Fund as the Minister may specify in the order."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Vesting of the Fund in the Minister",
+      "content": "The Fund shall be vested in the Minister and, subject to this Act and the Finance and Audit Act, shall be administered in accordance with his directions. [Cap. 37:01]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Advances to the Fund",
+      "content": "If in any financial year the income of the Fund , together with any surplus income brought forward from a previous year, is insufficient to meet the actual or estimated liabilities of the Fund , the Minister responsible for finance may make advances to the Fund in order to meet the deficiency or any part thereof and such advances shall be made on such terms and conditions, whether as to repayment or otherwise as the Minister responsible for finance may determine."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Objects of the Fund",
+      "content": "The objects for which the Fund is established shall be the safe management of biotechnological activities."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Application of the Fund",
+      "content": "Without derogation from the generality of section 11 , the Fund may be applied to— (a) research and training which is calculated to promote the safe management of biotechnological activities; (b) the acquisition of land, equipment, materials and other assets and the construction of buildings in order to promote the objects of the Fund ; (c) the cost of any scheme which the Minister considers to be in the interest of the safe management of biotechnological activities; (d) meeting any expenses arising from the establishment and maintenance of the Fund ; and (e) any purpose which the Minister considers to be in the interest of the objects of the Fund ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Books and other records of accounts, audit and reports of the Fund",
+      "content": "(1) The Minister shall cause to be kept proper books and other records of account in respect of receipts and expenditures of the Fund in accordance with the Finance and Audit Act. (2) The accounts of the Fund shall be audited by the Auditor General who shall have powers conferred upon him by the Finance and Audit Act. [Cap. 37:01] (3) The Minister shall cause to be prepared, as soon as practicable, but not later than six months after the end of the financial year an annual report on all the financial transactions of the Fund . [Cap. 37:01]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Holdings of the Fund",
+      "content": "(1) All sums received for the purposes of the Fund shall be paid into a bank account and no amount shall be withdrawn therefrom except by means of cheques signed by such persons as are authorized in that behalf by the Minister (2) Any part of the Fund not immediately required for the purposes of the Fund may be invested in such manner as the Minister responsible for finance, may determine."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Financial year",
+      "content": "The financial year of the Fund shall be the period of twelve months commencing on 1st July in one year and ending on the 30th June of the following year: Provided that the first financial year of the Fund may be a period shorter or longer than twelve months as the Minister shall determine, but in any case not longer than eighteen months. Part IV – Licences and permits"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Licensing authority",
+      "content": "The Minister shall be the licensing authority responsible for the granting, renewal, variation, suspension and revocation of licences under this Act."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "GMO licence",
+      "content": "Subject to the provisions of this Act and except in accordance with a licence granted under this section (hereinafter referred to as a “GMO licence”), no person shall engage in— (a) the genetic modification of organisms; (b) the importation, development, production, testing, release, use and application of genetically modified organisms; and (c) the use of gene therapy in animals, including human beings."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Special arrangements",
+      "content": "(1) The Minister may grant a permit to an applicant authorizing him to engage in activities mentioned in section 17 for— (a) scientific research or experimental purposes; or (b) emergency supply of food for human beings. (2) An application for permit under subsection (1) shall be made in the prescribed form and shall be accompanied by the prescribed fees. (3) A permit issued under subsection (1) may exempt the holder thereof from any or all provisions of this Act. (4) The Minister may, by notice in writing given to the holder of a permit under subsection (1)— (a) revoke the permit ; or (b) vary or revoke the conditions to which the permit is subject or specify further conditions."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Other classes of licences",
+      "content": "(1) Subject to the provisions of this Act and except in accordance with a licence granted under this section (hereinafter referred to as a “product licence”), no person shall, in the course of business earned on by him— (a) sell, supply, export or import genetically modified organisms or products thereof; (b) procure for sale, supply or exportation of genetically modified organisms or products thereof; and (c) procure the manufacture of genetically modified organisms or products thereof for sale, supply or export. (2) No person shall in the course of any business carried on by him, manufacture genetically modified organisms or products thereof except in accordance with a licence granted for that purpose (hereinafter referred to as a “manufacturer’s licence”). (3) No person shall, in the course of any business carried on by him, sell or supply genetically modified organisms or products thereof by way of wholesale dealing except in accordance with a licence granted for that purpose (hereinafter referred to as a “wholesale dealer’s licence”). (4) No person other than a person lawfully carrying on a retail pharmacy business shall sell or supply genetically modified organisms or products thereof by way of dispensing except in accordance with a licence granted for that purpose (hereinafter referred to as a “dispensing licence”)."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Exemptions",
+      "content": "The provisions of section 19 shall not apply to the importation of genetically modified organisms or products thereof in such circumstances as may be specified by the Minister in a notice published in the Gazette ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Application for a licence",
+      "content": "(1) Any application for a licence under this Act shall be made in the prescribed form. (2) Any application referred to in subsection (1) shall contain a description of products to which the licence will relate."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Matters to be considered, before issuing a licence",
+      "content": "Where an application is made for a licence under this Act the Minister shall, before issuing the licence to which the application relates, consider the following— (a) the safety of genetically modified organisms or products thereof of each description to which the application relates; (b) the efficacy of genetically modified organisms or products thereof of each such description for the purposes for which the organisms or products are proposed to be administered; (c) the quality of products of each description, according to the specification and the method or proposed method of manufacture of genetically modified organisms or products thereof, and the organisms or products when sold or supplied will be of that quality; (d) the operations and procedures proposed to be carried out pursuant to the licence; (e) the premises in which operations and procedures are to be carried out; (f) the equipment which is or will be available on the premises for carrying out operations and procedures; (g) the qualifications of the person under whose supervision operations and procedures will be carried out; (h) the arrangements made or to be made for securing the safekeeping of, and the maintenance of adequate records in respect of, genetically modified organisms or products thereof manufactured or assembled in pursuance of the licence; (i) the premises on which genetically modified organisms or products thereof of the description to which the application relates will be stored; (j) the equipment which is or will be available for storing products on those premises; (k) the equipment and facilities which are or will be available or distributing genetically modified organisms or products thereof from those premises; and (l) the arrangement made or to be made for securing the safekeeping of, and the maintenance of adequate records in respect of genetically modified organisms or products thereof stored on or distributed from those premises."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Issue of licences",
+      "content": "(1) If the Minister is satisfied that the applicant is a fit and proper person to engage in activities set out in section 17 or to carry on any business set out in section 19 , the Minister may issue to the applicant the licence appropriate to such business subject to such general or special conditions as the Minister may consider appropriate to impose. (2) A licence issued under subsection (1) shall be in such form, and shall be for such duration, as may be prescribed. (3) Where the Minister considers that the applicant is not fit and proper person to whom a licence should be issued, he shall refuse to issue a licence."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Suspension, and revocation of a licence",
+      "content": "(1) Subject to this Part, the Minister may— (a) suspend licence for such period as he may determine; (b) revoke the licence; or (c) vary the provisions of the licence. (2) The suspension or revocation or a licence under this section may be limited to biotechnological products of one or more descriptions, or to any particular premises or to a particular part of any premises."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Variation of a licence",
+      "content": "Subject to section 21 , the Minister may on the application of holder of a licence under this Part vary the provisions of the licence in accordance with any proposals contained in the application, if the Minister is satisfied that the variation will not adversely affect the safety, quality or efficacy of genetically modified organisms or products thereof. Part V – Containers, packages and identification of genetically modified organisms or products thereof"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Labelling",
+      "content": "(1) No person shall, in the course of a business carried on by him, sell or supply or have in his possession for the purpose of selling or supplying genetically modified organisms or products thereof in a container or package which is not labelled in accordance with regulations made under section 41 . (2) Without prejudice to subsection (1), no person shall, in the course of a business carried on by him, sell or supply, genetically modified organisms or products thereof of any description in a container or package which is labelled or marked in such a way that the container or package— (a) falsely describes the genetically modified organisms or product; or (b) is likely to be misleading as to the nature, efficacy or quality of genetically modified organism or product or as to the uses or effects of genetically modified organisms or product of that description. (3) Any person who contravenes this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Leaflets",
+      "content": "(1) No person shall, in the course of a business carried on by him, supply or have in his possession for the purpose of supplying together with genetically modified organisms or products thereof a leaflet relating to such organisms or products which does not comply with regulations made under section 41 . (2) Without prejudice to subsection (1), no person shall, in the course of a business carried on by him, supply together with genetically modified organisms or products thereof or have in his possession for the purpose of so supplying a leaflet which— (a) falsely describes genetically modified organisms or products thereof to which it relates; or (b) is likely to be misleading as to the nature, efficacy or quality of such genetically modified organisms or products thereof. (3) Any person who contravenes this section shall be guilty of an offence. Part VI – Promotion of sales of genetically modified organisms or products thereof"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Regulations on advertisement",
+      "content": "The Minister may make regulations which may prohibit issue of advertisements— (a) relating to genetically modified organisms or products thereof of a description or a class specified in the regulations; (b) likely to lead to the use of genetically modified organisms or products thereof or any other substance or article, for the purpose of treating or preventing a disease so specified or of ascertaining the existence, degree or extent of a physiological condition so specified or of permanently or temporarily preventing or otherwise interfering with the normal operation of a physiological function so specified or for the purpose of artificially inducing a condition of body or mind so specified; (c) likely to lead to the use of genetically modified organisms or products thereof of a particular description or class specified in the regulations or the use of any other substance or article of a description or class so specified for any such purpose as is mentioned in paragraph (b); and (d) relating to genetically modified organisms or products thereof and containing a word or phrase specified in the regulations, as being a word or phrase which, in the opinion of the Minister, is likely to mislead the public as to the nature or effects of the organisms or products."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Meaning of advertisement",
+      "content": "(1) In this Part “advertisement” includes every form of advertising, whether in a publication, or by the display of any notice or by means of any catalogue, price list, letter, whether circular or addressed to a particular person, or by exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television. (2) Notwithstanding anything contained in subsection (1), “advertisement” does not include spoken words except— (a) words forming part of a sound recording or embodied in a sound-track associated with a cinematograph film; (b) words broadcast by way of sound broadcasting or television or transmitted to subscribers to a diffusion service; and (c) anything spoken in public. (3) Save as regulations made under section 28 may otherwise provide, the following shall not for purposes of this Part constitute an advertisement— (a) the sale or supply, or offer or exposure for sale or supply of genetically modified organisms or products thereof in a labelled container or package; and (b) the supply, together with genetically modified organisms or products thereof, of leaflet relating solely to the use of the organism or product supplied. Part VII – Inspection"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VII",
+      "section": "30",
+      "title": "Inspection",
+      "content": "(1) The Minister shall, for purposes of ensuring compliance with the provisions of this Act, appoint such number of inspectors as he considers appropriate. (2) Every inspector shall be issued with a certificate of authority and the certificate of authority shall constitute prima facie evidence that the holder thereof is an inspector duly appointed by the Minister under subsection (1). (3) A person shall not be qualified for appointment as an inspector unless he is competent in biotechnology or biosafety. (4) A person appointed under subsection (1) shall hold office subject to such conditions as the Minister may determine. (5) An inspector shall, on demand by any person affected by the exercise of the powers under this Act, produce for inspection, the certificate of authority referred to in subsection (2)."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VII",
+      "section": "31",
+      "title": "Entry into premises",
+      "content": "(1) Subject to the provisions of this section, an inspector may, at any reasonable time and on production of his certificate of authority, enter any premises— (a) for the purpose of ascertaining whether there is or has been on or in connexion with those premises any contravention of this Act, and (b) generally for the purposes of discharging his functions under this Act. (2) An inspector may, at any reasonable time and on production of his certificate of authority— (a) enter any ship, aircraft or any vehicle for the purpose of ascertaining whether there is in the ship, aircraft or vehicle any substance or article imported in contravention of this Act; or (b) enter any ship, aircraft or any vehicle for any purpose for which the inspector is authorized to enter any premises under subsection (1)."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VII",
+      "section": "32",
+      "title": "Mode of inspection",
+      "content": "(1) For the purpose of ascertaining whether there is or has been a contravention of this Act, an inspector may inspect— (a) any substance or article appearing to him to be a genetically modified organism or product thereof; (b) any article appearing to him to be a container or package used or intended to be used to contain any genetically modified organism or product thereof or to be a label or leaflet used or intended to be used in connexion with a genetically modified organism or product thereof; or (c) any plant or equipment appearing to him to be used or intended to be used in connexion with the manufacture of a genetically modified organism or product thereof and the means employed, at any stage of the process of manufacture for testing the materials after they have been subjected to those processes. (2) Where an inspector requires a sample of any substance or article appearing to him to be— (a) a genetically modified organism or product thereof sold or supplied or intended to be sold or supplied; or (b) a substance or article used or intended to be used as an ingredient in the manufacture or development of a genetically modified organism or product thereof, he shall, if he does not obtain the sample by purchase, obtain the sample of that substance or article from the person by whom the product is sold and supplied or intended to be sold, supplied or manufactured. (3) For the purpose of this section, an inspector may— (a) require any person involved in the importation, development, production, use, application, release and distribution of genetically modified organisms or products thereof to produce any books or documents relating to the business which are in his possession or under his control; and (b) take copies of, or of any entry in, any book or document produced in pursuance of paragraph (a). (4) An inspector may seize and detain any substance or article which he has reasonable cause to believe to be a substance or article in relation to which, or by means of which, an offence under this Act is being or has been committed, and any document which he has reasonable cause to believe to be a document which may be required as evidence in proceedings under this Act. (5) In exercising the powers under this section, an inspector may, in order to ensure that the provisions of this Act are observed, require any person who owns the substance or article or has authority over the substance or article which is contained in a container or package or a vending machine, to break open any container or package or open any vending machine or to permit the inspector to do so. (6) Where an inspector seizes any substance or article, including any document pursuant to subsection (4), he shall inform of that fact the person from whom it is seized and, in the case of anything seized from a vending machine, the person whose name and address are stated on the machine as being those of the owner of the machine or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed. (7) An inspector entering any premises, ship, aircraft or vehicle, pursuant to section 31 may take with him such other persons and such equipment as may appear to him to be necessary and, on leaving any such premises, ship, aircraft or vehicle, he shall, if the premises are unoccupied or the occupier, or in the case of a ship, aircraft, vehicle, the master, commander or other person in charge of it is temporarily absent, leave it as effectively secured against trespass as he found it. (8) Any person who— (a) willfully obstructs an inspector in the discharge of his duties; (b) willfully fails to comply with any requirement properly made to him by an inspector ; or (c) without reasonable cause fails to give to the inspector any assistance or information which the inspector may reasonably require of him for the purpose of the performance of his duties under this Act, shall be guilty of an offence. (9) If any person, in giving any such information as is mentioned in subsection (8)(c), makes any statement which he knows to be false or which he does not believe to be true, he shall be guilty of an offence. (10) Nothing in this section shall be construed as requiring a person to answer any question or give any information if to do so might incriminate that person or, where that person is married, the husband or wife of that person."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VII",
+      "section": "33",
+      "title": "Non-disclosure of information",
+      "content": "(1) If any person discloses to any other person— (a) any information with respect to any manufacturing process or trade secret obtained by him in premises which he has entered pursuant to this Act; or (b) any information obtained by him or furnished to him pursuant to this Act, he shall unless the disclosure was made in the performance of his duty and to an authorized person, be guilty of an offence and shall be liable to a fine of K100,000 and to imprisonment for two years."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Inspectors not to be personally liable for acts done by them under this Act",
+      "content": "An inspector shall not be personally liable in respect of any act done by him in good faith in the course of his employment and in the execution or purported execution of any duty under this Act. Part VIII – Appeals"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VIII",
+      "section": "35",
+      "title": "Appeals",
+      "content": "(1) Any person who is aggrieved by— (a) any refusal, suspension, revocation or variation of a licence, permit or certificate issued under this Act, or (b) any decision directly applicable to him taken by the Minister or any person exercising powers under this Act, may within thirty days appeal in writing to the Minister who shall appoint an appeals committee for purpose of hearing the appeal in question."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VIII",
+      "section": "36",
+      "title": "Appeals committee",
+      "content": "(1) An appeals committee shall consist of five persons who, in the opinion of the Minister, have expert knowledge and who are otherwise suitable to determine the issues raised in the appeal. (2) The Minister shall designate one of the members of the appeals committee as chairperson of the committee. (3) A member of the appeals committee shall excuse himself as a member of the appeals committee if he has any direct or indirect interest in the subject matter of the appeal or if for any reason there is likely to be conflict of interest as a result of his participation in the proceedings of the committee. (4) There shall be paid to members of an appeals committee such remuneration or allowances as the Minister may determine."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VIII",
+      "section": "37",
+      "title": "Powers of appeals committee",
+      "content": "(1) An appeals committee shall have, in relation to the hearing of any appeal, the power to— (a) confirm, set aside, vary, alter, reverse or amend the decision which is the subject of the appeal; (b) refer the relevant matter back to the Minister for his reconsideration; (c) order persons to attend and give evidence or to produce or give discovery and inspection of documents in like manner as in proceedings in the High Court: Provided that the appeal committee may in its absolute discretion admit evidence which would not be admissible in a court of law and may use evidence contained in any official record and may call evidence of its own motion; (d) award costs of any proceedings before it and to direct that such costs shall be taxed upon such scale and in such manner as may be prescribed; (e) make such order as it may deem fit; and (f) the power to do all things which it is required or empowered to do by or under this Act. (2) The decision of the appeal committee on any appeal shall be— (a) made in writing; (b) sent to all the parties to the appeal and, where he was not a party, to the Minister; and (c) available for public inspection. (3) Any person who, having appealed under section 35 , is aggrieved by the decision of the appeals committee may, within thirty days thereof, apply to the High Court for judicial review of the decision of the committee. Part IX – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IX",
+      "section": "38",
+      "title": "Secrecy to be observed",
+      "content": "(1) Every person employed under this Act shall not disclose to any person, except in the performance of his duties under this Act or when required to do so by any written law, any information which he may have acquired in the course of his duties in relation to the financial or business affairs of any person, undertaking or business. (2) Any person who contravenes subsection (1) shall be guilty of an offence and, upon conviction, be liable to a fine of K200,000 or to imprisonment for two years."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IX",
+      "section": "39",
+      "title": "Offences",
+      "content": "Any person who— (a) contravenes any provision of this Act, directive or order lawfully given or requirement lawfully imposed under this Act; (b) omits or refuses— (i) to furnish any information when required by the Minister to do so: or (ii) to produce any document when required to do so by a notice issued by the Minister; or (c) knowingly furnishes any false information to the Minister, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IX",
+      "section": "40",
+      "title": "Penalty for offences",
+      "content": "(1) A person guilty of an offence under this Act for which no specific penalty is provided shall be liable to a fine of K1,000,000 or to an amount equivalent to the financial gain generated by the offence, if such amount be greater, and to imprisonment for ten years. (2) Upon conviction of any person for an offence under this Act, the court may, in addition to any other penalty imposed, declare any genetically modified organism or product thereof, substance or article seized and detained by an inspector and found to have been used in, or in connexion with, the commission of that offence to be forfeited, and may order it to be destroyed, without compensation, in such manner as the court might specify, and any expenditure incurred, if any, shall be recoverable from the person as a civil debt owed to the Fund ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IX",
+      "section": "41",
+      "title": "Regulations",
+      "content": "(1) The Minister may make regulations for better carrying into effect of the purposes of this Act. (2) Without prejudice to the generality of subsection (1), the regulations may provide for— (a) anything required to be prescribed under, or for the purposes of, this Act; (b) any forms required for the purposes of this Act; (c) fees payable in respect of any service provided; (d) the furnishing of reports to the Minister on biosafety matters including accidents; (e) requirements pertaining to— (i) release or contained use of genetically modified organisms or products thereof; (ii) laboratories; and (iii) registration of facilities where biotechnological processes are undertaken; (f) descriptions or classes of genetically modified organisms or products thereof or of any articles or substances required to be specified under this Act; (g) the control, regulation or regulation of the sale or supply, export or the importation, of genetically modified organisms or products thereof or any article or substance of any specified description or class; (h) the manner in which containers and packages of genetically modified organisms or products thereof may be labelled; (i) the manner in which leaflets relating to the advertisement of genetically modified organisms or products thereof may be made; (j) such requirements as may be necessary with respect to— (i) the manner in which, or persons under whose supervision, genetically modified organisms or products thereof may be prepared or may be dispensed; (ii) the amount of space to be provided in any premises for persons preparing or dispensing genetically modified organisms or products thereof, the separation of any such space from the remainder of the premises and the facilities to be provided in any premises for such persons; (iii) the accommodation to be provided in any premises for the sale or supply of genetically modified organisms or products thereof; (iv) the accommodation to be provided in any premises for members of the public to whom genetically modified organisms or products thereof are sold or supplied or for whom genetically modified organisms or products thereof are being prepared or assembled; (v) the amount of space to be provided in any premises for members of the public and storage of genetically modified organisms or products thereof; (vi) the safe keeping of genetically modified organisms or products thereof; (vii) the disposal of genetically modified organisms or products thereof which have become unusable or otherwise unwanted; (viii) precautions to be observed before genetically modified organisms or products thereof are sold or supplied; (ix) the keeping of records relating to the sale or supply of genetically modified organisms or products thereof; (x) the supply of genetically modified organisms or products thereof distributed as samples; (xi) sanitation, cleanliness, temperature, humidity or other factors relating to the construction, location and use of automatic machines for the sale of genetically modified organisms or products thereof; (k) fees payable upon registration or renewal of registration and upon application for a licence or certificate or renewal of licence or certificate; and (l) anything to be prescribed under this Act. (3) Any regulation made under this Act may, notwithstanding the provisions of section 21(e) of the General Interpretation Act, prescribe a fine of up to K200,000 and imprisonment for up to two years for an offence committed against any provision of such regulation. [Cap. 1:01] History of this document 31 December 2014 this version Consolidation 20 August 2007 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "any incident involving an unintended general release of biotechnological products which could have an immediate or delayed adverse impact on the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appeals committee",
+      "definition": "an appeals committee appointed under section 35",
+      "source_provision": "s2"
+    },
+    {
+      "term": "biotechnology",
+      "definition": "any technique that uses living organisms or parts of organisms to— (a) make or modify products",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contained use",
+      "definition": "any activity in which organisms are genetically modified or in which genetically modified organisms are cultured, stored, used, transported, destroyed or disposed of and for which physical barriers or a combination of physical, chemical or biological barriers are used to limit contact thereof with the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environment",
+      "definition": "the aggregate of surrounding objects, conditions and influences that affect the life and habits of man or any other organisms or collection of organisms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Biosafety Fund established under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general release",
+      "definition": "the introduction of genetically modified organisms into the environment , by whatever means, where the organisms are no longer under the control of any person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gene therapy",
+      "definition": "a technique for delivering functional genes to replace aberrant ones into living cells by means of a genetically modified vector or by physical means in order to genetically alter the living cell",
+      "source_provision": "s2"
+    },
+    {
+      "term": "genetically modified organism",
+      "definition": "an organism whose genes or genetic material has been modified in a way that does not occur naturally through mating or natural recombination",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazard",
+      "definition": "an intrinsic biological chemical or physical characteristic of genetically modified organisms or products thereof which could lead to an adverse impact on the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed as an inspector under section 30",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organism",
+      "definition": "any biological entity, whether microscopic or not, capable of replication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "a permit issued under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "risk",
+      "definition": "the combination of the magnitude of the consequences of a hazard , if it occurs, and the likelihood that the consequences will occur",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trial release",
+      "definition": "the deliberate release of genetically modified organisms into the environment under conditions where the degree of dissemination of the genetically organisms is limited by chemical or physical barriers or by built-in barriers which prevent the survival of such organisms in the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste",
+      "definition": "any matter, whether gaseous, liquid, solid or any combination thereof, which is an undesirable or superfluous by­-product, emission, resolve or remainder of any process or activity in connexion with genetically modified organisms.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "every form of advertising, whether in a publication, or by the display of any notice or by means of any catalogue, price list, letter, whether circular or addressed to a particular person, or by exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television. (2) Notwithstanding anything contained in subsection (1), “advertisement” does not include spoken words except— (a) words forming part of a sound recording or embodied in a sound-track associated with a cinematograph film",
+      "source_provision": "s29"
+    }
+  ]
+}

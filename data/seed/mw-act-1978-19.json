@@ -1,0 +1,50 @@
+{
+  "id": "mw-act-1978-19",
+  "type": "statute",
+  "title": "Commercial Advertising (Traditional Music) Control Act",
+  "title_en": "Commercial Advertising (Traditional Music) Control Act",
+  "short_name": "Commercial Advertising (Tra...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1978/19/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Commercial Advertising (Traditional Music) Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires— “ Malawi traditional music or dancing ” means any music, dancing, singing or drumming performed in the Malawi customary manner by ceremonial performers or by members of the public as an integral part of, or in connexion with, any official or public celebration or act of public acclaim of the President or of any other notable person or visitor to Malawi."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Recording of traditional music or dancing",
+      "content": "Any person who, for purposes of use in commercial advertising, records or causes to be recorded, by any method of sound, cinematographic or photographic recording capable of reproduction, any Malawi traditional music or dancing shall be guilty of an offence and liable to a fine of two thousand Kwacha or to imprisonment for a term of one year."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Use of recordings of traditional music or dancing for advertising",
+      "content": "Any person who publishes or causes to be published any sound, cinematographic or photographic record of any Malawi traditional music or dancing for the purpose of or in connexion with or as background to any advertising of any commercial enterprise or business or of any offer to the public of any sale, letting or hiring of any lands, goods or services shall be guilty of an offence and liable to a fine of two thousand Kwacha or to imprisonment for a term of one year."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Regulations",
+      "content": "The Minister may, by notice published in the Gazette , make regulations for the better carrying out of the provisions of this Act. History of this document 31 December 2014 this version Consolidation 31 March 1978 Assented to Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Malawi traditional music or dancing",
+      "definition": "any music, dancing, singing or drumming performed in the Malawi customary manner by ceremonial performers or by members of the public as an integral part of, or in connexion with, any official or public celebration or act of public acclaim of the President or of any other notable person or visitor to Malawi.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "id": "mw-act-1958-1",
+  "type": "statute",
+  "title": "Courts Act",
+  "title_en": "Courts Act",
+  "short_name": "Courts Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1958/1/eng@2017-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Courts Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" civil matter \" means a civil matter that is not a commercial, criminal, family or probate matter ; [23 of 2016] \" commercial matter \" means a civil matter of commercial significance arising out of or connected with any relationship of commercial or business nature, whether contractual or not, including— (a) the formation or governance of a business or commercial organization; (b) the contractual relationship of a business or commercial organization; (c) liabilities arising from commercial or business transactions; (d) the restructuring or payment of commercial debts; (e) the winding-up of companies or bankruptcy of persons; (f) the enforcement or review of commercial arbitration award; (g) the enforcement of foreign judgments of commercial matters subject to the provisions of the law; (h) the supply or exchange of goods and services; (i) banking, negotiable instruments, international credit and similar financial services; (j) insurance services; or (k) the operation of stock and foreign exchange markets, in the event of doubt as to whether a matter is commercial or not, the judge at the outset or during the course of the action, shall have power to resolve the issue; [23 of 2016] \" court \" means the High Court and any subordinate court ; \" criminal matter \" means a matter requiring a person to answer for an offence under any written law other than revenue law; [23 of 2016] \" District Registrar \" means a Deputy Registrar appointed under section 7A (3); [18 of 1984] \" family matter \" means a civil matter which concerns the entry, subsistence and exit from a marriage, and incidental matters thereto; [23 of 2016] \" High Court \" means High Court of Malawi; \" Judge \" means a Judge of the High Court and includes the Chief Justice; \" Judgment \" includes any decision, decree, determination, finding or order of any court ; \" magistrate \" means a magistrate appointed under section 34 and includes a Resident Magistrate; \" probate matter \" means a civil matter which concerns succession to or inheritance of property and incidental matters; [23 of 2016] \" Registrar \" means the Registrar of the High Court and includes a Deputy Registrar and an Assistant Registrar; \" Resident Magistrate \" means a Resident magistrate appointed under section 34 and includes the Senior Resident Magistrate; \" revenue matter \" means a civil or criminal matter which concerns taxes, duties, fees, levies, fines or other monies imposed by or collected under the written laws set out under the Malawi Revenue Authority Act; [23 of 2016; Cap. 39:07] \" rules of court \" means rules of court made under section 59 or 67 ; \" seal \" includes stamp; \" Sheriff \" includes a Sheriff’s Deputy and any Sheriff’s officer; \" subordinate court \" means any court , subordinate to the High Court , established under this Act but does not include a Traditional Court established under the Traditional Courts Act or any Act replacing the same. [Cap. 3:03] [2 of 2004; 23 of 2016] Part II – General"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Process of courts",
+      "content": "(1) All summonses, warrants, orders, rules, notices and mandatory processes whatsoever, whether civil or criminal, shall— (a) if issued or made by the High Court , be signed by the Registrar ; (b) if issued or made by the court of a magistrate , be signed by him, and every such summons, warrant, order, rule, notice and mandatory process shall be sealed with the seal of the court issuing or making the same. (2) All summonses, warrants, orders, rules, notices and other processes whatsoever, whether civil or criminal, issued or made by or with the authority of any court respecting any cause or matter within its jurisdiction shall have full force and effect and may be served or executed anywhere within Malawi. (3) Service of any summons, warrant, order, notice or other document in a civil matter may be made by an officer of the court or by the legal practitioner acting for the party at whose instance, or on whose behalf, such service is to be effected, or by any person in the employment of such legal practitioner, or by an agent of such legal practitioner authorized in writing in that behalf."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Legal practitioners",
+      "content": "(1) Any person who is not entitled to practise as a legal practitioner before the courts of Malawi, by virtue of any law for the time being in force regulating the conditions on which persons may be admitted to practise before the courts of Malawi, and who, unless he proves that the act was not done for or in expectation of any fee, gain or reward, either directly or indirectly, does any of the following acts— (a) acts as a legal practitioner or, as such legal practitioner, serves out any process or commences, carries on or defends any action, suit or other proceeding in the name of any other person or in his own name, or does any act required by law to be done by legal practitioner in any court ; (b) draws or prepares any instrument relating to real or personal estate or any proceeding in law or draws or prepares any document or caveat relating to land registration; (c) does any other work in respect of which scale or minimum charges are laid down by the Legal Practitioners (Scale and Minimum Charges) Rules, 1955, or by any other rules for the time being in force prescribing or relating to charges for any services to be performed by a legal practitioner, shall be liable to a fine of K200. [Cap. 3:04 p. 28] (2) A person shall not be prosecuted for an offence under this section without the written consent of the Chief Public Prosecutor. (3) This section shall not extend to— (a) any public officer drawing or preparing instruments in the course of his duty; (b) any person employed merely to engross any instrument or proceeding. (4) For the purpose of this section the expression \"instrument\" does not include— (a) a letter or power of attorney not under seal ; (b) a transfer of stock containing no trust or limitation thereof; (c) a letter written for the purpose of collection of monies; (d) an undefended trade mark or patent application; (e) a passport application. (5) Nothing contained in this section shall be deemed to limit the right of any person to appear on his own behalf before any court in any proceedings to which he is a party. Part III – High Court General"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Constitution of High Court",
+      "content": "The High Court shall consist of the Chief Justice and such number of other Judges as the President may, from time to time, appoint. [7 of 1984; 19 of 1987]"
+    },
+    {
+      "provision_ref": "s5A",
+      "chapter": "Part III",
+      "section": "5A",
+      "title": "Judges to have powers of subordinate courts",
+      "content": "Every Judge shall, in addition to such other powers as may be conferred upon him, have all the powers conferred on any subordinate court by any written law."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Senior Judge of the High Court",
+      "content": "The Chief Justice shall be Senior Judge of the High Court and the other Judges shall take precedence after him according to the priority of their respective appointments as such."
+    },
+    {
+      "provision_ref": "s6A",
+      "chapter": "Part III",
+      "section": "6A",
+      "title": "Establishment of divisions of court",
+      "content": "(1) The High Court shall have the following divisions— (a) the Civil Division which shall hear civil matters not provided for under another Division of the High Court ; (b) the Commercial Division which shall hear any commercial matter ; (c) the Criminal Division which shall hear any criminal matter ; (d) the Family and Probate Division which shall hear any family and probate matter ; and (e) the Revenue Division which shall hear any revenue matter . (2) Where a person commences a matter or makes an application in a division other than the appropriate division in accordance with this section, the Registrar shall, on his own volition or on application, immediately transfer the matter to the appropriate division. (3) The Courts may order that any costs arising from the process under subsection (2) shall be borne by the party who commenced the matter in an inappropriate division. [23 of 2016]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Registrars",
+      "content": "(1) There shall be a Registrar of the High Court and such Deputy Registrars and Assistant Registrars as may be appointed. (2) The qualifications provided by section 112 (1) of the Constitution for appointment as a Judge shall apply for appointment as the Registrar . [19 of 1975; 23 of 2016]"
+    },
+    {
+      "provision_ref": "s7A",
+      "chapter": "Part III",
+      "section": "7A",
+      "title": "Establishment of District Registries and appointment of District Registrars",
+      "content": "(1) The Chief Justice may, by notice published in the Gazette , establish in such places as are specified in such notice, District Registries from which such writs of summons for the commencement of actions in the High Court may be issued, and wherein such other proceedings may be taken, as may be prescribed by rule. (2) The Chief Justice may, at any time by notice published in the Gazette , vary or revoke any notice issued in pursuance of subsection (1). (3) The Chief Justice may appoint any Deputy Registrar to be the District Registrar of any district registry. (4) Every District Registrar shall be an officer of the High Court . [18 of 1984; 9 of 1986]"
+    },
+    {
+      "provision_ref": "s7B",
+      "chapter": "Part III",
+      "section": "7B",
+      "title": "Seals of District Registries",
+      "content": "(1) In every District Registry there shall be used such seal as the Chief Justice shall direct. (2) The seal of every District Registry shall be impressed upon every document which is required by any written law to be so sealed, and all such documents and copies thereof which purport to be sealed with the seal of a District Registry shall be received in evidence without further proof. (3) For the purposes of this section \" seal \" means any device capable of making an imprint, whether embossed or otherwise, on paper."
+    },
+    {
+      "provision_ref": "s7C",
+      "chapter": "Part III",
+      "section": "7C",
+      "title": "Powers, functions and duties of District Registrars",
+      "content": "(1) District Registrars may administer oaths and shall have such powers and perform such of the functions and duties of the Registrar with respect to proceedings in the High Court as the Chief Justice may by rule prescribe or as may be directed by any special order of the High Court in any particular cause or matter."
+    },
+    {
+      "provision_ref": "s7D",
+      "chapter": "Part III",
+      "section": "7D",
+      "title": "Transfer of proceedings",
+      "content": "(1) Any party to any proceedings commenced in a District Registry may, at any time, apply to a Judge to transfer the proceedings from the District Registry to the Principal Registry of the High Court or to another District Registry, and the Judge shall have discretion whether or not to order that the proceedings be so transferred. (2) Proceedings ordered to be transferred by virtue of subsection (1) and such original documents, if any, as have been filed therein shall, upon receipt of such order by the District Registrar concerned, be transmitted to the Principal Registry of the High Court or to such other District Registry accordingly, and the proceedings shall thenceforth continue in the same manner as if they had been originally commenced in the Principal Registry or such other District Registry, as the case may be. (3) A Judge may order the transfer of any proceedings from the Principal Registry of the High Court to a District Registry and, in that event, the provisions of subsection (2) shall, mutatis mutandis , apply."
+    },
+    {
+      "provision_ref": "s7E",
+      "chapter": "Part III",
+      "section": "7E",
+      "title": "Rules to regulate practice and procedure in District Registries",
+      "content": "Without prejudice to section 67 , the Chief Justice may make rules for regulating and prescribing the procedure and the practice to be followed in District Registries and in the Principal Registry of the High Court in all causes and matters whatsoever in or with respect to which they have for the time being jurisdiction and for all matters incidental or relating to any such procedure and practice, including (but without prejudice to the foregoing provisions) the manner in which and the time within which any applications thereto are to be made, the costs and charges to be allowed and the fees to be payable in respect of proceedings therein, and the review of any ruling or decision or matter heard by District Registrars in exercise, or purported exercise, of any power pursuant to section 7C or by the Registrar."
+    },
+    {
+      "provision_ref": "s7F",
+      "chapter": "Part III",
+      "section": "7F",
+      "title": "Directions by the Chief Justice as to duties and functions of District Registries",
+      "content": "The Chief Justice may give such directions as he thinks fit as to the duties to be carried out by, and for the apportionment of functions among, the staff of District Registries and, without prejudice to the generality of the power hereby conferred, such directions may specify, either by name or office, the persons who shall be responsible for the issue of summonses, warrants and writs of execution, for the registration of orders and judgments, for the taxing of bills of costs, for the keeping of the records of proceedings, and for the custody of and other matters relating to fines, fees and other moneys paid into or out of any District Registry."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Powers and duties of Registrar and other officers of Court",
+      "content": "(1) The Registrar shall exercise jurisdiction, powers and duties as the Chief Justice may, by Rules prescribe, from time to time. (2) Subject to the general or special directions of the Chief Justice, or to the directions of the High Court in any particular cause or matter, the manner in which Deputy Registrars, Assistant Registrars and other officers of the High Court (other than District Registrars and the staff of District Registries) carry out the duties imposed upon them by this or any other written law or otherwise shall be under the control and superintendence of the Registrar . [19 of 1975; 18 of 1984; 23 of 2016]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Proceedings of High Court to be disposed of by single judge",
+      "content": "(1) Save as otherwise provided by this Act, or by any other Act for the time being in force, every proceeding in the High Court and all business arising thereout shall be heard and disposed of by or before a single Judge . (2) Every proceeding in the High Court and all business arising thereout, if it expressly and substantively relates to, or concerns the interpretation or application of the provisions of the Constitution, shall be heard and disposed of by or before not less than three judges. (3) The Chief Justice shall certify that a proceeding is one which comes within the ambit of subsection (2), and the certification by the Chief Justice shall be conclusive evidence of that fact. [2 of 2004; 23 of 2016]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Vacations",
+      "content": "The Chief Justice may, by order published in the Gazette , direct such vacations, not exceeding three months in any one year, as he thinks fit."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Additional jurisdiction",
+      "content": "Without prejudice to any jurisdiction conferred on it by any other written law the High Court shall have— (a) jurisdiction— (i) to appoint and control guardians of infants and generally over the persons and property of infants; (ii) to order land to be charged or mortgaged, as the case may be, in any case in which there is jurisdiction to order a sale; (iii) to grant relief by way of interpleader where the person seeking relief is under liability for any debt, money or goods or chattels for or in respect of which he has been or expects to be sued by two or more parties making adverse claims thereon, and to grant such relief where a Sheriff , or other officer of court , is charged with the execution of process of the High Court and claim is made to any money or goods or chattels taken or intended to be taken in execution under any process or to the proceeds or value of any such goods or chattels by any person other than the person against whom the process is issued, and to order the sale of any property subject to interpleader proceedings; (iv) to provide for the interim preservation of property the subject matter of any cause or matter by sale or by injunction or by the appointment of a receiver or by the registration of a caveat or lis pendens or in any other manner whatsoever; (v) to direct interest to be paid on debts, including judgment debts, or on sums found due on taking accounts between parties or on sums found due and unpaid by receivers or other persons liable to account to the High Court ; (vi) to enforce a judgment of the High Court or a subordinate court in any manner which may be prescribed; (vii) to transfer any civil proceedings from one place to another or to or from any subordinate court and in the case of transfer to or from a subordinate court to give any directions as to the further conduct thereof; (viii) subject to any Act, to arrest a defendant before judgment; (ix) subject to any Act, to attach the property of a defendant before judgment; (x) to direct the payment of any judgment debt by instalments; (b) all the jurisdiction and powers, civil or criminal, which belong to and are exercisable by any subordinate court ; (c) jurisdiction to order service out of the jurisdiction in accordance with rules of court for the time being in force."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Procedure in perjury",
+      "content": "The High Court , if it appears that a person has been guilty of perjury in any proceedings before it, may order that he be tried by a court of a Resident Magistrate and bind any person by recognizance to give evidence at such trial. Arrest and attachment before judgment"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Arrest before judgment",
+      "content": "(1) If, in any civil action or suit, the High Court is satisfied by evidence on oath that the plaintiff has a good cause of action and that the defendant, with intent to obstruct, defeat or delay the claim of the plaintiff, is about to leave Malawi or has disposed of or has removed or is about to remove his property or any part thereof out of Malawi, the High Court may, upon application made by the plaintiff at any time after the issue of the writ, issue a warrant to bring the defendant before the High Court to show cause why he should not give security for his appearance to the satisfaction of the High Court . (2) If the defendant fails to show cause or fails to give such security as may be ordered, the High Court may commit him to custody until the determination of the action or suit or execution of the judgment, provided that it may release him at any time on such terms as it may think just."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Attachment before judgment",
+      "content": "(1) If, in any civil action or suit, the High Court is satisfied by evidence on oath that the plaintiff has a good cause of action and that the defendant, with intent to obstruct, defeat or delay the execution of any judgment that may be given against him, has disposed or is about to dispose of his property or any part thereof or has removed or concealed or made away with or handed over to others any of his property, the High Court may, upon application made by the plaintiff at any time after the issue of the writ, order the defendant to furnish security for such amount, not exceeding the claim and costs in the action or suit, as to the High Court may seem fit, or in default may direct that any property of the defendant be attached until further order. (2) No attachment under this section shall prejudice the claims of any person not a party to the suit. (3) The High Court may at any time order the attachment to be withdrawn."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Imprisonment for debt",
+      "content": "(1) No person shall be arrested or imprisoned for making default in the payment of a sum of money, except for— (a) default in payment of a penalty, or sum in the nature of a penalty, imposed in any criminal proceeding; (b) default by a trustee or person acting in a fiduciary capacity and ordered to pay by a court in exercise of its jurisdiction in equity any sum in his possession or under his control; (c) default by a legal practitioner in payment of costs when ordered to pay costs for misconduct as such, or in payment of a sum of money when ordered to pay the same in his character of an officer of the court making the order; (d) default in payment for the benefit of creditors of any portion of a salary or other income in respect of the payment of which any court having jurisdiction in bankruptcy is authorized to make an order; (e) default in the payment of sums in respect of the payment of which orders are in this Act or in the Traditional Courts Act authorized to be made: [Cap. 3:03] Provided that— (i) no person shall be imprisoned in any case excepted from this section for a period longer than one year; (ii) nothing in this section shall alter the effect of any judgment or order of any court for the payment of any money except as regards the arrest and imprisonment of the person making default in paying such money. (2) In any case coming within the exceptions in subsection (1) (b) and (c) any court or Judge making the order for payment may inquire into the case and subject to the provisos to subsection (1) may grant or refuse, either absolutely or upon terms, any application for any writ of attachment, or other process or order of imprisonment and any application to stay the execution of any such writ, process or order or for discharge from arrest or imprisonment thereunder."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Committal of judgment debtors",
+      "content": "(1) Notwithstanding section 15 and subject to this section and to any rule of court, any court may commit to prison for a term not exceeding six weeks, or until payment of the sum due, any person who makes default in the payment of any debt or instalment of any debt due from him in pursuance of any order or judgment of that or other com­petent court: Provided that the jurisdiction conferred by this section shall be exercised only by the High Court or by a subordinate court not being a court of a magistrate of the third grade. (2) The jurisdiction conferred by this section shall only be exercised when it is proved to the satisfaction of the court that the person making the default either has or has had since the date of the order or judgment the means to pay the sum in respect of which he has made default, and has refused or neglected, or refuses or neglects, to pay the same. (3) Proof of the means of the person making default may be given in such manner as the court thinks just and for the purposes of such proof the debtor and any witnesses may be summoned and examined according to the rules of court in force for the time being. (4) For the purposes of this section any court may direct any debt due from any person in pursuance of any order or judgment of that or any other competent court to be paid by instalments and may from time to time rescind or vary such order. (5) No imprisonment under this section shall operate as a satisfaction or extinguishment of any debt or demand or cause of action, or deprive any person of any right to take out execution against the movable or immovable property of the person imprisoned, in the same manner as if imprisonment had not taken place. (6) A person imprisoned under this section shall be discharged out of custody upon a certificate in such form, if any, as may be prescribed, to the effect that he has satisfied a debt or instalmentof a debt in respect of which he was imprisoned, together with the prescribed costs, if any. (7) Sequestration against property of a debtor may be issued by any court of equity in the same manner as if the debtor had been actually arrested."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Saving of provisions relating to examination of judgment debtors",
+      "content": "Nothing contained in section 13 or 14 shall in any way affect the jurisdiction and powers of the High Court under sections 15 and 16 or its powers in regard to the examination of debtors in accordance with the Rules of the Supreme Court. Appellate jurisdiction of the High Court"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Appellate criminal jurisdiction",
+      "content": "The appellate criminal jurisdiction of the High Court shall consist of the hearing of appeals from subordinate courts, according to the law for the time being in force relating to criminal procedure and such other appellate criminal jurisdiction as may have been or may be conferred upon the High Court by any other law."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Appellate civil jurisdiction",
+      "content": "The appellate civil jurisdiction of the High Court shall consist of the hearing of appeals from subordinate courts as hereinafter provided and such other appellate civil jurisdiction as may have been or may be conferred upon the High Court by any other law. Civil appeals from subordinate courts"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Civil appeals from subordinate courts to the High Court",
+      "content": "(1) An appeal shall lie to the High Court from a subordinate court in the following cases— (a) from all final judgments; (b) from all interlocutory judgments and orders made in the course of any civil action or matter before a subordinate court : Provided that no appeal shall lie, except with the leave of the subordinate court or of the High Court , from an order made ex parte , or by consent, or as to costs only. (2) Appeals from subordinate courts shall be heard by one Judge , except where in any particular case the Chief Justice directs that the appeal shall be heard by two or more Judges. (3) Subject to subsection (4), the High Court shall not entertain any appeal unless the appellant has fulfilled all the conditions of appeal imposed by the subordinate court or by the High Court or prescribed by any rules of court made for that purpose. (4) Notwithstanding anything hereinbefore contained, the High Court may entertain any appeal from a subordinate court on any terms which it considers just."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Reservation of points of law",
+      "content": "In addition to and without prejudice to the rights of appeal conferred by section 20 a subordinate court may reserve for consideration by the High Court any question of law which arises during the trial of any civil action or matter and may give any judgment or decision, subject to the opinion of the High Court, and the High Court shall have power to determine, with or without hearing argument, every such question."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Power of High Court in civil appeals",
+      "content": "In a civil appeal the High Court shall have power— (a) to dismiss the appeal; (b) to reverse a judgment upon a preliminary point and, on such reversal, to remit the case to the subordinate court against whose judgment the appeal is made, with directions to proceed to determine the case on its merits; (c) to resettle issues and finally to determine a case, notwithstanding that the judgment of the subordinate court against which the appeal is made has proceeded wholly on some ground other than that on which the High Court proceeds; (d) to call additional evidence or to direct the subordinate court against whose judgment the appeal is made, or any other subordinate court , to take additional evidence; (e) to make any amendment or any consequential or incidental order that may be just and proper; (f) to confirm, reverse or vary the judgment against which the appeal is made; (g) to order that a judgment shall be set aside and a new trial be had; (h) to make such order as to costs in the High Court and in the subordinate court as may be just."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Appeal not to operate as stay of execution",
+      "content": "In civil matters, an appeal shall not operate as a stay of execution or of proceedings under the judgment appealed from, except so far as the subordinate court or the High Court may otherwise order; and no intermediate act or proceeding shall be invalidated, except in so far as the High Court may direct."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Subordinate court shall conform to order of High Court",
+      "content": "In civil appeals the subordinate court shall conform to and execute such judgment or order as shall be issued, made or pronounced by the High Court therein in like manner as any original judgment or order by the said subordinate court could be or might have been executed. Revision by High Court of proceedings of subordinate courts"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Revision in criminal proceedings",
+      "content": "The High Court shall exercise powers of review in respect of criminal proceedings and matters in subordinate courts in accordance with the law for the time being in force relating to criminal procedure."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "General supervisory powers of High Court",
+      "content": "(1) In addition to the powers conferred upon the High Court by this or any other Act, the High Court shall have general supervisory and revisionary jurisdiction over all subordinate courts and may, in particular, but without prejudice to the generality of the foregoing provision, if it appears desirable in the interests of justice, either of its own motion or at the instance of any party or person interested at any stage in any matter or proceeding, whether civil or criminal, in any subordinate court , call for the record thereof and may remove the same into the High Court or may give to such subordinate court such directions as to the further conduct of the same as justice may require. (2) Upon the High Court calling for any record under subsection (1), the matter or proceeding in question shall be stayed in the subordinate court pending the further order of the High Court ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "No revision where appeal lies",
+      "content": "Where an appeal lies from any judgment in any civil matter and no appeal is brought, no proceedings by way of review shall be entertained at the instance of the party who could have appealed."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "No right of party to be heard on revision",
+      "content": "No party shall have any right to be heard, either personally or by a legal practitioner, before the High Court when exercising its powers of review or supervision under sections 25 and 26 : Provided that no order shall be made to the prejudice of any person unless such person has had an opportunity of being so heard. Practice and procedure"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Practice and procedure of the High Court",
+      "content": "The practice and procedure of the High Court shall be provided in the rules of procedure made by the Chief Justice under section 67 . [2 of 2004; 23 of 2016] Costs and fees"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Costs to be in the discretion of the High Court",
+      "content": "Subject to this Act, the costs of, and incidental to, all proceedings in the High Court , including the administration of estates and trusts, shall be in the discretion of the High Court ; and the discretion shall be exercised in accordance with the practice and procedure provided in the rules of procedure made by the Chief Justice under section 67 of this Act. [23 of 2016]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Costs when proceedings could have been commenced in subordinate court",
+      "content": "(1) Where an action is commenced in the High Court which could have been commenced in a subordinate court then, subject to subsection (2), the plaintiff shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in the appropriate subordinate court . (2) If in any such action as aforesaid the High Court is satisfied that there was sufficient reason for bringing the action in the High Court , it may allow the costs or any part of the costs thereof on the High Court scale or on such subordinate court scale as it may direct."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part III",
+      "section": "32",
+      "title": "Fees",
+      "content": "(1) The fees set out in the Schedule shall be levied in the High Court in respect of the proceedings and matters therein mentioned. (2) The Chief Justice may, with the approval of the Minister, from time to time, by notice published in the Gazette , revoke, replace or amend the Schedule. (3) The High Court may in any cause or matter, if it thinks fit, dispense in whole or in part with the payment of any fee chargeable under the Schedule on the grounds of the poverty of any party or other person or for any other reason. Part IV – Subordinate courts General"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Establishment of courts of magistrates",
+      "content": "There are hereby established in Malawi the following courts subordinate to the High Court — (a) courts of Resident Magistrates; (b) courts of magistrates of the first grade; (c) courts of magistrates of the second grade; (d) courts of magistrates of the third grade; and (e) courts of magistrates of the fourth grade. [19 of 1995]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Constitution of courts of magistrates",
+      "content": "The courts of magistrates shall be constituted as follows— (a) the court of a Resident Magistrate shall consist of a fit and proper person appointed by the President to be a Resident Magistrate ; and (b) the court of a magistrate of one of the following grades, that is to say, the first, second or third grades, shall consist of a fit and proper person appointed by the President to be a magistrate of each such grade respectively. (2) Any magistrate may sit in and constitute a court of a lesser grade than the court which he himself constitutes as if he were a magistrate of such lesser grade. (3) For the avoidance of possible doubts it is hereby declared that a court of a Resident Magistrate is of a higher grade than a court of a magistrate of the first grade."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "A court of a magistrate to have jurisdiction throughout Malawi",
+      "content": "Subject to any written law for the time being in force, the court of a magistrate shall exercise its jurisdiction throughout Malawi."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Places and times of sittings of subordinate courts",
+      "content": "The sittings of subordinate courts shall ordinarily be held in such places as the Chief Justice may direct and, subject to any directions of the Chief Justice, at such times as the magistrate constituting the court may deem most adapted to facilitate the business of the court ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Records to be kept",
+      "content": "Subordinate courts shall keep written records and furnish returns of cases tried by them to the High Court in such manner as the Chief Justice may from time to time direct."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Seals",
+      "content": "Subordinate courts shall use seals of such nature and patterns as the Chief Justice may direct. Civil jurisdiction of courts of magistrates"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Civil jurisdiction of courts of magistrates",
+      "content": "(1) Subject to this or any other written law, in exercise of their civil jurisdiction the courts of magistrates shall have jurisdiction to deal with, try and determine any civil matter whereof the amount in dispute or the value of the subject matter does not exceed— (a) in the case of a court of a Resident Magistrate , K2,000,000; (b) in the case of a court of a magistrate of the first grade, K1,500,000; (c) in the case of a court of a magistrate of the second grade, K1,000,000; (d) in the case of a court of a magistrate of the third grade, K750,000; and (e) in the case of a court of a magistrate of the fourth grade, K500,000. (2) Notwithstanding subsection (1), no subordinate court shall have jurisdiction to deal with, try or determine any civil matter — (a) whenever the title to or ownership of land which is not customary land is in question save as is provided by section 156 of the Registered Land Act; [7 of 2010; Cap. 58:01] (b) for an injunction; (c) for the cancellation or rectification of instruments; (d) wherein the guardianship or custody of infants, other than under customary law, is in question, unless jurisdiction is specifically provided under any written law; [7 of 2010] (e) except as specifically provided in any written law for the time being in force, wherein the validity or dissolution of any marriage celebrated under the Marriage Act or any other law, other than customary law is in question; [Cap. 25:01] (f) relating to the title to any right, duty or office; and (g) seeking any declaratory decree. [13 of 1980; 19 of 1992; 19 of 1995; 4 of 2000; 7 of 2010]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Counterclaims in subordinate courts",
+      "content": "(1) Where, in any action or suit of a civil nature before a subordinate court , any defence or counterclaim of the defendant involves matters beyond the jurisdiction of such subordinate court , such defence or matter shall not affect the competence or the duty of the subordinate court to dispose of the whole matter in controversy so far as relates to the demand of the plaintiff and any defence thereto, but no relief exceeding that which the subordinate court has jurisdiction to award shall be given to the defendant upon such counterclaim. (2) In any such case the High Court may, if it thinks fit, on the application of any party order that the action or suit be transferred to the High Court and the action or suit shall then be proceeded with as if such action or suit had been originally instituted therein."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "Relinquishing part of claim",
+      "content": "A plaintiff may relinquish any portion of his claim in order to bring the action or suit within the jurisdiction of a subordinate court , but he shall not afterwards sue in respect of the portion so relinquished."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Claims not to be split",
+      "content": "Claims may not be split, nor may more than one action or suit of a civil nature be brought in respect of the same cause of action against the same party."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Jurisdiction to grant relief by way of interpleader",
+      "content": "A court of a Resident Magistrate and a court of a magistrate of the first grade shall have jurisdiction to grant relief by way of interpleader and to order the sale oi any property subject to interpleader proceedings."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IV",
+      "section": "44",
+      "title": "Res judicata",
+      "content": "A subordinate court may dismiss or stay proceedings where the matter in question is res judicata between the parties or where by reason of multiplicity of proceedings in any courts the proceedings ought not to be continued."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IV",
+      "section": "45",
+      "title": "Stay of proceedings",
+      "content": "A subordinate court may stay or transfer proceedings unless they have been instituted in the District in which— (a) the cause of action arose; or (b) the defendant resides or has his place of business; or (c) one of several defendants resides or has his place of business; or (d) the facts on which the proceedings are based exist or are alleged to have occurred; or (e) for other reasons it is desirable in the interests of justice that proceedings should be held."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part IV",
+      "section": "46",
+      "title": "Transfer of proceedings",
+      "content": "(1) Subject to any written law, a subordinate court may— (a) transfer any proceedings before itself to a subordinate court of a lesser grade; (b) transfer any proceedings before itself to any subordinate court of a higher grade with the consent of such court ; and (c) direct the transfer to itself of any proceedings before any subordinate court of a lesser grade. (2) A subordinate court shall comply with any direction given to it under subsection (1)."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part IV",
+      "section": "47",
+      "title": "Set-off",
+      "content": "(1) A subordinate court may allow a set-off in any case where such a defence would be allowed in the High Court . (2) Where in any action a set-off or counterclaim is established as a defence against the plaintiff’s claim a subordinate court may, if the balance is in favour of the defendant, give judgment for the defendant for such balance or may otherwise adjudge to the defendant such relief as he may be entitled to upon the merits of the case: Provided that no relief exceeding that which the subordinate court has otherwise jurisdiction to award shall be given to the defendant upon such set-off or counterclaim."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IV",
+      "section": "48",
+      "title": "Discovery",
+      "content": "A subordinate court may order discovery of facts or documents by any party or person in such manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IV",
+      "section": "49",
+      "title": "Process to compel appearance",
+      "content": "(1) Subject to this Act, a subordinate court may issue process to secure the attendance of any person in court for any purpose, whether by warrant of arrest or summons, and may require any person to give security for his appearance, or to meet any claim or demand, in such manner as may be prescribed. (2) The subordinate court may, in default of compliance with any such order for security, or in order to ensure the attendance in court of any person, order that such person be committed to prison for such period, not exceeding six weeks, and in such manner as may be prescribed. (3) No proceedings shall issue to compel the attendance of any person who, by virtue of any law, is exempted from personal attendance in court ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IV",
+      "section": "50",
+      "title": "Arrest",
+      "content": "(1) A subordinate court may commit to prison, for such period and in such manner as may be prescribed, any person who wilfully disobeys or fails to comply with any order of such court or who, with a view to defeating the ends of justice or preventing or delaying the satisfaction of a judgment or order passed, or which may be passed, against him, flees or attempts to flee Malawi, or disposes or attempts to dispose of any property, or evades or attempts to evade the service on him of any process of such court . (2) No order for arrest or commitment under this section or section 49 shall operate to discharge or satisfy any debt."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IV",
+      "section": "51",
+      "title": "Attachment of property",
+      "content": "A subordinate court may, in such manner as may be prescribed, order the attachment and sale of any property of any person whom it might commit to prison under section 50 ."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IV",
+      "section": "52",
+      "title": "Sections 50 and 51 not to be construed as conferring jurisdiction under section 16",
+      "content": "Nothing contained in sections 50 and 51 shall be construed as conferring on any subordinate court any jurisdiction under section 16 which is not expressly conferred by that section or other provisions of this Act."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IV",
+      "section": "53",
+      "title": "Variation and suspension of judgments",
+      "content": "A subordinate court may discharge, vary or suspend the operation of any of its judgments or orders to such extent and in such manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IV",
+      "section": "54",
+      "title": "Contempt of court",
+      "content": "(1) A subordinate court may take cognizance of any contempt of court and may impose punishment for the same, not exceeding a fine of £5 or imprisonment for a term not exceeding seven days, and in default of payment of any fine imposed may commit the offender to prison for a term not exceeding seven days, unless the fine be sooner paid. (2) In every case in which a subordinate court imposes any punishment under subsection (1), it shall without delay transmit to the Registrar for the consideration of the High Court under section 26 , a statement certified to be true and correct of the grounds of and reasons for such imposition and shall also, if requested, furnish to the person committed or fined a copy of such statement certified as aforesaid."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IV",
+      "section": "55",
+      "title": "Setting aside judgments",
+      "content": "A subordinate court shall have power to set aside, in such manner as may be prescribed, any judgment or order obtained by default or ex parte ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IV",
+      "section": "56",
+      "title": "Attachment of debt",
+      "content": "A subordinate court shall have jurisdiction to attach debts due to a judgment debtor in such manner as may be prescribed: Provided that, subject to any other law for the time being in force, no wages of any servant, labourer or workman shall be liable to attachment. Execution"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IV",
+      "section": "57",
+      "title": "Suspension of execution",
+      "content": "A subordinate court may suspend any execution, judgment or order issued, given or made by such subordinate court for such time and on such terms as it shall think fit. Criminal jurisdiction of courts of magistrates"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IV",
+      "section": "58",
+      "title": "Criminal jurisdiction of courts of magistrates",
+      "content": "In exercise of their criminal jurisdiction the powers of courts of magistrates shall be as provided for in this Act, in the Criminal Procedure and Evidence Code and in any other written law. [Cap. 8:01] Procedure"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IV",
+      "section": "59",
+      "title": "Rules of court regulating practice and procedure in subordinate courts",
+      "content": "Without prejudice to section 67 , the Chief Justice may make rules of court— (a) regulating the pleading, practice and procedure to be followed in subordinate courts in all causes and matters whatsoever in or with respect to which subordinate courts have for the time being jurisdiction, and all matters incidental to or relating to any such pleading, practice and procedure, including the manner in which and the time within which any applications under any law for the time being in force are to be made to a subordinate court ; (b) regulating the costs and charges to be allowed and the fees to be payable in respect of proceedings in any subordinate court ; (c) regulating the procedure in connexion with the transfer of any proceedings from any subordinate court to the High Court or from the High Court to any subordinate court ; (d) regulating the means by which particular facts may be proved and the mode in which the evidence thereof may be given in any proceedings or on any application in connexion with, or at any stage of, any proceedings; (e) amending the Rules of Court made under the British Central Africa Order in Council, 1902; (f) prescribing anything which, under this Part, is to be or may be prescribed; (g) generally for the better carrying out of this Part. Part V – Miscellaneous"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part V",
+      "section": "60",
+      "title": "Proceedings to be in open court",
+      "content": "In exercise of its jurisdiction, powers and authorities the proceedings of every court shall, except as otherwise provided by any other law for the time being in force, be carried on in an open court to which the public generally may have access: Provided that any court shall have power to hear any matter or proceeding or any part thereof in camera if, in the opinion of the presiding Judge , or magistrate , it is expedient in the interest ofjustice or propriety or for other sufficient reason so to do."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part V",
+      "section": "61",
+      "title": "Protection of judicial officers",
+      "content": "(1) No Judge , magistrate or other person acting judicially shall be liable to be sued in any court for any act done or ordered to be done by him in the discharge of his judicial duty whether or not within the limits of his jurisdiction, nor shall any order for costs be made against him, provided that he at the time in good faith believed himself to have jurisdiction to do or order the act complained of. (2) No officer of any court or other person bound to execute the lawful warrants or orders of any Judge , magistrate or other person acting judicially shall be liable to be sued in any court for the execution of any warrant or order which he would be bound to execute if within the jurisdiction of the person issuing the same, nor shall any such person or the person at whose instance such warrant or order shall be executed be deemed to be a trespasser by reason of any irregularity in any proceeding on the validity of which such warrant or order depends or in the form of such warrant or order or in the mode of executing the same. (3) No officer of any court shall be liable to be sued in any court for any act or omission of any police officer or other person in the execution of any process which shall have been done or may have occurred either through disobedience or neglect of the orders or instructions given."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part V",
+      "section": "62",
+      "title": "Expenses of witnesses",
+      "content": "Any court may, in civil proceedings, allow to all persons required to attend or to be examined as witnesses such sums of money as expenses or compensation for their loss of time as may be prescribed; but it shall not be lawful in any proceeding for any person to refuse to attend as a witness or to give evidence when so required by process of the court on the ground that his expenses have not been first paid or provided for."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part V",
+      "section": "63",
+      "title": "Notice to bring persons from prison",
+      "content": "Any court may, by notice addressed to the officer in charge of a prison, require any person in prison to be brought before it for any purpose."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part V",
+      "section": "64",
+      "title": "Proof of customary law",
+      "content": "If in any proceeding a matter of customary law is material, such law shall be treated as a question of fact for purposes of proof. In determining such law the court may admit the evidence of experts and persons whom the court considers likely to be well acquainted with such law: Provided that a court may judicially note any decisions of its own or of any superior court , determining the customary law applicable in a like case. [25 of 1968]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part V",
+      "section": "65",
+      "title": "Interest on judgments",
+      "content": "Every judgment in civil proceedings shall carry interest at the rate of five per centum per annum or such other rate as may be prescribed."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part V",
+      "section": "66",
+      "title": "Execution of warrants",
+      "content": "Any warrant of committal issued by the High Court in the exercise of its civil jurisdiction may be executed by a police officer or any other person to whom it is directed at any time, notwithstanding that the warrant is not in his possession at that time: Provided that the warrant shall, on the demand of the person arrested, be shown to him as soon as practicable after his arrest."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part V",
+      "section": "67",
+      "title": "Rules of court",
+      "content": "(1) The Chief Justice may make rules of court prescribing anything which, under this Act, may be or is to be prescribed and generally for the better carrying out of the purposes of this Act. (2) This section shall not be construed as in any way limiting or modifying section 59 . [23 of 2016]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part V",
+      "section": "68",
+      "title": "Saving of rights of Government",
+      "content": "Nothing in this Act shall be construed so as to limit or prejudice the rights of the Government applicable or attaching to any land under any grant, lease, right of occupancy or other disposition of land granted or made by the Minister responsible for land under any law in force at the time of such grant, lease, right of occupancy or other disposition."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part V",
+      "section": "69",
+      "title": "Savings",
+      "content": "(1) Any criminal proceedings instituted before the coming into force of this Act shall be continued under and in conformity with the High Court Ordinance and the Courts Ordinance (now repealed) as if such Ordinances had not been repealed. (2) Any civil proceedings instituted before the coming into force of this Act shall be continued under and in conformity with such repealed Ordinances as if such Ordinances had not been repealed, save that a court may, in its discretion, apply or adopt any rules of court governing practice and procedure made under this Act. (3) Any magistrate and other person appointed to any office under such repealed Ordinances, and whose appointments thereunder were subsisting immediately before such repeal, shall be deemed to have been appointed as such under this Act. [3 of 1906; 24 of 1929]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part V",
+      "section": "70",
+      "title": "Saving of offices",
+      "content": "(1) Upon the coming into operation of the Courts (Amendment) Act, 1967 (referred to in this section as the amending Act), any person empowered to hold a Resident Magistrate ’s Court or a first, second or third class court under the provisions of this Act repealed by the amending Act shall be deemed to have been appointed to be a Resident Magistrate or magistrate of the first, second or third grade respectively, as the case may be, under the provisions substituted by the amending Act for such repealed provisions. (2) (a) Nothing in the amending Act shall affect the validity of proceedings instituted before the coming into operation of this Act in any subordinate court , but the same shall be carried on in the corresponding subordinate court established by the provisions substituted by this Act and enforced in like manner, as nearly as may be, as if the corresponding court were the court in which such proceedings were commenced and any such proceedings may be amended by order of a magistrate or under rules of court in such manner as may appear necessary or proper in consequence of this Act. (b) An appeal shall lie to the High Court from any judgment of a subordinate court given prior to the coming into operation of this Act as it would have lain if this Act had not come into operation, if such appeal is commenced and prosecuted in accordance with the law and rules of court relating to appeals from subordinate courts in force immediately prior to the coming into operation of this Act. [47 of 1967] Schedule (Section 32) Fees to be levied in the High Court Service Fee payable K t 1. For service of summons, petition, answer, motion paper, notice, warrant, decree, order or other document on a party, witness, juror, assessor, or other person under any branch whatever of the Civil Jurisdiction cost actually and reasonably incurred Decision of questions without formal suit 2. On summons for issue or special case 2,000 00 3. On issue or special case 2,000 00 4. On hearing 5,000 00 Summary procedure for administration of property of deceased persons 5. On summons 1,000 00 6. On order 1,000 00 Summary orders 7. On application for order— (a) inter parte application 3,000 00 (b) ex parte application 5,000 00 (c) ex parte application for stay 10,000 00 (d) ex parte application for injunction 25,000 00 8. On recognizance 2,000 00 9. On order 2,000 00 Probate and administration 10. On application for probate or administration 3,000 00 11. On oath for every executor, administrator and surety, or on renunciation by an executor 1,500 00 12. On every security 1,500 00 13. On filing account 1,500 00 14. On passing account 1,500 00 Ordinary suits 15. In every suit of any kind whatever, other than such as are before specified (a) on summons, petition, originating summons or motion 5,000 00 * If commercial matter 1.5% of the value of the subject matter in dispute with a maximum of K150,000 00 If commercial unquantifiable matter 150,000 00 (b) on hearing 5,000 00 *Note: \"Commercial matter\" has the same meaning as that provided under O.1, r. 5 of the High Court (Commercial Division) Rules. 16. On every summons, motion, application, notice or demand taken out, made or filed (not particularly charged) 1,000 00 17. On filing any document for the filing whereof no specific fee is prescribed 1,000 00 18. On every rule 2,000 00 19. On every decree or order (not particularly charged) 1,000 00 20. On motion for new trial 4,000 00 21. On order for adjournment of hearing rendered necessary by default of either party (to be paid by that party) 5,000 00 22. On every warrant of execution against goods 5,000 00 23. Sheriff's fees on execution of writs of fiery facias — (a) for seizure by the Sheriff, for each building or place at which seizure is made whether execution is subsequently withdrawn, satisfied or stopped, for every Kwacha or fraction of a Kwacha of the value of the goods seized, as valued by the Sheriff or Under Sheriff or the Assistant Sheriff or the amount due under the warrant whichever is the less 0 15 (b) for man, or when necessary, men in possession the sum actually and reasonably paid (c) for removal of goods or animals to a place of safekeeping when necessary and for warehousing or taking charge of the same when removed the sum actually and reasonably paid (d) for preparing an inventory of goods seized, for every page or part thereof 200 00 (e) for a copy of the same 100 00 (f) for advertising and giving publicity to the sale, printing catalogues and bills and distributing same the sum actually and reasonably paid NOTE: The fee shall be payable by the person issuing the execution or the person at whose instance the sale is stopped, as the case may be. For sale —10 per cent of the amount realized by the sale of the goods. Appeal to the High Court 24. On lodging notice of appeal 1,000 00 25. On motion for leave to appeal 2,000 00 26. On every security 1,000 00 27. On order for leave to appeal 1,000 00 28. On the hearing of an appeal where judicial relief or assistance is sought, but not the recovery of money 2,000 00 29. On the hearing of an appeal in matters other than those specified in item 28 ½ per cent of the amount involved not exceeding a total fee of K10,000 but in no case less than K1,000 30. On every application, motion, order or rule not particularly charged 1,000 00 Appeal from the High Court to the Supreme Court of Appeal 31. On motion for leave to appeal 10,000 00 32. On every security 5,000 00 33. On order for leave to appeal 5,000 00 34. On filing memorandum of appeal 5,000 00 35. On application or order to amend memorandum of appeal 5,000 00 36. On every application, motion, order or rule not particularly charged 5,000 00 Miscellaneous 37. On taxation of any bill of costs, for every ten folios from each party to the taxation 1,000 00 38. On every deposition taken before trial 500 00 39. On balances of estates of deceased persons paid into Court otherwise than in a suit 2½ per cent of amount 40. On registration or registration and deposit of any deed (except power of attorney) 2,000 00 41. On registration or registration and deposit of a power of attorney 3,000 00 42. On registration or registration and deposit of any other document 4,000 00 43. For taking inventory, per hour 500 00 44. For taking an affidavit 2,000 00 45. For every exhibit 500 00 46. For drawing any document not particularly charged per foolscap sheet 500 00 47. For certifying signature or seal 500 00 48. For attesting a signature, or administering an oath, or receiving a declaration or affirmation for the purpose of obtaining relief from Income Tax 2,000 00 49. (a) for certified copy of document 500 00 (b) for Court record per page or part thereof limited to one copy of the record 100 00 50. For an official certified translation of any document, every page or part thereof 1,000 00 51. For certifying a copy of any document or part of a document 1,000 00 52. For attaching documents under official seal 1,000 00 53. For affixing the seal of the Court to any document not in a proceeding 1,000 00 54. On reference to the archives the sum actually and reasonably paid 55. For attendance at a sale— (a) at request of parties interested or of local authorities if absent less than two hours 4,000 00 (b) at request of parties interested, for each additional hour or part thereof (with a maximum per day of K10,000) 2,000 00 56. For communication between two Courts 1,000 00 57. For communication in writing to a foreign consulate or to local or foreign authority the sum actually and reasonably paid 58. For receiving report of survey, filing original and making certified copy of request, order and report of survey 2,000 00 59. For attendance of the Registrar or other officer of the Court at any other Court, office or Tribunal the sum actually and reasonably paid 60. For filing request for survey and issuing order for survey 1,000 00 61. For attendance of an interpreter at any Court, if required by a party in a suit, or ordered by the Court, for each hour or part of an hour 2,000 00 62. On any search, including inspection, of any case record or register by a person other than a party to a case 1,000 00 63. No fees shall be payable by the Government in respect of suits instituted by or against the Government 64. No fees shall be payable by the Department of Legal Aid in respect of a suit instituted by or against a person who has been granted legal aid under the Legal Aid Act: Provided that no fees paid in respect of a suit instituted by or against a person who has been granted legal aid under the Legal Aid Act shall be refunded. [G.N. 152/1977; 63/1997; 31/1998; 41/2004; 35/2011] History of this document 31 December 2017 this version Consolidation 01 August 1958 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "civil matter",
+      "definition": "a civil matter that is not a commercial, criminal, family or probate matter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial matter",
+      "definition": "a civil matter of commercial significance arising out of or connected with any relationship of commercial or business nature, whether contractual or not, including— (a) the formation or governance of a business or commercial organization",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court and any subordinate court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "criminal matter",
+      "definition": "a matter requiring a person to answer for an offence under any written law other than revenue law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Registrar",
+      "definition": "a Deputy Registrar appointed under section 7A (3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "family matter",
+      "definition": "a civil matter which concerns the entry, subsistence and exit from a marriage, and incidental matters thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "High Court",
+      "definition": "High Court of Malawi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Judge",
+      "definition": "a Judge of the High Court and includes the Chief Justice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Judgment",
+      "definition": "any decision, decree, determination, finding or order of any court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate",
+      "definition": "a magistrate appointed under section 34 and includes a Resident Magistrate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "probate matter",
+      "definition": "a civil matter which concerns succession to or inheritance of property and incidental matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court and includes a Deputy Registrar and an Assistant Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Resident Magistrate",
+      "definition": "a Resident magistrate appointed under section 34 and includes the Senior Resident Magistrate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "revenue matter",
+      "definition": "a civil or criminal matter which concerns taxes, duties, fees, levies, fines or other monies imposed by or collected under the written laws set out under the Malawi Revenue Authority Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules of court",
+      "definition": "rules of court made under section 59 or 67",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Sheriff",
+      "definition": "a Sheriff’s Deputy and any Sheriff’s officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate court",
+      "definition": "any court , subordinate to the High Court , established under this Act but does not include a Traditional Court established under the Traditional Courts Act or any Act replacing the same. [Cap. 3:03] [2 of 2004",
+      "source_provision": "s2"
+    }
+  ]
+}

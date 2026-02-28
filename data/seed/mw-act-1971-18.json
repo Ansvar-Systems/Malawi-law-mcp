@@ -1,0 +1,271 @@
+{
+  "id": "mw-act-1971-18",
+  "type": "statute",
+  "title": "Adjudication of Title Act",
+  "title_en": "Adjudication of Title Act",
+  "short_name": "Adjudication of Title Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1971/18/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Adjudication of Title Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, except where the context otherwise requires— “ adjudication area ” means an area to which this Act has been applied under section 3 ; “ Adjudication Officer ” means an Adjudication Officer appointed under section 4 ; “ Adjudication Record ” means the Adjudication Record prepared in accordance with the provisions of section 18 in respect of an adjudication section; “ adjudication section ” means an adjudication section declared under section 5 ; “ charge ” bears the meaning ascribed to that word by the Registered Land Act; [Cap. 58:01] “ Deeds Registrar ” bears the meaning ascribed to that term by the Deeds Registration Act; [Cap. 58:02] “ Demarcation Map ” means a demarcation index map prepared under section 13 in respect of an adjudication section; “ Demarcation Officer ” means a Demarcation Officer appointed under section 4 ; “ easement ” bears the meaning ascribed to that term by the Registered Land Act; [Cap. 58:01] “ guardian ” means any person (whether under customary law or otherwise) responsible for protecting the interests of any person who is under a disability, whether by reason of age, unsoundness of mind or any other cause; “ interest in land ” means any right or interest in or over land which is capable of being recorded under the provisions of this Act; “ land ” includes land covered with water, all things growing on land, buildings and other things permanently affixed to land; “ piece ” means a piece of land separately shown on a Demarcation Map and thereon given a number; “ profit ” bears the meaning ascribed to that word by the Registered Land Act; [Cap. 58:01] “ Recording Officer ” means a Recording Officer appointed under section 4 ; “ the register ”, “to register”, “registered” and “registration” bear the meanings ascribed to those terms by the Registered Land Act; [Cap. 58:01] “ Registrar ” bears the meaning ascribed to that term by the Registered Land Act; [Cap. 58:01] “ Survey Officer ” means a Survey Officer appointed under section 4 ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "(1) Whenever it appears expedient to the Minister that the adjudication and registration of rights and interests in land , not being customary land , in any area, should be effected the Minister may, by Order published in the Gazette , declare that this Act shall apply to that area and thereupon that area shall become an adjudication area . (2) Any Order under this section shall define the situation and limits of the adjudication area to which it relates either by means of a plan or by a description, or by both, and the Minister may at any time, by Order published in the Gazette , vary the limits of the adjudication area . Part II – Officers"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Appointment and general powers of officers",
+      "content": "(1) Whenever an Order made under section 3 is published, the Minister shall appoint an Adjudication Officer for the adjudication area it declares and such Demarcation Officers, Recording Officers and Survey Officers as may be necessary for performing the duties and exercising the powers imposed and conferred upon them by this Act in relation to such area. (2) The Adjudication Officer shall, subject to the directions (whether general or special) of the Minister, be in charge of the adjudication under this Act of rights and interests in land in the area for which he is appointed and may issue such general or special directions as he thinks necessary to the other officers appointed under subsection (1) for such area, and may himself perform and exercise all or any of the duties given under this Act to Demarcation Officers and Recording Officers. (3) The Adjudication Officer shall be competent to administer oaths and take affidavits in any inquiry made by him and to issue summonses, notices or orders requiring the attendance of such persons or the production of such documents as he may consider necessary for carrying out the adjudication. (4) A Demarcation Officer or Survey Officer may at any reasonable time enter upon any land within the adjudication area for the purpose of demarcating or surveying any piece therein and may summon any person who can give information regarding the boundaries of any such piece to point out the boundaries. Part III – Claims and demarcation"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Adjudication sections",
+      "content": "The Adjudication Officer shall divide each adjudication area into two or more adjudication sections or declare the whole area to be a single adjudication section , and shall give each such adjudication section a distinctive name."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Notices by Adjudication Officer",
+      "content": "(1) The Adjudication Officer shall prepare a separate notice in respect of each adjudication section , and in such notice shall— (a) specify the situation and limits of the adjudication section ; (b) declare that all interests in had in such section will be ascertained and recorded in accordance with the provisions of this Act; (c) require any person who claims any interest inland within the adjudication section to make a claim thereto either in person or by agent within the period, to the person, at the place and in the manner specified in the notice; (d) require all claimants to land , or to any interest in land , within the adjudication section to mark or indicate the boundaries of the land in such manner and before such date as shall be required by the Demarcation Officer . (2) The Adjudication Officer shall as soon as possible after preparing a notice under subsection (1)— (a) cause such notice to be published in the Gazette and at such administrative and other offices as he thinks fit; and (b) cause the substance of such notice to be made known throughout the adjuration section and elsewhere in such manner as he considers to be most effective for the purpose of bringing it to the attention of all persons affected thereby."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Staying of land suits",
+      "content": "(1) Except with the consent in writing of the Adjudication Officer , no action concerning land or any interest in land in an adjudication section shall be begun in any civil court until proceedings under this Act with regard to such land or interest have been completed. (2) Where at the time of the publication of a notice under section 6 an action concerning land, or an interest in land, in the adjudication section referred to in such notice is pending or in progress such action shall, where practicable, be determined before the adjudication under this Act of the land or interest therein is commenced: Provided that it shall be lawful for the Adjudication Officer at any stage of such action to order that it shall be stayed and it shall be stayed accordingly."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Claims and attendance",
+      "content": "(1) Every person claiming an interest in land within an adjudication section shall make his claim in the manner and within the period fixed by the relevant notice given under section 6 . (2) Every person whose presence is required by the Adjudication Officer , Demarcation Officer or Recording Officer , as the case may be, shall attend, in person, or by agent, at the time and place specified. If any such person fails so to attend the demarcation, recording or other proceeding may continue in his absence."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Safeguarding of rights of absent persons and minors",
+      "content": "(1) If the Adjudication Officer , Demarcation Officer or Recording Officer is satisfied that any person who has not made a claim has a claim to any interest in land within the adjudication section the Adjudication Officer , Demarcation Officer or Recording Officer may, but shall not be bound to, proceed as if a claim had been made, and may call upon the Deeds Registrar to supply him with a certified copy of any document relevant thereto and registered under the provisions of the Deeds Registration Act. [Cap. 58:02] (2) If the Adjudication Officer , Demarcation Officer or Recording Officer is satisfied that a claim might be established by a minor and no person has been appointed to represent the minor, he shall appoint a person to represent the minor, and shall proceed as if a claim by, or on behalf of, such minor had been made."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Notice of demarcation and recording",
+      "content": "(1) Not less than seven clear days before the demarcation of land in an adjudication section is begun, the Demarcation Officer shall give notice of such demarcation and of the time and place at which it will begin, in such manner as the Adjudication Officer shall deem to be most likely to bring the notice of the demarcation to the attention of the persons likely to be affected thereby. (2) Such notice shall require every claimant to indicate the boundaries of the land affected by his claim in the manner specified in the notice."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Indication of land claimed",
+      "content": "Subject to any general or particular directions issued by the Adjudication Officer , the Demarcation Officer shall within each adjudication section — (a) ensure that the boundaries of each piece of land winch is the subject of a claim are indicated or demarcated in accordance with the requirements of the notice given under section 10 ; (b) indicate or cause to be indicated the boundaries of— (i) any public roads, public rights of way and other public land ; (ii) any customary land ; and (iii) any unclaimed land ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Special powers of Demarcation Officer",
+      "content": "(1) The Demarcation Officer may— (a) divide the adjudication section into blocks, winch shall be given such distinctive numbers or letters or combinations of numbers and letters as he may determine; (b) with the consent in writing of all the persons having, or claiming, any interest in the land affected thereby adjust the boundaries of any land in the adjudication section or re-allot the same to ensure the more beneficial occupation thereof or to effect a more suitable subdivision thereof. (2) In exercising any powers under subsection (1)(b), the Demarcation Officer shall consult with and have regard to the views of the Commissioner for Town and Country Planning. [26 of 1988]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Duties of the Survey Officer",
+      "content": "Subject to any general or particular directions issued by the Adjudication Officer , the duties of the Survey Officer shall be— (a) to carry out such survey work as may be required in the execution of the adjudication process; and (b) to prepare or cause to be prepared a demarcation index map of the adjudication section on which shall be shown separate piece of land identified by a distinguishing number, except that rivers and public roads shall not be required to be identified by a number."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Duties of Recording Officer",
+      "content": "The Recording Officer shall consider all claims to any interest in land and after such investigations as he considers necessary shall prepare in accordance with the provisions of section 18 an Adjudication Record in respect of every piece of land shown on the Demarcation Map."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Disputes",
+      "content": "(1) If in any case— (a) there is a dispute as to any boundary whether indicated, to the Demarcation Officer or demarcated or readjusted by him, which the Demarcation Officer is unable to resolve; or (b) there are two or more claimants to any interest in land and the Recording Officer is unable to effect agreement between them, the Demarcation Officer or the Recording Officer, as the case may be, shall refer the matter to the Adjudication Officer. (2) The Adjudication Officer shall adjudicate upon and determine any dispute referred to him under subsection (1), having due regard to any law which may be applicable, and shall make and sign a brief record of the proceedings. Part IV – Principles of adjudication and preparation of Adjudication Record"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Principles of adjudication",
+      "content": "(1) In preparing an Adjudication Record — (a) if the Recording Officer is satisfied that a person— (i) has a good documentary title to the land , not being customary land , referred to in such Record and that no other person has acquired a title to such land under any law; or (ii) has acquired ownership of the land , not being, customary land , referred to in such Record by prescription by virtue of the principles set out in Part IX of the Registered Land Act, the Recording Officer shall record such person as the owner of the land ; [Cap. 58:01] (b) if the Recording Officer is satisfied that a person is in possession of, or has a right to possession of the land , not being customary land , referred to in such Record, but is not satisfied that such person is entitled to be recorded under paragraph (a) as the owner of the land , the Recording Officer may record such person as provisional owner of the land and, if he does so, shall also record— (i) the date on which the possession, if any, of that person began, or is deemed to begin or have begun; (ii) particulars of any deed, instrument or other document under or by virtue of which some estate, right or interest in such land adverse to or in derogation of the entitlement of that person might exist; or (iii) any qualification which affects the title; (c) if the Recording Officer is satisfied that any land , later than customary, land referred to m such Record is subject to any right which is registrable as a lease, charge , easement , profit or restrictive agreement under the Registered Land Act, he shall record such particulars as shall enable the right and the name of the person entitled to the benefit thereof to be registered under the said Act; [Cap. 58:01] (d) if the Recording, Officer is satisfied that any land , other than customary land referred to in such Record is entirely free from private rights, or that the rights existing in or over it do not amount to full ownership and are not such as to enable him to record any person as provisional owner under paragraph (6), he may record such land as public land . (2) In performing his duties under this section the Recording Officer shall observe the rules contained in section 17 . (3) In this section, the term ““good documentary title” means a title founded on documentary evidence which— (a) consists of, or commences with— (i) a written law; (ii) a grant or conveyance from the State; or (iii) a grant, conveyance, assignment or mortgage which is more than thirty years old; and (b) establishes that a person is entitled to land as owner in freehold."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Rules to be followed in adjudication",
+      "content": "(1) All unoccupied land , other than customary land , shall be deemed to be public land until the contrary is proved. (2) The exercise by any person of any rights in or over one or more pieces of land shall not be taken as a presumption in his favour of any rights in or over any greater extent of land than that in or over which such rights are exercised. (3) Where two or more persons have rights which will entitle them to be registered as joint proprietors or proprietors in common under the Registered Land Act, the Recording Officer shall record such persons as joint owners or owners in Common, as the case may be, and if owners in common, the share of each such owner. [Cap. 58:01]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Adjudication Record",
+      "content": "(1) The Adjudication Record shall consist of a form in respect of each piece of land , which form shall show— (a) the number and approximate area of the piece as shown on the Demarcation Map ; (b) either the name and description of the person entitled to be registered as the owner of the piece with particulars of his entitlement and of any restriction affecting his power of dealing with it, or the fact that the piece is public land or customary Land; (c) such particulars of any right registrable under the Registered Land Act as shall enable it to be registered as a lease, charge , easement , profit or restrictive agreement, as the case may be, affecting the piece together with the name and description of the person entitled to the benefit thereof and particulars of any restriction affecting his power of dealing with it; [Cap. 58:01] (d) if any person shown in the Adjudication Record is under a disability, whether by reason of age, unsoundness of mind or otherwise, the name of his guardian ; (e) a list of the documents, if any, produced to the Recording Officer and retained by him; (f) the date on which the form is completed. (2) When completed the form shall be signed by the Recording Officer and, in the case of privately owned land , shall, where possible, include an acknowledgment signed by the owner of the piece or by his agent, and by any person recorded under the provisions of subsection (1) (c) as having an interest in such piece , that such owner and every such person accepts the Record."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Notice of completion of Adjudication",
+      "content": "When the Adjudication Record in respect of any adjudication section has been completed, the Adjudication Officer shall sign and date a certificate to that effect and shall forthwith, by Notice published in the Gazette , give notice of the completion thereof and of the place or places at which the same can be inspected together with the relevant Demarcation Map . Part V – Objections and finality"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Objection to the Adjudication Record",
+      "content": "(1) Any person named in, or claiming an interest in any land referred to in, any Adjudication Record or Demarcation Map who considers such Record or Map to be inaccurate or incomplete in any respect may, within sixty days of the date upon which the notice of completion of the Adjudication Record is published, inform the Adjudication Officer stating the grounds of his objection. (2) The Adjudication Officer , after giving reasonable notice to all persons affected by the objection, shall hear the objection, and shall allow or dismiss the objection or otherwise determine the matter in such manner as he thinks just."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Procedure in hearing objections",
+      "content": "(1) In hearing an objection the Adjudication Officer shall, so far as may be practicable, follow the procedure directed to be observed in the hearing of civil suits save that in his absolute discretion he may admit evidence which would not be admissible in a court of law, and may use evidence adduced in any other claim or contained in any official record and may call evidence of his own motion. (2) Any proceedings conducted under this Act by the Adjudication Officer shall be deemed to be a judicial proceeding for the purposes of Chapter XI of the Penal Code. [Cap. 7:01] (3) A record of all proceedings on an objection shall be made or caused to be made by the Adjudication Officer ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Correction of Adjudication Record",
+      "content": "(1) Any correction in the Adjudication Record required by a decision of the Adjudication Officer given under section 20 shall be made by the Recording Officer, and any alteration in the Demarcation Map required by such decision shall be made by the Survey Officer. (2) At any time before the Adjudication Record becomes final the Recording Officer may— (a) correct any error or omission not materially affecting the interests of any person; and (b) with the consent of every penton whose interest is affected, make in the Adjudication Record any alteration which in his opinion is necessary."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Finality of Adjudication Record",
+      "content": "After the expiry of sixty days from the date of the publication of the notice of completion of the Adjudication Record , or on determination of all objections in accordance with section 20 , whichever shall be the later, the Adjudication Record shall, subject to the provisions of the Registered Land Act, become final and the Adjudication Officer shall sign a certificate to that effect and shall deliver the Adjudication Record and the relevant Demarcation Map to the Registrar, together with all documents received by him in the process of adjudication. [Cap. 58:01] Part VI – Appeals"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VI",
+      "section": "24",
+      "title": "Appeals",
+      "content": "(1) Any person, including the Minister, who is aggrieved by any act or decision of the Adjudication Officer and desires to question it or any part of it on the ground that it is erroneous in point of law or on the ground of failure to comply with any procedural requirement of this Act, may within three months from the date of the certificate of the Adjudication Officer under section 23 or within such extended time as the High Court, in the interests of justice, may allow, appeal to that Court in the prescribed form. (2) On any such appeal the Court may, if satisfied that the decision is erroneous in point of law or that the interests of the appellant have been substantially prejudiced by failure to comply with the procedural requirements of this Act, make such order or substitute for the decision of the Adjudication Officer such decision as it may consider just and may order rectification of the register , and the order or decision of the High Court shall be final and conclusive and shall not be questioned in any proceedings whatsoever. (3) Notwithstanding the provisions of section 140 of the Registered Land Act no indemnity shall be payable to any person by reason of any rectification of the register under subsection (2). [Cap. 58:01] (4) A decision of the Court on appeal under subsection (1) shall be in writing and copies of it shall be furnished by the Court to the Registrar , to the appellant and to all other parties to the appeal and, by the Registrar , to all other parties who, in his opinion, may be affected by the appeal. (5) Any person, including the Minister, appealing under subsection (1) shall give notice to the Registrar of his intention to appeal and the Registrar shall enter a restriction under section 131 of the Registered Land Act in every register affected by the appeal. Part VII – Miscellaneous"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VII",
+      "section": "25",
+      "title": "Fees",
+      "content": "Every person who is a party to any proceedings under section 20 shall be required to pay such fees in respect of the proceedings as may be prescribed."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VII",
+      "section": "26",
+      "title": "Offences",
+      "content": "Any person who— (a) after the delivery of a summons listed under the provisions of this Act, wilfully neglects or refuses to attend in pursuance of such summons, or to produce any document which he is required to produce; (b) wilfully neglects or refuses to answer upon oath or otherwise any question which may lawfully be put to him under this Act by any officer; (c) without reasonable cause wilfully neglects or refuses to indicate his land or to assist in the demarcation of his land when required under this Act to do so by a Demarcation Officer , shall be guilty of an offence and liable to a fine of one hundred Kwacha or to imprisonment for six months."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VII",
+      "section": "27",
+      "title": "Indemnity of officers",
+      "content": "No officer shall be liable to any action or proceedings for or in respect of any act or matter in good faith done or omitted to be done in exercise or supposed exercise of the powers conferred by this Act."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VII",
+      "section": "28",
+      "title": "Regulations",
+      "content": "The Minister may make Regulations for the purpose of carrying into effect the provisions and purposes of this Act. History of this document 31 December 2014 this version Consolidation 10 August 1971 Commenced 06 August 1971 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adjudication area",
+      "definition": "an area to which this Act has been applied under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Adjudication Officer",
+      "definition": "an Adjudication Officer appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Adjudication Record",
+      "definition": "the Adjudication Record prepared in accordance with the provisions of section 18 in respect of an adjudication section",
+      "source_provision": "s2"
+    },
+    {
+      "term": "adjudication section",
+      "definition": "an adjudication section declared under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Demarcation Map",
+      "definition": "a demarcation index map prepared under section 13 in respect of an adjudication section",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Demarcation Officer",
+      "definition": "a Demarcation Officer appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "guardian",
+      "definition": "any person (whether under customary law or otherwise) responsible for protecting the interests of any person who is under a disability, whether by reason of age, unsoundness of mind or any other cause",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interest in land",
+      "definition": "any right or interest in or over land which is capable of being recorded under the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land",
+      "definition": "land covered with water, all things growing on land, buildings and other things permanently affixed to land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "piece",
+      "definition": "a piece of land separately shown on a Demarcation Map and thereon given a number",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Recording Officer",
+      "definition": "a Recording Officer appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Survey Officer",
+      "definition": "a Survey Officer appointed under section 4 .",
+      "source_provision": "s2"
+    }
+  ]
+}

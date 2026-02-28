@@ -1,0 +1,79 @@
+{
+  "id": "mw-act-1928-5",
+  "type": "statute",
+  "title": "Fingerprints Act",
+  "title_en": "Fingerprints Act",
+  "short_name": "Fingerprints Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1928/5/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Fingerprints Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act and any Rules made hereunder, unless the context otherwise requires— “ authorized officer ” means any police officer or prison officer of Malawi; “ fingerprints ” include the marks made by the papillary ridges of the fingers and palms of the hands and the toes and soles of the feet; “ fingerprint form ” means a piece of paper or cardboard printed in accordance with Rules framed under this Act. [30 of 1969]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to take fingerprints of accused or convicted persons",
+      "content": "(1) An authorized officer may take the fingerprints of any person in lawful custody for any offence, whether accused or convicted, or who is subject to police supervision. (2) The person whose fingerprints are taken, if able to write, shall sign the form in the place provided for the purpose. (3) If any such person, when required to do so by an authorized officer , refuses to have his fingerprints taken or to sign the fingerprint form , he shall commit an offence and be liable to a fine of ten pounds and to imprisonment for one month and to enable such fingerprints to be taken reasonable force may be used by an authorized officer with the permission and to the presence, of a magistrate or an officer in charge of police of the rank of Inspector or above. [30 of 1969]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Conviction to be recorded on fingerprint form",
+      "content": "If the person whose fingerprints are taken is convicted of any offence, his conviction and sentence shall, be recorded in the space provided for the purpose on the fingerprint form . If he is acquitted, the fingerprint form shall be destroyed."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Establishment of fingerprint bureau",
+      "content": "There shall be established at a place to be approved by the Minister an office (in this Act and any Rules made hereunder referred to as the “fingerprint bureau”) for the preservation, comparison and indexing of the fingerprint forms."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Fingerprint forms to be evidence",
+      "content": "Where the fingerprints on a fingerprint form purport to have been taken and the entries thereon purport to have been made by an authorized officer , the fingerprint form shall be admissible in evidence without proof, and shall be prima facie evidence of the conviction and sentence of the person whose fingerprints are impressed thereon."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Proof of conviction by fingerprints",
+      "content": "For the purpose of proving a previous conviction of a person accused or convicted of any offence, a certificate in the form contained in the Rules made under this Act and purporting to be signed by the officer in charge of the fingerprint bureau, or by the officer in charge of any fingerprint bureau without Malawi, shall be admissible in evidence without proof, and shall be prima facie evidence that the fingerprints to which the certificate relates are the fingerprints of the same person and also of the previous convictions and sentences recorded in the certificate."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to make Rules",
+      "content": "The Minister may make Rules regulating the work of the fingerprint bureau, and for the better carrying out of the purposes of this Act, and any person guilty of a breach of such Rules shall be liable to a fine of £10 and to imprisonment for one month"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Saving",
+      "content": "Any fingerprints taken under the Prisoners Identification Ordinance, 1921 (now repealed) shall be deemed to have been taken under this Act, and the forms on which such fingerprints were taken shall be deemed to be fingerprint forms as defined by this Act. [6 of 1921] History of this document 31 December 2014 this version Consolidation 14 April 1928 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorized officer",
+      "definition": "any police officer or prison officer of Malawi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fingerprint form",
+      "definition": "a piece of paper or cardboard printed in accordance with Rules framed under this Act. [30 of 1969]",
+      "source_provision": "s2"
+    }
+  ]
+}

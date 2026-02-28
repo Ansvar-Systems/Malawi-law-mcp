@@ -1,0 +1,70 @@
+{
+  "id": "mw-act-2000-11",
+  "type": "statute",
+  "title": "Judicature Administration Act",
+  "title_en": "Judicature Administration Act",
+  "short_name": "Judicature Administration Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2000/11/eng@2000-12-01",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Judicature Administration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ Chief Courts Administrator ” means the Chief Courts Administrator of the judiciary appointed under section 3 ; “ Commission ” means the Judicial Service Commission established under section 116 of the Constitution; “ court fees ” means any fees, commissions or charges payable under any written law in connexion with the filing, service, execution or administrative processing of any writ, application or other legal process, and includes sheriff’s fees and any other commission, late fees or other charges so payable; “ judicial office ” has the meaning ascribed to it under section 111 (4) of the Constitution; “ member of staff of the judiciary ” means any employee of the judiciary, other than a person holding a judicial office ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Chief Courts Administrator",
+      "content": "(1) There shall be a Chief Courts Administrator for the judiciary whose office shall be a public office and who shall be subordinate to the Registrar of the Supreme Court of Appeal and the High Court. (2) The Chief Courts Administrator shall oversee the general, financial and personnel administration of the judiciary and, in exercising his or her duties, shall be subject to any general or special directions of the Chief Justice."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Funds of the judiciary",
+      "content": "(1) Subject to section 114(2) of the Constitution, the funds of the judiciary shall consist of— (a) such sums as shall be appropriated by Parliament for the purpose of the judiciary; (b) such sums as may be payable to the judiciary by way of court fees ; (c) such sums as may be received by the judiciary under subsection (2); and (d) such sums as may otherwise vest in or accrue to the judiciary. (2) The judiciary may accept grants whether or not subject to conditions, for the benefit of any activity, function, fund or asset of the judiciary. (3) There shall be paid out of the funds of the judiciary— (a) the salaries, pension, gratuity and allowances of holders of judicial office in accordance with section 114 of the Constitution; (b) the loans of holders of judicial office ; (c) the salaries, allowances and loans of members of staff of the judiciary as may be determined by the Commission in accordance with regulations made under this Act; and (d) any other expenses incurred in connexion with the administration of the judiciary."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Regulations",
+      "content": "The Commission may— (a) subject to sections 118 and 119 of the Constitution, make regulations for— (i) the nomination of persons for judicial office ; (ii) the exercise of disciplinary powers in relation to persons holding judicial office ; (b) make regulations for— (i) the appointment of members of staff of the judiciary; (ii) the exercise of disciplinary powers in relation to members of staff of the judiciary; (iii) with the approval of the Minister responsible for finance, the terms and the conditions of service for members of staff of the judiciary; and (c) make regulations for the general administration of the judiciary. History of this document 01 December 2000 this version Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chief Courts Administrator",
+      "definition": "the Chief Courts Administrator of the judiciary appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Judicial Service Commission established under section 116 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court fees",
+      "definition": "any fees, commissions or charges payable under any written law in connexion with the filing, service, execution or administrative processing of any writ, application or other legal process, and includes sheriff’s fees and any other commission, late fees or other charges so payable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial office",
+      "definition": "ascribed to it under section 111 (4) of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member of staff of the judiciary",
+      "definition": "any employee of the judiciary, other than a person holding a judicial office .",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mw-act-1934-7",
+  "type": "statute",
+  "title": "Loans Recovery Act",
+  "title_en": "Loans Recovery Act",
+  "short_name": "Loans Recovery Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1934/7/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Loans Recovery Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act— “ court ” includes the High Court and any subordinate court and any Traditional Court other than a Regional Traditional Court or a court of a grade below that of a Grade AI Traditional Court."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to court to reopen money-lending transactions",
+      "content": "(1) (a) in suits by creditors Where proceedings are taken in any court for the recovery of any money lent after the commencement of this Act, or the enforcement of any agreement or security made or taken after the commencement of this Act, in respect of money lent either before or after the commencement of this Act, and there is evidence which satisfies the court that the interest charged in respect of the sum actually lent is excessive, or that the amounts charged for expenses, inquiries, fines, bonus, premium, renewals or any other charges, are excessive, and that, in either case, the transaction is harsh and unconscionable, or is otherwise such that a court of equity would give relief, the court may reopen the transaction, and take an account between the lender and the person sued, and may, notwithstanding any statement or settlement of the account or any agreement purporting to close previous dealings and create a new obligation, reopen any account already taken between them, and relieve the person sued from payment of any sum in excess of the sum adjudged by the court to be fairly due in respect of such principal, interest, and charges, as the court having regard to the risk and all the circumstances, may adjudge to be reasonable; and, if any such excess has been paid, or allowed in account, by the debtor, may order the creditor to repay it; and may set aside, either wholly or in part, or revise, or alter, any security given or agreement made in respect of money lent by the lender, and if the lender has parted with the security may order him to indemnify the borrower or other person sued. (2) (b) at instance of debtor Any court in which proceedings might be taken for the recovery of money lent by a lender shall have and may, at the instance of the borrower or surety or other person liable, exercise the like powers as may be exercised under this section where proceedings are taken for the recovery of money lent; and the court shall have power, notwithstanding any provision or agreement to the contrary, to entertain any application under this Act by the borrower or surety, or other person liable, notwithstanding that the time for repayment of the loan, or any instalments thereof, may not have arrived. (3) On any application relating to the admission or amount of a proof by a money-lender in any bankruptcy proceedings, the court may exercise the like powers as may be exercised under this section when proceedings are taken for the recovery of money. (4) Application of section The foregoing provisions of this section shall apply to any transaction which, whatever its form may be, is substantially one of money-lending. (5) Saving for bona fide assignee, etc. Nothing in the foregoing provisions of this section shall affect the rights of any bona fide assignee or holder for value without notice. History of this document 31 December 2014 this version Consolidation 02 July 1934 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "the High Court and any subordinate court and any Traditional Court other than a Regional Traditional Court or a court of a grade below that of a Grade AI Traditional Court.",
+      "source_provision": "s2"
+    }
+  ]
+}

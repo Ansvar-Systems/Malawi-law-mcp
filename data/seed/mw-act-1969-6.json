@@ -1,0 +1,96 @@
+{
+  "id": "mw-act-1969-6",
+  "type": "statute",
+  "title": "Slaughter of Cattle Act",
+  "title_en": "Slaughter of Cattle Act",
+  "short_name": "Slaughter of Cattle Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1969/6/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "(1) This Act may be cited as the Slaughter of Cattle Act. (2) Part I shall apply in such areas of Malawi and to such types or classes of cattle as the Minister may, from time to time, by notice specify. (3) Part II shall apply throughout Malawi."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ cattle ” includes bulls, cows, oxen, heifers and calves; “ C brand ” means a mark in the shape of a half circle, the diameter of the circle being not less than 2 inches or more than 2% inches; “ immature cattle ” means male or female cattle having less than six permanent incisor teeth; “ Inspector ” means any Veterinary Officer, Livestock Officer, Assistant Livestock Officer, Marketing Officer, Assistant Marketing Officer, or any other person authorized in writing by the Director of Animal Health and Industry for the purposes of this Act. Part I"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Prohibition against slaughter of immature and female cattle",
+      "content": "In any area to which this Part applies, any person who slaughters any immature or female cattle , unless such slaughter is authorized by an Inspector in accordance with this Act, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Grounds for authorizing slaughter",
+      "content": "An Inspector shall not authorize the slaughter of any immature or female cattle unless he is satisfied that it is desirable or necessary on humanitarian or economic grounds or in the interests of cattle breeding in Malawi."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Authority to slaughter cattle",
+      "content": "(1) Where an Inspector authorizes the slaughter of any immature or female cattle he shall mark or cause to be marked such cattle with a C brand on the right cheek. (2) The presence of a C brand on the right cheek of any immature or female cattle shall be prima facie evidence that the slaughter of such cattle has been authorized by an Inspector . (3) Any person, other than an Inspector or a person so authorized by an Inspector , who marks any immature or female cattle with a C brand on the right cheek shall be guilty of an offence. Part II"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Powers of entry",
+      "content": "For the purposes of this Act, any Inspector may, at all reasonable times, enter any land or premises where cattle are kept for slaughter or offered for sale and any abattoir or slaughter house or other place where cattle are slaughtered, and may inspect any cattle or carcasses found therein and may seize and remove any carcass or part of any carcass which would afford evidence of a contravention of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Order forbidding slaughter",
+      "content": "Where an Inspector is of the opinion that the slaughter of any immature or female cattle in an area to which Part I has not been applied, is undesirable in the interests of cattle breeding in Malawi, he may issue to the owner of such cattle an order in writing forbidding the slaughter of such cattle without the authority of an Inspector , and thereafter any person who slaughters or causes the slaughter of such cattle , unless the slaughter is authorized by an Inspector in accordance with this Act, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Appeal to Minister",
+      "content": "Any person aggrieved by the refusal of an Inspector to authorize the slaughter of any immature or female cattle , or by the issue by an Inspector of an order forbidding the slaughter of any immature or female cattle , may apply to the Minister to review such refusal or issue, and the Minister’s decision thereon shall be final and shall not be questioned in any court."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Penalty",
+      "content": "Any person guilty of an offence under this Act shall be liable to a fine of one hundred pounds and to imprisonment for six months. History of this document 31 December 2014 this version Consolidation 06 May 1969 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cattle",
+      "definition": "bulls, cows, oxen, heifers and calves",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C brand",
+      "definition": "a mark in the shape of a half circle, the diameter of the circle being not less than 2 inches or more than 2% inches",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immature cattle",
+      "definition": "male or female cattle having less than six permanent incisor teeth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Inspector",
+      "definition": "any Veterinary Officer, Livestock Officer, Assistant Livestock Officer, Marketing Officer, Assistant Marketing Officer, or any other person authorized in writing by the Director of Animal Health and Industry for the purposes of this Act. Part I",
+      "source_provision": "s2"
+    }
+  ]
+}

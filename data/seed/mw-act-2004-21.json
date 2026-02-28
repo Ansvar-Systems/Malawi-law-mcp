@@ -1,0 +1,432 @@
+{
+  "id": "mw-act-2004-21",
+  "type": "statute",
+  "title": "Rural Electrification Act",
+  "title_en": "Rural Electrification Act",
+  "short_name": "Rural Electrification Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2004/21/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Rural Electrification Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" Authority \" means the Malawi Energy Regulatory Authority established under section 3 of the Energy Regulation Act; [Cap. 73:02] \" beneficiary \" means a person who procures a credit guarantee under section 18 ; \" candidate site \" means a site included in the rural electrification programme ; \" Committee \" means the Rural Electrification Management Committee established under section 3 ; \" Concedante \" means the Department of Energy Affairs and any other entity or body as the Minister may designate by notice published in the Gazette ; \" Concessionaire \" means a person who has entered into concession agreement to install, operate or maintain a rural electrification installation on behalf and as agent of a Concedante ; \" concession agreement \" means a concession agreement concluded between a Concedante and a Concessionaire whereby the Concessionaire agrees to construct, install, operate or maintain a rural electrification installation on behalf and as an agent of the Concedante in accordance with section 27 ; \" concession area \" means an area demarcated in the concession agreement over which a Concessionaire is granted exclusive right to construct, install, operate or maintain a rural electrification installation on behalf of a Concedante ; \" Credit Finance Manager \" means the Credit Finance Manager appointed under section 19 ; \" Fund \" means the Malawi Rural Electrification Fund established under section 12 ; \" grant and subsidy agreement \" means the agreement entered into between the Concedante and the Concessionaire for purposes of channelling funds from the Fund to the Concessionaire for rural electrification and m accordance with section 2 ; \" grid extension rural electrification \" means rural electrification installation that is connected to the interconnected system ; \" interconnected system \" means the high voltage national electricity system of 66 KV and above, or as may be prescribed by notice in the Gazette , including related substations and associated equipment and generation stations to which they are connected and any distribution system connected thereto; \" Malawi Bureau of Standards \" means the Malawi Bureau of Standards established under the Malawi Bureau of Standards Act; [Cap. 51:02] \" management fee \" means the fee payable by a Concessionaire to a Concedante in accordance with section 28 ; \" micro hydropower station \" means a hydropower station whose installed generation capacity is not less than 2 KW, but is less than 100 KW; \" mini hydropower station \" is a hydropower station whose installed generation capacity is not less than 100 KW, but is less than 500 KW; \" off-grid rural electrification \" means rural electrification installation that is not connected to the interconnected system ; \" public institutions \" includes Government schools, hospitals, clinics, health centres, police stations and other Government offices and institutions; \" renewable energy resources \" means solar home system , micro, mini and small hydro-electric power stations, biomas, biogas, wind, and other thermal electricity generation systems and technologies; \" rural electrification \" means grid extension or off-grid electrification or renewable energy resources electrification whose internal rate of return is up to 6 per cent per annum and line capacity is lower than 66 KV or generation capacity is up to 5MW; \" rural electrification programme \" means the rural electrification programme prepared or compiled in accordance with section 34 ; \" rural electrification site \" means a site where rural electrification installation is in progress or under commercial operation; \" Rural Electrification Unit \" means the Rural Electrification Unit in the Department of Energy Affairs; \" small hydropower station \" means a hydropower station whose installed generation capacity is not less than 500 KW and up to 5 MW; \" solar home system \" means photovoltaic solar home systems technology as contemplated in section 31 ; \" Solar Home System Purchase, Guarantee and Service Agreement \" means the agreement entered into between the Concedante or Purchaser and the Concessionaire or between the Concessionaire and the supplier of solar home system equipment for the purpose of purchase, guarantee and service of the same in accordance with section 32 . Part II – Establishment of Rural Electrification Management Committee"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of the Committee",
+      "content": "There is hereby established a committee to be known as the Rural Electrification Management Committee (in this Act otherwise referred to as the \" Committee \")."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Composition of the Committee",
+      "content": "(1) The Committee shall consist of— (a) the Principal Secretary responsible for energy affairs; (b) the Director of Energy Affairs in the Department of Energy Affairs; (c) the Chief Executive of the Authority or his or her designated representative; (d) the Secretary for Economic Planning and Development; (e) the Secretary to the Treasury; (f) the Secretary for Local Government; (g) a representative of the Board of Engineers; and (h) a representative of the Society of Accountants of Malawi. (2) The Minister shall appoint one of the members of the Committee as Chairperson of the Committee ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Objectives of the Committee",
+      "content": "The objectives of the Committee shall be— (a) to ensure that the majority of the Malawian population in peri-urban and rural communities have access to efficient, sustainable and affordable energy for their social economic development through grid extension and off-grid electricity supply, including solar home system technologies; (b) to raise funds and receive and to administer the Fund for the benefit of rural electrification in Malawi; (c) to prepare annual rural electrification programmes and advise the Minister on the prioritization, selection criteria on candidate sites, and ensure the efficient and effective implementation of rural electrification programmes; and (d) to promote rural electrification and act as a source of technical, commercial and institutional advice in rural electrification matters."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Functions of the Committee",
+      "content": "For purposes of achieving the objectives set out in section 5 , the Committee shall carry out the following functions— (a) develop a rural electrification master plan and update it at regular intervals; (b) set criteria for candidate site selection; (c) act as a source of technical, commercial and institutional advice; (d) seek and access donor funding and soft credit for rural electrification ; (e) undertake publicity and marketing campaigns on the new approach to rural electrification and the opportunities provided; (f) contract and oversee the construction and management of rural electrification projects; (g) administer the Fund and decide on the allocation of financial resources from the Fund ; (h) monitor implementation of rural electrification projects by Concessionaires; (i) carry out or commission studies and research for promoting the development of rural electrification ; (j) advise the Authority on the specifications, design and safety standards for rural electrification systems, equipment and technologies; (k) advise the Authority on the prices for solar home system equipment and on the tariffs and maintenance charges for rural electrification ; (l) advise the Minister on the appropriate amount to be appropriated by Parliament for the Fund ; (m) in liaison with the Authority , carry out evaluations and publish periodic reports of the activities of the Committee ; (n) prepare, publish and submit to the Minister audited annual accounts of the Fund ; and (o) do all such things as are necessary for achieving the purposes for which the Committee and the Fund are established."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Meetings of the Committee",
+      "content": "(1) The Committee shall meet at least once every six months at such place or places and at such time or times as the Chairperson may determine. (2) The Chairperson shall preside at the meetings of the Committee and, in the absence of the Chairperson, the members present and forming a quorum shall elect one of their number to preside over the meeting of the Committee , and the member so elected shall exercise all the powers and functions and perform all the duties of the Chairperson. (3) At any meeting the decision of the Committee on any matter shall be that of the majority of the members present and at all such meetings the person presiding shall have, in the event of an equality of votes a casting vote in addition to his deliberative vote. (4) Save as otherwise provided in this section, the Committee shall have power to determine its own procedure of meetings and operating guidelines."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Remuneration and expenses of the Committee",
+      "content": "The members of the Committee shall be paid from the proceeds of the Fund such allowances as the Minister, on the recommendation of the Committee , may determine, and the Committee shall make provision for the reimbursement of any reasonable expenses incurred by a member of the Committee in connexion with the business of the Committee ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Committee may co-opt advisors",
+      "content": "(1) The Committee may in its discretion at any time, and for any length of period, co-opt any person to attend deliberations of the Committee , but such person shall not be entitled to vote on any matter. (2) The Committee may in its discretion engage any advisor or consultant to carry out any assignment on behalf of the Committee in relation to rural electrification and pay him or her out of the proceeds of the Fund ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Committee to be accountable to the Minister",
+      "content": "(1) The Committee shall be responsible and accountable to the Minister for ensuring efficiency, transparency and propriety in— (a) the collection, allocation and utilization of funds of the Fund ; (b) the conduct of its business and the performance of its functions and duties; and (c) the operations and activities of the Committee . (2) The Committee shall at such intervals as the Minister may in writing require submit to the Minister reports and financial statements, in such form as the Minister may determine, regarding the operations and activities of the Committee and the Fund ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Secretariat and staff of the Committee",
+      "content": "(1) The Rural Electrification Unit shall provide services and resources to the Committee . (2) The members of staff of the Rural Electrification Unit shall carry out the day to day work and operations of the Committee as the Committee may, from time to time, require. (3) The Committee may delegate to the Director of Energy Affairs functions and duties of the Committee and the supervision of the said staff members carrying out the day to day work and operations of the Committee . (4) Save as otherwise provided in this Act, the Director of Energy Affairs and members of staff of the Rural Electrification Unit shall not be entitled to any additional remuneration by reason only of their carrying out the functions for or of the Committee . (5) Members of staff of the Rural Electrification Unit or the Department of Energy Affairs may, at the invitation of the Committee , or for purposes of presenting reports attend meetings of the Committee . Part III – Establishment of Malawi Rural Electrification Fund"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Establishment of the Fund",
+      "content": "There is hereby established a Fund to be known as the Malawi Rural Electrification Fund (in this Act otherwise referred to as the \" Fund \") which shall comprise— (a) such sums as shall be appropriated by Parliament for the purposes of the Fund ; (b) rural electrification levies on energy sales as may, from time to time, be imposed by the Authority under the Energy Regulation Act; [Cap. 73:02] (c) such sums or assets as may, from time to time, accrue to or vest in the Fund by way of grants, subsidies, bequests, donations, gifts and subscriptions from the Government or any person; (d) such sums or assets as may be donated to the Fund by any foreign Government, international agency or other external body of persons, corporate or unincorporate; (e) 50 per cent of penalties and fines payable or imposed under this Act; (f) the proceeds from sale of rural electrification lines and equipment funded by the Fund ; and (g) any other income authorized under this Act or income recognized as such by accounting standards and practices."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Purpose of the Fund",
+      "content": "The proceeds of the Fund shall be used to finance— (a) the capital cost of rural electrification grid extension and off-grid electrification; (b) the capital cost of solar home system equipment to be acquired for public institutions ; (c) operational and maintenance costs of rural electrification projects, to the extent to which it makes the project viable; (d) provision of credit guarantees for the capital cost of solar home system equipment other than those to be acquired by a Concessionaire ; (e) any monetary contribution required to be made by the Government for the implementation and execution of a donor-funded rural electrification project; (f) the administrative expenses associated with the execution of the duties and functions and responsibilities of the Committee and the management of the Fund ; (g) research and consultancy assignments related to rural electrification ; (h) expenses for credit guarantee funds management; and (i) compensation for removal of off-grid installations in accordance with section 33 ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Advances to the Fund",
+      "content": "(1) The Committee shall ensure that in any financial year expenditures and commitments from the Fund shall not exceed the annual income of the Fund . (2) If, in exceptional circumstances, the income of the Fund together with any surplus income brought forward from a previous year, is insufficient to meet the actual or estimated liabilities of the Committee and rural electrification projects, the Committee may apply to the Minister responsible for finance for an advance to the Fund in order to meet the deficiency or any part thereof and, subject to subsection (3), such advance shall be made on such terms and conditions, whether as to repayment or otherwise, as the Minister responsible for finance may determine. (3) Every advance made available pursuant to subsection (2) shall be repaid from the income of the Fund in the next financial year following the financial year in which the advance was made available."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Holdings of the Fund",
+      "content": "All sums received for purposes of the Committee and the Fund shall be paid into one or more banking accounts at such bank or banks or other financial institutions as the Committee may determine, and no amount shall be withdrawn therefrom except under the authority of the Committee and by means of cheque or other authorization signed by such person or persons as are authorized in that behalf by the Committee ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Surplus funds to be invested",
+      "content": "Any part of the Fund not immediately required for the purposes of the Committee or rural electrification may be invested in such manner as the Committee may, with the prior approval of the Minister, determine."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Disbursements from the Fund",
+      "content": "(1) Disbursements of monies from the Fund to a Concessionaire shall be made by the Committee subject to fulfilment of the following conditions— (a) acceptance by the Committee of a business plan of the Concessionaire ; (b) where applicable, the conclusion and implementation of the concession agreement by the Concedante and the Concessionaire ; (c) proof, acceptable to the Committee , that the proposed installation or equipment complies with the applicable equipment standards, design and performance criteria; (d) proof, acceptable to the Committee , that the Concessionaire has a valid rural electrification licence for the area in question; (e) in the case of final disbursement, proof that the installation or equipment is fully functional, completely installed and operational; (f) in the case of solar home system equipment, additionally, proof that the Authority has approved the equipment supply and service contract price; and (g) that the project has been approved as a priority rural electrification project by the Committee . (2) The Committee shall not be obliged to disburse monies from the Fund to a Concessionaire and may refuse to do so on breach or non-compliance by the Concessionaire with the provision of the concession agreement or the provisions of this Act or the Energy Regulation Act, or the Electricity Act. [Cap. 73:02] [Cap. 73:01] (3) The Committee shall disburse monies from the Fund to a Concessionaire only for rural electrification projects of the highest priority in accordance with the priority listing criteria set down in section 35 and regulations made by the Minister in that regard."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Credit guarantees",
+      "content": "(1) The Committee may authorize the provision of a credit guarantee to a beneficiary if— (a) the conditions stated in section 17 (1) (c), (e) and (f) which shall apply mutatis mutandis , have been fulfilled; and (b) the Credit Finance Manager has certified that the beneficiary is capable of servicing the credit. (2) The Committee shall not authorize the provision of a credit guarantee unless the provisions of subsection (1) are complied with."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Appointment of Credit Finance Manager",
+      "content": "The Minister shall, on the recommendation of the Committee , appoint one or more institutions as a Credit Finance Manager ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Grant and subsidy agreements",
+      "content": "(1) For purposes of channeling the funds from the Fund , the Department of Energy Affairs shall enter into a grant and subsidy agreement , in the prescribed form with a Concessionaire for each rural electrification project. (2) In addition to the terms and conditions of the grant and subsidy agreement , the following terms and conditions shall be implied in every grant and subsidy agreement — (a) that the Concessionaire shall use the monies from the Fund for financing the capital costs or operational costs of the rural electrification project specified in the agreement; (b) that disbursements from the Fund shall be made in accordance with progress of works, including a reasonable amount as advance payment as the parties may agree; and (c) that, the Concedante shall grant the Concessionaire exclusive concession for the concession area and shall not disburse any monies to another concessionaire in the same concession area . Part IV – Financial provisions"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Books of accounts",
+      "content": "(1) The Committee shall cause to be kept proper books of accounts and other records relating to the Fund . (2) The Committee shall as soon as possible after the end of each financial year cause to be prepared a statement of the cash flow and income and expenditure of the Fund for that financial year and a balance sheet of the assets and liabilities of the Fund as at the end of that financial year. (3) The accounts of the Fund shall be audited annually in accordance with the Public Audit Act, before being presented to the Minister in accordance with section 22 . [Cap. 37:01] (4) The financial year of the Fund shall be a period of twelve months commencing on 1st July in each year and ending on 30th June in the following year: Provided that the first financial year of the Fund may be a shorter or longer period than twelve months as the Minister may determine, but being not less than six months nor more than eighteen months."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Annual report",
+      "content": "(1) As soon as practicable, but not later than six months after the expiry of each financial year, the Committee shall submit to the Minister an annual report concerning rural electrification and the Fund during that financial year. (2) The annual report referred to in subsection (1) shall include— (a) an audited balance sheet and statement of cash flow and income and expenditure; (b) a report of the examination of the accounts referred to in section 21 (3); (c) a status report on rural electrification ; (d) a report regarding rural electrification programme for the next financial year; (e) a list of Concessionaires and beneficiaries who have benefitted from the Fund including the provision of any credit guarantee; and (f) a report on the performance of Concessionaires with respect to rural electrification projects in progress, planned and completed. Part V – Regulation of rural electrification"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Application of Cap. 73:01 and Cap. 73:02",
+      "content": "The provisions of the Electricity Act and the Energy Regulation Act shall apply to rural electrification activities under this Act mutatis mutandis . [Cap. 73:01] [Cap. 73:02] Provided that where the Electricity Act or the Energy Regulation Act are in conflict with the provisions of this Act and the regulations made hereunder, the provisions of this Act and the regulations made hereunder shall prevail over the provisions of the Electricity Act or the Energy Regulation Act as the case may be. [Cap. 73:01] [Cap. 73:02]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Rural electrification activities to be licensed",
+      "content": "(1) No person shall carry on or be engaged in any manner in any rural electrification activity without a licence issued by the Authority . (2) Separate licences shall be issued for generation, distribution or renewable energy technologies. (3) Any person required to hold a licence under this Part shall apply to the Authority for a licence. (4) An application for a licence under this section shall be in the prescribed form. (5) A licence under this section shall be in the prescribed form. (6) The Authority shall consider an application for the issue of a licence and may issue or refuse to issue the licence. (7) The Authority may only issue a licence if it is satisfied that— (a) the applicant has or has access to financial, technical and human resources to enable it install and operate a rural electrification scheme; (b) in the case of solar home system , the applicant or its officers have valid accreditation certificates issued by the Malawi Bureau of Standards or other body or agency the Minister may designate by notice in the Gazette ', and (c) subject to funding from the Fund , the applicant will be able to meet reasonably foreseeable obligations under contracts for sale of electricity within the area covered by his or her licence. (8) A holder of a generation licence may apply and be granted a distribution licence or renewable energy licence and vice versa for off-grid electrification."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Tariffs",
+      "content": "The tariffs for grid extension or off-grid rural electrification shall be approved by the Authority and shall be set, administered and revised in accordance with the Electricity Act. [Cap. 73:01]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Safety by-laws",
+      "content": "(1) The supply, wiring, design and safety by-laws under the Electricity Act shall apply to the grid and off-grid extension rural electrification system: Provided that in order to ensure that rural electrification schemes are appropriately engineered and costs are minimized, the Authority, on the recommendation of the Committee, may develop and publish in the Gazette by-laws regulating the supply, wiring, design and safety standards for rural electrification grid extension or off-grid schemes. [Cap. 73:01] (2) The Authority may, on the recommendation of the Committee, by notice published in the Gazette prescribe minimum codes of practice and design specification standards for solar home system equipment for rural electrification."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Concession agreements",
+      "content": "(1) Where the execution of a rural electrification project is to be carried out by a Concessionaire , there shall be executed a concession agreement between the Concedante and the Concessionaire in the prescribed form. (2) For purposes of subsection (1) the Concedante shall demarcate the concession area and grant the Concessionaire exclusive right to establish, operate and maintain a rural electrification scheme or schemes and sell electrical energy to customers in the concession area . (3) The electricity tariffs and charges by the Concessionaire under a rural electrification project shall be set at the rate as approved by the Authority . (4) The Concessionaire shall submit to the Concedante within sixty days of the end of the Concedante ’s financial year an annual report of the rural electrification activities in the concession area ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Concession management fee",
+      "content": "(1) The Concedante shall be entitled to be paid by the Concessionaire a concession fee to cover the monitoring and management costs and costs of channelling monies from the Fund to the Concessionaire and also costs of identifying and demarcating the concession area . (2) The amount of the management fee referred to in subsection (1)— (a) shall be agreed upon between the Concedante and the Concessionaire and approved by the Authority ; and (b) may be reviewed annually by the Authority on application by the Concedante or the Concessionaire ."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Duration of concession agreement",
+      "content": "A concession agreement shall remain in force for a period of up to twenty years as long as the Concessionaire complies with the provisions thereof and this Act or any other relevant written law."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Implied terms and conditions in concession agreement",
+      "content": "There shall be implied in every concession agreement the following terms and conditions— (a) no monies from the Fund shall be payable to the Concessionaire if the Concessionaire operates outside the concession area unless the parties agree otherwise before hand; (b) provided the Concessionaire has complied with the provisions of the concession agreement , the Concedante shall be obliged to forthwith pass on the approved monies from the Fund to the Concessionaire ; and (c) the concession agreement shall come into force upon the successful conclusion of the grant and subsidy agreement between the Concedante and Concessionaire ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Solar home system agreements",
+      "content": "Where the rural electrification is by means of solar home system technologies, the Concedante and the Concessionaire and the supplier of the equipment shall enter into the Solar Home System Purchase Guarantee and Service Agreement in the prescribed form."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Ownership of lines and equipment",
+      "content": "(1) All rural electrification lines and equipment installed or acquired with funding from the proceeds of the Fund shall be owned by the Government represented by the Concedante for each rural electrification project. (2) A Concessionaire shall not transfer or cede any rural electrification line or equipment installed or acquired with funding from the proceeds of the Fund to any person without the written consent of the Concedante . (3) In the case of sale of any rural electrification line or equipment installed or acquired with funding from the proceeds of the Fund the proceeds of such sale shall be appropriated to the Fund ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Grid power coming to off-grid system",
+      "content": "(1) When the interconnected system extends to an off-grid electrification area, the consumers in that area shall have an option of either continuing with the off-grid electrification system or connecting to the interconnected system . (2) If a consumer referred to in subsection (1) elects to connect to the interconnected system , the Concessionaire shall have the option of either removing the off-grid installation or connecting such installation to the interconnected system , where technically feasible, for purposes of feeding into such system, subject to the approval of the owner and operator of the interconnected system , and in either case without any penalty to the consumer. (3) The cost of connecting to the interconnected system or adjusting the off-grid system to make it compatible with the interconnected system shall be financed from the proceeds of the Fund on the same terms as other rural electrification projects. (4) Where a Concessionaire , referred to in subsection (2), decides to remove the off-grid installation— (a) the Concessionaire shall move the installation to another area to be agreed between the Concedante and Concessionaire ; (b) the Concedante shall define a new or extend existing concession area for the Concessionaire without additional charge to the Concessionaire ; and (c) the Concessionaire shall be compensated for the costs involved in the removal and reinstallation of the rural electrification installation and any consequential damages thereof out of monies from the Fund . (5) The quantum of compensation under subsection (4) (c) shall be determined by the Committee , and shall be subject to the approval of the Authority . (6) If the licensee was holding a generation and distribution licence or renewable energy licence he or she shall surrender the other licences and remain with only one licence if he or she will be a licensee in the interconnected system . Part VI – Management of rural electrification activities"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Annual rural electrification programme",
+      "content": "(1) Every Concessionaire shall, at least six months before the commencement of the Committee ’s financial year, submit to the Committee an annual rural electrification programme in such form and containing such details as the Committee shall specify and the programme shall contain an estimated cost of such rural electrification programme . (2) The Committee shall compile a rural electrification programme which shall— (a) specify the amounts allocated for grid extension, off-grid electricity supply and solar home system electricity supply and include an annual budget for rural electrification ; (b) prepare a candidate site priority list in accordance with the criteria laid down in section 35 . (3) The Committee shall submit to the Minister the annual rural electrification programme and the budget for approval."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Priority listing of projects",
+      "content": "(1) Each project in the rural electrification programme shall be assessed by the Committee , for technical, financial, economic, environmental and social feasibility and only those projects that are proved to be technically, financially, economically, socially and environmentally feasible shall qualify for funding from the Fund . (2) The rural electrification project with the highest internal rate of return shall be placed at the top of the priority list of rural electrification projects: Provided that where a Concessionaire or consumers are able and willing to contribute up to 20 per cent of the capital cost of the project for grid or off-grid electrification or up to 50 per cent for renewable energy project such a project will gain additional priority on the priority list."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Promotion of rural electrification",
+      "content": "The Committee shall take steps and do all things necessary to promote, attract, encourage, facilitate and market rural electrification in Malawi and in particular shall— (a) conduct civic education to the peri-urban and rural population on the advantages of and opportunities available in rural electrification services and technologies; (b) conduct market research on the acceptance or satisfaction of rural electrification customers with rural electrification technologies and services for purposes of attracting potential customers to rural electrification ; (c) provide to potential customers, investors, concessionaires, donors, beneficiaries, and all others, information regarding rural electrification in Malawi; (d) develop and promote a favourable image of rural electrification for Malawi; (e) undertake rural electrification promotion missions within and outside Malawi; (f) recommend to the Minister changes in the statutory and administrative framework which act as barriers to the promotion of rural electrification in Malawi and make representations against or regarding any changes to such statutory or administrative framework; (g) develop and promote strategies aimed at building confidence among various stakeholders in rural electrification services and technologies; (h) develop and promote strategies aimed at ensuring the sustainability of rural electrification in Malawi; (i) develop and promote strategies aimed at increasing the access to energy sources by the majority of the peri-urban and rural population in Malawi and raise their living standards and empower women as key players in energy matters at household level; and (j) do all such things as are necessary and conducive to the achievement of the objectives of this Act."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Committee to monitor rural electrification",
+      "content": "(1) The Committee shall monitor, through reports or site visits, the implementation and operation of rural electrification projects and schemes for purposes of ensuring that the Concessionaires are implementing the rural electrification projects or operating the rural electrification schemes in accordance with the grant and subsidy agreement , the concession agreement , this Act, the Energy Regulation Act or the Electricity Act. [Cap. 73:02] [Cap. 73:01] (2) A Concessionaire found to be in breach of his or her obligations as set out in subsection (1) shall be notified by the Committee in writing on the nature of the breach and the Concessionaire shall be requested to remedy the breach, if capable of remedy, within thirty days of receipt of such notice. (3) Where a Concessionaire fails to remedy the breach notified in accordance with subsection (2), the Committee shall take any of the following actions, as the case may be— (a) withhold further disbursements from the Fund ; (b) recommend to the Malawi Bureau of Standards for cancellation of the accreditation certificate, where applicable; and (c) recommend to the Authority to take action in accordance with this Act, the Energy Regulation Act or the Electricity Act. [Cap. 73:02] [Cap. 73:01]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Reports of rural electrification",
+      "content": "A Concessionaire shall submit to the Committee reports in such form and containing such information as the Committee shall determine as follows— (a) an initial rural electrification plan and budget for the next financial year in accordance with section 34 ; (b) implementation progress reports at least quarterly, detailing progress of each rural electrification project, special attention being paid to cases where the cost estimate changes significantly as the project develops; (c) project completion report containing such details and information as the committee may specify; and (d) one year after completion, an evaluation report on the success and failures of the project and any special issues that may have arisen. Part VII – Miscellaneous"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Offences",
+      "content": "(1) Any person who contravenes any provisions of this Act shall be guilty of an offence. (2) It shall not be a defence to an offence under this Act that proceeds or assets of the Fund have been appropriated for the benefit of the public."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Penalties",
+      "content": "Any person who is guilty of an offence under this Act shall be liable to a fine of K5,000,000 and to imprisonment of ten years."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Regulations",
+      "content": "The Minister may, by notice published in the Gazette , make regulations for the better carrying into effect of this Act. History of this document 31 December 2014 this version Consolidation 28 December 2007 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Malawi Energy Regulatory Authority established under section 3 of the Energy Regulation Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "a person who procures a credit guarantee under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "candidate site",
+      "definition": "a site included in the rural electrification programme",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Rural Electrification Management Committee established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Concedante",
+      "definition": "the Department of Energy Affairs and any other entity or body as the Minister may designate by notice published in the Gazette",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Concessionaire",
+      "definition": "a person who has entered into concession agreement to install, operate or maintain a rural electrification installation on behalf and as agent of a Concedante",
+      "source_provision": "s2"
+    },
+    {
+      "term": "concession agreement",
+      "definition": "a concession agreement concluded between a Concedante and a Concessionaire whereby the Concessionaire agrees to construct, install, operate or maintain a rural electrification installation on behalf and as an agent of the Concedante in accordance with section 27",
+      "source_provision": "s2"
+    },
+    {
+      "term": "concession area",
+      "definition": "an area demarcated in the concession agreement over which a Concessionaire is granted exclusive right to construct, install, operate or maintain a rural electrification installation on behalf of a Concedante",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Credit Finance Manager",
+      "definition": "the Credit Finance Manager appointed under section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Malawi Rural Electrification Fund established under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "grant and subsidy agreement",
+      "definition": "the agreement entered into between the Concedante and the Concessionaire for purposes of channelling funds from the Fund to the Concessionaire for rural electrification and m accordance with section 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "grid extension rural electrification",
+      "definition": "rural electrification installation that is connected to the interconnected system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interconnected system",
+      "definition": "the high voltage national electricity system of 66 KV and above, or as may be prescribed by notice in the Gazette , including related substations and associated equipment and generation stations to which they are connected and any distribution system connected thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Malawi Bureau of Standards",
+      "definition": "the Malawi Bureau of Standards established under the Malawi Bureau of Standards Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "management fee",
+      "definition": "the fee payable by a Concessionaire to a Concedante in accordance with section 28",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro hydropower station",
+      "definition": "a hydropower station whose installed generation capacity is not less than 2 KW, but is less than 100 KW",
+      "source_provision": "s2"
+    },
+    {
+      "term": "off-grid rural electrification",
+      "definition": "rural electrification installation that is not connected to the interconnected system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public institutions",
+      "definition": "Government schools, hospitals, clinics, health centres, police stations and other Government offices and institutions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "renewable energy resources",
+      "definition": "solar home system , micro, mini and small hydro-electric power stations, biomas, biogas, wind, and other thermal electricity generation systems and technologies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rural electrification",
+      "definition": "grid extension or off-grid electrification or renewable energy resources electrification whose internal rate of return is up to 6 per cent per annum and line capacity is lower than 66 KV or generation capacity is up to 5MW",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rural electrification programme",
+      "definition": "the rural electrification programme prepared or compiled in accordance with section 34",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rural electrification site",
+      "definition": "a site where rural electrification installation is in progress or under commercial operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Rural Electrification Unit",
+      "definition": "the Rural Electrification Unit in the Department of Energy Affairs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small hydropower station",
+      "definition": "a hydropower station whose installed generation capacity is not less than 500 KW and up to 5 MW",
+      "source_provision": "s2"
+    },
+    {
+      "term": "solar home system",
+      "definition": "photovoltaic solar home systems technology as contemplated in section 31",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Solar Home System Purchase, Guarantee and Service Agreement",
+      "definition": "the agreement entered into between the Concedante or Purchaser and the Concessionaire or between the Concessionaire and the supplier of solar home system equipment for the purpose of purchase, guarantee and service of the same in accordance with section 32 . Part II – Establishment of Rural Electrification Management Committee",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "id": "mw-act-1988-15",
+  "type": "statute",
+  "title": "Pharmacy, Medicines and Poisons Act",
+  "title_en": "Pharmacy, Medicines and Poisons Act",
+  "short_name": "Pharmacy, Medicines and Poi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1988/15/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Pharmacy, Medicines and Poisons Act. Part I – Preliminary"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— “ administer ” means administer to a human being or an animal, whether orally, by injection or by introduction into the body in any other way, or by external application, whether by direct contact with the body or not; and any reference in this Act to administering a substance or article is reference to administering it in either its existing state or after it has been dissolved or dispensed in, or diluted or mixed with, some other substance used as a vehicle for such administration; “ animal test certificate ” has the meaning assigned to it by section 43 (c)(ii); \" assemble \", in relation to a medicinal product , means— (a) enclosing the product, with or without other medicinal products of the same description, in a container which is labelled before the product is sold or supplied; or (b) where the product, with or without other medicinal products of the same description, is already enclosed in the container in which it is to be sold or supplied, labelling the container before the product is sold or supplied in it; and “ assembly ” has a corresponding meaning; “ authorized seller of poisons ” is a person, other than a person lawfully conducting a retail pharmacy business , who may sell Part II poisons pursuant to section 55 (2) (b); “ Board ” means the Pharmacy, Medicines and Poisons Board established by section 3 ; “ business ” includes a professional practice and any activity carried on by a person or a body of persons, whether corporate or unincorporate; “ clinical officer ” means a person dully registered as such under the Medical Practitioners and Dentists Act; [Cap. 36:01] “ clinical trial ” and “clinical trial certificate” have the meaning assigned to them by section 42 ; “ composition ”, in relation to a medicinal product , means the ingredients of which it consists and the proportions, and the degree of strength, quality and purity, in which those ingredients are contained in it; “ container ” in relation to a medicinal product , means a bottle, jar, box, packet or other receptacle which contains or is to contain it, pot being a capsule, cachet or other article in which the product is or is to be administered, and, where any such receptacle is or is to be contained in another such receptacle, includes the former but does not include the latter receptacle; “ dentist ” or “dental assistant” means a person registered as such under the Medical Practitioners and Dentists Act; [Cap. 36:01] “ despensing ” means selling or supplying a medical product; “ dispensing licence ” has the meaning assigned to it in section 35 (4); “ hospital ” includes a clinic, dispensary or similar institution; “ ingredients ” in relation to the manufacture or preparation of a substance , includes anything which is the sole active ingredient of that substance as manufactured or prepared; “ inspector ” means a person appointed under section 59 ; “ labelling ”, in relation to a container or package or medicinal products, means affixing to, or otherwise displaying, on the container or package a notice describing or otherwise relating to the contents thereof, and “label” has a corresponding meaning; “ leaflet ” includes any written information; “ licensing authority ” means the authority upon which responsibility for licensing has been conferred by section 34 ; “ manufacture ”, in relation to a medicinal product , includes any process carried out in the course of making the medicinal product but does not include dissolving or dispensing the medicinal product in, or diluting or mixing it with, some other substance used as a vehicle for the purpose of administering it or the incorporation of the product in any animal feed; “ manufacturer’s licence ” has the meaning assigned to it in section 35 (2); “ medical practitioner ” or “medical assistant” means a person registered as such under the Medical Practitioners and Dentists Act; [Cap. 36:01] “ medicinal product ” means any substance or article which is manufactured, sold, supplied, imported or exported for use wholly or mainly in either or both of the following ways— (a) use by being administered to a human being or an animal for a medicinal purpose ; (b) use as an ingredient in the preparation of a substance or article which is to be administered to a human being or an animal for a medicinal purpose , but it shall not include an instrument, apparatus or appliance; “ medicinal purpose ” means any one or more of the following purposes— (a) treating or preventing diseases; (b) diagnosing disease or ascertaining the existence, degree or extent of a physiological conditions; (c) contraception; (d) inducing anaesthesia; (e) otherwise preventing or interfering with the normal operation of a physiological function whether permanently or temporarily and whether by way of terminating, reducing or postponing, or increasing or accelerating, the operation of that function or in any other way; “ nurse ” or “midwife” means a nurse or midwife registered in any category of nurses or midwives under the Nurses and Midwives Act: [Cap. 36:02] “ package ”, in relation to any medicinal products, means any box, packet or other article in which one or more containers of the medicinal products are or are to be enclosed, and where any such box, packet or other article is or is to be enclosed in one or more other boxes, packets or articles in question, the collective number thereof; “ pharmacist ” means a person registered as such under Part III; “ pharmacy technologist ” means a person registered as such under Part III; “ pharmacy assistant ” means a person registered as such under Part III; “ poison ” means a substance specified in the Poisons List prescribed under section 55 (1); “ product licence ” has the meaning assigned to it in section 35 (1); “ Registrar ” means the Registrar of the Board appointed under section 13 and includes any person duly acting as, or on behalf of, the Registrar; “ retail pharmacy business ” means a business which consists of or includes the retail sale of medicinal products but does not include a professional practice carried on by a pharmacist ; “ substance ” means any natural or artificial substance, whether in solid or liquid form or in the form of a gas or vapour; “ treatment ” in relation to disease, includes anything done or provided for alleviating the effects of the disease, whether it is done or provided by way of cure or not; “ veterinary surgeon ” means a person registered as such under the Veterinary Surgeons Act; [Cap. 53:04] “ wholesale dealer’s licence ” has the meaning assigned to it in section 35 (3); (2) In this Act, any reference to a sale of medicinal products or poisons by way of wholesale dealing is a reference to the sale of medicinal products or poisons to a person who buys medicinal products or poisons for the purpose of— (i) selling or supplying medicinal products or poisons; or (ii) administering or causing to be administered any medicinal products or poisons to a human being or an animal, in the course of business carried on by that person but it shall not include any such sale by the manufacturer of medicinal products or poisons. (3) In this Act, any reference to a retail sale of medicinal products or poisons is a reference to the sale of medicinal products or poisons to a person who buys medicinal products or poisons otherwise than for a purpose specified in subsection (2). Part II – Administration"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of a Pharmacy, Medicines and Poisons Board",
+      "content": "There is hereby established a board to be known as the Pharmacy, Medicines and Poisons Board (in this Act referred to as the “Board”) which shall be a body corporate having perpetual succession and a common seal and shall under that name, be capable of suing and being sued and of purchasing or otherwise acquiring, holding and alienating moveable or immoveable property and, subject to the provisions of this Act, of doing or performing all such acts and things as bodies corporate may by law perform. [30 of 1991]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Composition of the Board",
+      "content": "(1) Subject to subsection (3), the Board shall consist of the following eight members appointed by the Minister each of whom shall, except in case of an ex officio member, be a citizen of Malawi— (a) the Chief of Health Services, who shall be a member ex officio whether or not he is a citizen of Malawi; (b) the Chief Pharmacist, who shall be a member ex officio whether or not he is a citizen of Malawi; (c) three members, representing pharmacists; (d) one member, representing medical practitioners; (e) one member, representing veterinary surgeons; and (f) one member, representing nurses and midwives. (2) A member of the Board , not being a member ex officio , shall hold office for three years. (3) The Minister may appoint to the Board , for a period not exceeding three years, such other persons not exceeding three in number, as he considers suitably qualified to assist the Board in its work and deliberations and such persons shall not have the right to vote at any meeting of the Board . (4) Upon the appointment to the Board of any member, the Minister shall cause notice of such appointment to be published in the Gazette and shall in such notice specify the current membership of the Board resulting upon such appointment. (5) Members of the Board shall not, by virtue only of their appointment to the Board , be deemed to be officers of the public service."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Vacation, etc., of members from office",
+      "content": "(1) The Minister may require a member of the Board to vacate his office if the Minister is satisfied that the member— (a) has become insolvent or has assigned his estate for the benefit of, or made a composition or other arrangement with, his creditors; or (b) has been absent from three consecutive meetings of the Board , of which he has had notice, without the leave of the Chairman of the Board ; or (c) has been disqualified under this Act from carrying on his profession or calling; or (d) has been convicted of an offence under this Act or the Act repealed by this Act or any law relating to drugs; or (e) has been convicted— (i) within Malawi of a criminal offence; or (ii) outside Malawi of an offence by whatever name called which, if commuted within Malawi, would have been a criminal offence, and sentenced to imprisonment for a term of six months or more without the option of a fine, whether or not such sentence has been suspended, and has not received a free pardon; or (f) is mentally or physically incapable of efficiently performing his duties as a member of the Board . (2) The Minister may suspend from office a member of the Board against whom— (a) criminal, proceedings have been instituted for an offence in respect of which a sentence of imprisonment for a term of six months or more without the option of a fine may be imposed; or (b) the Board has instituted an inquiry into his professional conduct or considers the removal of his name from the register under section 24 (1); and while that member is so suspended he shall not carry out any duties as a member. (3) A member of the Board may resign his office by notice in writing to the Minister and if the Minister accepts such resignation."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Filling of vacancies on the Board",
+      "content": "(1) On vacation of office by a member of the Board , the vacancy shall be filled by a person appointed in accordance with section 4 (1) under which the former member was appointed: Provided that if the remaining period is less than six months the Minister may decide not to have the vacancy filled until the expiry of the period. (2) If any member of the Board is granted leave of absence by the Board , the Board may, if it sees fit, co-opt a person who belongs to the same profession or calling as the member who has been granted leave to fill the vacancy during the absence of the member."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Co-opted persons",
+      "content": "The Board may in its discretion at any time and for any length of period invite any person, and the Minister may in like manner nominate any officer in the public service, to attend any meeting of the Board and take part in the deliberations of the Board , but such person or officer shall not be entitled to vote at that meeting."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Chairman and Vice-Chairman",
+      "content": "(1) The Minister shall, by writing under his hand, designate one member of the Board who is a pharmacist to be the Chairman thereof. (2) The Board shall elect a Vice-Chairman from amongst its members who are pharmacists. The Vice-Chairman shall, subject to subsection (3), hold office for the duration of his membership on the Board . (3) The office of the Vice-Chairman shall become vacant— (a) if the holder resigns his office by notice in writing to the Board ; or (b) if the holder of the office ceases to be a member of the Board ; or (c) if the Board so determines. (4) Whenever the Chairman is absent or is for any reason unable to discharge the functions of his office, the Vice-Chairman shall discharge the functions of the Chairman."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Meetings of the Board",
+      "content": "(1) Subject to this Act, the Board shall hold ordinary meetings for the dispatch of business at least four times in each year. (2) An extraordinary meeting of the Board — (a) may be convened by the Chairman at anytime; (b) shall be convened by the Chairman within twenty-one days of the receipt by him of a request in writing signed by not less than any three members of the Board and specifying the purpose for which the meeting is to be convened. (3) At any meeting of the Board — (a) the Chairman or, in his absence the Vice-Chairman, shall preside; (b) in the absence of both the Chairman and the Vice-Chairman the members present and forming the quorum shall elect one of their number to preside; and (c) the quorum shall be formed by any five members. (4) At any meeting the decision of the Board on any matter shall be that of the majority of the members present and voting at that meeting, and in the event of an equality of votes, the Chairman or the person presiding shall have a casting vote in addition to his deliberative vote. (5) Subject to this Act, the Board may make standing orders for the regulation of its proceedings and business and may vary, suspend or revoke any such standing orders."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Functions of the Board",
+      "content": "The Board shall be the sole registering authority of all persons required to be registered under this Act and shall have the following further functions— (a) to assist in the promotion and improvement of the health of the population of Malawi; (b) to exercise discipline and control over the professional conduct of all persons registered under this Act and practising in Malawi; (c) to control and exercise authority affecting the training of persons in the profession of pharmacy; (d) to promote liaison in the field of training in the profession of pharmacy both within Malawi and elsewhere and to promote the standards of such training in Malawi; (e) to advise the Minister on any matter falling within the scope of this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Powers of the Board",
+      "content": "For the better performance of its functions, the Board shall, subject to this Act, have power— (a) to remove any name from any register or, subject to such conditions as the Board may impose, restore it thereto; (b) to approve of institutions in Malawi and of the curriculum for the training of pharmacists, pharmacy technologists and pharmacy assistants; (c) to acquire, hire or dispose of property, and borrow money on the security of the assets of the Board and accept and administer any trust or donation; (d) to consider any matter affecting the profession of pharmacy and make representations thereon to the Minister or take such action in connexion therewith as the Board considers necessary; (e) to keep and maintain separate registers in the prescribed form— (i) of all pharmacists registered under this Act; (ii) of all pharmacy technologists registered under this Act; (iii) of all pharmacy assistants registered under this Act; (iv) of all pharmacy premises registered under this Act; (f) to advise the licensing authority on matters relating to medicinal products and poisons; (g) upon application by any person, to recognize any qualifications held by that person (whether such qualifications have been obtained in Malawi or elsewhere) as being equal, either wholly or in part, to any prescribed qualifications whereupon such person shall, to the extent to which the qualifications have been so recognized, be deemed to hold such prescribed qualifications; (h) to perform such other functions as may be assigned to the Board by the Minister; and (i) generally, to do and perform all such acts or things as the Board deems necessary or expedient to achieve the objects of this Act. [30 of 1991]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Committees of the Board",
+      "content": "(1) In addition to the Pharmacy Committee, Medicines Committee and Poisons Committee and save as otherwise provided in relation to those three committees, the Board may establish any number of other committees to carry out any special or general functions determined by the Board and may delegate to any such committee such of the functions of the Board as the Board may consider expedient. (2) The Chairman of the Board shall by reason of his office be a member of every committee established under subsection (1). (3) The chairman of each committee shall be appointed by the Board from amongst the members of the Board . (4) Each committee may co-opt as members of such committee persons who are not members of the Board and any of such members so co-opted may or may not be officers in the public service. (5) The chairman of a committee may, at any time and place, convene a meeting of the committee of which he is chairman. (6) The Board may, at any time, direct the chairman of any committee to convene a meeting of such committee and such chairman shall, as soon as is practicable, comply with such direction. (7) Every committee shall keep minutes of its meetings and shall inform the Board of its activities and shall conduct its proceedings in such manner as the Board may direct. (8) A member of a committee who is not an officer in the public service shall, in respect of expenses incurred by him in travelling and subsistence while discharging his duties as member of that committee, be paid out of the funds of the Board , such allowances as the Board may determine."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Appointment of the Registrar and other staff",
+      "content": "(1) Subject to this section, the Board — (a) shall appoint a Registrar upon terms and conditions approved by the Minister; and (b) may appoint assistant registrars and such other employees as it considers necessary or desirable in the discharge of its duties and upon such terms and conditions as it may determine. (2) The Registrar , after consultation with the Chairman of the Board , may appoint temporary employees at such daily rates of pay, not below the minimum rates otherwise prescribed by law, as he may consider appropriate and shall, after he has appointed any such employee, report the fact thereof to the Board at its next meeting. (3) The Registrar shall be the secretary to the Board and to every committee thereof. (4) If the Registrar is absent or unable to carry out any of his functions under this Act or any other enactment, an assistant registrar or any officer of the Board shall exercise, during the period that the Registrar is so absent or unable to act, such of the functions of the Registrar as the Chairman of the Board may designate. (5) Subject to any general or special directions of the Board , the Registrar shall be the chief executive officer of the Board and as such he shall be responsible to the Board for the administration and management of its affairs, including the supervision of other staff of the Board ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Funds, accounts and audit",
+      "content": "(1) The funds of the Board shall consist of— (a) such sums as may be appropriated by Parliament for the purposes of the Board ; (b) all fees payable under this Act; (c) such other moneys and assets as may vest in or accrue to the Board , whether in the course of its functions or otherwise; (d) the levy imposed under section 15 . (2) The Board shall keep proper accounts and other records relating thereto in respect of its funds and shall in every respect comply with the provisions of the Finance and Audit Act. [Cap. 37:01] (3) The accounts of the Board shall be examined and audited annually by auditors appointed by the Board and approved by the Minister."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Levy",
+      "content": "The Minister may from time to time, by order published in the Gazette , impose a levy on gross or net income accruing to any person or class of persons registered under this Act and such levy shall be appropriated for the general operations of the Board or for such operations of the Board as the Minister may specify in the order."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Remuneration and expenses of members of the Board",
+      "content": "Members of the Board shall be paid from the funds of the Board such allowances as the Minister may determine and in determining the allowance the Minister may make provision for the reimbursement of any reasonable expenses incurred by a member of the Board or of a committee in connexion with the business of the Board or the committee. Part III – Pharmacy"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "No person to carry on pharmacy business unless registered",
+      "content": "(1) Except as is provided by this Act, no person other than a person registered as a pharmacist under this part shall— (a) conduct a retail pharmacy business ; (b) in the course of any trade or business prepare, mix, compound or dispense any medicinal product or poison except under the supervision of a registered pharmacist ; and (c) assume, take, exhibitor, in any way make use of, any title, emblem, description or addition reasonably calculated to suggest that he is registered as a pharmacist . (2) For the purpose of paragraph (c) of subsection (1), the use of the word “ pharmacist ” or “chemist” or “druggist” or any similar word or combination of words shall be deemed to suggest that the owner of the business or the person having control of the business on those premises is, or purports to be, a registered pharmacist ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Persons registered under the repealed Act",
+      "content": "(1) Every person who, immediately before the commencement of this Act, was registered in the register of pharmacists under the Act repealed by this Act and is resident in Malawi, shall be deemed to have been registered under this Act in that register. (2) Every person deemed by subsection (1) to be registered under this Act shall submit to the Registrar particulars of his registration in such form as may be prescribed and, subject to payment of the prescribed fee, shall be entitled to be issued with a certificate of registration under this Act."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Residence of registered persons",
+      "content": "(1) Subject to subsection (2), an applicant for registration as a pharmacist , pharmacy technologist or pharmacy assistant shall not be registered unless at the time of his application— (a) he resides in Malawi; or (b) he intends, if he is registered, to take up residence in Malawi within six months of the date of his registration. (2) Any person who resides in and is lawfully practising his profession or calling in such country as the Board may from time to time specify for the purposes of this subsection by notice in the Gazette , may be registered if, but for residing outside Malawi, he is otherwise qualified for registration."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Persons eligible to be registered as pharmacists, pharmacy technologists or pharmacy assistants",
+      "content": "(1) Subject to this section, a person shall be eligible for registration under this Act as a pharmacist or pharmacy technologist or pharmacy assistant if he is a holder of a degree, diploma, certificate or other qualification which is recognized by the Board as making him eligible for registration and he satisfies the Board that he— (a) has acquired sufficient knowledge of science and pharmacy; (b) has an adequate knowledge of the English language; and (c) is, in all respects as to character and otherwise, a fit and proper person to be registered. (2) No qualification from an examination authority outside Malawi shall be recognized or accepted under subsection (1) as a qualification for registration of the holder, unless the qualification entitles the holder to registration in the country, state or territory in which the examination authority has jurisdiction. (3) In any case where the Board does not recognize a degree, diploma, certificate or other qualification, relating to the profession of pharmacy held by any person, as making him eligible for registration, the Board may take steps to assess his suitability for registration and for the purpose of so doing may require him to attend an interview or to undergo any oral or written examination. (4) The Board may, where it considers it expedient so to do, delegate the assessment of suitability for registration under subsection (3) to a committee of the Board which shall, after making such assessment, make such recommendations to the Board as it considers appropriate."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Procedure for registration",
+      "content": "(1) A person desiring to be registered under this Act may make his application, in the prescribed form, to the Board and shall submit with his application— (a) the prescribed fee; and (b) a certificate of any qualification on which he relies for registration or a certified photocopy thereof: Provided, that a certificate showing his registration in the country, state or territory in which he qualified is submitted and that such a certificate contains details of the qualifications on which registration was based; and (c) if other practical experience or training is required in the country, state or territory in which he qualified before registration in that country, state or territory— (i) evidence that such experience has been acquired or that such training has been obtained; and (ii) the certificate of registration in that country, state or territory or a certified copy thereof; (d) save in case of a person referred to in section 19 (2), evidence that he resides or intends, if he is registered, to reside in Malawi. (2) The Board may require any statement in connexion with an application under subsection (1) to be supported by a solemn or statutory declaration. (3) If the Board is satisfied that the qualification and the particulars or documents submitted under subsection (1) are in accordance with the requirements of this Act, the Board shall, upon payment by the applicant of the prescribed fee, register the applicant in the appropriate register."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Certificate of registration",
+      "content": "Upon registration by the Board of the applicant in— (a) the register of pharmacists; (b) the register of pharmacy technologists; (c) the register of pharmacy assistants. the Board shall issue an appropriate certificate of registration in the prescribed form. [30 of 1991]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Application for retention of name on register",
+      "content": "(1) Every registered pharmacist , registered pharmacy technologist and registered pharmacy assistant shall, before the 31st January in each year, make application to the Board for the retention of his name on the appropriate register. (2) An application made under subsection (1) shall be accompanied with the prescribed fee. (3) The Board may, by its resolution, strike off from the appropriate register the name and other particulars of any registered pharmacist , registered pharmacy technologist or registered pharmacy assistant who does not make application to the Board for the retention of his name on the appropriate register as required by subsection (1). [30 of 1991]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Removal of name of registered pharmacist , etc., from the register",
+      "content": "(1) Subject to paragraph (3), the Board may remove from the appropriate register the name of a pharmacist or a pharmacy technologist or a pharmacy assistant who— (a) is convicted of an offence against this Act or any other written law which in the opinion of the Board renders him unfit to be on the appropriate register; or (b) is judged by the Board after due inquiry, at which such person shall have an opportunity of being heard— (i) to have been guilty of improper or disgraceful conduct or conduct which, when due regard is had to his profession or calling, is improper or disgraceful; or (ii) to be grossly incompetent or to have perforated any act pertaining to his profession or calling in a grossly incompetent manner; or (c) is dead. (2) Every pharmacist , pharmacy technologist or pharmacy assistant whose name is removed from the register under this section shall surrender the certificate of registration to the Registrar for cancellation. (3) The Board may, instead of removing the name of a person registered under this Act from an appropriate register, reprimand such person or suspend his registration subject to such conditions as the Board may consider necessary to impose. [30 of 1991]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Notification of registration and of removal from register",
+      "content": "The Board shall, from time to time and not less frequently than once every year, cause to be published in the Gazette a notification of all registrations effected under this Act and of all removals from any register."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Appeals against refusal to register or against removal from register",
+      "content": "(1) A person aggrieved by— (a) the refusal of the Board to enter his name in an appropriate register; or (b) the removal by the Board of his name from an appropriate register, may after giving written notice to the Board and within three months after the date on which notice is given to him by the Board of the fact of refusal or removal, as the case may be, appeal to the High Court in such manner as may be prescribed or as may be considered appropriate by the High Court. (2) On an appeal under subsection (1) the High Court may— (a) dismiss the appeal; or (b) if it is of the opinion dial the Board has not acted in accordance with the Act, make an order that the name of the appellant be entered or retained in the appropriate register; or (c) refer the matter back to the Board for further consideration, and may make such other order as to costs of the appeal or otherwise as it may deem just: Provided that the High Court shall not set aside any finding or penalty imposed by the Board by reason only of an informality or irregularity in the proceedings of the Board , or where the matter was referred to the Pharmacy Committee, the proceedings of that committee which did not embarrass or prejudice the appellant in answering the charge or in the conduct of his defence."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Display of certificate of registration on premises where pharmacy business is carried on",
+      "content": "No person shall carry on a retail pharmacy business unless the name and certificate of registration of the person having control of the premises in which such business is carried on are conspicuously exhibited therein."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Registration of premises where pharmacy business is to be carried on",
+      "content": "(1) A person carrying on manufacturing pharmacy business , a wholesale pharmacy business or a retail pharmacy business in accordance with this Act shall cause each set of premises where such business is being carried on to be registered. (2) An application for registration of premises under this section shall be made to the Board in the prescribed form and such application shall be accompanied with the prescribed fee. (3) The registration of any premises under this section shall become void upon the expiry of thirty days from the date of any change in the ownership of the business carried on therein. (4) The Board may, for good cause to be stated in writing, refuse to register or in like manner remove from the register any premises which in its opinion are or have become unsuitable for the purpose of carrying on manufacturing pharmacy business , a wholesale pharmacy business or a retail pharmacy business . [30 of 1991]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Company may carry on a retail pharmacy business upon certain conditions",
+      "content": "(1) Notwithstanding anything contained in the foregoing provisions of this Act, a company may carry on a retail pharmacy business if— (a) it is registered by the Board under this Act; (b) it is shown to the satisfaction of the Board that the business is under the personal management and control of a registered pharmacist ; (c) a copy of the certificate of incorporation of the company is lodged with the Board ; and (d) the other provisions of this Act are complied with. (2) A company carrying on a retail pharmacy business in accordance with this section shall be an authorized seller of poisons within the meaning of this Act and may use the description of chemist and druggist, or of dispensing chemists or dispensing druggist and may use the description “pharmacy” in connexion with the registered premises. (3) Any act which if done by an individual would be an offence against this Act shall, if done by a company, be an offence committed by every director, secretary and manager thereof unless he proves that the act or omission constituting the offence took place without his knowledge or consent."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Representatives of deceased or insolvent pharmacists",
+      "content": "Notwithstanding anything contained in the foregoing provisions of this Part— (a) if a pharmacist dies, or becomes of unsound mind or is adjudged bankrupt or enters into an arrangement with his creditors, his representative may, with the permission of the Board and subject to such directions and conditions as the Board may in its discretion deem fit to impose, carry on the business , audit shall be necessary for such representative to be registered in relation to the premises where such business is carried on, and such business shall be continued only under the personal management and control of a pharmacist and for such period not exceeding five years as the Board may decide; (b) the representative of a pharmacist carrying on a business in accordance with paragraph (a) shall be the authorized seller of poisons within the meaning of this Act and it shall be lawful for him to use any title, emblem or description which might have been lawfully used by the pharmacist whose representative he is."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Exemptions from this Part",
+      "content": "(1) This Part shall not apply to medicinal products supplied by— (a) a medical practitioner or dentist in the ordinary course of his practice; (b) a veterinary surgeon in the ordinary course of his practice; (c) any hospital which the Minister may, by order published in the Gazette , exempt; (d) any sale of poisons in Part II of the Poisons List by an authorized seller of poisons pursuant to section 55 (2) (b); and (e) any transaction mentioned in section 35 (2) and (3)."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part III",
+      "section": "32",
+      "title": "Pharmacy Committee",
+      "content": "(1) There shall be a Pharmacy Committee (in this section referred to as the “Committee”) of the Board which shall consist of a chairman and not less than two and not more than four other persons, at least two of whom shall be pharmacists, specially appointed by the Chairman of the Board for any particular business or function of the Committee. (2) The Committee shall perform such functions and exercise such powers as the Board may from time to time assign to the Committee. (3) Without prejudice to the generality of subsection (2) the Committee shall, where it is assigned by the Board so to do, deal with all matters relating to— (a) the registration and discipline of pharmacists, pharmacy technologists or pharmacy assistants; (b) regulate the training of pharmacists, pharmacy technologists and pharmacy assistants; and (c) the control and regulation of any pharmacy business . [21 of 1996] (4) In any disciplinary inquiry before the Committee, the Board may request the Attorney General to nominate a legally qualified person serving in the public service to assist the Committee in the proceedings of the inquiry. (5) At any meeting of the Committee the Chairman and two other members shall form a quorum. (6) For the purposes of any disciplinary inquiry before the Committee, the Chairman of the Board may appoint to the Committee, in addition to the members by virtue of subsection (1), any other person he considers reasonably qualified to assist the Committee in the conduct of the inquiry. (7) All facts, matters or things authorized or required to be done by the Committee shall be decided by a majority vote at a meeting of the Committee at which a quorum is present. (8) At all meetings of the Committee each member present being a member by virtue of subsection (1), shall have one vote on a question before the Committee and, in the event of an equality of votes, the Chairman shall have, in addition to a deliberative vote, a casting vote. (9) The Committee shall have power to regulate its own procedure. [19 of 1995]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part III",
+      "section": "33",
+      "title": "Pharmacy Committee to be the disciplinary committee of the Board",
+      "content": "(1) Subject to subsection (2), the Pharmacy Committee shall perform the functions of a disciplinary committee of the Board and for that purpose it shall have power to inquire into any matter or question referred to it by the Board pursuant to sections 24 (1) and 32 (3) (a) alleging that a pharmacist, pharmacy technologist or pharmacy assistant— (a) has been guilty of an offence which in the view of the Board renders him unfit to be on the appropriate register; or (b) has been guilty of improper or disgraceful conduct or conduct which, when due regard is had to his profession or calling, is improper or disgraceful; or (c) is grossly incompetent or has performed any act pertaining to his profession or calling in a grossly incompetent manner. (2) Before exercising its function under subsection (1), the Pharmacy Committee shall— (a) cause to be served upon a registered pharmacist or registered pharmacy technologist or registered pharmacy assistant a notice setting out the allegations against him; and (b) afford him a reasonable opportunity of being heard either by himself or, if he so wishes, by a legal representative. (3) For purposes of any inquiry, the Pharmacy Committee may take evidence and may— (a) under the hand of the chairman or the Registrar summon witnesses and require the production of any book, record, document or thing; (b) administer oath or affirmation to any person; and (c) examine any book, record, document or thing which a witness has been required to produce. (4) A summons for attendance before the Pharmacy Committee or for the production to it of any book, record, document or thing shall be— (a) in the form prescribed; and (b) signed by the Chairman of the Board or Registrar . (5) Any person who has been summoned under subsection (4) and who— (a) refuses or fails without sufficient cause to attend and give evidence relevant to the inquiry at the time and place specified in the summons; or (b) refuses to be sworn or to affirm; or (c) refuses or fails without sufficient cause to produce any book, record, document or thing which he has been required by that summons to produce; or (d) attends as a witness before the Pharmacy Committee and refuses to answer or to answer fully and satisfactorily to the best of his knowledge and belief any question properly put to him; or (e) gives false evidence on oath at an inquiry before the Pharmacy Committee knowing such evidence to be false or not believing it to be true, shall be guilty of an offence and liable to a fine of K5,000 and to imprisonment for six months. (6) The Pharmacy Committee shall, as soon as practicable after the close of the inquiry, consider the evidence adduced and the representations made thereat, and shall, without undue delay complete and deliver to the Board its report thereon together with such documents as were produced and are relevant to the matters inquired into, and shall make its recommendations as to whether the allegation should be dismissed, or the pharmacist , or pharmacy technologist , or pharmacy assistant , as the case may be, should be reprimanded, or his registration should be suspended or cancelled. [30 of 1991] [21 of 1996] Part IV – Medicinal products"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Licensing authority",
+      "content": "The Board shall be the licensing authority responsible for the granting, renewal, variation, suspension and revocation of licences and certificates under this Part. [19 of 1995]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "Classes of licences",
+      "content": "(1) Subject to the provisions of this Act and except in accordance with a licence granted under this section (hereinafter referred to as a “product licence”), no person shall, in the course of a business carried on by him— (a) sell, supply, export or import any medicinal product; (b) procure for sale, supply or exportation of any medicinal product; and (c) procure the manufacture or assembly or for the manufacture or assembly of any medicinal product for sale, supply or export. (2) No person shall, in the course of any business carried on by him, manufacture or assemble any medicinal product except in accordance with a licence granted for that purpose (hereinafter referred to as a “manufacturer’s licence”). (3) No person shall, in the course of any business carried on by him, sell, supply any medicinal product by way of wholesale dealing except in accordance with a licence granted for that purpose (hereinafter referred to as a “wholesale dealer’s licence”). (4) No person other than a person lawfully carrying on a retail pharmacy business shall sell or supply any medicinal product by way of dispensing except in accordance with a licence granted for that purpose (hereinafter referred to as a “dispensing licence”). (5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable to a fine of not less than ten thousand Kwacha and not exceeding one hundred thousand Kwacha. [21 of 1996] (6) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable to a fine of not less than twenty thousand Kwacha and not exceeding two hundred thousand Kwacha, and to imprisonment for five years. [21 of 1996] (7) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable to a fine of not less than fifty thousand Kwacha and not exceeding five hundred thousand Kwacha, and to imprisonment for ten years. [21 of 1996] (8) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable to a fine of not less than ten thousand Kwacha and not exceeding one hundred thousand Kwacha. [21 of 1996]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Exemptions",
+      "content": "The provisions of section 35 shall not apply to— (a) anything done by a medical practitioner or dentist which— (i) relates to medicinal product specially prepared, or specially imported by him or to his order, for administration, sale or supply to his particular patient; or (ii) relates to a medicinal product specially prepared by a medical practitioner or dentist at the request of another medical practitioner or dentist for administration, sale, or supply to a particular patient of that other medical practitioner or dentist ; or (b) anything done by a veterinary surgeon which— (i) relates to a medicinal product specially prepared, for administration, sale, or supply for a particular animal or herd which is under his care; or (ii) relates to a medicinal product specially prepared by a veterinary surgeon at the request of another veterinary surgeon for administration, sale or supply to a particular animal or herd which is under the care of that other veterinary surgeon ; (c) anything which is done in a registered pharmacy or a hospital and is there done by or under the supervision of a pharmacist and consists of preparing, dispensing, assembling or procuring a medicinal product in accordance with a prescription given by a medical practitioner or dentist ; (d) anything which is done in a registered pharmacy by or under the supervision of a pharmacist and consists of— (i) preparing or dispensing a medicinal product for administration to a person where the pharmacist is requested by or on behalf of that person to do so in accordance with the pharmacist ’s own judgment as to the treatment required, and that person is present in the pharmacy at the time of the request in pursuance of which that product is prepared or dispensed; or (ii) preparing a stock of medicinal products with a view to dispensing them as mentioned in paragraph (c) or in paragraph (d)(i); or (e) anything which is done in a hospital by or under the supervision of a pharmacist and consists of preparing a stock of medicinal products with a view to dispensing them as mentioned in paragraph (c); or (f) the assembly of any medicinal products by a person in the course of that person’s profession as a nurse or midwife; or (g) the importation of a medicinal product by any person for administration to himself or to any persons who are members of his household, or the, importation of a medicinal product , where it is specially imported by or to the order of a medical practitioner or dentist for administration to his patient provided that in either case the quantity so imported shall be no greater than is reasonably necessary for that purpose and is not of commercial value; or (h) the importation of a medicinal product in such circumstances as may be specified by the Minister in the notice published in the Gazette ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Application for licences",
+      "content": "(1) Any application for a licence under this Part shall be made to the licensing authority in the prescribed form. (2) Any application referred to in subsection (1) shall contain a description of medicinal products to which the licence will relate."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Matters to be considered before issuing a licence",
+      "content": "Where an application is made for a licence under this Part, the licensing authority shall, before issuing the licence to which the application relates, consider the following— (a) in the case of an application for a product licence — (i) the safety of medicinal products of each description to which the application relates; (ii) the efficacy of medicinal products of each such description for the purposes for which the medicinal products are proposed to be administered; and (iii) the quality of medicinal products of each such description, according to the specification and the method or proposed, method of manufacture of the medicinal products, and the provisions proposed for securing that the medicinal products when sold or supplied will be of that quality; (b) in the case of an application for a manufacturer’s licence — (i) the operations proposed to be carried out pursuant to the licence; (ii) the premises in which those operations are to be carried out; (iii) the equipment which is or will be available on those premises for carrying out those operations; (iv) the qualifications of the person under whose supervision those operations will be carried out; and (v) the arrangements made or to be made for securing the safekeeping of, and the maintenance of adequate records in respect of, medicinal products manufactured or assembled in pursuance of the licence; (c) in the case of an application for a wholesale dealer’s licence — (i) the premises on which medicinal products of the description to which the application relates will be stored; (ii) the equipment which is or will be available for storing medicinal products on those premises; (iii) the equipment and facilities which are or will be available for distributing medicinal products from those premises; (iv) the qualifications of the persons under whose supervision those operations will be carried out; and (v) the arrangements made or to be made for securing the safekeeping of, and the maintenance of adequate, records in respect of, medicinal products stored on or distributed from those premises."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Issue of licences",
+      "content": "(1) If the licensing authority is satisfied that the applicant is a fit and proper person to carry on any business set out in section 35 , he may issue to the applicant the licence appropriate to such business subject to such general or special conditions as the licensing authority may consider appropriate to impose. (2) A licence issued under subsection (1) shall be in the form, and shall be for such duration, as may be prescribed. (3) Where the licensing authority , after consultation with the Board , considers that the applicant is not a fit and proper person to whom a licence should be issued for the carrying on of any business specified in section 35 , he shall refuse to issue a licence and such refusal shall not be subject to appeal to, or question in or by, any court, and the licensing authority shall not be required to assign any reasons therefor."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Suspension and revocation of a licence",
+      "content": "(1) Subject to this Part, the licensing authority may suspend a licence for such period as he may determine, or may revoke, or vary the provisions of such licence. (2) The suspension or revocation of a licence under this section may be limited to medicinal products of one or more descriptions, or to any particular premises or to a particular part of any premises."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "Variation of a licence",
+      "content": "Subject to section 37 , the licensing authority may, on the application of the holder of a licence under this Part, vary the provisions of the licence in accordance with any proposals contained in the application, if the licensing authority is satisfied that the variation will not adversely affect the safety, quality or efficacy of medicinal products."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Clinical trial",
+      "content": "(1) In this Part “clinical trail” means an investigation or series of investigations consisting of the administration of one or more medicinal products of a particular description by, or under the direction of, a medical practitioner or dentist to his patient where there is evidence that medicinal products of that description have effects which may be beneficial to the patient in question and the administration of the medicinal product is for the purpose of ascertaining to what extent the product has any other effects whether beneficial or harmful. (2) Subject to the provisions of this Part, no person shall, in the course of a business carried on by him— (a) sell or supply any medicinal product for the purpose of a clinical trial ; and (b) procure the sale or supply of any medicinal product for the purpose of a clinical trial ; or (c) procure the manufacturer or assembly or for the manufacture or assembly of any medicinal product for sale or supply for the purpose of a clinical trial , unless the following conditions are fulfilled by that person— (aa) that he is the holder of a product licence which authorizes the clinical trial in question, or he does it to the order of the holder of such a licence, and, in either case, he does it in accordance with that licence; and (bb) that a certificate for the purpose of this section (in this Act referred to as a clinical trial certificate) has been issued to him certifying that, subject to the provisions of the certificate, the licensing authority has authorized the clinical trial in question and that a certificate is for the time being in force and the trial is to be carried out in accordance with that certificate. (3) Subsection (2) shall not apply to— (a) anything which is done in a registered pharmacy or a hospital by or under the supervision of a pharmacist in accordance with a prescription given by a medical practitioner or dentist ; or (b) anything done by or under the supervision of a pharmacist which consists of procuring the preparation or dispensing of a medicinal product in accordance with a prescription given by a medical practitioner or dentist . (4) Any person who contravenes the provisions of this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Animal test",
+      "content": "(1) Subject to this Part, no person shall, in the course of a business carried on by him— (a) sell or supply any medicinal product for the purposes of a medicinal test on animals; or (b) procure the sale or supply of any medicinal product for the purposes of medicinal test on animals; or (c) procure the manufacture or assembly or for the manufacture or assembly of any medicinal product for sale or supply for the purposes of medicinal test on animals, unless the following conditions are fulfilled by that person— (i) that he is a holder of a product licence , which authorizes the test in question, or he does it to the order of the holder of such a licence, and, in either case, he does it in accordance with that licence; (ii) that a certificate for the purpose of this section (in this Act referred to as an animal test certificate ) has been issued to him certifying that, subject to the provisions of the certificate, the licensing authority has authorized the test in question and that a certificate is for the time being in force and the test is to be carried out in accordance with that certificate. (2) Any person who contravenes the provisions of this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IV",
+      "section": "44",
+      "title": "Clinical trial and animal test certificates",
+      "content": "(1) Subject to the provisions of this section, every clinical trail certificate or animal test certificate , unless previously renewed or revoked, shall expire at the end of the period of one year from the date on which it was issued or from the date specified in the certificate as issued or renewed. (2) Any certificate, if it has not been revoked, may, on the application of the holder of the certificate be renewed by the licensing authority for a further period of one year from the date on which it would otherwise expire. (3) The licensing authority may suspend, for such period as he may determine, a clinical trail certificate or animal test certificate , or he may revoke or vary the provisions of, any such certificate. Part V – Provisions relating to dealings in medicinal products"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part V",
+      "section": "45",
+      "title": "Restrictions on sale of medicinal products",
+      "content": "(1) Subject to any exemption conferred by or under this Part, no person shall sell by retail, offer or expose for sale by retail or supply any medicinal product on a pharmacy list unless— (a) the person is lawfully conducting a retail pharmacy business ; or (b) the product is sold or supplied on premises which are a registered pharmacy; or (c) the person is a pharmacist , or, if the transaction is carried out on his behalf by another person, then that other person is, or acts under the supervision of a pharmacist ; or (d) the product has been made up for sale in a container or package elsewhere than at the place at which it is sold or supplied and the container has not been opened since the product was made up for sale in it. (2) No person shall sell or supply any medicinal product unless such sale or supply is made from premises capable of being closed so as to exclude the public. (3) Any person who contravenes the provisions of this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Circumstances in which restrictions on sale of medicinal product may not apply",
+      "content": "(1) The restrictions imposed by section 45 shall not apply to— (a) the sale or supply of a medicinal product — (i) by a medical practitioner or dentist who holds a dispensing licence ; or (ii) in the course of the business of a hospital where the product is sold or offered for sale or supplied for the purpose of being administered whether in the hospital or elsewhere, in accordance with the directions of a medical practitioner or dentist ; (b) the sale or supply of a medicinal product of a description or class specified by Order made by the Minister and published in the Gazette where such medicinal product is sold or supplied— (i) by a nurse in the course of her professional practice; or (ii) by a midwife in the course of her professional practice; or (iii) by a clinical officer in the course of his professional practice and where he holds a dispensing licence ; or (iv) by a medical assistant or dental assistant in the course of his professional practice and where he holds a dispensing licence ; or (v) a veterinary surgeon who holds a dispensing licence ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Sale and administration of medicinal product to be subject to prescription by appropriate practitioner",
+      "content": "(1) Subject to the provisions of this section, no person shall sell by retail, or supply in circumstances corresponding to retail sale or administer , other than to himself, a medicinal product of a description or a class specified by Order made by the Minister and published in the Gazette except in accordance with a prescription given by an appropriate practitioner. (2) Subsection (1) shall not apply if— (a) the sale or supply or administration of a medicinal product to a patient is by a medical practitioner or dentist who holds a dispensing licence ; or (b) the sale or supply of a medicinal product is for administration to an animal or herd by a veterinary surgeon who holds a dispensing licence . (3) In this Part “appropriate practitioner” means a medical practitioner , dentist , veterinary surgeon and any person as the Minister may specify in the Order made under subsection (1). (4) Any person who contravenes the provisions of this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part V",
+      "section": "48",
+      "title": "Restrictions on wholesale dealings",
+      "content": "The Minister may by Order published in the Gazette provide for restrictions on the sale or supply of medicinal products by way of wholesale dealing."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part V",
+      "section": "49",
+      "title": "Prohibition of adding to or abstraction of any substance from medicinal products",
+      "content": "(1) No person shall— (a) add any substance to, or abstract any substance from, a medicinal product so as to affect adversely the composition of the product with intention of selling the product in that changed state; or (b) sell or supply, or offer or expose for sale or supply, or have in his possession for the purpose of sale or supply, any medicinal product whose composition has been adversely affected by the addition thereto or abstraction therefrom of any substance ; or (c) sell or supply any medicinal product which is not of the nature or quality demanded by the purchaser. (2) Subsection 1 (c) shall not be taken to have been contravened by reason only that a medicinal product contains some extraneous matter if it is proved that the presence of that matter was an inevitable consequence of the process of manufacture of the product. (3) Where a medicinal product is sold or supplied pursuant to a prescription given by an appropriate practitioner, subsections (1) and (2) shall have effect as if— (a) any reference to the “purchaser” included a reference to the person for whom the medicinal product was prescribed by an appropriate practitioner; and (b) for the words “demanded by the purchaser” there were substituted the words “specified in the prescription”. (4) Any person who contravenes the provision of this section and regulations made under section 66 shall be guilty of an offence. [30 of 1991] Part VI – Containers, package , and identification of medicinal products"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Medicinal product to be in labelled containers or packages",
+      "content": "(1) No person shall, in the course of a business carried on by him, sell or supply or have in his possession for the purpose of selling or supplying any medicinal product in a container or package which is not labelled in accordance with regulations made under section 66 . (2) Without prejudice to subsection (1), no person shall, in the course of a business carried on by him, sell or supply, a medicinal product of any description in a container or package which is labelled or marked in such a way that the container or package — (a) falsely describes the product; or (b) of the product or as to the uses or effects of medicinal products of that description. (3) Any person who contravenes this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Leaflets",
+      "content": "(1) No person shall, in the course of a business carried on by him, supply or have in his possession for the purpose of supplying together with medicinal products, a leaflet relating to such medicinal products which does not comply with regulations made under section 66 . (2) Without prejudice to subsection (1), no person shall, in the course of a business carried on by him, supply together with a medicinal product or have in his possession for the purpose of so supplying a leaflet which— (a) falsely describes a medicinal product to which it relates; or (b) is likely to be misleading as to the nature, efficacy or quality of such medicinal product . (3) Any person who contravenes this section shall be guilty of an offence. Part VII – Promotion of sales of medicinal products"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VII",
+      "section": "52",
+      "title": "Regulations for advertising of medicinal products",
+      "content": "The Minister may make regulations which may prohibit any issue of advertisements— (a) relating to medicinal products of a description or a class specified in the regulations; (b) likely to lead to the use of any medicinal product or any other substance or article, for the purpose of treating or preventing a disease so specified or of ascertaining the existence, degree or extent of a physiological condition so specified or of permanently or temporarily preventing or otherwise interfering with the normal operation of a physiological function so specified or for the purpose of artificially inducing a condition of body or mind so specified; (c) likely to lead to the use of medicinal products of a particular description or class specified in the regulations or the use of any other substance or article of a description or class so specified for any such purpose as is mentioned in paragraph (b); and (d) relating to medicinal products and containing a word or phrase specified in the regulations, as being a word or phrase which, in the opinion of the Minister, is likely to mislead the public as to the nature or effects of the products or as to any condition of body or mind in connexion with which the medicinal product might be used."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VII",
+      "section": "53",
+      "title": "Meaning of advertisement",
+      "content": "(1) In this Part “advertisement” includes every form of advertising, whether in a publication, or by the display of any notice or by means of any catalogue, price list, letter, whether circular or addressed to a particular person, or by the exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television. (2) Notwithstanding anything contained in subsection (1), “advertisement” does not include spoken words except— (a) words forming part of a sound recording or embodied in a sound-track associated with a cinematograph film; (b) words broadcast by way of sound broadcasting or television or transmitted to subscribers to a diffusion service; and (c) anything spoken in public. (3) Save as regulations made under section 52 may otherwise provide, for the purposes of this Part, the following shall not constitute an advertisement— (a) the sale or supply, or offer or exposure for sale or supply, of a medicinal product in a labelled container or package ; and (b) the supply, together with a medicinal product , of a leaflet relating solely to the use of the medicinal products supplied."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VII",
+      "section": "54",
+      "title": "Medicines Committee",
+      "content": "(1) There shall be a Medicines Committee of the Board (in this section referred to as the “Committee”) which shall consist of a chairman and not less than two and not more than four other persons appointed by the Board . (2) The Committee shall perform such functions and exercise such powers as the Board may from time to time assign to the Committee. (3) Without prejudice to the generality of subsection (2), the Committee shall— (a) advise the Board on all matters covered in Parts IV to VII; and (b) advise the Board on the safety, quality or efficacy of medicinal products. (4) Section 12 shall apply to the Committee to the extent possible. [19 of 1995] Part VIII – Poisons"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Preparation of poisons list",
+      "content": "(1) The Minister shall, after consultation with the Board , prescribe a list of non-medicinal poisons (hereinafter referred to as the “Poisons List”). (2) The Poisons List shall be divided into two parts, as follows— (a) Part I shall, consist of those substances which, subject to the provisions of this Act, are prohibited from being sold except by a person who is lawfully conducting a retail pharmacy business ; and (b) Part II shall consist of those substances which, subject to the provisions of this Act, are prohibited from being sold except by a person who is an authorized seller of Part II poisons."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VIII",
+      "section": "56",
+      "title": "Prohibition of, and conditions with respect to, sale of poisons",
+      "content": "(1) Subject to the provisions of this Act, no person shall— (a) sell or supply any poison which is a substance included in Part I of the Poisons List, unless— (i) he is a person lawfully conducting a retail pharmacy business ; (ii) the sale or supply is effected on premises which are a registered pharmacy; and (iii) the sale or supply is effected by, or under the supervision of, a pharmacist ; (b) sell or supply any poison which is a substance included in Part II of the Poisons List, unless— (i) he is a person lawfully conducting a retail pharmacy business and the sale or supply is effected on premises which are a registered pharmacy; or (ii) he is a person who is an authorized seller of Part II poisons; (c) sell or supply any poison , whether it is a substance included in Part I or in Part II of the Poisons List, unless the container of the poison is labelled in the prescribed manner— (i) with the name of the poisons; (ii) in the ease of a preparation which contains a poison as one of its ingredients , with the prescribed particulars as to the proportion which the poison contained in the preparation bears to the total ingredients ; (iii) with the word “ poison ” or other prescribed indication of the character of the article; and (iv) with the name of the seller of the poison and the address of the premises on which it is sold. (2) Subject to the provisions of this Act— (a) no person shall sell or supply any poison which is a substance included in Part I of the Poisons List to any person unless that person is either— (i) certified in writing in the prescribed manner by a person authorized in that behalf by the Minister; or (ii) known by the seller or by a pharmacist in the employment of the seller at the premises where the sale is effected to be a person to whom the poison may properly be sold; (b) the seller of any poison shall not deliver it until— (i) he has made or caused to be mode an entry in a book to be kept for that purpose stating the date of the sale, the name and address of the purchaser and of the person by whom the certificate required under paragraph (a) was given, the name and quantity of the article sold, and the purposes for which it is stated by the purchaser to be required; and (ii) the purchaser has signed for the entry. (3) Subject to the provisions of this Act, a poison shall not be exposed for sale in, or be offered for sale by means of, an automatic machine. (4) Any person who contravenes this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VIII",
+      "section": "57",
+      "title": "Poisons Committee",
+      "content": "(1) There shall be a Poisons Committee of the Board (in this section referred to as the “Committee”) which shall consist of a chairman and not less than two and not more than four other persons appointed by the Board . (2) The Committee shall perform such functions and exercise such powers as the Board may from time to time assign to the Committee. (3) Without prejudice to the generality of subsection (2), the Committee shall, where it is assigned by the Board so to do— (a) advise the Board on all matters covered under this Part; and (b) assist the Board in the preparation of the Poisons List. (4) Section 12 shall apply to the Committee to the extent possible. Part IX – Provisions for non-medicinal products"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Provisions relating to substances which are not medicinal products",
+      "content": "(1) The Minister may by regulations specify any descriptions or classes of articles or substances which— (a) are manufactured, sold, supplied, imported or exported in a manner similar to medicinal products; or (b) are used as ingredients in the manufacture of a medicinal product ; or (c) if used without proper safeguards, are likely to be a risk to public health or to be dangerous or injurious, to animals, and he may provide that, subject to such exceptions and modifications, as may be specified, the provisions of this Act including those relating to offences and penalties shall have effect to such descriptions or classes of articles or substances as those provisions apply to medicinal products. Part X – Inspection"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Inspectors",
+      "content": "(1) The Board shall, for the purposes of enforcing the provisions of this Act, appoint such number of inspectors as it considers appropriate and shall issue to them, in writing or in such form as may be prescribed, certificates of authority to act as such inspectors. [21 of 1996] (2) A person shall not be qualified for appointment as an inspector unless he is a pharmacist or pharmacy technologist. [21 of 1996] (3) A person appointed by the Board as an inspector under this section shall hold office subject to such conditions as the Board may determine, and the Board shall, in the case of an inspector who is a pharmacy technologist, determine the premises which may be inspected by such inspector. [21 of 1996]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Entry into premises",
+      "content": "(1) Subject to the provisions of this section and section 59 (3), an inspector may, at any reasonable time and on production of his certificate of authority, enter any premises— (a) for the purpose of ascertaining whether there is or has been, on or in connexion with those premises, any contravention of this Act; and (b) generally for the purposes of discharging his functions under this Act. (2) An inspector may, at any reasonable time and on production of his certificate of authority— (a) enter any ship, aircraft or any vehicle for the purpose of ascertaining whether there is in the ship, aircraft or vehicle any substance or article imported in contravention of this Act; or (b) enter any ship, aircraft or any vehicle for any purpose for which the inspector is authorized to enter any premises under subsection (1). [21 of 1996]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "Mode of inspection",
+      "content": "(1) For the purpose of ascertaining whether there is or has been a contravention of this Act an inspector may inspect— (a) any substance or article appearing to him to be a medicinal product or a poison ; (b) any article appearing to him to be a container or package used or intended to be used to contain any medicinal product or poison or to be a label or leaflet used or intended to be used in connexion with a medicinal product or poison ; or (c) any plant or equipment appearing him to be used or intended to be used in connexion with the manufacture or assembly of medicinal products or poisons and the means employed, at any stage of the processes of manufacture or assembly , for testing the materials after they have been subjected to those processes. (2) Where an inspector requires a sample of any substance or article appearing to him to be— (a) a medicinal product or poison sold or supplied or intended to be sold or supplied; or (b) a substance or article used or intended, to be used as an ingredient in the manufacture of a medicinal product or poison , he shall, if he does not obtain the sample by purchase, obtain the sample of that substance or article from the person by whom the medicinal product or poison is sold and supplied or intended to be sold, supplied or manufactured. (3) For the purposes of this section, an inspector may— (a) require any person carrying on a business which consists of, or includes, the manufacture , assembly , sale or supply of medicinal products or poisons, any person employed in connexion with such a business , to produce any books or documents relating to the business which are in his possession or under his control; and (b) take copies of, or of any entry in, any book or document produced in pursuance of paragraph (a). (4) An inspector may seize and detain any substance or article which he has reasonable cause to believe to be a substance or article in relation to which, or by means of which, an offence under this Act is being or has been committed, and any document which he has reasonable cause to believe to be a document which may be required as evidence in proceeding under this Act. (5) In exercising the powers under this section, an inspector may, in order to secure that the provisions of this Act are observed, require any person who owns the substance or article or has authority over the substance or article which is contained in a container or package or a vending machine, to break open any container or package or open any vending machine or to permit the inspector do so. (6) Where an inspector seizes any substance or article, including any document pursuant to subsection (4), he shall inform of that fact the person from whom it is seized and, in the case of anything seized from a vending machine, the person whose name and address are stated on the machine as being those of the owner of the machine or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed. (7) An inspector entering any premises, ship, aircraft or vehicle, pursuant to section 60 may take with him such other persons and such equipment as may appear to him to be necessary, and on leaving any such premises, ship, aircraft or vehicle, he shall, if the premises are unoccupied or the occupier, or in the case of a ship, aircraft, vehicle, the master, commander or other person in charge of it is temporarily absent, leave it as effectively secured against trespass as he found it. (8) Any person who— (a) wilfully obstructs an inspector in the discharge of his duties; or (b) wilfully fails to comply with any requirement properly made to him by an inspector ; or (c) without reasonable cause fails to give to the inspector any assistance or information which the inspector may reasonably require of him for the purpose of the performance of his duties under this Act, shall be guilty of an offence. (9) If any person, in giving any such information as is mentioned in subsection (8) (c), makes any statement which he knows to be false or which he does not believe to be true, he shall be guilty of an offence. (10) Nothing in this section shall be construed as requiring a person to answer any question or give any information if to do so might incriminate that person or, where that person is married, the husband or wife of that person."
+    },
+    {
+      "provision_ref": "s61A",
+      "chapter": "Part X",
+      "section": "61A",
+      "title": "Closure of premises and seizure of equipment, etc.",
+      "content": "(1) Where the Board believes, on reasonable grounds, that this Act or any regulations made thereunder have been contravened, the Board may, subject to subsection (2), order— (a) the closure of any premises; and (b) the seizure of any equipment, instrument or any other thing, by means of, or in relation to which, the Board reasonably believes the contravention was committed. (2) The closure of any premises shall cease, and any equipment or any other thing seized shall not be detained, after the provisions of this Act or any regulations made thereunder have, in the opinion of the Board , been complied with, unless before that time disciplinary or court proceedings, as the case may be, have been instituted in respect of the contravention, in which event the premises shall remain closed and the equipment, instrument or other thing may be detained until the proceedings are finally concluded. (3) Where a person has been found guilty of an offence or disciplinary misconduct under this Act or any regulations made thereunder, any equipment, instrument or other thing by means of or in relation to which the offence or misconduct was committed may, in addition to any other penalty imposed by the court or the Board , be forfeited to such person, and may be disposed of in such manner and at such time and place, as the court or the Board , as the case may be, may direct; but no equipment, instrument or other thing shall be disposed of pending an appeal against the decision of the court or the Board or before the time within which the appeal may be taken has expired. [21 of 1996]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part X",
+      "section": "62",
+      "title": "Non-disclosure of information",
+      "content": "(1) If any person discloses to any other person— (a) any information with respect to any manufacturing process or trade secret obtained by him in premises which he has entered pursuant to this Act; (b) any information obtained by or furnished to him pursuant to this Act, he shall, unless the disclosure was made in the performance of his duty and to an authorized person therefor, be guilty of an offence and shall be liable to a fine not exceeding K200 and to imprisonment for a term not exceeding three months."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part X",
+      "section": "63",
+      "title": "Inspectors not to be personally liable for acts done by them under the Act",
+      "content": "An inspector shall not be personally liable in respect of any act done by him in the course of his employment and in the execution or purported execution of any duty under this Act."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part X",
+      "section": "64",
+      "title": "Offences by a corporate body",
+      "content": "Where under this Act, an offence committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was supposed to act in any capacity, such officer and the body corporate shall severally and jointly be guilty of an offence."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part X",
+      "section": "65",
+      "title": "Penalty",
+      "content": "(1) Any person who is guilty of an offence under this Act for which a specific penalty has not been provided shall be liable to a fine not exceeding K50,000 and to imprisonment for a term not exceeding five years. (2) Upon conviction of any person for an offence under this Act, the court may, in addition to any other penalty imposed, declare any substance or article seized and detained by an inspector and found to have been used in, or in connexion with, the commission of that offence to be forfeited, and may order it to be destroyed, without compensation. [21 of 1996] Part XI – Regulations and savings"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Regulations",
+      "content": "The Minister may, with the advice of the Board , make regulations for carrying out or giving effect to the provisions of this Act and, without prejudice to the generality of the foregoing, such regulations may— (a) specify descriptions or classes of medicinal products or poisons or of any articles or substances required to be specified under this Act; (b) control, regulate or prohibit the sale or supply, export or the importation, of medicinal products or poisons or any articles or substances of any specified description or class; (c) provide for the manner in which containers and packages or medicinal products or poisons may be labelled; (d) provide for the manner in which leaflets relating to the advertisement of medicinal products or poisons may be made; (e) prescribe such requirements as may be necessary with respect to— (i) the manner in which, or persons under whose supervision, medicinal products or poisons may be prepared or may be dispensed; (ii) the amount of space, to be provided in any premises for persons preparing or dispensing medicinal products, the separation of any such space from the remainder of the premises, and the facilities to be provided in any premises for such persons; (iii) the accommodation to be provided in any premises for the sale or supply of medicinal products or poisons; (iv) the accommodation to be provided in any premises for members of the public to whom medicinal products or poisons are sold or supplied or for whom medicinal products or poisons are being prepared or assembled; (v) the amount of space to be provided in any premises for members of the public and storage of medicinal products or poisons; (vi) the safekeeping of medicinal products or poisons; (vii) the disposal of medicinal products or poisons which have become unusable or otherwise unwanted; (viii) precautions to be observed before medicinal products or poisons are sold or supplied; (ix) the keeping of records relating to the sale or supply of medicinal products or poisons; (x) the supply of medicinal products or poisons distributed as samples; (xi) sanitation, cleanliness, temperature, humidity or other factors relating to the construction, location and use of automatic machines for the sale of medicinal products; (f) prescribe forms of any register required to be kept by the Board under this Act; (g) prescribe forms of any applications, notices, licences, certificates and any other documents required to be prescribed under this Act; (h) prescribe forms of any book or record to be kept for the purposes of this Act; (i) prescribe, the fees payable upon registration or renewal of registration and upon application for a licence or certificate or renewal of licence or certificate; and (j) prescribe anything to be prescribed under this Act."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XI",
+      "section": "67",
+      "title": "Repeal and savings",
+      "content": "(1) The Pharmacy and Poisons Act is hereby repealed. (2) Any subsidiary legislation made under the Pharmacy and Poisons Act in force immediately before the commencement of this Act (a) shall remain in force unless in conflict with this Act and be deemed to be a subsidiary legislation made under this Act; and (b) may be replaced, amended or repealed by subsidiary legislation made under this Act. [Cap 35:01] History of this document 31 December 2014 this version Consolidation 15 January 1991 Commenced 18 May 1988 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administer",
+      "definition": "administer to a human being or an animal, whether orally, by injection or by introduction into the body in any other way, or by external application, whether by direct contact with the body or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "animal test certificate",
+      "definition": "assigned to it by section 43 (c)(ii)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Pharmacy, Medicines and Poisons Board established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "business",
+      "definition": "a professional practice and any activity carried on by a person or a body of persons, whether corporate or unincorporate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clinical officer",
+      "definition": "a person dully registered as such under the Medical Practitioners and Dentists Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dental assistant",
+      "definition": "a person registered as such under the Medical Practitioners and Dentists Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "despensing",
+      "definition": "selling or supplying a medical product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dispensing licence",
+      "definition": "assigned to it in section 35 (4)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hospital",
+      "definition": "a clinic, dispensary or similar institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed under section 59",
+      "source_provision": "s2"
+    },
+    {
+      "term": "leaflet",
+      "definition": "any written information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "the authority upon which responsibility for licensing has been conferred by section 34",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacturer’s licence",
+      "definition": "assigned to it in section 35 (2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical assistant",
+      "definition": "a person registered as such under the Medical Practitioners and Dentists Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medicinal product",
+      "definition": "any substance or article which is manufactured, sold, supplied, imported or exported for use wholly or mainly in either or both of the following ways— (a) use by being administered to a human being or an animal for a medicinal purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medicinal purpose",
+      "definition": "any one or more of the following purposes— (a) treating or preventing diseases",
+      "source_provision": "s2"
+    },
+    {
+      "term": "midwife",
+      "definition": "a nurse or midwife registered in any category of nurses or midwives under the Nurses and Midwives Act: [Cap. 36:02] “ package ”, in relation to any medicinal products, means any box, packet or other article in which one or more containers of the medicinal products are or are to be enclosed, and where any such box, packet or other article is or is to be enclosed in one or more other boxes, packets or articles in question, the collective number thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pharmacist",
+      "definition": "a person registered as such under Part III",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pharmacy technologist",
+      "definition": "a person registered as such under Part III",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pharmacy assistant",
+      "definition": "a person registered as such under Part III",
+      "source_provision": "s2"
+    },
+    {
+      "term": "poison",
+      "definition": "a substance specified in the Poisons List prescribed under section 55 (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "product licence",
+      "definition": "assigned to it in section 35 (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the Board appointed under section 13 and includes any person duly acting as, or on behalf of, the Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retail pharmacy business",
+      "definition": "a business which consists of or includes the retail sale of medicinal products but does not include a professional practice carried on by a pharmacist",
+      "source_provision": "s2"
+    },
+    {
+      "term": "substance",
+      "definition": "any natural or artificial substance, whether in solid or liquid form or in the form of a gas or vapour",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary surgeon",
+      "definition": "a person registered as such under the Veterinary Surgeons Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wholesale dealer’s licence",
+      "definition": "assigned to it in section 35 (3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "every form of advertising, whether in a publication, or by the display of any notice or by means of any catalogue, price list, letter, whether circular or addressed to a particular person, or by the exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television. (2) Notwithstanding anything contained in subsection (1), “advertisement” does not include spoken words except— (a) words forming part of a sound recording or embodied in a sound-track associated with a cinematograph film",
+      "source_provision": "s53"
+    }
+  ]
+}

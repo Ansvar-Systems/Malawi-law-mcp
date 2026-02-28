@@ -1,0 +1,61 @@
+{
+  "id": "mw-act-1966-16",
+  "type": "statute",
+  "title": "Public Stores Act",
+  "title_en": "Public Stores Act",
+  "short_name": "Public Stores Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1966/16/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Public Stores Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ Government property ” and “property of the Government” means any property of the Government of Malawi; “ stores ” includes all goods and chattels and any single store or article."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Marks in First Schedule appropriated for public stores",
+      "content": "(1) The marks set forth in the First Schedule may be applied in or on stores therein described in order to denote the property of the Government in stores so marked. (2) Any person who, without lawful authority or excuse, (the proof of which authority or excuse shall lie upon the person accused) applies any of the said marks on any stores described in the First Schedule shall be guilty of a misdemeanor and shall be liable to imprisonment for two years."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Marks in Schedules to be prima facie proof of ownership by Government",
+      "content": "Where in any proceedings, whether under this Act or under any other law and irrespective of whether such proceedings be of a criminal or of a civil nature, it is proved that any stores which are the subject matter of such proceedings have had applied thereto any of the marks described in the First or the Second Schedule, such proof shall be prima facie evidence that such stores are the property of the Government."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Obliteration with intent to conceal",
+      "content": "Any person who, with intent to conceal the property of the Government in any stores , takes out, destroys or obliterates, wholly or in part, any mark described in the First or the Second Schedule shall be guilty of a felony and shall be liable to imprisonment for seven years."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to amend First Schedule",
+      "content": "The Minister may, by notice published in the Gazette , add to or delete from the stores and marks set forth in the First Schedule. First schedule Marks appropriated for public stores Stores Marks Manilla Rope A green coloured thread laid up with the yarn Any stores other than those enumerated above The letters “MG” Second schedule MG, NG, RNG, the coat of arms of the former Federation of Rhodesia and Nyasaland, the coat of arms of the former Nyasaland Protectorate. History of this document 31 December 2014 this version Consolidation 04 May 1966 Commenced 23 April 1966 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "property of the Government",
+      "definition": "any property of the Government of Malawi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stores",
+      "definition": "all goods and chattels and any single store or article.",
+      "source_provision": "s2"
+    }
+  ]
+}

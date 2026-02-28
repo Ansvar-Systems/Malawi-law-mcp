@@ -1,0 +1,60 @@
+{
+  "id": "mw-act-2005-10",
+  "type": "statute",
+  "title": "Fines (Conversion) Act",
+  "title_en": "Fines (Conversion) Act",
+  "short_name": "Fines (Conversion) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2005/10/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Fines (Conversion) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ fine ” means an amount of money prescribed in an Act as punishment or penalty for an offence against the Act, but does not include— (a) an amount prescribed by section 21 (e) of the General Interpretation Act or by a provision of any other Act as the amount of a fine that may be prescribed for an offence or a contravention against any subsidiary legislation; or [Cap. 1:01] (b) a fine prescribed by any subsidiary legislation for an offence or a contravention against such subsidiary legislation; “ penalty value ” means the amount in Kwacha ascertained by converting a fine in accordance with section 5 ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Non application of Cap. 45:02",
+      "content": "The Decimal Currency Act shall not apply in respect of the conversion of fines. Part II – Conversion of fines to penalty values"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Fines to be converted to penalty values",
+      "content": "Where a provision in an Act prescribes a fine and the fine is stated as— (a) an amount in Kwacha or in pounds; or (b) a rate specified as an amount in Kwacha or in pounds, the amount shall be converted to a penalty value by a calculation in accordance with section 5 and the provision in the Act shall, for the purposes of the Act or of any other written law, be read as if the amount were instead stated as the penalty value so ascertained, and such penalty value shall apply in substitution of the stated amount."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Method of conversion",
+      "content": "If a fine or the rate of a fine — (a) is expressed in Kwacha and was last varied, or, if never varied was prescribed by an Act which was passed, in the year specified in Column 1 of Part I of the Schedule, the penalty value of the fine shall be ascertained by multiplying the amount stated in the Act by the multiplier number specified in relation to such year in Column 2 of that Part; [Schedule Part I] (b) is expressed in pounds, the penalty value of the fine shall be ascertained by multiplying the amount of the fine stated in the Act by the multiplier number specified in Part II of the Schedule. [Schedule Part II] Schedule (Section 5) Part I – Multiplier numbers for fines expressed in kwacha Column 1 Year in which fine or rate of a fine was prescribed or last varied Column 2 Multiplier number From: 1971 to 1981 100 1982 to 1986 75 1987 to 1992 50 1993 to 1995 40 1996 to 2000 20 2001 to 2004 10 2005 1 Part II – Multiplier number for fines expressed in pounds The multiplier number for fines expressed in pounds is 1,000. History of this document 31 December 2014 this version Consolidation 09 December 2005 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "fine",
+      "definition": "an amount of money prescribed in an Act as punishment or penalty for an offence against the Act, but does not include— (a) an amount prescribed by section 21 (e) of the General Interpretation Act or by a provision of any other Act as the amount of a fine that may be prescribed for an offence or a contravention against any subsidiary legislation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "penalty value",
+      "definition": "the amount in Kwacha ascertained by converting a fine in accordance with section 5 .",
+      "source_provision": "s2"
+    }
+  ]
+}

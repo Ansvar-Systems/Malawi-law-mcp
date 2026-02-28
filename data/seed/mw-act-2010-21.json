@@ -1,0 +1,561 @@
+{
+  "id": "mw-act-2010-21",
+  "type": "statute",
+  "title": "Microfinance Act",
+  "title_en": "Microfinance Act",
+  "short_name": "Microfinance Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2010/21/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Microfinance Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— “ bank ” has the meaning ascribed to it in the Banking Act; [Cap. 44:01] “ branchless service ” means any microfinance service, as defined in this Act, which is offered by a microfinance service provider or an agent on behalf of a licensed financial institution, where the licensed institution is authorized to provide the service and is wholly responsible for its lawful provision to the same extent as if offering the service directly; “ capital ” includes paid up capital and unimpaired reserves; “ certificate ” means a certificate of registration issued under this Act; “ company ” has the meaning ascribed to it in the Companies Act; [Cap. 46:03] “ compulsory savings ” means a sum of money which is paid as security, as a partial guarantee or as a precondition for a loan granted or promised at a future date to be granted to the person making the payment; “ de facto control of a microfinance institution ” means direct or indirect influence that results in the person having predominant decision-making power over the business or financial operations of the microfinance institution and includes powers exercisable over another microfinance institution by virtue of such influence; “ de jure control of a microfinance institution ” means beneficial ownership of more than 50% of any class of the issued voting shares of a microfinance institution ; “ deposit ” means a sum of money received or paid on terms under which it will be repaid, with or without interest or a premium, and on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it except that the following shall not qualify as deposits for the purposes of this Act— (a) any sum of money which is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, where the sum is repayable only if the property or services is not or are not in fact sold, hired or otherwise provided; (b) a sum of money which is paid by way of security for performing a contract; (c) compulsory savings , provided that any such amount is not on-lent and is immediately placed in an account at a bank or microfinance institution duly licensed to accept deposits; (d) acceptance of funds placed by a body corporate or other investor, in large amounts, against the issue of shares, debentures, bonds, certificates, notes, or other instruments; (e) acceptance of funds— (i) by an agent for the provision of branchless services; (ii) in the form of insurance premiums; or (iii) for purposes of transfer or payment services, including conversion into electronic payment media (“e-money”); “ deposit-taking ” means accepting deposits for intermediation; “ director ” means a member of the board of directors of a microfinance institution , microcredit agency or a savings and credit cooperative; “ financially underserved customer ” means a person who is economically active and does not normally have access to formal financial institutions; “ group guarantee ” means an agreement by a group of microfinance borrowers to be held jointly or severally liable for loan repayments in order to secure credit facilities; “ licence ” means a licence issued under the Financial Services Act; [Cap. 44:05] “ low-income customer ” means a person who is economically active, receives annual income at or below the official poverty line for Malawi, and does not normally have access to formal financial institutions; “ microcredit ” means the provision of small loans to small or micro enterprises, low-income customers, financially underserved customers, or as determined by the Registrar, where— (a) such loans are granted to a person whose income depends on his own business or economic activity; (b) security for such loans may include non-traditional instruments such as group guarantees or compulsory savings ; (c) the borrower may be required to make frequent repayments in small amounts; and (d) such loans may take the form of micro-housing or micro-leasing products designed for microfinance customers; “ microcredit agency ” means a registered provider of microcredit services; “ microfinance institution ” means a licensed provider of microfinance services , whether deposit-taking or non- deposit-taking ; “ microfinance services ” means the provision of financial services to small or micro enterprises, low-income customers, financially underserved customers, or as prescribed by the Registrar, including the following— (a) microcredit ; (b) deposit-taking ; (c) micro-insurance ; (d) micro-leasing ; (e) transfer and payment services, including conversion into electronic payment media (e-money); (f) micro-pension ; or (g) any other service that the Registrar may designate; “ microfinance service provider ” includes a microcredit : agency, microfinance institution or any other licensed financial institution that has been granted approval to offer microfinance services by the Registrar; “ micro-housing ” means loans to small or micro enterprises low-income customers, or financially underserved customers for renovation or expansion of an existing home, construction of a new home, land acquisition, and basic infrastructure; “ micro-insurance ” means the protection of small or micro enterprises, low-income customers, or financially underserved customers against specific perils in exchange for regular premium payments proportionate to the likelihood and cost of the risk involved; “ micro-leasing ” means provision of appropriate financial leasing products to small or micro enterprises, low-income customers, or financially underserved customers; “ micro-pension ” means the provision of modest savings opportunities to low-income customers or financially underserved customers in order to secure old age or future needs; “ officer ” includes a manager of a microfinance institution ; “ person ” includes an individual, a company , a partnership, an association, a government or agency of government, and any other group of persons acting in concert, whether incorporated or not; “ Register ” means Microfinance Register established and maintained pursuant to section 21 ; “ rotating savings and credit associations ” means any association formed by a core of participants who make regular contributions to a fund which is given, in part in whole, to each contributor in rotation. (2) Subject to subsection (1) and except where a contrary intention appears, words or expressions used in this Act shall have the same respective meanings as in the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "(1) This Act shall apply, addition to the Financial Services Act, to all persons providing microfinance serves as the whole or as part of their business except to the extent that such persons are exempted by the Registrar pursuant to his authority under the Financial Services Act. [Cap. 44:05] (2) All deposit-taking microfinance institutions shall be deemed prudentially-regulated financial institutions under the Financial Services Act. [Cap. 44:05] (3) Any other licensed microfinance institution may also be deemed prudentially-regulated at the determination of the Registrar under the terms of its licence ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Exemptions",
+      "content": "(1) The following shall be exempt from the application of this Act— (a) savings and credit co-operatives as defined in the Financial Services Act; [Cap. 44:05] (b) small member-based schemes which are operating— (i) in a single locality; (ii) on a mutual benefit rather than on a for-profit basis; or (iii) based on a common bond and rotating savings and credit association or similar form and methodology; and (c) persons whose microfinance service operations do not surpass a threshold, as shall be determined by the Registrar, in terms of maximum number of customers, maximum value of outstanding loan portfolio, or other criteria. (2) The exemptions provided in subsection (1) shall not prejudice the application of any other law that may apply to such exempt persons and their services and operations, by virtue of their not being licensed or registered under this Act. Part II – Registration and licensing Division I - Microfinance services providers"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Prohibition against carrying on microfinance business without certificate or licence",
+      "content": "(1) No person shall carry on business as a microfinance service provider unless he is— (a) registered as a microcredit agency ; (b) licensed as a non- deposit-taking microfinance institution ; or (c) licensed as a deposit-taking microfinance institution , under the Financial Services Act. [Cap. 44:05] (2) Notwithstanding subsection (1), a licensed financial institution not referred to in subsection (1) may offer microfinance services , subject to approval by the Registrar in accordance with his authority under the financial services laws. (3) The Registrar may determine the type of microfinance services to be offered by the different categories of microfinance service providers. (4) Any person who contravenes subsection (1) commits an offence."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Registration or licensing under the Financial Services Act",
+      "content": "The provisions relating to registration or licensing under the Financial Services Act shall apply, mutatis mutandis , to registration and licensing under this Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Products and services under other laws",
+      "content": "Any licensee may apply to the Registrar for approval to offer products and services under— (a) the Banking Act; [Cap. 44:01] (b) the Financial Cooperatives Act; or [Cap. 46:10] (c) the Insurance Act. [Cap. 47:01]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Issue of certificate , etc.",
+      "content": "(1) The Registrar shall within sixty days from the date of receipt of a complete application for certificate , licence or approval— (a) grant, with or without conditions— (i) a certificate to a microcredit agency ; (ii) a licence to a microfinance institution ; or (iii) approval to a licensed financial institution to provide microfinance services as appropriate, in accordance with the Registrar’s authority under the relevant financial services law; or (b) refuse to grant a certificate , licence or approval. (2) The Registrar shall communicate his decision in writing to the applicant: Provided that in case of refusal, the Registrar shall give reasons. (3) A person aggrieved by the decision of the Registrar may appeal to the Appeals Committee in accordance with the Financial Services Act. [Cap. 44:05] (4) A microfinance service provider shall not engage in any business other than the business specified in its certificate or licence ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Business to be conducted in approved premises",
+      "content": "(1) A microfinance service provider shall conduct its business at the place of business, specified in its licence or certificate , and in and through branches and agencies approved by the Registrar. (2) A microfinance service provider may, upon giving prior written notice to the Registrar— (a) Change its place of business; (b) open a new branch; or (c) move or close an existing branch. (3) The changes described in subsection (2)— (a) shall be entered in the Register ; and (b) are, in the case of a licensed microfinance institution , subject to requirements that the Registrar may impose under Divisions II and III."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Restriction on transfer, etc. of certificate , etc.",
+      "content": "(1) A certificate , licence or approval shall not be transferred, assigned, or encumbered in any way, except in the event of an amalgamation or similar corporate restructuring transaction, on such terms and conditions as the Registrar may approve. (2) The appointment of an agent approved by the Registrar and operating according to its approved terms shall not constitute an assignment, transfer or encumbrance of certificate , licence or approval. (3) Any person who contravenes subsection (1) commits an offence."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Expiry of a certificate , etc.",
+      "content": "A certificate , licence or approval shall automatically expire if the registered person or licensee fails to commence his business within a period of one year following the granting of the certificate , licence or approval."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Suspension or revocation of certificate , etc.",
+      "content": "(1) Where a certificate , licence or approval is suspended or revoked as provided under the Financial Services Act— (a) the Registrar shall record the revocation of the certificate , licence or approval in the Register ; and (b) the Registrar shall, in addition to his powers under the Financial Services Act, give directions with respect, to the disposal of any assets, and the conduct of any transactions permitted under the certificate , licence or approval. [Cap. 44:05] (2) Any person aggrieved by the decision of the Registrar suspending or revoking a certificate , licence or approval may appeal to the Appeals Committee in accordance with the Financial Services Act. [Cap. 44:05] (3) The decision of the Registrar shall remain in force unless reversed by the Registrar or set aside by the Appeals Committee. (4) A person whose certificate , licence or approval is suspended or revoked shall not continue to operate as a microfinance provider or conduct any microfinance business. (5) Any person who contravenes this section commits an offence. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Registered, licensed or approved person , etc. to honour obligations",
+      "content": "The suspension or revocation of a certificate , licence or approval to operate shall not relieve a registered, licensed or approved person of any obligation incurred or assumed by the registered person , licensee or approved financial institution during the period of validity of the certificate , licence , or approval. Division II - Microfinance institutions"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Primary business of microfinance institution",
+      "content": "A microfinance institution shall have as its primary function or business the provision of microfinance services , as defined in this Act, and no more than five percent of the investible funds of a microfinance institution shall be invested in non-financial activities or assets, unless permitted by the Registrar."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Microfinance institution may offer services through an agent",
+      "content": "(1) Notwithstanding other provisions of this Act, a microfinance institution may, upon approval by the Registrar, contract with an agent for the provision of branchless services on behalf of the institution. (2) In considering an application for approval of an agency, the Registrar may examine the fitness of the agent, including— (a) the financial condition of the agent; (b) record of experience of the agent; (c) terms of the agency agreement; (d) any equipment or premises to be used by the agent; and (e) any other relevant factor the Registrar may determine from time to time."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Prudential regulation of non- deposit-taking microfinance institution",
+      "content": "(1) The Registrar may determine a threshold in terms of assets or services for a licensed non- deposit-taking microfinance institution , as a group or individually, and upon attainment, the Registrar shall place such an institution under prudential regulation as defined in the Financial Services Act. (2) Where the Registrar makes a determination under subsection (1) in respect of an institution— (a) the institution shall be required to be incorporated as a company limited by shares, as defined in the Companies Act, or to become incorporated as such by a deadline to be set by the Registrar; [Cap. 46:03] (b) the institution shall submit a formal application to the Registrar in accordance with requirements for licensing of a prudentially regulated microfinance institution ; and (c) the Registrar may carry out inspections on, and apply directives to, the institution as set forth in the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Microfinance institution not limited by scares to prioritize creditors",
+      "content": "A microfinance institution that is not incorporated as a company limited by shares under the Companies Act shall ensure the priority of claims by outside creditors in the event of insolvency, dissolution, or winding up, by subordinating all other claims on its assets to claims by outside creditors. [Cap. 46:03] Division III - Deposit-taking microfinance institutions"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Deposit-taking microfinance institutions to be limited by shares",
+      "content": "The Registrar shall not license any person as a deposit-taking microfinance institution unless the person is incorporated as a company limited by shares, as defined in the Companies Act. [Cap. 46:03]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Inspection of premises",
+      "content": "(1) The Registrar shall carry out an inspection of the premises of an applicant for a licence to operate as a deposit-taking microfinance institution to determine compliance with minimum standards referred to in subsection (2). (2) The Registrar may determine minimum standards for the premises of a deposit-taking microfinance institution . (3) Upon certifying the compliance of the premises with the determined minimum standards, the Registrar shall issue a premises certificate . (4) The premises certificate shall indicate the— (a) name of the licensee; (b) class of microfinance business that the licensee is authorized to conduct; (c) date of the certificate ; (d) place of business; and (e) number of the certificate ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Deposit-taking microfinance institutions to operate in designated places",
+      "content": "(1) A deposit-taking microfinance institution shall conduct its business at the place of business specified in the premises certificate . (2) A deposit-taking microfinance institution wishing to amend the place of business shall apply to the Registrar, on payment of the prescribed fee. (3) Where the Registrar is satisfied with reasons for the amendment of the place of business and compliance of the new place of business with the minimum standards determined by the Registrar, a new premises certificate shall be issued. Part III – Microfinance Register"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Register",
+      "content": "(1) The Registrar shall establish and maintain a register to be known as the Microfinance Register . (2) The Registrar shall enter in the Register — (a) particulars of all registered persons in accordance with this Act; (b) particulars of all licensees and their licences; and (c) particulars of all other licensed financial institutions approved to offer microfinance services . (3) The Registrar may determine additional particulars of a registered person , licensee, or other approved financial institution and their operations to be included in the Register . (4) Notwithstanding subsection (1), the Registrar may create separate registers for registered persons, licensees, and other approved providers."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Inspection of Register",
+      "content": "(1) The Register or a copy of the Register shall be available for inspection by the public at the offices of the Registrar during working hours. (2) The Registrar shall make public, through print and electronic media, particulars of all registered, licensed, and approved persons contained in the register."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Evidence in Register",
+      "content": "(1) For the purpose of ascertaining facts concerning registration, licensing or approval status of any person, entries made in the Register shall be prima facie evidence as to those facts. (2) A document certified by the Registrar as a true copy or extract of the Register shall be admissible in any proceedings, including in any court, as prima facie evidence of the contents of the Register. Part IV – Governance of a microfinance institution Division I - Microcredit agencies"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Minimum governance standards for microcredit agencies",
+      "content": "The Registrar may, from time to time, determine minimum governance standards to be applied by microcredit agencies. Division II - Microfinance institutions"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Boards microfinance institution",
+      "content": "(1) Every microfinance institution shall have aboard of directors in accordance with the provisions of the Companies Act. (2) The Registrar may, by Registrar’s directives, prescribe the composition of the board, frequency of board meetings, rules on appointment, responsibilities and additional qualifications of the directors of microfinance institutions. [Cap. 46:03]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Actions requiring prior approval",
+      "content": "(1) In addition to other provisions requiring approval under this Act, no microfinance institution shall, without written approval of the Registrar— (a) change its articles of association; (b) effect any changes in its shareholding that would result in a change in the composition of its controlling parties, as defined in the Financial Services Act; [Cap. 44:05] (c) appoint any directors; (d) open a branch or an establishment; (e) close a branch or an establishment; (f) undertake restructuring; or (g) go into liquidation. (2) Notwithstanding other provisions of this Act, a microfinance institution may temporarily appoint an interim director if necessary due to a director’s sudden death, resignation, or other unexpected circumstance that leaves the director unable or unwilling to perform his duties. (3) On the occurrence of any circumstance mentioned in subsection (2)— (a) the microfinance institution shall immediately notify the Registrar; (b) the Registrar shall review the interim director’s qualifications to determine the relevance of the appointment; and (c) the microfinance institution shall within ninety days, nominate a permanent director and apply to the Registrar for approval of his appointment."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Management of a microfinance institution",
+      "content": "(1) The management of a microfinance institution shall comprise, at a minimum— (a) a chief executive officer; and (b) one other senior management officer such as a chief financial officer or head of operations. (2) In addition to the directives on fit and proper test requirements under the Financial Services Act, the chief executive officer of a microfinance institution shall have a satisfactory record of experience in managing a financial institution. [Cap. 44:05] (3) A microfinance institution shall obtain the approval of the Registrar prior to the appointment of key management officers, including the chief executive officer. (4) The Registrar may determine responsibilities and qualifications of any of the officers referred to in subsection (3) in a microfinance institution. (5) Notwithstanding subsection (3), a microfinance institution may appoint a person to temporarily operate or manage the institution on behalf of another person and such appointment shall not exceed thirty days without the prior written approval of the Registrar. (6) Any person who contravenes subsection (3) or (5) commits an offence."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Disqualification from appointment",
+      "content": "A person shall not be appointed as a director, chief executive officer, chief financial officer or manager of a microfinance institution unless the person meets minimum requirements stipulated in Registrar’s directives."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Internal control systems",
+      "content": "(1) A microfinance institution shall, at all times, maintain internal control systems. (2) A microfinance institution shall have an audit committee and a review committee which shall report to the board of directors on internal control systems and financial condition of the institution."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Inconsistency with other laws",
+      "content": "Where provisions of this Act are inconsistent with governance of any microfinance institutions as provided in the law under which the entity was incorporated, provisions of this Act shall apply. Division III - Deposit-taking microfinance institutions"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Ownership",
+      "content": "(1) Notwithstanding provisions under the Financial Services Act, no person shall, without the written approval of the Registrar— (a) acquire any beneficial interest in the voting shares of a deposit-taking microfinance institution ; or (b) enter into any voting trust or other agreement, that shall enable the person or another person to control more than forty nine per centum of the total votes cast on any general resolution at a general or special meeting of a deposit-taking microfinance institution . [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Control of a deposit-taking microfinance institution",
+      "content": "(1) A person who has de jure or de facto control of a deposit ­taking microfinance institution shall not acquire or maintain de jure or de facto control of any other deposit-taking microfinance institution . (2) Any person who has de jure or de facto control of more than one deposit-taking microfinance institution shall, within a period not exceeding five years from the date of commencement of this Act comply with the provisions of subsection (1). (3) A person who contravenes subsection (2) commits an offence and shall be liable to an administrative penalty under the Financial Services Act. [Cap. 44:05] Part V – Microfinance operations Division I - Microfinance service providers"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Conduct of business",
+      "content": "A microfinance service provider shall— (a) conduct its business with integrity, prudence and professional skill; (b) engage only in bona fide transactions; and (c) comply with such minimum standards of good practice as may be prescribed by the Registrar."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Disclosure of terms of credit and savings products",
+      "content": "All microfinance service providers shall at all times disclose to the concerned customer, in writing, the terms of any credit or savings products being offered. Division II - Microfinance institutions"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Display of information",
+      "content": "(1) All microfinance institutions including approved financial institutions shall display in a conspicuous place on the premises of every branch where they conduct business a notice containing— (a) the provider’s code of conduct; (b) information on customer rights and responsibilities; (c) financial statistics, such as balance sheet and income statement; (d) microfinance products and services offered; (e) certificate, licence, or approval, including company incorporation certificate; and (f) terms under which microfinance products and services are offered. (2) The information referred to in subsection (1) shall be displayed in the form and manner determined by the Registrar."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Minimum and other capital requirements",
+      "content": "(1) The Registrar shall determine minimum capital or loan fund requirements, whichever is applicable, for different categories of microfinance institutions. (2) The Registrar may, from time to time, vary the required minimum capital or loan funds for microfinance institutions. (3) The Registrar may determine on-going capital requirements for individual microfinance institutions where the supervisory-review process reveals risks warranting additional capital."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Additional directives for microfinance institutions",
+      "content": "In addition to Registrar’s directives issued under the Financial Services Act, the Registrar may determine and issue directives on aging and provisioning of loan losses for microfinance institutions. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Insider lending",
+      "content": "(1) The Registrar shall establish the extent or proportion of credit facilities which a microfinance institution may provide to any of its directors, trustees, related parties, or members of staff. (2) All credit facilities referred to in subsection (1) involving any of a microfinance institution’s related parties shall be disclosed. (3) For the purposes of this subsection, “related party” has the same meaning as ascribed to it in the Financial Services Act. [Cap. 44:05] (4) Notwithstanding subsection (1), the Registrar may determine that any proposal by a microfinance institution to grant a credit facility to any related party be unanimously approved by its board of directors, and the Registrar may monitor such credit facilities and make recommendations as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Limits on loans",
+      "content": "(1) Without prejudice to the generality of the power of the Registrar to issue Registrar’s directives under the Financial Services Act, no microfinance institution shall, without prior written permission of the Registrar— (a) grant, or permit to be outstanding any credit facility to any debtor in excess of ten per centum of its capital, or such limit as may be determined by the Registrar from time to time; (b) have investments in land, buildings, and other immovable property that in aggregate exceed the sum of its capital and reserves; and (c) own shares in any company, firm, or enterprise that in aggregate value exceed ten per centum of the sum of its capital and reserves. (2) Notwithstanding subsection (1), the Registrar may, having due regard to the nature of business carried on by certain microfinance institutions, exempt individual microfinance institutions or any class of microfinance institutions from all or any of the requirements under subsection (1). [Cap. 44:05] Division III - Other licensed financial institutions"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Separation of operations and portfolios",
+      "content": "(1) Every licensed financial institution approved by the Registrar to offer microfinance services shall segregate the management of microfinance operations and portfolios from the rest of the activities of the institution. (2) The Registrar may issue Registrar’s directives for the separate management of microfinance operations and portfolios as set forth in subsection (1)."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Divisions I and II to apply to other licensed financial institutions",
+      "content": "Divisions I and II shall also apply to the microfinance operations of other licensed financial institutions that have been approved by the Registrar to offer microfinance services. Part VI – Accounts and audit Division I - Microfinance service providers"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Financial year",
+      "content": "(1) The financial year for every microfinance service provider shall be the period of twelve months ending 31st December in each year, or as may be determined by the Registrar. (2) Subsection (1) shall also apply to microfinance operations of other licensed financial institutions approved to offer microfinance services by the Registrar."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Accounts",
+      "content": "A microfinance service provider shall keep accounts and records which— (a) show a true and fair state of affairs of the institution; and (b) explain all transactions, and the financial position of the institution to enable the Registrar to determine whether the institution has complied with the provisions of this Act. Division II - Microfinance institutions"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Auditors of a microfinance institution",
+      "content": "(1) A microfinance institution shall have an internal audit section or committee. (2) A microfinance institution shall appoint an external auditor in accordance with the Financial Services Act who shall annually provide a report to the Board of directors that includes— (a) the audited annual balance sheet and profit and loss account; (b) an examination of delinquent loans and loans to directors and employees and their related parties; and (c) any other requirement as determined by the Registrar. [Cap. 44:05] Part VII – Regulation and supervision of microfinance institutions Division I - Microcredit agencies"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Information disclosure by microcredit agencies",
+      "content": "(1) A microcredit agency shall, within four months after the close of its financial year, submit the following information in a prescribed format to the Registrar— (a) annual financial statements; and (b) such additional information as the Registrar may determine. Division II - Licensed microfinance institutions"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Reporting requirements for microfinance institutions",
+      "content": "(1) A microfinance institution shall submit to the Registrar information and data on its operations in Malawi, including periodic returns and information and data on the operations of any company which is a subsidiary, affiliate, associate, or holding company which the Registrar may require for proper discharge of his functions under this Act or the Financial Services Act. [Cap. 44:05] (2) The format of the periodic returns required under subsection (1) and periods within which they must be submitted shall be determined by the Registrar and may vary for different categories of microfinance institutions. (3) Any microfinance institution which, without reasonable cause— (a) fails to comply with subsection (1) or (2); or (b) submits inaccurate returns, shall pay to the Registrar an administrative penalty as determined by the Registrar. Division III - Other licensed financial institutions"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Section 40 to apply to other licensed financial institutions",
+      "content": "Section 40 shall also apply to microfinance operations of other licensed financial institutions approved by the Registrar to offer microfinance services. Part VIII – Remedial measures and winding-up of microfinance service providers Division I - Microfinance services providers"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Remedial measures",
+      "content": "Where it is discovered that a microfinance service provider is not conducting its business according to the standards set forth in section 33 , remedial measures under the Financial Services Act shall apply. [Cap. 44:05] Division II - Non- deposit-taking microfinance institutions and microcredit agencies"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Winding-up non- deposit-taking , microfinance institution or microcredit agency",
+      "content": "(1) Where the Registrar is satisfied or has reasonable cause to believe in respect of a non- deposit-taking microfinance institution or microcredit agency that— (a) its capital is seriously affected and does not meet the prescribed requirements; (b) the continuation of its activities is not in the best interest of its creditors; (c) its assets are insufficient to cover its liabilities; (d) it has refused or refuses to permit an inspection to be made of its business in accordance with this Act, or has otherwise obstructed such inspection; or (e) it is involved in financial crime, the Registrar may petition the High Court to sanction the winding-up of the microfinance service operations. (2) The provisions of the law under which a non- deposit-taking microfinance institution or microcredit agency is incorporated shall apply in case of winding-up. (3) Subsection (1) shall not apply to prudentially-regulated non- deposit-taking microfinance institutions. Division III - Prudentially regulated microfinance institutions"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Winding-up of prudentially regulated microfinance institutions",
+      "content": "Subject to the provisions of this Act, the provisions of the Financial Services Act shall apply, mutatis mutandis , with respect to the winding-up of prudentially-regulated microfinance institutions. [Cap. 44:05] Part IX – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "False documents",
+      "content": "(1) Any officer of a microfinance service provider who willfully— (a) with intent to deceive, falsifies any book of account, report, statement, record or other document of the provider; (b) signs, issues, publishes or transmits to a Government official any book of account, report, statement, record or other document which that person knows, or has reason to believe, to be false; (c) with intent to deceive, knowingly obtains a forged signature on a document; (d) with intent to deceive, destroys any book of account, report, statement, record, or other document of the provider; and (e) engages in transaction or takes part in a deliberation in which there is a conflict of interest prohibited under this Act, commits an offence. (2) Where an officer of a financial service provider is convicted of an offence under subsection (1), the court shall, in addition to the penalty that it may impose under subsection (1), order the convicted officer to be prohibited from holding office in any financial service provider."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Confidentiality",
+      "content": "(1) A microfinance service provider and its staff shall ensure that all transactions are conducted in strict confidence, and that the confidentiality of customers is maintained. (2) A microfinance service provider may, with the consent of the customer, provide any necessary information to third parties such as members of a group guarantee scheme or a credit register."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Money laundering transactions",
+      "content": "Every microfinance service provider shall furnish the Registrar or other enforcement agencies of the Government with relevant information pertaining to transactions deemed suspicious under the Money Laundering, Proceeds of Serious Crimes and Terrorist Financing Act. [Cap. 8:07]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Obstruction of the Registrar, etc.",
+      "content": "Any person who— (a) obstructs the Registrar or his agent in the exercise of any power conferred upon the Registrar under this Act; (b) fails to provide information required under this Act after written request by the Registrar or his agent; (c) with intent to evade any provisions of this Act destroys, mutilates, or hides any document; or (d) knowingly and intentionally contravenes a duty imposed by this Act, commits an offence."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "General offences and penalties",
+      "content": "(1) Any person who contravenes a provision of this Act for which no offence is specifically provided commits an offence. (2) The provisions of the Financial Services Act governing imposition of penalties shall apply to any person who commits an offence under this Act for which no penalty is specifically provided. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Regulations",
+      "content": "(1) The Minister may, upon the recommendation of the Registrar, make regulations for the better carrying out of this Act and for its better administration. (2) The Minister may make different provisions for different categories of microfinance service providers in regulations made under subsection (1). (3) Subject to Part X, the Minister may make regulations with respect to transitional provisions to enable existing microfinance service providers to comply with this Act. (4) For avoidance of doubt, the power to make regulations in this Act does not extend to making regulations about a matter in respect of which the Registrar may issue Registrar’s directives."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Directives and guidelines",
+      "content": "(1) The powers conferred on the Registrar under this Act shall, without prejudice to the powers of the Registrar under the Financial Services Act, be exercised through issuance of Registrar’s directives. (2) The directives may prohibit, restrict or subject to conditions— (a) certain classes of credit facilities, investments, and risk-bearing commitments; or (b) any other transactions affecting the solvency or liquidity of a microfinance service provider . (3) The directives may vary for different categories of microfinance service providers and licensed financial institutions as determined by the Registrar. (4) The directives may include provisions on any corrective action or administrative sanctions which the Registrar considers appropriate. (5) The Registrar may issue guidelines, bulletins or other regulatory statements as he may consider necessary or desirable for the implementation or explanation of any provision of this Act. [Cap. 44:05] Part X – Transitional provisions"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Compliance by existing microfinance service providers",
+      "content": "(1) Any microfinance service provider operating at the date of commencement of this Act that does not meet the ownership and capital requirements specified in this Act shall build up its capital to the required and comply with this Act not later than three years from the commencement of this Act. (2) The Registrar may determine institutional transformation methods for any category of microfinance service provider attempting to comply with subsection (1). (3) Except for the requirement on ownership and capital , an existing microfinance service provider shall comply with the provisions of this Act within twelve months from the date of commencement of this Act. (4) Subject to subsection (3), an existing microfinance service provider shall apply for an appropriate licence or certificate within twelve months from the date of commencement of this Act. History of this document 31 December 2014 this version Consolidation 01 October 2010 Commenced 29 July 2010 Assented to Related documents Subsidiary legislation Title Microfinance (Non-Deposit Taking Institutions) Directive, 2018 Government Notice 50 of 2018 Microfinance (Microcredit Agency) Directive, 2018 Government Notice 49 of 2018 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bank",
+      "definition": "ascribed to it in the Banking Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "branchless service",
+      "definition": "any microfinance service, as defined in this Act, which is offered by a microfinance service provider or an agent on behalf of a licensed financial institution, where the licensed institution is authorized to provide the service and is wholly responsible for its lawful provision to the same extent as if offering the service directly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "capital",
+      "definition": "paid up capital and unimpaired reserves",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "a certificate of registration issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "ascribed to it in the Companies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "compulsory savings",
+      "definition": "a sum of money which is paid as security, as a partial guarantee or as a precondition for a loan granted or promised at a future date to be granted to the person making the payment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "de facto control of a microfinance institution",
+      "definition": "direct or indirect influence that results in the person having predominant decision-making power over the business or financial operations of the microfinance institution and includes powers exercisable over another microfinance institution by virtue of such influence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "de jure control of a microfinance institution",
+      "definition": "beneficial ownership of more than 50% of any class of the issued voting shares of a microfinance institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit",
+      "definition": "a sum of money received or paid on terms under which it will be repaid, with or without interest or a premium, and on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it except that the following shall not qualify as deposits for the purposes of this Act— (a) any sum of money which is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, where the sum is repayable only if the property or services is not or are not in fact sold, hired or otherwise provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit-taking",
+      "definition": "accepting deposits for intermediation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "a member of the board of directors of a microfinance institution , microcredit agency or a savings and credit cooperative",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financially underserved customer",
+      "definition": "a person who is economically active and does not normally have access to formal financial institutions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "group guarantee",
+      "definition": "an agreement by a group of microfinance borrowers to be held jointly or severally liable for loan repayments in order to secure credit facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under the Financial Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "low-income customer",
+      "definition": "a person who is economically active, receives annual income at or below the official poverty line for Malawi, and does not normally have access to formal financial institutions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "microcredit",
+      "definition": "the provision of small loans to small or micro enterprises, low-income customers, financially underserved customers, or as determined by the Registrar, where— (a) such loans are granted to a person whose income depends on his own business or economic activity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "microcredit agency",
+      "definition": "a registered provider of microcredit services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "microfinance institution",
+      "definition": "a licensed provider of microfinance services , whether deposit-taking or non- deposit-taking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "microfinance services",
+      "definition": "the provision of financial services to small or micro enterprises, low-income customers, financially underserved customers, or as prescribed by the Registrar, including the following— (a) microcredit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "microfinance service provider",
+      "definition": "a microcredit : agency, microfinance institution or any other licensed financial institution that has been granted approval to offer microfinance services by the Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro-housing",
+      "definition": "loans to small or micro enterprises low-income customers, or financially underserved customers for renovation or expansion of an existing home, construction of a new home, land acquisition, and basic infrastructure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro-insurance",
+      "definition": "the protection of small or micro enterprises, low-income customers, or financially underserved customers against specific perils in exchange for regular premium payments proportionate to the likelihood and cost of the risk involved",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro-leasing",
+      "definition": "provision of appropriate financial leasing products to small or micro enterprises, low-income customers, or financially underserved customers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro-pension",
+      "definition": "the provision of modest savings opportunities to low-income customers or financially underserved customers in order to secure old age or future needs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "a manager of a microfinance institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "an individual, a company , a partnership, an association, a government or agency of government, and any other group of persons acting in concert, whether incorporated or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "Microfinance Register established and maintained pursuant to section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rotating savings and credit associations",
+      "definition": "any association formed by a core of participants who make regular contributions to a fund which is given, in part in whole, to each contributor in rotation. (2) Subject to subsection (1) and except where a contrary intention appears, words or expressions used in this Act shall have the same respective meanings as in the Financial Services Act. [Cap. 44:05]",
+      "source_provision": "s2"
+    }
+  ]
+}

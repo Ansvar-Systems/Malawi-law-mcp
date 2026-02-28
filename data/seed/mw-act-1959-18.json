@@ -1,0 +1,348 @@
+{
+  "id": "mw-act-1959-18",
+  "type": "statute",
+  "title": "Weights and Measures Act",
+  "title_en": "Weights and Measures Act",
+  "short_name": "Weights and Measures Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1959/18/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Weights and Measures Act. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless inconsistent with the context— “ article ” includes any liquids, foods, chattels, wares, merchandise, commodities and other goods of any description and, where necessary, any article and its package; “ assize ” or “re-assize” in relation to an instrument , weight or measure means to examine, verify, test in the prescribed manner and when found correct stamp with the stamp of assize and provide with a seal of assize , where prescribed, in accordance with this Act, and cognate expressions shall be construed accordingly; “ assizer ” means a person appointed as an assizer in terms of section 11 ; “ authorized measure ” means a unit of weight, length, capacity, area or volume referred to in section 4 , and “unauthorized measure” shall be construed accordingly; “ Board ” means the Assize Board established in terms of section 12 ; “ correct ” in relation to an instrument , weight or measure, means correct within such limits of error and with such sensitiveness as may be prescribed; “ inspector ” means a person appointed as an inspector in terms of section 11 ; “ instrument ” means a weighing or measuring instrument ; “ measuring instrument ” means an instrument for the measurement of length, area, capacity, volume or quantity; “ police officer ” means any member of the Malawi Police of the rank of Inspector or above; “ pre-packed ”, in relation to an article , means packed or made up in advance ready for sale in a wrapper or container; “ purchaser ” includes a person acting on behalf of a purchaser; “ rejected ”, in relation to an instrument , weight or measure, means examined, tested and found not to comply with the requirements of this Act by an assizer and stamped with a prescribed rejection mark, and cognate expressions shall be construed accordingly; “ sale by retail ” means a sale to a person buying otherwise than for the purpose of resale, but does not include a sale to a caterer or manufacturer for the purposes of his catering or manufacturing business, as the case may be, and “ sell by retail” and “sold by retail” shall be construed accordingly ; “ seal of assize ” means a prescribed seal of assize; “ sell ” includes to offer, advertise, expose, keep, have in possession, or prepare for sale and to exchange or dispose of for valuable consideration, and cognate expressions shall be construed accordingly; “ stamp ” includes to cast, engrave, etch, print or otherwise mark in such manner as to be as far as possible indelible, and cognate expressions shall be construed accordingly; “ stamp of assize ” means a prescribed stamp of assize; “ standard ” means a Malawi, Local or Working Standard, as the case may be, referred to in section 5 ; “ trade ” includes any contract, bargain, sale, dealing and generally any transaction for valuable consideration in pursuance of which articles are weighed, measured or counted but does not include any contract, or bargain for sale of or dealing in land or interest in land; “ unassized ” means not assized, or, in relation to an instrument , weight or measure which under this Act should have been re-assized, not re-assized; “ use in trade ”, in relation to an instrument , weight or measure, means the use thereof for weighing, measuring or counting in trade , and cognate expressions shall be construed accordingly; “ weighing instrument ” includes scales, balances and all kinds of machines or instruments used for weighing, including those which also compute prices and those which count objects by weighing. [10 of 1981] Part I – Standard weights and measures"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Standard units of weight, length and capacity",
+      "content": "(1) The standard unit of weight in Malawi shall be a kilogram equal in mass to the International Prototype Kilogram deposited at the International Bureau of Weights and Measures at Sevres, France. (2) The standard unit of length in Malawi shall be a metre equal in length to 1 650 763.73 wavelengths in vacuum of the radiation corresponding to the transition between the levels 2p 10 and 5d 5 of the krypton 86 atom. (3) The standard unit of capacity in Malawi shall be a litre equal in volume to one cubic decimetre. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Units of weight, length, capacity, area and volume in Malawi",
+      "content": "The units of weight, length, capacity, area and volume in Malawi and their corresponding values shall be those specified in the Schedule, and such units of weight, length, capacity, area or volume of the Imperial system and their corresponding values as may for the time being be prescribed. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Malawi, Local and Working standards",
+      "content": "(1) The Minister shall procure standards representing such units of weight, length and capacity specified in the Schedule and such parts and multiples thereof as he may deem necessary, and shall direct which of the standards so procured shall be— (a) Malawi standards; (b) Local standards; (c) Working standards. (2) The Malawi standards shall be deposited and kept in such places as the Minister shall determine, and shall be used solely for the purpose of verification of Local standards. (3) The Local standards shall be kept in the custody of an assizer at such place as shall be prescribed, and shall be used for the purpose of verification of Working standards. (4) Working standards shall be used for the assizing or reassizing of instruments, weights and measures."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Replacement of standards",
+      "content": "If at any time a standard is lost, destroyed, defaced, damaged or found by the Minister to be unsuitable, the Minister shall cause that standard to be replaced by a fresh standard ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Authentication of standards",
+      "content": "(1) Every standard shall be authenticated in such manner as may be prescribed. (2) Judicial notice shall be taken of every standard authenticated in terms of this section."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part I",
+      "section": "8",
+      "title": "Verification of standards",
+      "content": "(1) The Minister shall cause— (a) all Malawi standards to be verified in such manner as he thinks fit, at intervals not exceeding twenty-five years; (b) all Local standards to be verified in comparison with Malawi standards at intervals not exceeding five years; (c) all Working standards to be verified in such manner and at such intervals as may be prescribed. (2) Records of such verifications shall be kept in such form as the Minister may direct. [1 of 1969] [17 of 1974]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part I",
+      "section": "9",
+      "title": "Equipment for administration of the Act",
+      "content": "The Minister shall procure such suitable instruments, appliances and facilities as may be necessary for the purposes of this Act, and shall provide for such repair, adjustment, maintenance, verification or replacement of the instruments, appliances and facilities as may be required. Part II – Administration"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Arrangements with local authorities for administration of the Act",
+      "content": "(1) Subject to section 11 (2), the Minister may enter into an agreement with any local authority, whereby arrangements are made for— (a) the appointment by the Minister of any person employed by the Government or by a local authority as the case may be, as an assizer or an inspector ; (b) the provision by the Government or that local authority of such services or facilities as shall be agreed upon for the administration of this Act in any area within Malawi or within the jurisdiction of the local authority concerned. (2) An agreement referred to in subsection (1) may contain provision for— (a) the reimbursement from moneys provided for the purpose by Parliament to a local authority of the amount of any expenditure incurred by that local authority in pursuance of such agreement; or (b) the payment from moneys provided for the purpose by Parliament to that local authority of an amount equal to that collected in fees in respect of assizing, re-assizing and rejecting of instruments, weights and measures in the area to which such agreement relates; or (c) partly the one and partly the other. (3) Any person appointed as an assizer or inspector in pursuance of an agreement referred to in subsection (1) shall have all the powers and duties of an assizer or inspector , as the case may be, under this Act but only within the area to which such agreement relates."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Appointment of officers",
+      "content": "(1) There shall be appointed, subject to any law relating to the public service, such assizers, inspectors and other officers as he may consider necessary for carrying out this Act. (2) No person shall be appointed as an assizer unless he is the holder of an assizer ’s certificate issued to him by the Minister."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Assize Board",
+      "content": "(1) The Minister shall establish a board to be known as the Assize Board . (2) The Board shall consist of not less than three and not more than five persons of whom at least one shall be an assizer . The chairman of the Board shall be appointed by the Minister from the members thereof. (3) The members of the Board shall hold office for such period and shall be paid such remuneration or allowances as may be prescribed. (4) The decision of the majority of the members present at any meeting of the Board shall constitute the decision of the Board . (5) The functions of the Board shall be, when required by the Minister to do so, to make recommendations on— (a) the examination of candidates for the assizer ’s certificate and the syllabus, conditions of and fees for such examinations; (b) the circumstances in which a person may be issued with an assizer ’s certificate; (c) the issue of certificates in regard to the suitability of design or pattern of instruments, weights or measures for use in trade or the amendment of such certificates; (d) the limitations of the use in trade of any such design or pattern; (e) the exemption of any area or article or class of articles from all or any provisions of this Act; (f) any dispute or difference which may arise between an assizer and any person in regard to the assizing or re-assizing of any instrument , weight or measure or to the weighing, measuring, marking or packing of any article ; and (g) any such other matter as may be referred to it by the Minister."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Certificates in respect of design or pattern of instruments, etc.",
+      "content": "(1) Any person may, on payment of the prescribed fee, make a written application to the Minister— (a) for the issue of a certificate in regard to the suitability for use in trade of any instrument , weight or measure of a design or pattern specified in the application; or (b) for the amendment of such certificate if that design or pattern is altered in a manner specified in the application without affecting the principle of the instrument , weight or measure. (2) If the Minister is satisfied— (a) as to the suitability for use in trade of any instrument , weight or measure of a design or pattern specified in the application, he shall issue a certificate to that effect; (b) that the alteration of the design or pattern specified in the application does not affect the— (i) suitability for use in trade ; and (ii) principle, of the instrument , weight or measure, he shall amend the certificate accordingly: Provided that the Minister may, in such certificate, limit the purposes of trade for which any instrument , weight or measure of that design or pattern may be used and restrict, or impose conditions upon, the use in trade of any such instrument , weight or measure. (3) If the Minister at any time finds a design or pattern of an instrument , weight or measure in respect of which a certificate has been issued under this section to have some quality which might render it unsuitable for all or any purposes of trade or which has become obsolete he may— (a) cancel such certificate; or (b) cancel such certificate and, upon the payment of the prescribed fee, issue a fresh certificate in place thereof in which he may limit the purposes of trade for which the instrument , weight or measure may be used or restrict or impose conditions upon the use in trade of such instrument , weight or measure. Part III – Assizing of instruments, weights and measures"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Instruments, etc. used in trade to be assized",
+      "content": "Subject to this Act, every instrument, weight and measure used in trade shall be assized or re-assized in accordance with this Act."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Assizers to reject certain instruments, etc.",
+      "content": "(1) An assizer shall reject in the prescribed manner any instrument, weight or measure which he finds to be false or defective or not to be correct or not to comply with the requirements of this Act. (2) Where an assizer rejects an instrument, weight or measure in terms of subsection (1) he shall issue to the person in charge of such instrument, weight or measure, if required by him to do so, a written statement to the effect that it has been rejected."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Instruments, etc., to be assized or re-assized",
+      "content": "(1) An assizer may, by notice published in the Gazette and in such other manner, if any, as the Minister may direct, call upon all persons or any class of persons having instruments, weights or measures in use in trade within an area specified in that notice to produce the same to an assizer for the purpose of their being assized or re-assized at such time and place within that area as may be specified in that notice: Provided that there shall be an interval of at least fourteen days between the date of publication of the notice in the Gazette and the first day on which any instrument, weight or measure is to be produced in terms of this section. (2) Subject to subsection (3), any person who fails to comply with a notice referred to in subsection (1) shall be liable to a fine of K200 or, in default of payment, to imprisonment for three months. (3) A person having, within an area specified in a notice referred to in subsection (1)— (a) an instrument of measure which— (i) is fixed; or (ii) has a weighing capacity exceeding 250 kg; or (iii) is of delicate construction; or (b) an instrument, weight or measure which is ordinarily kept at a place which is not within forty kilometres (twenty-five miles) of any place specified in that notice, shall not be guilty of an offence under this section if, upon the publication of that notice, he forthwith in writing notifies the assizer by whom that notice was published of the particulars of such instrument, weight or measure and the place where it is ordinarily kept and requests that such instrument, weight or measure be assized or re-assized at that place. (4) An assized measure of capacity made of clear glass or an assized metal measure of length need not be re-assized unless the assizer has reasonable grounds for believing that it has materially altered since it was assized or re-assized for the last time or unless the stamp of assize has been defaced or become illegible. (5) An assizer may demand that any person producing or submitting an instrument, weight or measure for assizing or re-assizing— (a) cause it to be taken sufficiently apart to enable him to examine the working parts; (b) provide auxiliary material necessary for the assizing or re-assizing of any such instrument, weight or measure; (c) provide transport for the carriage of and labour for the proper and expeditious handling of the standards or any material which is to be used for the assizing or re-assizing of any such instrument, weight or measure; (d) cause it to be cleaned if necessary; and if such demand is not complied with may refuse to assize or re-assize such instrument, weight or measure. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Powers of inspection and entry",
+      "content": "(1) An assizer, inspector, magistrate or police officer may at all reasonable times— (a) enter into any place or vehicle where he has reasonable cause to believe there is any instrument, weight or measure which is used in trade and may inspect such instrument, weight or measure and cause it to be compared by an assizer with standards; (b) seize and detain any instrument, part of an instrument, weight or measure which he has reasonable cause to believe is used contrary to this Act. (2) An assizer, inspector, magistrate or police officer may at all reasonable times— (a) enter any place or vehicle in or from which he has reasonable cause to believe any articles are sold or kept for delivery and may inspect and weigh or measure any article found therein; (b) order any person delivering any article to stop and may inspect and weigh or measure any such article; (c) for the purposes of paragraph (a) or (b) use any assized or re-assized instrument, weight or measure at the place or vehicle where such article is inspected; (d) order the seller of any article to produce for inspection and, if he thinks it necessary, seize and detain any invoice, delivery note or other record kept by such seller relating to the weighing or measuring of such article; (e) seize and detain any article in respect of which he has reasonable cause to believe that an offence has been committed under this Act; (f) order any person mentioned in paragraph (b) or (d) or in charge of any place or vehicle mentioned in paragraph (d) to— (i) provide labour for the handling and weighing in terms of this section of any article; (ii) give his name and address and the name and address of his employer, if any. (3) Any person who fails to comply with any order made in terms of this section shall be liable to a fine of K200 or, in default of payment, to imprisonment for three months. (4) When exercising any powers conferred by this section an assizer or inspector shall, if so required, produce a written authority from the Minister. [10 of 1981] Part IV – Sale of articles and use of instruments, weights and measures"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Contracts to be made by reference to an authorized measure",
+      "content": "(1) Subject to subsection (3), every contract made or effected in Malawi for any work, article , or thing other than land or interest in land shall, when the same has been or is to be done, sold, delivered, carried or agreed for by weight or measure, be made or effected by reference to an authorized measure . If not so made or effected any such contract shall be void. (2) Subject to subsection (3), any person who sells any article by reference to an unauthorized measure shall be liable to a fine of K200 or, in default of payment, to imprisonment for three months. (3) This section shall not apply to any contract made or effected with a view to the exportation from, or the importation into, Malawi of any article . [10 of 1981]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Containers marked with unauthorized measure",
+      "content": "Subject to this Act, no person shall sell any article in a wrapper or container marked with an unauthorized measure unless its correct equivalent in terms of an authorized measure is also marked on that wrapper or container— (a) not less conspicuously than the unauthorized measure; or (b) in the prescribed manner."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Sale and delivery of articles",
+      "content": "(1) Subject to subsection (4), no person shall sell any article by weight unless by net weight. (2) Subject to subsections (3) and (4), a person who sells or has sold an article by weight or measure shall not deliver, cause to be delivered or have in his possession or charge for delivery to the purchaser such article without an invoice or delivery note showing the net weight or the measure of such article : Provided that where a weight has been prescribed for a sack, bag or pocket of any article and that article is sold by such sack, bag or pocket it shall be sufficient if the invoice or delivery note contains only the number of such sacks, bags or pockets sold. (3) Subsection (2) shall not apply to— (a) bread or milk sold by retail; or (b) any article weighed or measured in the sight and presence of the purchaser and delivered to him immediately thereafter; or (c) any article sold in a wrapper or container on the outside of which or on a label securely attached to which is clearly and legibly written or printed the net weight or the measure of such article or the net weight or the measure of such article at the time of packing. (4) This section shall not apply to any article for which weight is used for the purpose of designating grade or class only."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Sale of prepacked articles",
+      "content": "(1) Subject to subsection (2), no person shall sell any pre-packed article by weight or measure unless the net weight or the measure of that article is marked on the wrapper or container in the prescribed manner by reference to an authorized measure . (2) Subsection (1) shall not apply to any article — (a) weighed or measured in the sight and presence of the purchaser and delivered to him immediately thereafter; or (b) in respect of which a weight has been prescribed for a sack, bag or pocket of that article and the article is sold by such sack, bag or pocket; or (c) for which weight is used for the purpose of designating grade or class only."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Provision and operation of weighing instruments",
+      "content": "(1) Subject to this Act, where any person in a shop or store or in or from any vehicle sells by retail by weight any article he shall provide an assized weighing instrument and, where necessary, weights capable of weighing such article and shall keep and operate the same in such place and manner that the weighing and the weight indicated by the instrument are clearly visible to the purchaser at all times: Provided that this subsection shall not apply to any person selling bread from a vehicle. (2) Subject to this Act, any person responsible for the management of any mill, refinery, creamery, produce store or other place where agricultural or dairy produce is purchased shall provide an assized weighing instrument and, where necessary, weights capable of weighing such produce and shall keep and operate the same in such place and manner that the weighing and the weight indicated by the instrument are clearly visible to the person delivering such produce."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Price lists",
+      "content": "(1) Subject to subsection (2), no person shall print, publish, make, circulate, or cause to be printed, published, made or circulated any price list, catalogue or other paper containing a statement of prices current of articles for sale by weight or measure in Malawi in which measures of weight, length, capacity, area or volume of those articles are expressed otherwise than by reference to an authorized measure or denote or imply a greater or lesser measure of weight, length, area or volume than is denoted or implied by an authorized measure . (2) Subsection (1) shall not apply to any price list, catalogue or other paper emanating from outside Malawi which— (a) clearly shows that references to measures of weight, length or volume contained therein are not applicable to Malawi; or (b) bears a statement showing the accurate equivalent by reference to an authorized measure of the measures contained in that price list, catalogue or other paper. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "False statements as to measure, weight, etc.",
+      "content": "Any person who, by any means whatsoever, whether directly or indirectly— (a) makes a false, incorrect or untrue declaration or statement as to the weight, length, gauge, width, area, capacity, volume or number of any article in connexion with its purchase, sale, weighing or measurement; or (b) sells or causes to be sold anything by weight or measure short of the quantity demanded of, or represented by, the seller, shall be liable to a fine of K1,000 and to imprisonment for six months. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Prohibition of use and sale of certain instruments, etc.",
+      "content": "(1) Subject to this Act, any person who knowingly uses in trade or has in his possession or charge for such use— (a) any instrument, weight or measure the use in trade whereof is prohibited under this Act or which is false, defective or not correct; (b) any unassized or rejected instrument, weight or measure; (c) any instrument, weight or measure for any purpose of trade— (i) for which according to a certificate issued under section 13 it may not be used; or (ii) contrary to any restriction or condition imposed in such certificate. shall be liable to a fine of K200 or, in default of payment, to imprisonment for three months. (2) Any person charged with contravening— (a) subsection 1 (a) or (b), shall be presumed to have known at the time when the offence was committed that the instrument, weight or measure to which the charge relates is such as is described in those paragraphs; (b) subsection (1)(c), shall be presumed to have known at the time when the offence was committed the purposes of trade for which, and the restrictions or conditions subject to which, the instrument, weight or measure to which the charge relates, may be used, unless the contrary is proved. (3) Subject to subsection (4), a person shall not sell any weighing instrument unless such instrument bears a stamp of assize of the year of, or immediately preceding, the date of sale. (4) Subsection (3) does not apply to a weighing instrument of a type which is not ordinarily assizable and which, when manufactured, was not designed for use in trade. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Lawful use of certain unassized instruments, etc.",
+      "content": "(1) Any person who has in his possession for use in trade any unassized instrument , weight or measure shall, without undue delay— (a) cause that instrument , weight or measure to be assized or re-assized; or (b) obtain a written authority for the use in trade of such instrument , weight or measure from an assizer in terms of subsection (2). (2) An assizer may, upon the payment of the prescribed fee, issue a written authority for such period and subject to such conditions, if any, as he may specify therein to any person to use in trade any unassized instrument , weight or measure, if that person furnishes him with a written statement that to the best of his knowledge such instrument , weight or measure is assizable. (3) A person who uses in trade or has in his possession or charge for such use an unassized instrument , weight or measure— (a) in respect of which there is in force an authority issued under subsection (2); and (b) in accordance with the conditions, if any, specified in that authority, shall not be liable to criminal proceedings under this Act in respect of such use or possession of that instrument , weight or measure."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Repairs to instruments, etc.",
+      "content": "(1) Any person who mends or repairs an assized or rejected instrument , weight or measure shall first permanently obliterate the stamp of assize or the rejection mark thereon and before such instrument , weight or measure is thereafter used in trade , cause such instrument , weight or measure to be assized: Provided that if such person cannot without undue delay cause such mended or repaired instrument , weight or measure to be assized, he may apply to an assizer for a written authority for the use in trade of such instrument , weight or measure in terms of subsection (2). (2) An assizer shall, upon the payment of the prescribed fee, issue a written authority for such period and subject to such conditions, if any, as he may specify therein to any person to use in trade any instrument , weight or measure which has been mended or repaired and not subsequently assized if— (a) he is satisfied that the person who mended or repaired such instrument , weight or measure is sufficiently competent to effect such mending or repairing; and (b) the person who mended or repaired such instrument , weight or measure furnishes him with a written statement that to the best of his knowledge such instrument , weight or measure is correct and assizable. (3) A person who uses in trade or has in his possession or charge for such use an instrument , weight or measure— (a) in respect of which there is in force an authority issued under subsection (2); and (b) in accordance with the conditions, if any, specified in that authority, shall not be liable to criminal proceedings under this Act in respect of such use or possession of that instrument , weight or measure. Part V – General"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Regulatory powers of Minister",
+      "content": "(1) The Minister may by regulation, order or notice prescribe all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Without derogation from the generality of subsection (1), the Minister may in regulations, orders or notices made in terms of that subsection provide for— (a) the manner in which the process of assizing or re-assizing shall be carried out; (b) the material, construction and marking of instruments, weights and measures for use in trade and the manner in which the denominations of standard units of weight, length or capacity and any multiples or parts thereof may be represented on or by such instruments, weight or measures; (c) the placing, erection and protection of instruments, weights and measures; (d) instruments, weights or measures which, or circumstances in which, an assizer shall refuse to assize or re-assize; (e) prohibiting the use in trade of instruments, weights and measures which in his opinion are liable easily to become incorrect or generally unsuitable for use in trade; (f) limiting the purposes of trade for which certain instruments, weights or measures may be used and restricting, or imposing conditions upon the use in trade of instruments, weights and measures; (g) defining the limits of error which may be allowed and the sensitiveness required in any instrument, weight or measure and the limits of error which may be allowed in the weight or measure of any article; (h) particulars to be specified in an invoice or delivery note relating to any article or class of articles; (i) regulating and controlling the sale by weight, measure or number of any article, and requiring that the same shall be sold by such weight or measure only, or according to prescribed quantities; (j) regulating the manner in which an assizer, inspector, magistrate, or police officer shall carry out his duties under this Act; (k) the circumstances in which a person may be issued with an assizer’s certificate by the Minister; (l) the examination of candidates for assizers’ certificates and the syllabus, conditions of and fees for such examinations; (m) the conditions upon which any fluids may be sold by weight only or by capacity only; (n) the manner in which the weight, measure or number of an article shall be marked on packages or containers; (o) tables showing the equivalents which may be used in trade of one authorized measure in terms of another authorized measure; (p) the procedure of the Board and its quorum; (q) the forms to be used in connexion with this Act; (r) the quality and tolerance and the conditions for the supply, custody, care and verification of standards and associated equipment; (s) exempting classes of instruments, weights or measures from all or any provisions of this Act; (t) exempting, subject to such conditions as may be prescribed, any area or article or class of articles from all or any provisions of this Act; (u) fees in respect of the assizing, re-assizing and rejection of instruments, weights and measures; (v) the examination, testing, verification and stamping of any instrument, weight or measure belonging to or in use by the Government. (3) Any regulation, order or notice may be made for the whole of Malawi or any part thereof. (4) In regulations, orders or notices made in terms of subsection (1) the Minister may make different provisions for different classes of persons, articles or trade, and for different areas. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Offences",
+      "content": "(1) Any person— (a) who makes use of any fraudulent art, device or contrivance for the purpose of evading this Act; or (b) who forges or counterfeits or utters or unlawfully has in his possession a forged or counterfeit stamp or die for the assizing or re-assizing of an instrument, weight or measure; or (c) who, save as is provided in section 27 — (i) tampers with an instrument, weight or measure; or (ii) increases or diminishes a weight or measure; used in trade; or (d) other than an assizer, who places on any instrument, weight or measure any stamp or mark purporting to indicate that such instrument, weight or measure has been assized or re-assized; or (e) who wilfully commits or is a party to or aids in or incites any other person to the commission of any fraud or deception in the use of any instrument, weight or measure, shall be liable to a fine of K1,000 and to imprisonment for six months. (2) Any person— (a) who hinders or obstructs any assizer, inspector, magistrate or police officer in the exercise of his functions under this Act; or (b) who impersonates an assizer or inspector; or (c) other than an assizer, and save as is provided in section 27 , who obliterates or removes from any instrument, weight or measure any stamp or seal of assize or a part thereof; or (d) who in any way alters any portion of the material or the weight or principle of construction of any instrument, weight or measure in respect of the design or pattern of which a certificate in terms of section 13 is in force and who, by any means whatsoever, whether directly or indirectly, represents such altered instrument, weight or measure to any person as an instrument, weight or measure in respect of the design or pattern of which such certificate is in force; or (e) who contravenes or fails to comply with any provision of this Act with which it is his duty to comply, shall, save as is otherwise specially provided in this Act, be liable to a fine of K250 or in default of payment to imprisonment for three months. [10 of 1981]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Forfeiture",
+      "content": "Upon conviction of a person under this Act, the court may, if it thinks fit, either in addition to or without inflicting any other penalty, order that any article , instrument , weight or measure in respect or by means of which the offence was committed shall be forfeited, unless the owner of such article , instrument , weight or measure or any person acting on his behalf or having a right in that article , instrument , weight or measure shows cause to the contrary."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Acts or omissions by managers, agents or employees",
+      "content": "(1) Whenever any manager, agent or employee of any person (hereinafter referred to as the principal) does or omits to do any act which would be an offence under this Act for such principal to do or omit to do, then, unless it is proved that all reasonable steps were taken by the principal to prevent any act or omission of the kind in question, the principal shall be presumed himself to have done or omitted to do that act and be liable to be convicted and sentenced in respect thereof. (2) Whenever any manager, agent or employee of a principal does or omits to do any act which would be an offence under this Act to do or omit to do, he shall be liable to be convicted and sentenced in respect thereof as if he were the principal. (3) Any such manager, agent or employee may be so convicted and sentenced in addition to the principal."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Safeguards to traders",
+      "content": "(1) In any proceedings under this Act in respect of an alleged deficiency of weight or measure of any pre-packed article or of bread, the court shall disregard any inconsiderable variation in the weight or measure of a single article , and shall have regard to the average weight or measure of a reasonable number of other articles of the same kind, if any, sold by the accused, or in his possession for the purpose of sale, on the same occasion, and generally to all the circumstances of the case. (2) It shall be a defence to any proceedings under this Act in respect of an alleged deficiency of weight, length, gauge, width, area, capacity, volume or number if the accused proves that such deficiency was due to a bonafide mistake or an accident, evaporation or drainage, or other causes beyond his control, and in spite of all reasonable precautions being taken by him to prevent the occurrence of such deficiency, or was due to the action of some person over whom he had no control."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Documents to be prima facie evidence",
+      "content": "(1) A document purporting to be signed by an assizer and certifying that an instrument , weight or measure specified therein was inspected or examined and compared with standards by him on a specified date and the finding of his inspection or examination shall be received in any court on production by any person and without further proof as prima facie evidence of the facts therein stated. (2) A document purporting to be signed by an assizer , inspector , magistrate or police officer and certifying that an article specified therein was weighed, measured or counted by him on a specified date and was found to be of a weight, measure or number therein stated shall be received in any court on production by any person and without further proof as prima facie evidence of the facts therein stated."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Burden of proof",
+      "content": "(1) In any proceedings under this Act in which it is necessary in order to establish the charge against a person to prove that he did at any time use in trade or have in his possession or charge for such use any instrument , weight or measure he shall, if it is proved that he carried on trade at that time and that such instrument , weight or measure was then in his possession or charge, be presumed, unless the contrary is proved, to have at that time used in trade or to have had in his possession or charge for such use, as the case may be, the said instrument , weight or measure. (2) In any proceedings under this Act in which it is necessary in order to establish the charge against a person to prove that a notice under section 16 (1) should, in respect of any instrument, weight or measure have been complied with, such instrument, weight or measure shall be presumed, unless the contrary is proved, at all relevant times to have been used in trade by that person in the area to which the notice in question relates. (3) Where an article is found in or on any place or vehicle which is used by any person for trade that article shall, unless the contrary is proved, be deemed, for the purposes of this Act, to be in or on that place or vehicle for sale. (4) Where an article packed or made-up in a wrapper or container is found in or on any place or vehicle which is used by any person for trade , that article shall, unless the contrary is proved, be deemed, for the purposes of this Act, to be a pre-packed article ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Recovery of fees",
+      "content": "The Minister may by action in any court of competent jurisdiction recover the amount of a fee payable in terms of this Act. Schedule (Sections 4 and 5) Units of weight, length, capacity, area and volume Weight Tonne = 1000 kilograms Kilogram Gram = 1/1000 kilogram Metric carat = 1/5 gram Decigram = 1/10 gram Centigram = 1/100 gram Milligram = 1/1000 gram Length Kilometre = 1000 metres Metre Decimetre = 1/10 metre Centimetre = 1/100 metre Millimetre = 1/1000 metre Capacity Litre Decilitre = 1/10 litre Centilitre = 1/100 litre Millilitre = 1/1000 litre Area Square metre Square decimetre = 1/100 square metre Square centimetre = 1/0000 square metre Volume Cubic metre Cubic decimetre = 1/100 cubic metre Cubic centimetre = 1/1000 cubic decimetre Units of the Imperial system All such units of weight, length, capacity, area or volume of the Imperial system and their corresponding values as may for the time being be prescribed under section 4. [10 of 1981] History of this document 31 December 2014 this version Consolidation 01 January 1960 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "article",
+      "definition": "any liquids, foods, chattels, wares, merchandise, commodities and other goods of any description and, where necessary, any article and its package",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assizer",
+      "definition": "a person appointed as an assizer in terms of section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorized measure",
+      "definition": "a unit of weight, length, capacity, area or volume referred to in section 4 , and “unauthorized measure” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Assize Board established in terms of section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed as an inspector in terms of section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument",
+      "definition": "a weighing or measuring instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "measuring instrument",
+      "definition": "an instrument for the measurement of length, area, capacity, volume or quantity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "any member of the Malawi Police of the rank of Inspector or above",
+      "source_provision": "s2"
+    },
+    {
+      "term": "purchaser",
+      "definition": "a person acting on behalf of a purchaser",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sale by retail",
+      "definition": "a sale to a person buying otherwise than for the purpose of resale, but does not include a sale to a caterer or manufacturer for the purposes of his catering or manufacturing business, as the case may be, and “ sell by retail” and “sold by retail” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "seal of assize",
+      "definition": "a prescribed seal of assize",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "to offer, advertise, expose, keep, have in possession, or prepare for sale and to exchange or dispose of for valuable consideration, and cognate expressions shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stamp",
+      "definition": "to cast, engrave, etch, print or otherwise mark in such manner as to be as far as possible indelible, and cognate expressions shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stamp of assize",
+      "definition": "a prescribed stamp of assize",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard",
+      "definition": "a Malawi, Local or Working Standard, as the case may be, referred to in section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade",
+      "definition": "any contract, bargain, sale, dealing and generally any transaction for valuable consideration in pursuance of which articles are weighed, measured or counted but does not include any contract, or bargain for sale of or dealing in land or interest in land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unassized",
+      "definition": "not assized, or, in relation to an instrument , weight or measure which under this Act should have been re-assized, not re-assized",
+      "source_provision": "s2"
+    },
+    {
+      "term": "weighing instrument",
+      "definition": "scales, balances and all kinds of machines or instruments used for weighing, including those which also compute prices and those which count objects by weighing. [10 of 1981] Part I – Standard weights and measures",
+      "source_provision": "s2"
+    }
+  ]
+}

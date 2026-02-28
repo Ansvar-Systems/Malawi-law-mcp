@@ -1,0 +1,539 @@
+{
+  "id": "mw-act-1948-14",
+  "type": "statute",
+  "title": "Mental Treatment Act",
+  "title_en": "Mental Treatment Act",
+  "short_name": "Mental Treatment Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1948/14/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Mental Treatment Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires— “ approved institution ” means an institution declared by the Minister to be an approved institution under section 29 ; “ Court ” means the High Court; “ magistrate ” means a Resident Magistrate or a magistrate of the first or second grade; “ manager ” means any person appointed under section 33 ; “ medical practitioner ” means any medical practitioner who is registered or licensed as such under any law in force in Malawi governing the registration of medical practitioners; “ mental hospital ” means any hospital or other place which has been authorized, or may hereafter be authorized by the Minister as a place for the reception, detention and treatment of two or more persons who are suffering from mental disorder or mental defect; “ person in charge ” means any person appointed or approved by the Minister to be in charge of a mental hospital ; “ person of unsound mind ” means any person who has been so found under Part V or Part VII; “ reception order ” means an order made under Part V or Part VII; “ visiting committee ” means a committee of visitors to a mental hospital appointed under section 4 . Part I – Reception of persons in a mental hospital"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Reception into a mental hospital",
+      "content": "Subject to the provisions of the Criminal Procedure and Evidence Code relating to persons found unfit to plead or not guilty by reason of insanity, no person shall be received, or detained for treatment in a mental hospital except under and in accordance with this Act. [Cap. 8:01] [30 of 1969] Part II – Visiting committee"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Appointment of visiting committees",
+      "content": "The Minister shall appoint for every mental hospital a visiting committee which shall consist of not less than two male visitors and one female visitor, one of whom at least shall be a medical practitioner."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Duty of visitors",
+      "content": "(1) Two or more of the visitors, one of whom shall be a medical practitioner, shall, once at least in every month, inspect every part of the mental hospital of which they are visitors, and see and examine, as far as circumstances will permit, every patient therein, and the authority for the admission of every patient admitted since the last visitation of the visitors, and shall record in a minute book to be kept for that purpose any resolutions or remarks which they may deem proper to make in regard to the management and condition of the mental hospital and the patients therein. (2) Any of the members of the visiting committee shall be at liberty to call at and inspect the mental hospital or any portion of it, at any hour of the day or night they or any of them shall deem proper, and shall see and examine any patient, if they shall think fit. (3) A copy of all entries made in the minute book shall be made and forwarded monthly to the Minister. Part III – Voluntary patients"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Power to receive voluntary patients",
+      "content": "(1) Any person who has attained the age of sixteen years or more who is desirous of voluntarily submitting himself to treatment for mental disorder or mental defect and who makes a written application in the form prescribed for the purpose, accompanied by a medical recommendation, to the person in charge may, without a reception order, be received as a voluntary patient into a mental hospital. (2) Any person under the age of sixteen years whose parent or guardian is desirous of submitting him to treatment for mental disorder or mental defect may, if the parent or guardian makes to the person in charge of a mental hospital an application in the form prescribed for the purpose, accompanied by a medical recommendation, be received as a voluntary patient under this section, but such a person shall not be so received on his own application. (3) The medical recommendation referred to in the preceding subsections shall— (a) be signed by a medical practitioner, who shall be ether the usual medical attendant of the patient to whom the application relates, or a medical practitioner who has been approved for the purpose of making such a recommendation by the Minister; and (b) state the qualifications of the medical practitioner, the date or dates on which he examined the said patient and that the said patient is likely to be benefited by being received as a voluntary patient for treatment under this section. (4) A medical recommendation shall cease to have effect for the purposes of this section upon the expiration of fourteen days from the last date on which the patient to whom the recommendation relates was examined by the medical practitioner for the purpose of making the recommendation. (5) Any person received as a voluntary patient under this section may leave the mental hospital upon giving to the person in charge seventy-two hours' notice in writing of his intention to do so, or, if he is a person under the age of sixteen, upon such notice being given by his parent or guardian. (6) For the purposes of this Part, the expression “guardian” in relation to a person under the age of sixteen includes any person having the charge of the person under sixteen."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Notification of reception or death or departure of voluntary patient to visiting committee",
+      "content": "Where a person is received into a mental hospital as a voluntary patient under section 6 , or where a person so received dies in or departs from a mental hospital, information of his reception, death, or departure shall be given by the person in charge to the visiting committee at their next meeting."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Voluntary patient not to be detained for more than forty days",
+      "content": "(1) If any person received into a mental hospital as a voluntary patient under section 6 becomes at any time incapable of expressing himself as willing or unwilling to continue to receive treatment, he shall not be retained as a voluntary patient for a longer period than forty days thereafter, and shall be discharged on or before the expiration of that period, unless, in the meantime, he has again become capable of so expressing himself, or an application has been made under section 9 or a reception order has been made under Part V or Part VII. (2) If a patient who is under the age of sixteen and who has been received as aforesaid ceases to have any parent or guardian, or if his parents or guardians are incapable of performing, or refuse or persistently neglect, to perform their duty as such, the person in charge shall inform the visiting committee at its next meeting of the circumstances of the case and the condition of the voluntary patient, and the visiting committee shall forthwith consider the report and give such directions for the retention or discharge of such patient as they may think fit. Part IV – Temporary treatment without reception order"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part IV",
+      "section": "9",
+      "title": "Provision for temporary treatment without certificate of certain persons",
+      "content": "(1) Subject to this section, a person who is suffering from mental disorder or mental defect and is likely to benefit by temporary treatment in a mental hospital but is for the time being incapable of expressing himself as willing or unwilling to receive such treatment may, on a written application duly made in accordance with this section but without a reception order, be received into a mental hospital as a temporary patient for the purpose of treatment. (2) An application under this section shall be made in the form prescribed, to the person in charge of the mental hospital and shall, if possible, be made by the husband or wife, or by a relative of the person to whom it relates; and, if the application is not so made, it shall contain a statement of the reason why it is not so made, of the connexion of the applicant with the person to whom it relates and of the circumstances in which he makes the application. (3) The application shall be accompanied by a recommendation in the form prescribed signed by a medical practitioner who shall be either the usual medical attendant of the person to whom the application relates, or a medical practitioner who has been approved by the Minister for the purpose of making such a recommendation. (4) The medical practitioner by whom a recommendation under this section is to be made shall, before signing the recommendation, examine the person to whom the recommendation relates and shall specify in the recommendation the date or dates on which he so examined the said person and the grounds on which he bases his recommendation. (5) A recommendation shall cease to have effect on the expiration of fourteen days from the last date on which the person to whom the recommendation relates was examined by the medical practitioner. (6) A person received as a temporary patient into a mental hospital may be detained therein for a period not exceeding twelve months but shall not be detained as such for any longer period. (7) If a person who has been received as a temporary patient becomes capable of expressing himself as willing or unwilling to continue to receive treatment, he shall not be detained for more than forty days thereafter unless, in the meantime, he has again become incapable of so expressing himself, or an application has been duly made by him under section 6 , or a reception order has been made under Part V or Part VII. (8) Where a person has been received into a mental hospital as a temporary patient under subsection (7), or if a patient so received dies in or departs from the mental hospital, information of the reception, death, or departure shall be given by the person in charge to the visiting committee at their next meeting."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part IV",
+      "section": "10",
+      "title": "Minister's powers of discharge",
+      "content": "When any person has been received into a mental hospital under Part III or this Part the Minister may at any time order that any such person shall be discharged, or otherwise dealt with under this Act. Part V – Reception orders"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part V",
+      "section": "11",
+      "title": "Application for reception order",
+      "content": "(1) An application for a reception order shall be made by petition accompanied by a statement of particulars to the magistrate within the local limits of whose jurisdiction the person alleged to be of unsound mind ordinarily resides, shall be in the form prescribed and shall be supported by a certificate from a medical practitioner. (2) If the medical certificate is signed by any relative, partner or assistant of the person alleged to be of unsound mind or of the petitioner, the petition shall state the fact, and, where the person signing is a relative the exact manner in which he is related to the person of unsound mind or the petitioner. (3) The petition shall also state whether any previous application has been presented for a judicial inquiry into the mental capacity of the person alleged to be of unsound mind in any court; and if such application has been made, a certified copy of the order made thereon shall be attached to the petition."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part V",
+      "section": "12",
+      "title": "Application by whom to be presented",
+      "content": "(1) The petition shall be presented, if possible, by— (a) the husband or wife of the person alleged to be of unsound mind; or (b) if there is no such husband or wife, or such husband or wife is absent or incapacitated, or neglects or is unwilling to act, by any other relative of his. (2) If the petition is not so presented, it shall contain a statement of the reasons why it is not so presented, and of the connexion of the petitioner with the person alleged to be of unsound mind, and the circumstances under which he presents the petition. (3) No person shall present a petition unless he has attained the age of majority and has, within fourteen days before the presentation of the petition, personally seen the person alleged to be of unsound mind. (4) The petition shall be signed and verified by the petitioner, and the statement of prescribed particulars by the person making such statement."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part V",
+      "section": "13",
+      "title": "Procedure upon petition for reception order",
+      "content": "(1) Upon the presentation of the petition the magistrate shall consider the allegations in the petition and the evidence of unsound mind appearing from the medical certificate. (2) If he considers that there are grounds for proceeding further, he shall personally examine the person alleged to be of unsound mind unless, for reasons to be recorded in writing, he thinks it unnecessary or inexpedient so to do. (3) If he is satisfied that the person is of unsound mind and that a reception order may properly be made forthwith, he may adjudge him to be of unsound mind and may make a reception order in the form prescribed for the admission of such person into a mental hospital accordingly. (4) If he is not so satisfied, he shall fix a date (notice whereof shall be given to the petitioner and to any other person to whom in the opinion of the magistrate notice should be given) for the consideration of the petition, and he may make such further or other inquiries of or concerning the person alleged to be of unsound mind as he may think fit."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part V",
+      "section": "14",
+      "title": "Detention of person alleged to be of unsound mind pending inquiry",
+      "content": "Upon the presentation of the petition, the magistrate may make such orders as he may think fit for the suitable custody of the person alleged to be of unsound mind pending the conclusion of the inquiry."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part V",
+      "section": "15",
+      "title": "Consideration of petition",
+      "content": "The petition shall be considered in private in the presence of the petitioner, the person alleged to be of unsound mind (unless the magistrate in his discretion otherwise directs), any person appointed by the person alleged to be of unsound mind to represent him and such other persons as the magistrate may think fit."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part V",
+      "section": "16",
+      "title": "Order",
+      "content": "(1) At the time appointed for the consideration of the petition, the magistrate may either adjudge the person to be of unsound mind and make a reception order in the form prescribed for the admission of such person into a mental hospital, or may dismiss the petition, or may adjourn the same for further evidence or inquiry, and may make such order as to the payment of the costs of the inquiry by the person upon whose application it was made, or out of the estate of the person alleged to be of unsound mind if found to be of unsound mind, or otherwise as he may think fit. (2) If the petition is dismissed, the magistrate shall record in writing his reasons for dismissing the same, and shall deliver or cause to be delivered to the petitioner a copy of such order."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Powers and duties of police in respect of wandering or dangerous persons of unsound mind and such persons cruelly treated or not under proper care and control",
+      "content": "(1) Every officer in charge of a police station, administrative officer or Chief may take into his safe-keeping any person whom he has reason to believe to be suffering from mental disorder or mental defect and who is found, within the limits of his jurisdiction, wandering at large and shall take into safekeeping any person within the limits of his jurisdiction whom he has reason to believe to be dangerous to himself or to others, or who acts in a manner offensive to public decency so as to be a public nuisance, by reason of such mental disorder or mental defect. Any person so taken into safe-keeping shall be taken forthwith before the nearest magistrate. (2) Every officer in charge of a police station, administrative officer or Chief who has reason to believe that any person within the limits of his jurisdiction is suffering from mental disorder or mental defect and is not under care and control, or is being cruelly treated or neglected by any relative or other person having the charge of him, shall immediately report the fact to the nearest magistrate who may order such person to be brought before him."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Duty of custodian of person of unsound mind",
+      "content": "Where any person, having the care and control of a person apparently of unsound mind, is, for any reason, no longer able properly to control such person or to prevent such person from doing injury to himself or others or from acting in a manner offensive to public decency so as to be a public nuisance, it shall be the duty of such first-mentioned person to make due application to a magistrate under section 11 or to report the circumstances of the case to a police officer or an administrative officer or to a Chief in order that proceedings under this Act may be taken in regard to such person."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Power of magistrate",
+      "content": "Where a magistrate is satisfied by information on oath or affirmation that any person suspected of being of unsound mind is at large or is dangerous to himself or others or is acting in a manner offensive to public decency so as to be a public nuisance or is not under proper care and control or is cruelly treated or neglected by any relative or other person having the care or charge of him, such magistrate may, by order under his hand, require a person specified in such order to bring before him the person suspected of being of unsound mind."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Reception order in case of wandering and dangerous persons",
+      "content": "Where any person is brought before a magistrate under section 17 or section 19 , the magistrate shall examine such person, and if he thinks that there are grounds for proceeding further, shall cause the person concerned to be examined by a medical practitioner and may make such other inquiries as he may think fit; and, if the magistrate is satisfied by examination and inquiries and by a medical certificate issued under section 22 , that such person is a person of unsound mind and a proper person to be placed under care and treatment, he may adjudge such person to be of unsound mind or may make a reception order in the form prescribed for the admission of such person into a mental hospital: Provided that, instead of making a reception order, the magistrate may, if he thinks fit, make such person over to the care of any relative or friend upon such relative or friend entering into a bond, with or without sureties, for such sum of money as the magistrate may think fit, that such person shall be properly taken care of and prevented from doing injury to himself or others or from becoming a public nuisance."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Detention of person alleged to be of unsound mind pending report by medical practitioner",
+      "content": "Where any person is brought before a magistrate under section 17 or section 19 , the magistrate may, by order in writing, authorize the detention of such person in a mental hospital, or in any place which the magistrate deems suitable for the purpose, for such time not exceeding thirty days as may, in his opinion, be necessary to enable a medical practitioner to determine whether or not such person is a person in respect of whom a medical certificate of unsound mind may properly be given: Provided that no person shall be detained in any police station or prison if any other suitable accommodation is available."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Issue of medical certificates",
+      "content": "(1) Every medical certificate given under this Part shall be signed by a medical practitioner and shall be in the form prescribed. (2) Every such medical certificate shall state the facts upon which it is founded, distinguishing facts observed by the medical practitioner giving such certificate from the facts communicated to him by others, and no reception order shall be made upon a certificate founded only upon facts communicated by others. (3) Every medical certificate purporting to be given under, and in accordance with, this Part shall, for the purpose of this Act, be received in evidence without further proof and be prima facie evidence of the facts and the opinion therein appearing."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Detention of person alleged to be of unsound mind pending removal to mental hospital",
+      "content": "When any reception order has been made under this Part, the magistrate may, for reasons to be recorded in writing, direct that the person, pending his removal to a mental hospital, be detained in suitable custody in such place and for such time as the magistrate may think fit: Provided that no person shall be detained in any police station or prison if any other suitable accommodation is available."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Power to summon custodian of person suffering from mental disorder",
+      "content": "(1) In any case arising under section 17 (2) the magistrate may summon before him any person who has, or ought to have, the charge of the person who is suffering from mental disorder or mental defect; and if such person is legally bound to maintain the person who is so suffering from mental disorder or mental defect, the magistrate may make an order requiring such other person to cause the person who is suffering from mental disorder or mental defect to be properly cared for and treated. (2) If such person fails to comply with such order, he shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Time and manner of medical examination of person",
+      "content": "A reception order shall not be made unless it appears from the medical certificate upon which such order is to be founded that the medical practitioner who signed the certificate personally examined the person to whom the certificate relates not more than seven clear days before the date of the order."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Authority for reception",
+      "content": "(1) A reception order, accompanied by a copy of the medical certificate upon which it is founded, shall be sufficient authority for any person authorized in the order to take the person of unsound mind and convey him to a mental hospital or to any other place of custody which is mentioned in the order, and for the person of unsound mind to be received and detained therein. Any such order may be acted upon without further evidence of the signature or of the jurisdiction of the person making the order. (2) The reception order and copy of the medical certificate shall accompany the person of unsound mind to whatever mental hospital or other place of safe-keeping he may be sent, and no person shall be received into any mental hospital or other place of safe-keeping under a reception order unless so accompanied. (3) No person shall be received into a mental hospital under a reception order which accompanies him if such reception order is dated more than forty days before the date upon which such person arrives at the mental hospital."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Power to order detention outside jurisdiction",
+      "content": "A magistrate may make a reception order for the detention, care and treatment of a person, adjudged to be of unsound mind, in a mental hospital which is situated in a place outside the ordinary limits of such magistrate's jurisdiction and a reception order shall authorize the detention, care and treatment of the patient at such mental hospital within Malawi at which it appears to the magistrate that sufficient accommodation is available, and where suitable treatment can be given, having regard to the circumstances of the particular case. Part VI – Discharge of patients from, and transfers to, mental hospitals"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Order of discharge from mental hospital",
+      "content": "The Minister or any three of the visitors of any mental hospital, of whom one at least shall be a medical practitioner, may, by order in writing, direct the discharge of any person detained in such mental hospital and such person shall thereupon be discharged: Provided that no order shall be made under this section in the case of a patient detained under the Criminal Procedure and Evidence Code. [Cap. 8:01]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Order of discharge to an approved institution",
+      "content": "(1) Whenever it appears to the Minister that any person detained in a mental hospital under this Act is, by reason of his mental and physical condition and conduct, fit to be discharged conditionally into the care of an approved institution, the Minister may, with the consent of the person in charge of such approved institution, and with the approval of any three of the visitors of the mental hospital concerned, of whom one at least shall be a medical practitioner, order that such person be discharged into the care of such person in charge upon such terms and conditions as the Minister may in his discretion direct. (2) Where any person discharged into the care of a person in charge of an approved institution under subsection (1), leaves such approved institution in breach of any term or condition made by the Minister, a police officer may apprehend such person without an order from a magistrate and without a warrant and may take such person before a magistrate. (3) Where any such person is brought before a magistrate because he has left an approved institution in breach of any such term or condition, the magistrate may, after consulting the Minister or some person on his behalf, direct that such person be returned in custody either to such approved institution or to a mental hospital and may make such other order as he may think fit. (4) The Minister may by notice published in the Gazette declare any institution to be an approved institution for the purposes of this section."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Appointment and report of medical inspector",
+      "content": "The Minister may appoint a medical inspector to visit any approved institution and to report upon the condition of any person who has been discharged into the care of the person in charge of such institution under section 29 . Upon receiving the report of any such inspector, the Minister may, should he think fit— (a) direct the discharge of any such person; or (b) direct the return of such person to a mental hospital there to be detained as if he had not been conditionally discharged; or (c) vary the terms and conditions under which such person has been conditionally discharged."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Order of discharge and undertaking of relative for due care of the person of unsound mind",
+      "content": "Where any relative or friend of a person detained in any mental hospital under a reception order made under this Act desires that such person shall be delivered over to his care and custody, he may for that purpose make an application to the person in charge, and, if the Minister or any three of the visitors, of whom one at least shall be a medical practitioner, consider that such application should be granted, he or they may order that the person be discharged into the care of such relative or friend upon such terms and conditions, as to entering into a bond or otherwise, as the Minister or such visitors may in his or their discretion direct."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Transfer of patients",
+      "content": "Any person detained in a mental hospital under this Act may be transferred by order of the Minister from one mental hospital to another. When a person is transferred under this section the person responsible for conveying him shall produce to the person in charge of the mental hospital to which transfer is made a certified copy of the order of the Minister. Part VII – Judicial power over persons and estates of persons of unsound mind or in a mental hospital"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VII",
+      "section": "33",
+      "title": "Safe-keeping and management of estates of persons in mental hospitals",
+      "content": "(1) The Court may make orders— (a) for the safe-keeping of any person found by inquiry by the Court to be of unsound mind, and for this purpose and without prejudice to any inherent powers of the Court, may exercise all or any of the powers conferred upon a magistrate by Part V; (b) for the management of the estate of any such person; and (c) for the guardianship of his person by any near relative or by any other suitable person; and may also make orders under paragraphs (b) and (c) in the case of any person in respect of whom a reception order has been made under Part V or in respect of any person who is undergoing treatment in a mental hospital. (2) Where there is no near relative or other suitable person, the Administrator General of Malawi may be appointed manager of the estate and guardian of any such person. (3) Where upon inquiry it is specially found that the person to whom the inquiry relates is of unsound mind so as to be incapable of managing his affairs, but that he is capable of managing himself and is not dangerous to himself or to others or likely to act in a manner offensive to public decency so as to be a public nuisance, the Court may make such orders as it thinks fit for the management of the estate of such person including proper provision for the maintenance of him, and of such members of his family as are dependent upon him for maintenance, but it shall not be necessary to make any order as to the custody of the person of unsound mind."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Power of manager in respect of estate",
+      "content": "(1) Where a manager of the estate of a person is appointed under this Part, the Court may direct by the order of appointment, or by any subsequent order, that such manager shall have such general or special powers for the management of the estate as to the Court may seem necessary and proper, reference being had to the nature of the property, whether movable or immovable, of which the estate may consist: Provided that no manager so appointed shall without the special permission of the Court— (a) mortgage charge or transfer by sale, gift, surrender, exchange or otherwise, any immovable property of which the estate may consist; (b) lease any such property for a term exceeding five years; or (c) invest any funds in any securities the interest on winch is for the time being guaranteed by the Parliament of the United Kingdom or by the Government, or in any public debentures issued under the authority of and guaranteed by any Act. (2) If the person appointed to be manager of the estate, or the person appointed to be guardian of a person under this Part, is unwilling to discharge the trust gratuitously, the Court may fix such allowance or allowances to be paid out of the estate of the person in respect of whom the manager or guardian has been appointed as, in the circumstances of the case, the Court may think fit."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Power to make order concerning any matter connected with the person",
+      "content": "The Court may, upon application made to it by petition concerning any matter whatsoever connected with a person of unsound mind or a person undergoing treatment in a mental hospital or with his estate, make such order, subject to this Part, respecting the application as in the circumstances of the case the Court may think fit."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Power to apply property for maintenance of person of unsound mind without appointing manager in certain cases",
+      "content": "(1) If it appears to the Court that, having regard to the situation and condition of life of a person of unsound mind or who is suffering from mental disorder or mental defect and of his family and the other circumstances of the case, it is expedient that his property should be made available for his or their maintenance in a direct and inexpensive manner it may, instead of appointing a manager or notwithstanding such appointment, order that the property if money, or if any other description the produce thereof, when realized, be paid to such person as the Court may think fit, to be applied for the purpose aforesaid. (2) If it appears to the Court that the unsoundness of mind, or the mental disorder or mental defect is in its nature temporary, and that it is expedient to make temporary provision for his maintenance or for the maintenance of such members of his family as are dependent on him for their maintenance the Court may in like manner as under subsection (1) direct his property or a sufficient part of it to be applied for the purpose aforesaid. (3) The receipt of the person so appointed shall be a valid discharge to any person who pays any money or delivers any property of the person of unsound mind or of the person suffering from mental disorder or mental defect to the person so appointed."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Powers of Court in regard to property of person where no manager is appointed",
+      "content": "In cases where no manager is appointed the Court may if it appears to be just or for the benefit of the person of unsound mind or of the person suffering from mental disorder or mental defect, order that any property, whether movable or immovable, of such person and whether in possession, reversion, remainder, or contingency, be sold, charged, mortgaged, dealt with or otherwise disposed of as may seem most expedient for the purpose of raising or securing or repaying with or without interest money to be applied, or which has been applied to all or any of the following purposes— (a) the payment of the debts or engagements of such person; (b) the discharge of any incumbrance on his property; (c) the payment of any debt or expenditure incurred for the maintenance of such person or otherwise for his benefit; (d) the payment of or provision for the expenses of his future maintenance and the maintenance of such members of his family as are dependent upon him for maintenance, including the expenses of his removal from Malawi if he shall be so removed, and all expenses incidental thereto; (e) the payment of the costs of any inquiry under this Act and of any costs incurred by order or under the authority of the Court."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Power to order transfer of property of person of unsound mind residing out of Malawi",
+      "content": "Where any movable or immovable property is standing in the name of or vested in, any person residing out of Malawi, the Court, upon being satisfied that such person has been declared to be of unsound mind, and that a manager has been appointed for his estate according to the law of the place where he is residing, may order some fit person to pay, deliver or transfer the property, or any part thereof, to the name of the person so appointed, as the Court may think fit."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Execution of conveyances and powers by manager under order of Court",
+      "content": "The manager, or such other person as the Court may appoint for the purpose, shall, in the name and on behalf of the person of unsound mind or of the person suffering from mental disorder or mental defect, execute all such conveyances and instruments of transfer relative to any sale, mortgage or other disposition of such person's estate as the Court may order, and any conveyance or other instrument executed by the manager, or any other person appointed by the Court as aforesaid, with the sanction of the Court shall be as valid and effectual in all respects as if it had been executed by the person of unsound mind while he was of sound mind or, in the case of a person suffering from mental disorder or mental defect, before he was so suffering."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Carrying on business of person of unsound mind",
+      "content": "(1) Where a person of unsound mind has been engaged in business, the Court may, if it appears to be for the benefit of the person of unsound mind, order the manager to continue such business for such period and on such conditions as the Court may direct. (2) The manager continuing a business under an order made by virtue of this section shall not be personally liable in respect of any debt or other contractual obligation incurred by him in the proper conduct of the business."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Managers to furnish inventory and annual accounts",
+      "content": "(1) Every person appointed by the Court to be manager of the estate of a person under this Part shall, within six months after the date of his appointment, deliver to the Court an inventory of the property belonging to the person of whose estate he has been appointed manager and of all such sums of money, goods and effects as he shall receive on account of the estate together with a statement of all debts due by or to the same, and every such manager shall furnish to the Court annually, within three months of the close of the year, an account of the property in his charge, showing the sums received and disbursed on account of the estate and the balance remaining on his hands. (2) Where any relative of the person of unsound mind or of the person suffering from mental disorder or mental defect, or any public officer, by petition to the Court, impugns the accuracy of the said inventory and statement, or of any annual account, the Court may summon the manager, and inquire summarily into the matter and make such order thereon as it thinks proper, or the Court, at its discretion, may refer any such petition to any Resident Magistrate or magistrate of the first or second grade having jurisdiction in the place wherein the property belonging to the person concerned is situate. (3) Removal of managers and guardians The Court may, for any cause which seems to it sufficient, remove any manager appointed by it under this Part, and may appoint any other fit person in his place, and may compel the person so removed to make over the property in his hands to his successor, and to account to such successor for all money received or disbursed by him. (4) The Court may also for any sufficient cause, remove any guardian of a person so appointed by it, and may appoint any other fit person in his place."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Termination of appointment of manager",
+      "content": "(1) On the termination of the appointment of any manager for any reason whatsoever, such manager shall deliver his accounts of the property in his hands to the Court who made his appointment. (2) It shall be the duty of the Registrar of the Court to pass and approve of all such accounts. (3) Any manager who neglects or refuses to deliver his accounts or any property in his hands within the time fixed by the Court shall be guilty of an offence against the Act."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Proceedings to cease or to be set aside if Court finds that the unsoundness of mind has ceased",
+      "content": "(1) Where any person has been found under this Act to be of unsound mind, and it is subsequently shown to the Court that there is reason to believe that such unsoundness of mind has ceased, the Court may make an order for the purpose of inquiring as to whether or not such person is still of unsound mind and incapable of managing himself or his affairs. The inquiry shall, as far as may be, be conducted in the manner prescribed in this Act for any inquiry into the unsoundness of mind of a person alleged to be of unsound mind. (2) Where it is found that the unsoundness of mind has ceased, or where the Court is satisfied, in the case of any person who is suffering from mental disorder or mental defect, that it is no longer necessary for his estate to be managed, the Court shall order all proceedings under this Part to cease, or to be set aside, on such terms and conditions as to the passing of accounts or otherwise as to the Court may seem fit."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Examination of females",
+      "content": "Women, alleged to be of unsound mind, who, according to the customs and manners of their community ought not to be compelled to appear in public, shall be exempt from personal appearance in Court under this Act, but may be examined by such persons and in such manner as the Court may direct."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Court procedure",
+      "content": "Wherever possible the Court or a magistrate when hearing applications under this Act where a person alleged to be of unsound mind is before the Court or magistrate, as the case may be, shall sit in camera . Part VIII – Special provisions relating to maintenance"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Application of property in the possession of a person of unsound mind found wandering",
+      "content": "Any money in the possession of a person of unsound mind found wandering at large may be applied by the magistrate towards the payment of the cost of maintenance of such person or of any other expenses incurred on his behalf, and any movable property found on the person of unsound mind may be sold by the magistrate, and the proceeds thereof similarly applied."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Application to civil court for order for the payment of cost of maintenance out of the estate of the person of unsound mind",
+      "content": "(1) If a person detained in a mental hospital under a reception order made under this Act has an estate available for his maintenance, or if any person legally bound to maintain such person has the means to maintain him, the Court which, or the magistrate who, made the reception order may, after summary inquiry, make an order against such estate or such person, as the case may be, for payment of the costs of maintenance of such person so detained together with the costs of the inquiry. (2) If a person received in a mental hospital under Part III or Part IV has an estate available for his maintenance, or if any person legally bound to maintain such patient has the means to maintain him, a magistrate may, on application by the Minister or by any person authorized by him in that behalf, after summary inquiry make an order for the payment of the costs of maintenance of such person together with the costs of the inquiry. (3) Such orders shall be enforced in the same manner, and shall be of the same force and effect and subject to the same appeal as a judgment given by the said court in a suit in respect of the property or person therein mentioned."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Certain maintenance costs to be met from public funds",
+      "content": "If and so far as the costs, or any portion thereof, of the maintenance of a person detained in a mental hospital under a reception order made under this Act are not provided for by an order under this Act, such costs, or portion thereof, shall be paid out of moneys provided by Parliament."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Saving of liability of relatives to maintain person of unsound mind",
+      "content": "The liability of any relative or person to maintain any person who is suffering from mental disorder or mental defect shall not be taken away or affected by any provision contained in this Act."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Pension of person of unsound mind payable by Government",
+      "content": "When any sum is payable in respect of salary, pension, gratuity or other similar allowance to any person by the Government and the Secretary for Health certifies that the person to whom the sum is payable is in a mental hospital and no proceedings for the appointing of a manager of his estate have been instituted under Part VII, the Government officer under whose authority such sum would be payable if the payee were not in a mental hospital may pay so much of the said sum as he thinks fit to the person having charge of such person, and may pay the surplus, if any, or such part thereof as he thinks fit for the maintenance of such members of the family of such person as are dependent upon him for maintenance. Part IX – General"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Inquests on patients",
+      "content": "The person in charge of any mental hospital shall give immediate notice of the death of any patient therein, to the coroner having jurisdiction in the District in which the mental hospital is situated, and thereupon the coroner shall hold an inquest upon the body of such patient in the manner provided by the Inquests Act. [Cap. 4:02]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Death of person discharged to approved institution or breach of a condition by such person to be reported",
+      "content": "The person in charge of any approved institution shall report, as soon as may be, the death of any person discharged into his care, under section 29 , to the Secretary for Health and shall also report to the Secretary for Health the breach by any such person of any of the terms and conditions made by the Secretary for Health relating to his discharge."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Letters of patients",
+      "content": "(1) The person in charge of a mental hospital and every person having charge of any patient therein shall forward all letters written by any patient therein and addressed to the visiting committee , or to any member of the visiting committee , of the mental hospital in which any patient writing such letters may be: Provided that not more than one such letter a month be sent. (2) Letters addressed by such patients to addressees other than those mentioned in subsection (1) shall be forwarded on, as the person in charge of the mental hospital may in his discretion decide. (3) Every person in charge of a mental hospital and every person having charge of a single patient therein shall however be entitled to examine and, at his discretion, retain any letters addressed to persons other than the visiting committee ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Power to refuse accommodation at mental hospital",
+      "content": "Notwithstanding anything in this Act contained, the person in charge of a mental hospital may lawfully refuse to receive any person into such hospital on the ground that there is not sufficient accommodation available therein."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "No liability in respect of act done in good faith in pursuance of this Act",
+      "content": "(1) A person who does any act in pursuance or in intended pursuance of any of the provisions of this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction or of mistake of law or of fact or on any other ground, if he has acted in good faith and with reasonable care. (2) In any proceedings taken against any such person for any such act the burden of proving that he acted without good faith or without reasonable care shall lie upon the plaintiff or the prosecutor. (3) Any proceedings taken against any such person for any such act may, upon application to the court in which they are taken, be stayed if the court is satisfied that there is no reasonable ground for alleging want of good faith or reasonable care, or that the proceedings are frivolous or vexatious. (4) No such proceedings shall be commenced after the expiry of six months from the act complained of, or, in the case of a continuance of injury or damage, after the expiry of six months from the cessation thereof: Provided that, in estimating the said period of six months so limited for the commencement of proceedings, no account shall be taken of any time or times during which the person alleged to be injured was under detention, lawfully or unlawfully, as a person of unsound mind or as a person suffering from mental disorder or mental defect, or was ignorant of the facts which constitute the cause of action. (5) Nothing in this section shall be construed as depriving any person of any defence which he would have independently of this section."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Who may not give certificates",
+      "content": "No medical recommendation for admission to a mental hospital and no medical certificate for the purpose of Part V or Part VII shall be signed by any person in charge of, or by any person employed at the mental hospital where the patient is received, unless the person in respect of whom the recommendation or certificate is sought is at the time an inmate of the said mental hospital , or by any person owning a financial interest in the mental hospital ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Amendment of order or certification",
+      "content": "If, after the reception of any person into any mental hospital , it appears to the person in charge that the order under which he was received or the medical certificate upon which such order was founded or the medical recommendation upon which he was admitted is or are defective or incorrect, the order, certificate or recommendation, as the case may be, may, at any time within forty days after such reception, be amended by the person or persons signing the same, failing which the person in respect of whom the order, certificate or recommendation was made shall be discharged from the mental hospital ."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Person received into mental hospital to be detained until discharged",
+      "content": "Every person received into a mental hospital under this Act shall be detained therein until he leaves, is removed, or discharged, in accordance with this Act; and if any person detained in a mental hospital under a reception order made under this Act escapes therefrom he may be retaken by any police officer, or by any person employed in such mental hospital or by any other person authorized in that behalf by the person in charge of any such mental hospital , and conveyed to and again received into such mental hospital . Part X – Offences"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Persons other than medical practitioner signing certificate",
+      "content": "Any person who, not being a medical practitioner , knowingly and wilfully signs a medical certificate prescribed under this Act shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "False certificates",
+      "content": "Any medical practitioner who knowingly or wilfully or recklessly in any certificate prescribed under this Act certifies anything untrue shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "Escape of person of unsound mind",
+      "content": "Any person who wilfully assists the escape of any person of unsound mind being conveyed to, or from or while under care and treatment in a mental hospital , or who hides any person of unsound mind who has escaped from a mental hospital shall be guilty of an offence against the Act."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part X",
+      "section": "62",
+      "title": "Permitting patient to quit mental hospital unlawfully",
+      "content": "Any person in charge , or any servant, of a mental hospital who through wilful neglect or connivance permits any patient in the mental hospital to quit such hospital other than in accordance with this Act, or of any other law for the time being in force, shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part X",
+      "section": "63",
+      "title": "Ill-treatment of persons in mental hospital",
+      "content": "Any person in charge of, or employed at, a mental hospital who strikes, ill-treats, abuses or wilfully neglects any patient in such mental hospital shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part X",
+      "section": "64",
+      "title": "Dealings with patients",
+      "content": "Any person, who, without the consent of the person in charge of a mental hospital , gives, sells or barters any article or commodity of any kind to any patient in a mental hospital , whether inside or outside the grounds of the mental hospital , shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part X",
+      "section": "65",
+      "title": "Prohibition on publishing names of parties",
+      "content": "Any person who when publishing in any newspaper any matter referring to any proceedings under this Act mentions by name any of the parties thereto shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part X",
+      "section": "66",
+      "title": "General penalty",
+      "content": "Any person who is guilty of an offence against this Act or who contravenes or fails to comply with any of the provisions of this Act, or of any Rules made thereunder, shall, where no other penalty is expressly prescribed, be liable to a penalty of £50 and to imprisonment for six months. Part XI – Rule making powers"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XI",
+      "section": "67",
+      "title": "Rules",
+      "content": "The Minister may make Rules— (a) prescribing the forms to be used under this Act; (b) fixing the fees to be charged thereunder or under such Rules; (c) for the appointment of the staff of mental hospitals, and for the terms of service, discipline and control of such staff; (d) generally for regulating the administration, control and management of mental hospitals and any other matter to which this Act relates. Part XII – Saving"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XII",
+      "section": "68",
+      "title": "Saving",
+      "content": "All Rules, orders, proclamations, notices, appointments and undertakings made or given under the Lunacy Ordinance, 1928 (now repealed) or the Asylums Ordinance, 1928 (now repealed) shall have the same force and effect as if they had been made or given under this Act and by or to the authority empowered thereby in such behalf until replaced by Rules, orders, proclamations, notices, appointments and undertakings made or given under this Act. [17 of 1928] [18 of 1928] History of this document 31 December 2014 this version Consolidation 29 July 1948 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved institution",
+      "definition": "an institution declared by the Minister to be an approved institution under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Court",
+      "definition": "the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate",
+      "definition": "a Resident Magistrate or a magistrate of the first or second grade",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manager",
+      "definition": "any person appointed under section 33",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "any medical practitioner who is registered or licensed as such under any law in force in Malawi governing the registration of medical practitioners",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mental hospital",
+      "definition": "any hospital or other place which has been authorized, or may hereafter be authorized by the Minister as a place for the reception, detention and treatment of two or more persons who are suffering from mental disorder or mental defect",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person in charge",
+      "definition": "any person appointed or approved by the Minister to be in charge of a mental hospital",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person of unsound mind",
+      "definition": "any person who has been so found under Part V or Part VII",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reception order",
+      "definition": "an order made under Part V or Part VII",
+      "source_provision": "s2"
+    },
+    {
+      "term": "visiting committee",
+      "definition": "a committee of visitors to a mental hospital appointed under section 4 . Part I – Reception of persons in a mental hospital",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,1017 @@
+{
+  "id": "mw-act-1993-31",
+  "type": "statute",
+  "title": "Parliamentary and Presidential Elections Act",
+  "title_en": "Parliamentary and Presidential Elections Act",
+  "short_name": "Parliamentary and President...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1993/31/eng@2020-11-03",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Parliamentary and Presidential Elections Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application",
+      "content": "This Act shall apply to the election of members of Parliament and the election to the office of the President."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ ballot box ” means the box into which a voter shall deposit the ballot paper or ballot papers corresponding to the candidate or candidates he has voted for in the election ; “ ballot paper ” means a rectangular sheet of paper for use by a voter in expressing his vote in an election ; “ by-election ” means the election of a member of the National Assembly to fill a seat in the National Assembly which has become vacant otherwise than by dissolution of Parliament; “ candidate ” means any person who has been nominated under this Act as a candidate for election as a member of the National Assembly or for election to the office of President; “ Commission ” means the Electoral Commission established under section 30 of the Constitution; “ constituency ” means an area delimited as such under section 31 of the Constitution and section 8 (1) (a) and (b) of the Electoral Commission Act; “ Council ” means the National Consultative Council established by the National Consultative Council Act 1993; “ election ” means a general election or a by-election ; “ election representative ” means a person appointed by a candidate under section 35 to be the candidate’s representative for purposes of an election; “ general election ” means an election consequent upon dissolution of Parliament for the election in accordance with this Act of members of the National Assembly and the President; “ independent candidate ” means a candidate not sponsored by a political party ; “ irregularity; ”, in relation to the conduct of an election , means noncompliance with the requirements of this Act; “ National Assembly ” means the National Assembly constituted under section 19 of the Constitution; “ nomination day ” means the day appointed by the Commission for the receipt of nominations of candidates for an election under this Act; “ political party ” means a political party registered under the Political Parties (Registration and Regulation) Act; [Cap. 2:07] “ polling day ” means any day appointed by the Commission under section 36 (1) (c) and section 48 (1) (b), for the holding of a poll; “ polling station ” means a place established as such under section 67 ; “ polling station officer ” means a person appointed as such under section 68 (1); “ presiding officer ” means a polling station officer designated as such under section 68 (2); “ Referendum ” means the referendum held on 14th June, 1993, under the Constitution (Referendum on Malawi’s Political System) Regulations, 1993; “ registration ” means the registration of voters; “ returning officer ” means a returning officer appointed under section 34 (1); [10 of 1998] “ the first general election ” means the first general election contested by more than one political party following the Referendum ; “ voter ” means a person registered to vote in an election ; “ voters register ” means the register of voters established under section 22 ; “ voters registration certificate ” means a certificate issued to a voter under section 24 ; “ voting booth ” means a compartment at a polling station for screening a voter from view when he is making his choice or choices in the poll. [10 of 1998] Part II – The Electoral Commission"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "***",
+      "content": "[section 4 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "***",
+      "content": "[section 5 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "***",
+      "content": "[section 6 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "***",
+      "content": "[section 7 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "***",
+      "content": "[section 8 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "***",
+      "content": "[section 9 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "***",
+      "content": "[section 10 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "***",
+      "content": "[section 11 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "***",
+      "content": "[section 12 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "***",
+      "content": "[section 13 repealed by Act No. 10 of 1998 ]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "***",
+      "content": "[section 14 repealed by Act No. 10 of 1998 ] Part III – Registration of voters"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Eligibility",
+      "content": "Every citizen of Malawi residing in Malawi and who, on or before the polling day , shall have attained the age of eighteen years shall be eligible to register as a voter in an election ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Right and duty to register",
+      "content": "It shall be the right and the civic duty of every eligible citizen to present himself for registration as a voter and further he shall have the right to verify with the Commission or its officers that he has been registered and to request that any error or omission with respect to his registration be corrected."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Duty to promote registration",
+      "content": "The Commission shall, in accordance with this Act, create the necessary conditions and take all necessary actions for promoting awareness among the citizens of Malawi of the need to register as a voter for the purpose of an election and of the need for their full participation in the election ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Single registration",
+      "content": "A Citizen eligible to register as a voter shall be registered only once."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Place of registration",
+      "content": "A person shall be registered as a voter in the area where he ordinarily resides or was born or is employed or carries on business. [16 of 1994]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Temporary registration officers",
+      "content": "(1) The Commission may employ temporary staff, on such terms and conditions as it shall determine, as registration officers who shall register voters throughout Malawi. (2) No person shall be employed as a registration officer with respect to any local area of Malawi, unless— (a) he is a citizen of Malawi and has attained the age of eighteen years; (b) he has attained the minimum educational qualification of Junior Certificate of Education or its equivalent; and (c) he has knowledge of the language commonly spoken in the area. (3) Every registration officer shall, before commencing his duties, receive vocational training in the identification and registration of voters and generally in the requirements of this Act with respect to the registration of voters. (4) In the performance of their duties, registration officers shall be under the supervision of the Chief Elections Officer and such of the other election officers as he or the Commission shall designate for the purpose."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Registration centres",
+      "content": "(1) The Commission shall establish centres throughout every constituency in Malawi as places where voters are to be registered and for this purpose the Commission shall endeavour to adopt the centres established for the registration of voters in the last previously held poll in addition to establishing new centres. (2) No form of propaganda campaign material or advertisement shall be exhibited at a registration centre or within a radius of one hundred metres of a registration centre."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Voters registers",
+      "content": "Voters registers shall be in the prescribed form and the Commission shall procure sufficient copies thereof for the registration of voters throughout Malawi and for distribution to registration officers at every registration centre and for that purpose may adopt existing voters registers which shall, as necessary, be updated by registration officers with new registrations."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Evidence of a person’s eligibility to vote",
+      "content": "An eligible person wishing to be registered as a voter in an election shall in person state that he is not registered at any other registration centre and shall present to a registration officer sufficient and cogent proof of his eligibility and may do so by producing— (a) a passport, driver’s licence, even if expired, tax certificate or marriage certificate, an employment identity card or employment discharge certificate or a birth certificate or similarly authentic document of identity; (b) written, verbal or visual testimony of— (i) the chief, a village headman or a registered voter of the area; or (ii) the registration officer."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Registration and issue of voters registration certificate",
+      "content": "(1) Upon a registration officer being satisfied with proof of eligibility of a person to vote, he shall— (a) issue to that person a voters registration certificate in the prescribed form; (b) register that person in the voters register by entering the particulars of that person as prescribed therein. (2) If a voters registration certificate issued to a voter is lost, destroyed, defaced, torn or otherwise damaged, the voter shall notify the registration officer or other officer duly authorized in that behalf in writing giving proof thereof, and upon such officer being satisfied with such proof he shall issue to the voter a duplicate copy of that voter ’s original voters registration certificate with the words “DUPLICATE” clearly marked or printed thereon. (3) A person to whom a voter ’s registration certificate has been issued shall be personally responsible at all times for its safekeeping and shall not place or cause it to be placed in the custody of any other person or allow any other person to use it to vote in an election . [10 of 1998] (4) No person shall receive, keep or use, in relation to an election , a voter ’s registration certificate that has not been issued to him in accordance with this section. (5) Any person who contravenes subsection (3) or (4), or who aids, abets or counsels, or conspires with, any person to contravene subsection (3) or (4), shall be guilty of an offence and shall be liable to a fine of K50,000 and to imprisonment for seven years."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Updating of voters registers",
+      "content": "(1) In updating a voters register the registration officer shall do so by— (a) adding the names and other prescribed particulars of the voters resulting from new registration ; (b) drawing a line, without affecting legibility, over the particulars of the persons who are known to be deceased or who have lost eligibility to vote and indicating in the margin the reasons therefor. (2) The registration officer making new entries in a voters register or deleting entries therefrom shall initial every such new entry or deletion. (3) Upon the registration officer being satisfied with proof of loss of eligibility of a registered voter , he shall immediately update the voters register in accordance with the procedure under this section."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Initialling of pages in voters rolls",
+      "content": "In the case of registration in a new voters register , the registration officer shall initial both sides of every page at a point where registration on the page ends."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Monitoring of registration by political parties",
+      "content": "(1) Every political party contesting an election shall have the right to monitor the registration of voters and shall do so through its designated representatives assigned to a specified registration centre and whose names shall be notified in writing to the Commission , and in the absence of such notification by any political party it shall be presumed that such party does not desire to monitor the registration of voters at such registration centre. (2) The Commission shall issue to every person designated as a representative under subsection (1) a document of identity which shall be in the prescribed form. (3) There may be assigned to one registration centre more than one representative of a political party . (4) Section 89 shall apply mutatis mutandis with respect to the registration of voters. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Rights and duties of representatives of political parties",
+      "content": "(1) Representatives of political parties shall have the following rights— (a) to be treated with due respect and consideration by all persons administering the registration of voters and by the representatives of other political parties; (b) to request and obtain information on activities relating to the registration of voters; and (c) to submit, to the Commission , in writing complaints and appeals about any irregularities in the registration of voters. (2) It shall be incumbent upon the representatives of political parties in exercising their rights under subsection (1)— (a) to monitor the registration activities conscientiously and objectively; (b) to co-operate in order to ensure that the registration activities proceed normally by avoiding unjustified interference in and obstacles to the work of registration officers; (c) to refrain from submitting complaints or appeals in bad faith or with the purpose of paralysing the registration process; and (d) to refrain from divulging any information about a voter or prospective voter obtained as a consequence of acting as a representative and which is not relevant to the registration process. (3) In addition to political parties and their representatives any person eligible to be registered as a voter and any registered voter may submit to the Commission in writing complaints and appeals about any irregularity in the registration of voters. (4) The Commission shall endeavour to determine every complaint or appeal relating to registration of voters before the polling day and to remedy any confirmed irregularity."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Period for registration of voters",
+      "content": "The period for the registration of voters shall be determined by the Commission and notified in the Gazette , being a period of not less than fourteen days expiring not less than twenty-one days before the first polling day . [16 of 1994]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Closing of registration",
+      "content": "At the close of registration , every registration officer shall sign off the voters register assigned to him and shall forward it for custody to the Chief Elections Officer or to such other officer as is designated by the Commission for the purpose and shall submit to such officer a summary of the total number of voters registered in the area assigned to him."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Voters register open to inspection",
+      "content": "A voters register shall be open to inspection, for purposes of verifying the entries therein, by voters, representatives of political parties and international observers, and for this purpose the Commission shall make copies of voters registers and post them for inspection at appropriate public places made known to the public. Part IV – Holding of a general election and by-elections Division 1 — General"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "General election and by-election",
+      "content": "(1) A general election shall be at such times as are required by the Constitution. (2) When a member of the National Assembly dies or resigns, or the Speaker gives notice under the relevant provision of the Constitution that a seat of a member of the National Assembly has become vacant, a by-election shall be held. (3) A candidate may stand for election as a member of the National Assembly or for election to the office of President either on the sponsorship of a political party or as an independent candidate , and the rights and duties conferred by this Act on political parties shall apply, mutatis mutandis , to an independent candidate as it applies to political parties. (4) Subject to this Act, in a general election , the poll for election of members of the National Assembly may be taken simultaneously with the poll for election to the office of President. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Delay in publication of notice pending appeal",
+      "content": "When a member of the National Assembly has been sentenced by a court to death or imprisonment for a term exceeding twelve months, is adjudged or declared by court to be of unsound mind or bankrupt, or has been convicted of any offence prescribed under this Act, it shall not be necessary for the Speaker to give notice that such member’s seat has become vacant until the time for appeal against such decision has expired or, if there is an appeal, until the determination of that appeal."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Appointment of returning officers",
+      "content": "(1) The Commission shall appoint a returning officer with respect to every constituency who shall receive the nominations of candidates for election in that constituency as member of the National Assembly . (2) For the purposes of subsection (1), the Commission may designate the District Commissioner as the returning officer in respect of every constituency in his District."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "Election representative",
+      "content": "Every candidate may appoint one person to be his election representative and notify in writing the returning officer of the constituency in which he is, or intends to be, a candidate of the name so appointed. Division 2 — Nomination of Members of the National Assembly"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Procedure for commencing conduct of elections",
+      "content": "(1) Whenever a general election or a by-election is to be held, the Commission shall issue an order, notice of which shall be published in the Gazette — (a) declaring— (i) in the case of a general election , that an election be held throughout Malawi; (ii) in the case of a by-election or by-elections, the constituency or constituencies in which an election is to be held; (b) appointing the place, date and time for the receipt by the returning officer of the nominations of candidates, in respect of each such constituency ; (c) appointing the day or days on which a poll shall be taken if a poll becomes necessary in accordance with this Act. (2) The date appointed under subsection (1) (b) shall be not less than fourteen days after the publication of the order. (3) The period appointed under subsection (1) (c) during which a poll shall be taken shall commence not less than fourteen days after the nomination of candidates. (4) Upon receipt of a copy of the order required by this section, the returning officer for each constituency named in the order shall proceed to hold an election in the manner prescribed by or under this Act."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Nomination of candidates",
+      "content": "(1) On the day or days and at the time or times and place fixed for the nomination of candidates the returning officer shall attend in the open court at the place notified to receive the nomination of candidates and shall receive such nomination papers as may be tendered to him, and which appear to him to comply with this Act. (2) Subject to subsection (7), the nomination of every candidate shall— (a) be made by means of a nomination paper in the prescribed form; (b) be made by at least ten voters registered in the constituency in which the candidate intends to be a candidate , each of whom shall sign the nomination paper; (c) be endorsed with the candidate ’s consent to nomination; (d) if the candidate is to stand for, or to be sponsored by, a political party , specify that fact, together with the name of the political party and the name of the candidate or an abbreviation of the name of the candidate , and a distinctive symbol, which the candidate wishes to appear on the ballot paper in conjunction with him; and (e) in the case of an independent candidate , specify the name of the candidate or an abbreviation of the name of the candidate , and a distinctive symbol, which the candidate wishes to appear on the ballot paper in conjunction with him. (3) Every nominated candidate shall produce to the returning officer evidence, satisfactory to the returning officer , identifying him as the person nominated. (4) Where a nomination paper specifies the matters referred to in paragraph (d) of subsection (1), the nomination paper shall be countersigned by a person who is an office-bearer of the political party concerned and who has authority to certify that the candidate is to stand for that political party . (5) The fact that subsequent to nomination the name of any person who nominated a candidate under subsection (2) (b) is struck off the voters register shall not invalidate the nomination of the candidate . (6) No candidate may be nominated for election in more than one constituency or, in the case of a by-election , while he is a member of the National Assembly . (7) A voter shall not be entitled to subscribe to more than one nomination paper."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Nomination paper and supporting documents",
+      "content": "(1) Every candidate or his election representative shall at the time of his nomination deliver to the returning officer — (a) a nomination paper completed and executed in the prescribed form; (b) evidence, or a statutory declaration by the candidate made before a magistrate or a commissioner for oaths, that the candidate — (i) is a citizen of Malawi and has attained the minimum age required by the Constitution for election to the National Assembly ; and (ii) is able to speak and to read the English language well enough to take an active part in the proceedings of the National Assembly ; (c) evidence that he is registered as a voter in any constituency . (2) The returning officer shall, if the candidate or his election representative so requests, examine the nomination paper and supporting documents of the candidate before they are tendered and advise the candidate or his election representative whether in his opinion they are in order. (3) The returning officer shall, at the earliest opportunity and in any case, before the close of the period allowed for nominations, advise the candidate or his election representative of any defect in the candidate ’s nomination paper or supporting documents and the candidate or his election representative may, before the close of such period, rectify the defect. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Invalid nominations",
+      "content": "Where a nomination paper is delivered in conformity with this Part and it is not withdrawn, the candidate shall be deemed to stand nominated unless the returning officer is satisfied of the candidate ’s death or decides that the nomination paper is invalid on one of the following grounds, but on no other grounds, namely— (a) that the description of the candidate is insufficient to identify him; (b) that the nomination paper does not comply with this Act; (c) that the nomination paper was not tendered within the time prescribed; (d) that any supporting document required to accompany the nomination paper has not been lodged with the returning officer ; or (e) that the evidence delivered to the returning officer under section 37 (3) is insufficient."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Rejected nominations",
+      "content": "(1) If, after the close of the period allowed for nominations but before the polling day , the returning officer is of the opinion that— (a) a candidate whose nomination paper has been lodged with him has not been duly nominated in accordance with this Act or is not qualified for election or has obtained nomination by fraud or false pretences; (b) any symbol or abbreviation specified in respect of a candidate pursuant to paragraph (d) or (e) of section 37 (2) is indecent or obscene or is too complex or elaborate to be reproduced on a ballot paper or so closely resembles the symbol of any candidate contesting the election in the constituency concerned or the recognized symbol or abbreviation of any other candidate or of any political party, other than the political party, if any, for which the candidate concerned is standing or which is sponsoring him as to be likely to cause confusion; or (c) where the nomination paper states that a candidate is to stand for or to be sponsored by a political party , there is reason to believe that that fact is not true; or (d) the nomination paper lodged with the returning officer in respect of any candidate is for any other reason not in order; or (e) the deposit referred to in section 45 was not lodged with a candidate’s nomination paper; or (f) a candidate is not qualified for election at that election ; or (g) a candidate has been duly nominated for election for another constituency , the returning officer shall forthwith notify such candidate or his election representative giving the reasons for such opinion, and, if so requested by the candidate or his election representative , the returning officer shall draw up and sign a statement of the facts and his opinion based thereon and transmit it, together with the nomination paper and any certificate or affidavit which has been lodged with such nomination paper, to the Registrar of the High Court for hearing and decision by the High Court at the earliest opportunity; and a copy of the statement shall, at the same time, be delivered to the candidate or his election representative and to the Commission . (2) If no request is made under subsection (1) the candidate shall be deemed not to have been duly nominated. (3) The High Court may call for further information from the person making the request or from the returning officer . (4) The High Court shall after determination of the matter direct the returning officer either to accept or to reject the nomination and the returning officer shall comply with such direction. (5) Where any nomination has been referred to the High Court under the provisions of this section, the proceedings under sections 41 , 42 and 43 shall be suspended pending determination of the matter. (6) Without derogation from subsection (1), the returning officer shall not take the action under that subsection— (a) solely on account of any minor variation between the name of any person as it appears on the nomination and as it appears on the voters register if the returning officer is reasonably satisfied that the variation is due to an error or is without significance; (b) any other imperfection in the nomination paper if the returning officer is reasonably satisfied that there has been substantial compliance with this Part."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "No nomination of candidate",
+      "content": "If at the end of the period allowed for nomination no candidate has been duly nominated for a constituency , the Commission shall by notice published in the Gazette , extend the period for the receipt by the returning officer of nominations to a date not later than seven days before the polling day ."
+    },
+    {
+      "provision_ref": "s41A",
+      "chapter": "Part IV",
+      "section": "41A",
+      "title": "Publication of names of candidates for election as member of Parliament",
+      "content": "After receiving nominations of candidates for election as member of Parliament under this Part, the Commission shall, within fourteen days after receiving the nominations, cause to be published in the Gazette and on the radio and in at least two newspapers in general circulation in Malawi the names of all candidates who have been validly nominated for election as member of Parliament in alphabetical order of surnames. [10 of 2013]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Procedure for uncontested election",
+      "content": "If at the end of the period allowed for nomination there shall be only one candidate duly nominated in a constituency , the returning officer shall publicly declare that candidate to be elected and shall immediately thereafter inform the Commission of the name of the elected candidate and the constituency for which he has been elected. Such candidates shall thereupon be a member of the National Assembly ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Procedure when poll to be held",
+      "content": "(1) When two or more persons have been duly nominated as candidates for election in any constituency , the returning officer in such constituency shall, as soon as practicable after the close of the period for nomination, publicly declare and give public notice that a poll is to be taken stating— (a) the names of the candidates in alphabetical order of surnames; (b) the day or days and the times, as declared by the Commission under section 36 , on which the poll shall be held; and (c) the location of the polling station or stations. (2) The returning officer may, with the consent of the Commission , alter the provisions of a public notice given under subsection (1) for the purpose of fulfilling the requirements of this Act and any such alteration shall be published in the same manner as the notice."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IV",
+      "section": "44",
+      "title": "Special provisions with respect to by-elections",
+      "content": "(1) A vacancy in the membership of the National Assembly which exists otherwise than by reason of a dissolution of Parliament shall be published by the Speaker by notice in the Gazette stating the cause of the vacancy. (2) If— (a) within fourteen days of the publication of a notice referred to in subsection (1), the person to whom the notice relates has not presented a petition to the High Court seeking an order declaring that he has not ceased to be a member of the National Assembly ; or (b) after presenting a petition referred to in paragraph (a), the petitioner by his own default does not prosecute his petition within fourteen days of presenting the petition; (c) after hearing the petition, the High Court confirms the declaration of the Speaker, the Registrar of the High Court shall forthwith give notice of that fact to the Speaker. (3) If, after hearing a petition referred to in subsection (2), the High Court makes an order declaring that the petitioner has not ceased to be a member of Parliament, the Registrar of the High Court shall forthwith give notice of that fact to the Speaker, who shall publish a notice in the Gazette stating the effect of the order of the High Court. (4) The Attorney General shall be respondent on the hearing of a petition referred to in subsection (2)."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IV",
+      "section": "45",
+      "title": "Deposit on nomination",
+      "content": "(1) At the same time as the nomination paper for a candidate is lodged, there shall be deposited with the returning officer by or on behalf of the person nominated, such sum as may be determined by the Commission , which shall not be refundable. (2) If a poll for the constituency concerned does not take place, the sum deposited under subsection (1) shall be refundable to the payee. (3) The Commission shall, six months before the nomination day — (a) determine the sum to be deposited under subsection (1); and (b) publish in the Gazette , on the radio and in at least two newspapers in general circulation in Malawi, the sum determined under subsection (1). [10 0f 2013]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part IV",
+      "section": "46",
+      "title": "Withdrawal of a candidate",
+      "content": "(1) Subject to this section, a duly nominated candidate for elections for a constituency may withdraw his nomination at any time before the polling day . (2) A withdrawal of a candidate under subsection (1) shall be effected by means of a written notification to the returning officer , signed by the candidate personally, and the returning officer shall notify the Commission in writing. (3) Where a candidate has withdrawn his nomination under this section the sum deposited by or on his behalf under section 45 shall be forfeited and paid into the Consolidated Fund. (4) In the event of a candidate withdrawing his nomination under this section, the returning officer shall take all such steps as are reasonably practicable to ensure that— (a) the withdrawal is brought to the attention of voters in the constituency ; and (b) the name of the candidate who has withdrawn is either omitted or deleted from all ballot papers. (5) A withdrawal of a candidate under this section shall be voluntary and shall be under oath sworn by the candidate before a commissioner of oaths. [10 of 1998] (6) Any person who, in any way induces or influences a candidate to withdraw from an election shall be guilty of an offence. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part IV",
+      "section": "47",
+      "title": "Death of a candidate",
+      "content": "(1) If the returning officer of a constituency is satisfied that a duly nominated candidate for election in that constituency died before the close of the poll in that constituency , he shall stop all proceedings relating to the election in that constituency and forthwith notify the Commission of that fact. (2) Where— (a) the Commission is satisfied that a duly nominated candidate for election for a constituency died before the poll commenced or, if the polls has commenced, before the close thereof; (b) the proceedings relating to an election for a constituency have been stopped under subsection (1), the Commission shall, so far as concerns that constituency , declare that all proceedings relating to the election in that constituency are void and that all proceedings relating to that election shall be commenced afresh in the same manner as if a vacancy had occurred: Provided that no fresh nomination shall be necessary in the case of a candidate who was duly nominated at the time when the proceedings were declared void if such candidate or his election representative notifies the returning officer of the constituency in writing of his intention to remain a candidate . Division 3 — Nominations for election to the office of President"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IV",
+      "section": "48",
+      "title": "Notice of election to office of President",
+      "content": "(1) For the purpose of election to the office of President, the Commission shall publish in the Gazette a notice declaring— (a) a place or places at which, and a day or days, not less than fourteen days after the day of publication of the notice, on which the Commission shall sit in the open for the purpose of receiving nominations of candidates for election to the office of President; and (b) a day or days, not less than twenty-one days after the nomination day or last nomination day , as the case may be, fixed under paragraph (a), on which a poll shall be taken if a poll becomes necessary in accordance with this Act. (2) The Commission may, by further notice published in the Gazette , alter any day, time or place fixed under subsection (1). [16 of 1994]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IV",
+      "section": "49",
+      "title": "Nomination of candidates for election to office of President",
+      "content": "(1) The nomination of a candidate for election to the office of President shall be made by at least ten registered voters in each district each of whom shall sign a nomination paper in the prescribed form which— (a) the candidate or his election representative shall lodge with the Commission ; (b) shall be countersigned by the candidate , endorsing thereby his acceptance of the nomination; (c) shall, if the candidate is to stand for or to be sponsored by a political party , specify that fact, together with the name of the political party , the name of the candidate and an abbreviation of the name of the candidate and the distinctive symbol and other particulars approved by the Commission which the candidate wishes to appear on the ballot paper in conjunction with him; (d) in the case of an independent candidate , shall specify the name of the candidate or an abbreviation of the name of the candidate and the distinctive symbol and other particulars approved by the Commission which the candidate wishes to appear on the ballot paper in conjunction with him; and (e) shall be accompanied with evidence, or a statutory declaration by the candidate made before a magistrate or a commissioner for oaths, that the candidate is a citizen of Malawi and has attained the minimum age required by the Constitution for the election to the office of President. (f) specify the name of the Vice-President appointed by him as his running mate in the elections. [16 of 1994] (2) Where a nomination paper specifies the matters referred to in paragraph (c) of subsection (1), the nomination paper shall be countersigned by another person who is an office-bearer of the political party concerned and who has authority to certify that the candidate is to stand for or to be sponsored by that political party . (3) Subject to this section, the provisions of sections 37 (2) and (3), 38 and 39 shall apply, mutatis mutandis , in relation to the nomination of candidates for election to the office of President, and references in that section to the returning officer shall be read as references to the Commission . [16 of 1994]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IV",
+      "section": "50",
+      "title": "Deposit on nomination",
+      "content": "(1) At the same time as nomination papers are lodged by or on behalf of a candidate for election as President, there shall be deposited with the Commission by or on behalf of the person nominated, such sum as may be fixed by the Commission . (2) Save as provided in section 52 (3), a deposit under subsection (1) shall, mutatis mutandis , be treated in the same manner as a deposit under section 45 ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IV",
+      "section": "51",
+      "title": "Publication of names of Presidential candidates",
+      "content": "The Commission shall, within seven days after receiving nominations of candidates for election to the office of the President under this Part, cause to be published in the Gazette and on the radio and in at least two newspapers in general circulation in Malawi the names of all candidates who have been validly nominated for election to the office of the President in alphabetical order of surnames. [10 of 2013]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IV",
+      "section": "52",
+      "title": "Withdrawal of a candidate",
+      "content": "(1) A nominated candidate for election to the office of President may, by notice in writing addressed to the Commission , withdraw his candidature at any time before the day on which the poll in an election to the office of President is to be taken. (2) On receipt of a notice of withdrawal under subsection (1), the Commission shall cause the withdrawal to be published in the Gazette and on the radio and in a newspaper in general circulation in Malawi. (3) Where a candidate for election as President has withdrawn his nomination under this section, the sum deposited by or on his behalf under section 50 shall be forfeited and paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IV",
+      "section": "53",
+      "title": "No nomination of candidate for election to office of President",
+      "content": "If at the end of the period allowed for nomination for election to the office of President no candidate has been duly nominated for election to the office of President, the Commission shall by notice published in the Gazette extend the period for the receipt by the Commission of nominations."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IV",
+      "section": "54",
+      "title": "When fresh nominations are to be held",
+      "content": "Where— (a) no candidate for election to the office of the President has been validly nominated at the expiry of the time fixed for lodging nomination papers with the Commission or; (b) no candidate nominated for election to the office of President is qualified in accordance with the Constitution for election as President; or (c) a candidate nominated for election of President dies on or before the day on which the poll in the election is to be taken; or (d) a candidate nominated for election to the office of President who would otherwise have been entitled to be declared duly elected as President dies after the poll has begun in the election to the office of President, but before he has been declared duly elected as President, the Commission shall, by notice published in the Gazette , declare that all proceedings relating to the election to the office of President are void and that proceedings shall be immediately commenced afresh in accordance with this Act."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IV",
+      "section": "55",
+      "title": "Procedure when poll to be held for election to office of President",
+      "content": "If two or more persons have been duly nominated as candidates for election to the office of President, the Commission shall, as soon as practicable after the close of the period for nomination give public notice that a poll is to be taken and such notice shall state— (a) the names of the candidates in alphabetical order of surnames; (b) the day or days and the times on which the poll shall be held as determined by the Commission under section 48 (1) (b); and (c) the location of the polling stations. (2) The Commission may, for the purpose of fulfilling the requirements of this Act, alter the provision of a public notice given under subsection (1) and any such alteration shall be published in the same manner as the notice. [Please note: numbering as in original.] Part V – Campaigning"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part V",
+      "section": "56",
+      "title": "Campaigning by political parties",
+      "content": "(1) All political parties shall have the right to campaign in an election . (2) Campaigning by or in the name of any political party shall not be conducted in any public place unless the political party has notified the District Commissioner in writing, with a copy of such notification to the officer-in-charge of Police. (3) The District Commissioner shall stamp every notification he has received under subsection (2) with his official date stamp showing the date the notification was received by him. (4) Where two or more political parties have given notification under subsection (1) to hold a public meeting at the same venue, the political party whose notification was first received by the District Commissioner shall be the party entitled to hold the public meeting at such venue."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part V",
+      "section": "57",
+      "title": "Period of campaigning",
+      "content": "For the purposes of this Act the period of campaigning in public by every political party under this Part shall be a period of two months closing forty-eight hours before the opening of the poll on the first polling day : Provided that in the case of the first general election such period shall be of any duration closing forty-eight hours before the opening of the poll on the first polling day ."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part V",
+      "section": "58",
+      "title": "Equal treatment of political parties",
+      "content": "Every public officer and public entity or authority shall give and be seen to give equal treatment to all political parties to enable each political party to conduct its campaign freely."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part V",
+      "section": "59",
+      "title": "Freedom of expression and information",
+      "content": "Every political party and every representative, member or supporter thereof shall enjoy complete and unhindered freedom of expression and information in the exercise of the right to campaign under this Act and no person shall, during or after the period of campaigning, be subjected to any criminal prosecution for any statement he made or any opinion he held or any campaign material he produced, published or possessed while campaigning in the election ."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part V",
+      "section": "60",
+      "title": "Freedom of assembly",
+      "content": "Subject only to section 56 (2), every political party and any representative, member or supporter thereof shall, either alone or in common with others, enjoy complete and unhindered freedom of peaceful assembly in campaigning in any election."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part V",
+      "section": "61",
+      "title": "Ethical norms during campaigning",
+      "content": "(1) Notwithstanding guarantees of freedom of expression, information and assembly under this Act, no person shall in campaigning in an election use language which is inflammatory, defamatory or insulting or which constitutes incitement to public disorder, insurrection, hate, violence or war. (2) The Commission may prescribe a code of conduct to be complied with by every political party in conducting its campaign in an election ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part V",
+      "section": "62",
+      "title": "Prohibited places for campaigning",
+      "content": "No person shall hold a campaign under this act in or within the premises of— (a) military units or police stations; (b) public institutions and workplaces during normal working hours; (c) educational institutions during periods of classes."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part V",
+      "section": "63",
+      "title": "News broadcasts and reports",
+      "content": "(1) Every political party shall have the right to have the substance of its campaign propaganda reported on television and radio news broadcasts of the Malawi Broadcasting Corporation and in any newspapers in circulation in Malawi: Provided that in the case of news broadcasts by the Malawi Broadcasting Corporation— (a) the content of the news shall be professionally determined by the Malawi Broadcasting Corporation; (b) the Malawi Broadcasting Corporation shall maintain neutrality in the manner of reporting the news of the campaign propaganda of political parties and generally in its commentaries; (c) the Commission shall monitor such news broadcasts and shall ensure equal news coverage of the campaigning by all political parties; (d) no political party or candidate shall be entitled to make commercial advertisement for its campaign. (2) The Commission may, by arrangements with the Malawi Broadcasting Corporation, allocate time on the television and radio during which political parties may be allowed to speak in campaigning for an election and the Commission shall allocate equal time to every political party . [10 of 2013] (3) For the purposes of this section, “campaign propaganda” means any activity, statement or any other form of expression aiming directly or indirectly at promoting votes for any candidate or political party contesting in an election . [10 of 2013]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part V",
+      "section": "64",
+      "title": "Publication of books, pamphlets, etc",
+      "content": "During the campaign period any political party may publish campaign materials in the form of books, booklets, pamphlets, leaflets, magazines or newspapers and shall, in any such publication, specify particulars sufficient to identify the political party ."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part V",
+      "section": "65",
+      "title": "Campaign posters",
+      "content": "The District Commissioner shall designate places or spaces in parts of his district on which may be posted or affixed campaign materials of political parties and every political party shall be entitled to equal access to such place or space."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part V",
+      "section": "66",
+      "title": "Campaign financing",
+      "content": "Every political party may, for the purpose of financing its campaign, appeal for and receive voluntary contributions from any individual or any non-governmental organization or other private organization in or outside Malawi."
+    },
+    {
+      "provision_ref": "s66A",
+      "chapter": "Part V",
+      "section": "66A",
+      "title": "Campaigning by independent candidates",
+      "content": "The provisions of this Part shall apply, mutatis mutandis , in relation to the campaigning by independent candidates for election to the office of the President and candidates for election as member of Parliament. [10 of 2013] Part VI – Polling stations"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VI",
+      "section": "67",
+      "title": "Polling Stations",
+      "content": "(1) The Commission shall establish polling stations throughout the Republic and there shall be at least one polling station for every registration centre established under section 21 . (2) All polling stations shall be established and located in public buildings, including schools, community or social halls, administrative offices of the Government or local authorities, but not— (a) at a military unit or police station; (b) in a residential building; (c) in a building occupied by a political party ; (d) in premises where alcoholic drinks are ordinarily sold or consumed; (e) places of worship or dedicated to worship; and (f) hospitals or other health centres. (3) Notwithstanding subsection (2) (a), the Commission may establish polling stations at any military unit or police station for purposes of enabling members of the Defence Forces of Malawi, the Malawi Police Force and members of their families to vote in the last two days prior to the polling day . [10 of 1998] (4) The Commission shall, before the polling day , publish in the Gazette and in more than one issue of a newspaper in general circulation in Malawi and by radio announcements and by any other appropriate means the names of all places throughout Malawi at which polling stations have been established. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VI",
+      "section": "68",
+      "title": "Polling station officers",
+      "content": "(1) The Commission shall appoint polling station officers in its service whose duty shall be to administer the proceedings at polling stations, including more particularly the casting of votes, and to count the votes cast at polling stations. (2) The Commission shall post at every polling station at least five polling station officers one of whom the Commission shall designate as the presiding officer for that polling station and at least one of whom shall be a person able to speak the language commonly spoken in the area of the polling station . (3) Polling station officers may be appointed from amongst persons who served as registration officers and every person appointed as a polling station officer shall receive vocational training in his duties."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VI",
+      "section": "69",
+      "title": "Working hours for polling station officers",
+      "content": "Every polling station officer shall, on the polling day , report for work at the polling station not later than thirty minutes before the opening time for the casting of votes at that polling station and at any given time of the polling day there shall be a majority of polling station officers attending to their business at the polling station ."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VI",
+      "section": "70",
+      "title": "Work items for polling station officers",
+      "content": "The Commission shall ensure, in due time, that polling station officers at every polling station are supplied with all necessary items, namely— (a) an authenticated copy of the voters register of the voters registered at the centre served by the polling station ; (b) the ballot papers and accompanying envelopes for use by voters in casting their votes; (c) the ballot boxes; (d) the seals, sealing wax and envelopes for the votes; (e) indelible ink; (f) record sheets for the record required under section 93 ; (g) a lamp or lamps to be lit and used for counting votes at the close of the poll; (h) a log book in which formal complaints under section 89 shall be recorded. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VI",
+      "section": "71",
+      "title": "Security of work items at polling stations",
+      "content": "Presiding officers at polling stations and, in general, the Commission shall be responsible for creating and guaranteeing all necessary and indispensable conditions for the custody, conservation, security and inviolability of the items specified in section 70 , including more particularly the ballot papers and ballot boxes."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VI",
+      "section": "72",
+      "title": "Monitoring of voting by political parties",
+      "content": "(1) Every political party shall have the right to monitor the voting process at polling stations and shall do so through its designated representatives who shall be notified to the Commission in writing specifying their names and the polling stations to which they are to be assigned and in the absence of such notification by any political party it shall be presumed that the political party does not desire to monitor the voting process at that polling station . (2) The Commission shall issue to every person designated as a representative of a political party under subsection (1) a document of identity in the prescribed form."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VI",
+      "section": "73",
+      "title": "Rights and duties of representatives of political parties",
+      "content": "Representatives of political parties shall have— (a) the following rights— (i) to be present at the polling stations and to occupy the nearest seats or positions to the polling station officers so as to be able to monitor all the operations relating to the casting and counting of votes; (ii) to verify and inspect, before the beginning of the casting of the votes, the ballot boxes and the polling booths; (iii) to request and obtain from the polling station officers any information which they consider necessary relating to the voting process and the counting of the votes; (iv) to be consulted about any question raised on the operation of the polling station whether during the casting or the counting of the votes; (v) to consult the voters registers at any time; (b) the following duties— (i) to act conscientiously and objectively in the exercise of their rights under this section; (ii) to co-operate with polling station officers in the operations relating to the casting and counting of votes; (iii) to refrain from interfering unjustifiably and in bad faith with the duties of the polling station officers so as not to disturb the process of casting and counting the votes; (iv) to maintain the secrecy of the ballot. Part VII – The vote and the voting process"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VII",
+      "section": "74",
+      "title": "Characteristic of the vote",
+      "content": "(1) The right of a person to vote in the general elections shall be exercised individually by him and he shall be required to be physically present. (2) Voting shall be by secret ballot. (3) A voter shall be entitled to cast his vote only once and one person shall have one vote."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VII",
+      "section": "75",
+      "title": "Place where to cast the vote",
+      "content": "(1) Subject to subsection (2), a person shall be allowed to exercise his right to vote at a polling station located at the registration centre where he is registered. (2) If it is not possible for a person to vote at a polling station located at the registration centre where he is registered, the registration officer of that centre or other duly authorized officer may, on the request of such person, grant him written authorization in the prescribed form to vote at a polling station located in the place where he will be present on the polling day and in that case the polling station officers at such other polling station shall record in the manner prescribed by the Commission instructions in writing his name, the number of his voters registration certificate and the place of his registration : Provided that the registration officer or other authorized officer may at his sole discretion refuse to grant the request."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VII",
+      "section": "76",
+      "title": "Ballot papers",
+      "content": "The Commission shall arrange for the printing of sufficient quantities of ballot papers— (a) for candidates for election as member of Parliament; and (b) for candidates for election as President, on which shall be printed clearly and legibly, in respect of each candidate , his name or abbreviation thereof and his election symbol or the election symbol of his political party , and such other particulars as the Commission may determine to identify him distinctly from other candidates. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VII",
+      "section": "77",
+      "title": "Voting booths",
+      "content": "The Commission shall establish one voting booth or more at each polling station and a voting booth shall be constructed in such a way as to screen a voter from observation when he is selecting ballot papers according to his choice consistent with the doctrine of secret ballot. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VII",
+      "section": "78",
+      "title": "Ballot boxes",
+      "content": "(1) The Commission shall procure ballot boxes of suitable material, specification and design for use in the casting of votes by voters. (2) Subject to satisfying the requirements of this Act, on the polling day the presiding officer of a polling station shall position in respect of each voting booth at that polling station one ballot box in such a way that when voters cast their votes in the ballot box they shall do so in full view of the polling station officers and other officials present thereat."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part VII",
+      "section": "79",
+      "title": "Right of employees to be released for voting",
+      "content": "Notwithstanding any provision to the contrary in any contract of employment, all persons in paid employment, including those working by shift, shall have the right to be released for the necessary time to exercise their right to vote."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part VII",
+      "section": "80",
+      "title": "Hours of voting",
+      "content": "On the polling day voting shall begin at 6 o’clock in the morning and close at 6 o’clock in the evening, but before voting begins the presiding officer , together with the other polling station officers and representatives of political parties, shall verify that there are no irregularities with the voting booth and the working documents of the polling station officers and, shall, in particular, exhibit in front of all present the ballot box to verify that it is empty after which the ballot box shall be closed and sealed."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part VII",
+      "section": "81",
+      "title": "Order of voting",
+      "content": "Upon verification in accordance with section 80 that there are no irregularities, the first persons to be allowed to vote shall be the presiding officer, the other polling station officers, representatives of political parties and all officers responsible for ensuring order and security at the polling station after whom all other persons shall vote according to the order of their arrival at the polling station and, to this end, they shall form a line; but subject thereto, the presiding officer shall exercise general powers for keeping order at the polling station and for regulating the number of persons to be admitted to vote at any time and may, if circumstances so require, use his discretion to allow certain persons to vote inconsistently with the order of priority required by this section."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part VII",
+      "section": "82",
+      "title": "Continuity of the voting process",
+      "content": "Subject to section 83 , voting at every polling station shall continue uninterrupted until closed."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part VII",
+      "section": "83",
+      "title": "Adjournment in certain cases",
+      "content": "(1) Voting at any polling station may be adjourned to another day to be fixed by the Commission if— (a) the polling station officers are unable to assemble at that polling station in accordance with this Act; (b) there occurs some commotion which causes voting to be interrupted for more than three hours; and (c) in the area where the polling station is located there has occurred some public disaster or a serious disturbance of public order, not being the death of any person, which affects the voting. (2) Where voting has been adjourned to another day under subsection (1)— (a) the hours of voting on that day shall be the same as for the original day; (b) the voting process shall be conducted afresh and not as continuing from the original day; and (c) the votes cast on the original day shall be null and void and shall be classified as such in the records of that polling station prepared under section 93 ."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part VII",
+      "section": "84",
+      "title": "Prohibited presence, etc., at polling stations",
+      "content": "(1) No form of propaganda, campaign material or advertisement shall be exhibited inside a polling station or within a radius of one hundred metres outside a polling station . (2) Unless his presence is otherwise permitted under this Act, no person shall be allowed while voting continues within the premises of a polling station or to remain within the premises of a polling station if— (a) he is not a registered voter ; and (b) he has already voted at that polling station or at any other polling station . (3) An agent of a media organization shall be entitled to be present at a polling station during polling and for that purpose every such agent shall identify himself to the polling station officers by presenting his credentials from the organization he represents. (4) No person shall be present at a polling station in the capacity of a member of the armed forces or the police or as a member of any paramilitary force or a uniformed organization, unless he is employed in the service of the Commission or has been invited by the presiding officer for purposes of keeping order. (5) The presiding officer shall take all necessary steps to effectively bar or expel from within a radius of one hundred metres of a polling station any person who is evidently drunk and disorderly or is carrying a weapon of any kind or is disturbing the order or the peace at the polling station ."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part VII",
+      "section": "85",
+      "title": "Requirements for exercising the right to vote",
+      "content": "For a person to be allowed to vote he must first present to the polling station officers his voters registration certificate and must not yet have exercised his right to vote."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part VII",
+      "section": "86",
+      "title": "Manner of casting the vote",
+      "content": "(1) After a voter has cast his vote in accordance with section 70 of the Local Government Elections Act with respect to the election of a councillor, he shall immediately be led to the next desk of polling station officers who, on verifying that the voter has had his right index finger dipped in indelible ink, shall hand to him a ballot paper for candidates in the constituency for election as member of Parliament for use by the voter in accordance with subsection (2), and then direct the voter to the voting booth for the election of a member of Parliament. (2) The voter shall then proceed to cast his vote in such manner as the Commission may determine. (3) After a voter has cast his vote in accordance with subsection (2) with respect to the election of a member of Parliament, he shall immediately be led to the next desk of polling station officers who, on verifying that the voter has had his right index finger dipped in indelible ink, shall hand to him a ballot paper for candidates for election to the office of President for use by the voter in accordance with subsection (4), and then direct the voter to the voting booth for the poll for election to the office of President. (4) The voter shall then proceed to cast his vote in such manner as the Commission may determine. [Cap. 22:02] [10 of 1998; 10 of 2013]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part VII",
+      "section": "87",
+      "title": "Voting by blind and disabled persons",
+      "content": "A voter who is blind or is affected by disease or other physical disability may vote accompanied by another registered voter of his own choice or, failing such voter , by a polling station officer who shall assist such person in casting his vote and shall act faithfully to the wish expressed by such person and with absolute secrecy regarding the vote cast by such person."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part VII",
+      "section": "88",
+      "title": "Null and void votes",
+      "content": "(1) A vote cast is null and void if— (a) the ballot paper has been torn into two or more parts; or (b) has been classified as such pursuant to section 83 (2) (c). (2) A null and void vote shall not be regarded as valid and shall not be counted in determining the results of the elections. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part VII",
+      "section": "89",
+      "title": "Doubts and complaints",
+      "content": "(1) In addition to representatives of political parties, any voter present at a polling station may raise doubts and present in writing complaints relating to the voting at the polling station and shall have the right to obtain information from the polling station officers and from relevant documents available at the polling station . (2) No polling station officer shall refuse to receive a complaint presented to him under subsection (1) and shall initial every such presentation and annex it as part of the official record of the polling station . (3) Any presentation received by polling station officers under this section shall be deliberated upon among, and be resolved by, the polling station officers who may, if necessary in their opinion, postpone such deliberation or resolution until the end of the voting process to enable the process to proceed. Part VIII – Determination of results of the elections"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part VIII",
+      "section": "90",
+      "title": "Unused ballot papers",
+      "content": "At the close of the poll at any polling station , the presiding officer shall proceed by first collecting together and separately all unused ballot papers and placing them in a separate envelope provided to him for the purpose and then sealing the envelope and initialling or stamping it over the sealed area."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part VIII",
+      "section": "91",
+      "title": "Classification of votes cast",
+      "content": "For the purposes of determining the results of the elections at a polling station and, in particular, in counting the votes thereat, the votes cast at a polling station shall be separately classified into— (a) null and void votes; (b) votes for each of the candidates for election as members of Parliament; (c) votes for each of the candidates for election to the office of the President."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part VIII",
+      "section": "92",
+      "title": "Opening of ballot box and counting of votes",
+      "content": "After the close of the poll at any polling station , and only thereafter, the presiding officer shall, in the presence of other polling station officers and representatives of political parties if any be present, open the ballot box and order the counting of the votes to proceed separately according to a procedure entailing the polling station officers— (a) picking out of the ballot box one paper and displaying the ballot paper to all present and announcing aloud the classification of the vote as specified in section 91 ; [10 of 1998] (b) recording on a sheet of paper provided to the polling station officers for the purpose, showing the classification of votes, the votes cast for each classification; (c) displaying the already announced ballot papers and separating them into lots corresponding to each classification; and (d) announcing, through the presiding officer , the number of votes cast at the polling station under each classification. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part VIII",
+      "section": "93",
+      "title": "Record of the polling process",
+      "content": "(1) The presiding officer shall cause to be prepared by the polling station officers— (a) a record of the entire polling process at his polling station containing— (i) the full particulars of the polling station officers and representatives of political parties; (ii) the total number of voters; (iii) the total number of votes for or under each classification of votes; (iv) the number of unused ballot papers; (v) the number of ballot papers which have been the subject of complaints, if any; (vi) the discrepancies, if any, between votes counted and the number of voters; (vii) the number of complaints and responses thereto and decisions taken thereon by the polling station officers; (viii) any other occurrence which the polling station officers consider to be important to record; and (b) a brief summary of the final result, and such record and summary shall be legibly signed by the presiding officer and each of the other polling station officers and, if any be present, at least one representative of each political party . (2) Representatives of political parties at a polling station shall be entitled to a copy of the duly signed summary of the final result of the poll at that polling station . (3) The presiding officer shall post at the polling station a copy of the duly signed summary of the final result of the poll at that polling station ."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part VIII",
+      "section": "94",
+      "title": "Delivery of ballot papers, etc., from polling stations",
+      "content": "The presiding officer of a polling station shall, with all dispatch, deliver to the office of the District Commissioner of his district under conditions of absolute security against loss, tampering or interference— (a) the record prepared under section 93 ; (b) all the ballot papers collected in separate lots corresponding to the classification under which they were counted; (c) all unused ballot papers; and (d) all voters registers and other work items provided to that polling station ."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part VIII",
+      "section": "95",
+      "title": "Compilation of the district result of the elections",
+      "content": "(1) On receipt of records from polling stations, the Returning officer or an officer of the Commission duly authorized in that behalf shall, at the office of the District Commissioner, compile the result of the elections in his district on the basis of the duly signed summaries received with such records and shall prepare, on the appropriate sheets in the prescribed form provided for the purpose by the Commission , a record in respect of each constituency in the district and also in respect of the entire district showing— (a) the total number of persons who registered as voters; (b) the total number of persons who voted; (c) the total number of votes for or under each classification of votes in accordance with section 91 ; (d) the discrepancies, if any, between the votes counted and the number of persons who voted; and (e) the complaints, if any, received by him and his decisions thereon. (2) Representatives of political parties duly designated for the purpose, shall be entitled to observe the entire procedure followed at the office of the District Commissioner in compiling the district result of the elections under subsection (1). (3) The record prepared under subsection (1) shall be legibly signed by the returning officer or other officer supervising the compilation thereof and, if any be present, by at least one representative of a political party which shall in addition, be entitled to receive a copy of the record. [10 of 1998] (4) The returning officer or an officer of the Commission duly authorized in that behalf shall publicly announce the result of the election in each constituency and in the entire district in accordance with the record prepared under subsection (1). [10 of 1998] (5) The returning officer or a duly authorized officer of the Commission shall, with all dispatch, deliver to the Chief Elections Officer under conditions of absolute security against loss, tampering or interference. (a) the record prepared under subsection (1); and (b) all items received from all polling stations in the district concerned. [10 of 1998]"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part VIII",
+      "section": "96",
+      "title": "Determination of the national result of a general election",
+      "content": "(1) The Commission shall determine and publish the national result of a general election based on the records delivered to it from the districts and polling stations. (2) The determination of the national result of a general election shall begin immediately after the Commission has received records from all districts and shall, subject only to subsection (3), continue uninterrupted until concluded. [10 of 1998] (3) If a record from any district or other element necessary for the continuation and conclusion of the determination of the national result of the election is missing, the Chairman of the Commission shall take necessary steps to rectify the situation and may, in such case, suspend the determination for a period not exceeding seventy-two hours. [10 of 1998] (4) Representatives of political parties designated in writing to the Commission shall be entitled to observe the determination of the national result of the election . (5) Subject to the Constitution and this Act, in any election — (a) the candidate for election to the office of President who obtains the majority of more than fifty percent of the valid votes cast at the poll; and (b) the candidate for election as a member of the National Assembly who obtains the greatest number of valid votes cast at the poll, shall be declared by the Commission to have been duly elected. [subsection (5) substituted by section 2 of Act 18 of 2020 ]"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part VIII",
+      "section": "97",
+      "title": "Analysis of complaints, etc., prior to determination of the national result",
+      "content": "At the beginning of determining the national result of a general election , the Commission shall take a decision on any matter which has been a subject of a complaint and shall examine the votes which have been classified as null and void and may affirm or correct the determination thereof at the polling stations and at the offices of District Commissioners but without prejudice to the right of appeal conferred under section 114 ."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part VIII",
+      "section": "98",
+      "title": "Records of the national result of a general election",
+      "content": "The Commission shall summarize its determination of the national result of a general election in a written record indicating— (a) the national result of the election as determined; (b) the complaints and responses thereto and the decisions taken on them, and the Chairman of the Commission shall legibly seal the national result of the election by signing the summary and every political party shall be entitled to receive a signed copy of the summary."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part VIII",
+      "section": "99",
+      "title": "Publication of the national result",
+      "content": "The Commission shall publish in the Gazette and by radio broadcast and in at least one issue of a newspaper in general circulation in Malawi the national result of an election within eight days from the last polling day and not later than forty-eight hours from the conclusion of the determination thereof and shall, in such publication, specify— (a) the total number of voters registered for the election ; (b) the total number of voters who voted; (c) the total number of null and void votes; and (d) the total number of valid votes cast for each classification of votes as specified in section 91 . Part IX – Election petition in respect of election as member of the National Assembly or to office of President"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part IX",
+      "section": "100",
+      "title": "Election petition in respect of election as member of the National Assembly or to office of President",
+      "content": "(1) A complaint alleging an undue return or an undue election of a person as a member of the National Assembly or to the office of President by reason of irregularity or any other cause whatsoever shall be presented by way of petition directly to the High Court within seven days, including Saturday, Sunday and a public holiday, of the declaration of the result of the election in the name of the person— (a) claiming to have had a right to be elected at that election ; or (b) alleging himself to have been a candidate at such election . (2) In proceedings with respect to a petition under subsection (1), the Commission shall be joined as respondent. (3) If, on the hearing of a petition presented under subsection (1), the High Court makes an order declaring— (a) that the member of the National Assembly or the President, as the case may be, was duly elected, such election shall be and remain valid as if no petition had been presented against his election ; or (b) that the member of the National Assembly or the President, as the case may be, was not duly elected, the Registrar of the High Court shall forthwith give notice of that fact to the Commission which shall publish a notice in the Gazette stating the effect of the order of the High Court. (4) Pursuant to an order of the High Court under subsection 3 (b) declaring that the member of the National Assembly or the President, as the case may be, was not duly elected, a fresh election for the seat of the member of the National Assembly or to the office of President, as the case may be, shall be held in accordance with this Act. (5) A declaration by the High Court under subsection (3) (b) shall not invalidate anything done by the President before that declaration. [16 of 1994; 10 of 2013] Part X – International observation"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part X",
+      "section": "101",
+      "title": "Meaning of international observation",
+      "content": "For the purposes of this Act, international observation means the verification of the various stages of the election by international organizations, non-governmental organizations, foreign governments and foreign personalities duly recognized for the purpose in accordance with this Part."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part X",
+      "section": "102",
+      "title": "Scope of international observation",
+      "content": "International observation shall consist of the following activities— (a) to verify and monitor the impartiality and the functioning of the Commission and its officers in conformity with this Act; (b) to verify and monitor the impartiality and legality of the decisions taken by the Commission and its officers in settling disputes; (c) to verify and monitor the registration of voters; (d) to observe the course of the campaigning for elections; (e) to verify and monitor the voting process; (f) to verify and monitor the determination of the results of the elections at all stages of determination; (g) to observe access to and the use of the media. (2) Any irregularities noted by international observers shall be reported to the Commission or to the competent officers of the Commission and the Commission or such officers shall examine the activities reported as irregularities and shall, where the irregularities are confirmed, take corrective measures necessary to bring the elections into conformity with this Act. [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part X",
+      "section": "103",
+      "title": "Beginning and end of international observation",
+      "content": "International observation shall begin with the appointment of the Commission and end with the determination of the national result of the election or the settlement thereafter of all election disputes."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part X",
+      "section": "104",
+      "title": "Collaboration by competent authorities",
+      "content": "It shall be the duty of the Commission , every officer thereof and every competent public officer or other competent authority in Malawi to co-operate with international observers in their role and to offer to them the guarantees and other facilities necessary to fulfil their role."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part X",
+      "section": "105",
+      "title": "Invitation to international observers",
+      "content": "The Commission may send invitations for international observation and may do so on its own initiative or on request by a political party or by any government, organization or person competent under this Act to undertake international observation."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part X",
+      "section": "106",
+      "title": "Categories of observers",
+      "content": "(1) For purposes of recognition under this Act, international observers shall be categorized as follows— (a) observers from the United Nations Organization and its agencies, the Organization of African Unity and its agencies, the Commonwealth Secretariat and other international organizations; (b) observers from non-governmental organizations constituted and operating in any foreign country; (c) observers from foreign governments; and (d) individual observers. (2) A person shall not be recognized as an international observer unless— (a) in the case of the first three categories specified in subsection (1), he has been designated by the relevant organization or foreign government in writing to the Commission disclosing his particulars and credentials; (b) in the case of the category of individual observers, he is a person of recognized international experience and prestige."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part X",
+      "section": "107",
+      "title": "Recognition and identification of international observers",
+      "content": "Recognition of international observers on arrival in Malawi shall be granted by the Commission which, for that purpose, shall— (a) establish adequate administrative procedures for the proper and timely recognition of the observers; (b) devise an identity card for each category of international observers and issue to every recognized observer the card corresponding to his category. (c) devise a common and easily identifiable badge for all international observers and issue the badge to every recognized international observer."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part X",
+      "section": "108",
+      "title": "Compulsory use of identity cards and the common badge",
+      "content": "Every international observer recognized under this Act shall, while exercising his functions, use the identity card and the badge issued to him."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part X",
+      "section": "109",
+      "title": "Rights of international observers",
+      "content": "International observers shall, in Malawi, have the right— (a) to obtain a multiple entry visa to enter Malawi for the duration of the period of international observation as specified in section (103); (b) to have unimpeded access to all election events and to observe all aspects of the civic education programmes, the registration of voters, the nomination of candidates, the campaign, the voting and the counting of votes at all stages; (c) to enjoy freedom of circulation throughout Malawi; (d) to seek and obtain information on the official organs involved in the conduct of an election and regarding the election itself; (e) to communicate freely with any political party and with any organization or person; (f) to have access to information transmitted by or to the Commission and its officers; (g) to have access to complaints and responses about any occurrence or matter relating to the conduct of elections; (h) to open offices within Malawi for the performance of their functions; (i) to communicate any specific concerns they may have to members and officers of the Commission ; and (j) to communicate to the local and international media."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part X",
+      "section": "110",
+      "title": "Obligations of international observers",
+      "content": "(1) International observers shall have the following obligations— (a) to exercise their role with impartiality, independence and objectivity; (b) to respect the Constitution and the laws of Malawi; (c) not to interfere in, or to impede, the normal course of the election ; (d) to maintain the secrecy of the ballot; (e) to provide to the Commission copies of written information and statements which they have produced; and (f) to return the identity cards, the badge and any other identification material issued to them by the Commission after the end of their mission as observers. (2) The Commission may revoke the accreditation of any international observer who persistently violates the obligations laid down in subsection (1) and thereupon his status as an international observer shall cease."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part X",
+      "section": "111",
+      "title": "Position of diplomats",
+      "content": "Diplomats accredited to Malawi who are designated and recognized as international observers under this Act shall exercise their functions as such international observers without prejudice to their status and positions as such diplomats."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part X",
+      "section": "112",
+      "title": "Separate and joint operation of international observers",
+      "content": "International observers may operate separately or jointly with other international observers of the same or different categories. Part XI – Complaints and appeals"
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part XI",
+      "section": "113",
+      "title": "Commission to decide on complaints",
+      "content": "Save as otherwise provided in this Act, any complaint submitted in writing alleging any irregularity at any stage, if not satisfactorily resolved at a lower level of authority, shall be examined and decided on by the Commission and where the irregularity is confirmed the Commission shall take necessary action to correct the irregularity and the effects thereof."
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part XI",
+      "section": "114",
+      "title": "Appeals to the High Court",
+      "content": "(1) An appeal shall lie to the High Court against a decision of the Commission confirming or rejecting the existence of an irregularity and such appeal shall be made by way of a petition, supported by affidavits of evidence, which shall clearly specify the declaration the High Court is being requested to make by order. (2) On hearing a petition under subsection (1), the High Court— (a) shall subject to subsection 3, make such order or orders as it thinks fit; (b) in its absolute discretion, may or may not condemn any party to pay costs in accordance with its own assessment of the merits of the complaint. (3) An order of the High Court shall under subsection (2) not declare an election or the election of any candidate void except on the following grounds which are proved to the satisfaction of the court— (a) that voters were corruptly influenced in their voting contrary to any provision of this Act; or had their ballot papers improperly rejected, or voted more than once; (b) that persons not entitled to them were improperly granted ballot papers; or (c) that persons entitled to them were improperly refused ballot papers: Provided that the court shall not declare an election void, after proof of any ground in paragraphs (a), (b) or (c), if it is satisfied that the number of votes involved could not have affected the result of the election ; (d) non-compliance with this Act in the conduct of the election : Provided that, if the court is satisfied that any failure to comply with this Act did not affect the result of the election , it shall not declare the election void; (e) that the candidate was at the time of his election a person not qualified for election or that he was not properly nominated, or that a duly qualified candidate had his nomination improperly rejected by the returning officer . (4) The court shall have power to direct scrutiny and recount of votes if it is satisfied, during proceedings on an election petition, that such scrutiny and recount are desirable. (5) At the conclusion of the trial of an election petition the court shall determine whether the member whose nomination or election is complained of, or any other and what person was duly nominated or elected, or whether the election was void, and shall report such determination to the Commission . Upon such report being given such determination shall be final. (6) No application shall be made to the High Court for an injunction or for an order restraining the holding of an election within fourteen days immediately preceding the date of the election . [10 of 1998] (7) Notwithstanding subsection (6), the High Court shall have power, subsequent to the holding of an election , to declare void the election if, upon hearing the petition referred to in subsection (1), the High Court is satisfied that there are good and sufficient grounds for declaring void the election . [10 of 1998] Part XII – Offences and penalty"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part XII",
+      "section": "115",
+      "title": "Offences",
+      "content": "A person who— (a) in relation to registration of voters— (i) obtains his registration by giving false information; (ii) gives false information to obtain his registration or (iii) obtains registration in more than one registration area; (iv) registers another person knowing that that other person is not eligible for registration ; (v) prevents the registration of another person knowing that that person is eligible for registration ; (vi) having the authority to do so, does not delete a registration which he knows to be incorrect; (vii) falsifies a register; (viii) with fraudulent intent, modifies or substitutes a voters registration certificate ; (ix) through violence, threat or fraudulent intent, prevents the registration of another person; (x) knowingly obstructs the detection of incorrect registration or the verification of voters rolls; (b) in relation to campaigning for elections— (i) holds a public meeting contrary to section 56 (2); (ii) prevents the holding, or interrupts the proceedings of a public meeting authorized under section 56 (2); (iii) campaigns or causes another person to campaign within forty-eight hours before opening of the poll on the first polling day contrary to section 57 ; (iv) denies any political party equal treatment with any other political party ; (v) destroys, defaces, tears or in any manner causes to be totally or partially useless or illegible any campaign material displayed in an authorized place or space or superimposes thereon any other material concealing the earlier material; (vi) is entrusted, by virtue of his office or functions, with displaying or depositing in an authorized place or space any campaign material, fails to display or deposit such campaign material or misplaces, steals, removes or destroys such material; (vii) contravenes section 61 (1); (viii) because another person attended or did not attend any campaign meeting, directly or indirectly, dismisses that other person from any employment or other gainful occupation or prevents or threatens to prevent that other person from obtaining any employment or other gainful occupation or from continuing in any gainful occupation or applies or threatens to apply any sanction whatsoever to that other person; (c) in relation to voting— (i) not being otherwise authorized to be present or not being a registered voter , knowingly presents himself at a polling station ; (ii) knowing that he is not eligible to vote, casts a vote at any polling station ; (iii) fraudulently uses the identity of another person in order to exercise the right to vote; (iv) consciously allows that the right to vote to be exercised by a person who does not have that right; (v) votes more than once; (vi) accompanying a blind or a disabled person to vote, fraudulently and faithlessly expresses a vote not according to the wish of that person; (vii) within a radius of one hundred metres of a polling station , reveals his vote or procures another person by force or deceit to reveal that other person’s vote; (viii) uses or threatens violence or uses false information or other fraudulent means to coerce or induce another person to vote for or against a particular candidate or a candidate of a particular political party or to abstain from voting; (ix) being a public officer, uses his office to coerce or induce another person to vote for or against a particular political party or candidate or abstain from voting: (x) directly or indirectly, dismisses or threatens to dismiss another person from any employment or other gainful occupation or prevents or threatens to prevent another person from obtaining any employment or other gainful occupation or from continuing in any gainful occupation or applies or threatens to apply any sanction whatsoever to another person in order to induce that other person to vote for, or because that other person voted for, a particular candidate or a candidate of a particular political party or because that other person voted for or did not vote for a particular candidate or a candidate of a particular political party or because that other person abstained from voting; (xi) being a presiding officer of a polling station , fails to display a ballot box in accordance with the requirements of this Act; (xii) illicitly introduces ballot papers in a ballot box before, during or after the voting; (xiii) fraudulently takes possession or conceals a ballot box with uncounted ballot paper or removes an uncounted ballot paper from a ballot box ; (xiv) being a polling station officer , purposely neglects his duty with a view to occasioning an irregularity; (xv) being a polling station officer , unjustifiably refuses to receive a complaint, or a response to a complaint about the proceedings at his polling station or to examine and seek to resolve such a complaint; (xvi) disturbs the regular functioning of a polling station ; (xvii) refuses to leave a polling station after being asked to do so by a polling station officer ; (xviii) being an officer in-charge of police requested to assign police officers to keep order at a polling station , fails without justification to do so within a reasonable time; (xix) being a police officer assigned to keep order at a polling station wilfully neglects his duties; (d) uses or threatens to use any force or restraint to induce or compel another person to sign or refrain from signing any nomination paper; (e) in any manner, fraudulently spoils, substitutes, conceals, destroys, amends or falsifies any document relating to the election ; (f) in bad faith, submits a complaint, or a response to a complaint or challenges or questions the decisions thereon by a competent person or body; and (g) without justification neglects to fulfil obligations imposed on him by or under this Act, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part XII",
+      "section": "116",
+      "title": "Maintenance of secrecy",
+      "content": "(1) Every election officer, candidate , election representative of a political party or other person in attendance at a polling station shall maintain and aid in maintaining the secrecy of the voting at such station, and shall not communicate, except for some purpose authorized by law, to any person any information as to the name of any voter who has or has not applied for any ballot paper or voted at that station; and no such officer, candidate , representative or other person shall interfere with a voter after he has received a ballot paper and before he has placed a ballot paper in a ballot box . (2) No person, other than a person aiding a blind or an incapacitated voter in accordance with this Act, shall attempt to obtain in the polling station information as to the candidate for whom any voter in such station is about to vote or has voted. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part XII",
+      "section": "117",
+      "title": "Offences under this Act cognizable offences",
+      "content": "Every offence under this Act shall be a cognizable offence within the meaning of the Criminal Procedure and Evidence Code. [Cap 8:01]"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part XII",
+      "section": "118",
+      "title": "General penalty",
+      "content": "(1) A person guilty of an offence under this Act for which no other penalty has been specified shall be liable to a fine of K500,000 and to imprisonment for two years. (2) In addition to the penalty under subsection (1), the court may make an order— (a) where applicable, barring the convicted person from performing the duties of his office in connexion with the election ; (b) suspending the right of the convicted person to vote in the election or annulling the vote cast by such person; and (c) having regard to the nature of the activity constituting the offence, giving such directions as the court considers to be warranted in the circumstances. [10 of 2013] Part XIII – General"
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part XIII",
+      "section": "119",
+      "title": "Preservation of the election documents",
+      "content": "At the end of its functions, the Commission shall deposit all documents forming the official record of an election (including voters registers, ballot papers, records from districts and polling stations and summaries thereof and the record and summary of the national result) with the Clerk of Parliament who shall retain and preserve such documents in safe and secure custody without destruction for a period of twelve months."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part XIII",
+      "section": "120",
+      "title": "Failure to elect a member of the National Assembly",
+      "content": "If after the holding of a general election no person has been elected in one or more constituencies, a session of the National Assembly may commence notwithstanding any such vacancy."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part XIII",
+      "section": "121",
+      "title": "Regulations",
+      "content": "The Minister may, on the recommendation of the Commission make regulations for the better carrying out of the provisions of this Act. [10 of 1998] Part XIV – Repeals and savings"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part XIV",
+      "section": "122",
+      "title": "Repeals",
+      "content": "The Presidential Elections Act, the Parliamentary Elections Act and the Registration of Voters Act are hereby repealed. [Cap. 2:01; Cap. 2:02; Cap. 2:03]"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part XIV",
+      "section": "123",
+      "title": "Savings",
+      "content": "A person who at the commencement of this Act is a member of the National Assembly shall continue as such member until dissolution of Parliament next following the Referendum . History of this document 03 November 2020 this version Amended by Parliamentary and Presidential Elections (Amendment) Act, 2020 31 December 2014 Consolidation Read this version 31 December 1993 Commenced Related documents Is amended by Parliamentary and Presidential Elections (Amendment) Act, 2020 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ballot box",
+      "definition": "the box into which a voter shall deposit the ballot paper or ballot papers corresponding to the candidate or candidates he has voted for in the election",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ballot paper",
+      "definition": "a rectangular sheet of paper for use by a voter in expressing his vote in an election",
+      "source_provision": "s3"
+    },
+    {
+      "term": "by-election",
+      "definition": "the election of a member of the National Assembly to fill a seat in the National Assembly which has become vacant otherwise than by dissolution of Parliament",
+      "source_provision": "s3"
+    },
+    {
+      "term": "candidate",
+      "definition": "any person who has been nominated under this Act as a candidate for election as a member of the National Assembly or for election to the office of President",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Electoral Commission established under section 30 of the Constitution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "constituency",
+      "definition": "an area delimited as such under section 31 of the Constitution and section 8 (1) (a) and (b) of the Electoral Commission Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Council",
+      "definition": "the National Consultative Council established by the National Consultative Council Act 1993",
+      "source_provision": "s3"
+    },
+    {
+      "term": "election",
+      "definition": "a general election or a by-election",
+      "source_provision": "s3"
+    },
+    {
+      "term": "election representative",
+      "definition": "a person appointed by a candidate under section 35 to be the candidate’s representative for purposes of an election",
+      "source_provision": "s3"
+    },
+    {
+      "term": "general election",
+      "definition": "an election consequent upon dissolution of Parliament for the election in accordance with this Act of members of the National Assembly and the President",
+      "source_provision": "s3"
+    },
+    {
+      "term": "independent candidate",
+      "definition": "a candidate not sponsored by a political party",
+      "source_provision": "s3"
+    },
+    {
+      "term": "National Assembly",
+      "definition": "the National Assembly constituted under section 19 of the Constitution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "nomination day",
+      "definition": "the day appointed by the Commission for the receipt of nominations of candidates for an election under this Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "political party",
+      "definition": "a political party registered under the Political Parties (Registration and Regulation) Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "polling day",
+      "definition": "any day appointed by the Commission under section 36 (1) (c) and section 48 (1) (b), for the holding of a poll",
+      "source_provision": "s3"
+    },
+    {
+      "term": "polling station",
+      "definition": "a place established as such under section 67",
+      "source_provision": "s3"
+    },
+    {
+      "term": "polling station officer",
+      "definition": "a person appointed as such under section 68 (1)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "presiding officer",
+      "definition": "a polling station officer designated as such under section 68 (2)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Referendum",
+      "definition": "the referendum held on 14th June, 1993, under the Constitution (Referendum on Malawi’s Political System) Regulations, 1993",
+      "source_provision": "s3"
+    },
+    {
+      "term": "registration",
+      "definition": "the registration of voters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "returning officer",
+      "definition": "a returning officer appointed under section 34 (1)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "the first general election",
+      "definition": "the first general election contested by more than one political party following the Referendum",
+      "source_provision": "s3"
+    },
+    {
+      "term": "voter",
+      "definition": "a person registered to vote in an election",
+      "source_provision": "s3"
+    },
+    {
+      "term": "voters register",
+      "definition": "the register of voters established under section 22",
+      "source_provision": "s3"
+    },
+    {
+      "term": "voters registration certificate",
+      "definition": "a certificate issued to a voter under section 24",
+      "source_provision": "s3"
+    },
+    {
+      "term": "voting booth",
+      "definition": "a compartment at a polling station for screening a voter from view when he is making his choice or choices in the poll. [10 of 1998] Part II – The Electoral Commission",
+      "source_provision": "s3"
+    }
+  ]
+}

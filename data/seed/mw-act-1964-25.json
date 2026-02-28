@@ -1,0 +1,44 @@
+{
+  "id": "mw-act-1964-25",
+  "type": "statute",
+  "title": "Government Securities Act",
+  "title_en": "Government Securities Act",
+  "short_name": "Government Securities Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1964/25/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Government Securities Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of Act",
+      "content": "This Act shall apply to all securities heretofore or hereafter created or issued in the United Kingdom on behalf of the Government of Malawi— (a) in which a trustee might at any time have invested by virtue of section 2 of the Colonial Stock Act, 1900; or (b) by the conditions of issue of which it is provided that this Act shall apply to them, each and all of which securities are hereinafter referred to as “Malawi Government Securities\". [63 and 64] [Vict. c. 62]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Provision for payment of money due to stockholder",
+      "content": "(1) Whenever, by the final judgment, decree, rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged or declared to be payable by the Government of Malawi in respect of any Malawi Government Securities, that sum shall, without further appropriation than this Act, be charged upon and paid out of the Consolidated Fund, and adequate funds (as and when required) shall be made available in the United Kingdom by the Government of Malawi to meet any such final judgment, decree, rule or order. (2) For the purpose of this section, “final judgment, decree, rule or order” means, in case of appeal, the final judgment, decree, rule or order of the ultimate court hearing the appeal."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Certificate of paying agent",
+      "content": "A certificate specifying the sum paid under order of any such court as aforesaid to satisfy any such final judgment, decree, rule or order and issued by the agent in the United Kingdom of the Government of Malawi authorized to make such payment shall be sufficient authority to the Auditor General or other officer having the auditing of accounts of such agent for passing such sum without further appropriation."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Certain legislation to be agreed with the United Kingdom Government",
+      "content": "Legislation which appears to the Government of the United Kingdom to alter any of the provisions affecting Malawi Government Securities to the injury of the holders thereof, or to involve a departure from the original contract in regard to those Securities, shall not become law save after agreement with the Government of the United Kingdom, and if attention is drawn to such legislation after the passing thereof, the Government of Malawi will take the necessary steps to ensure such amendment thereto as may be requested by the Government of the United Kingdom. History of this document 31 December 2014 this version Consolidation 06 July 1964 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": []
+}

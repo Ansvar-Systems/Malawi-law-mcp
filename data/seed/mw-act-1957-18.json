@@ -1,0 +1,56 @@
+{
+  "id": "mw-act-1957-18",
+  "type": "statute",
+  "title": "Standardization of Soap Act",
+  "title_en": "Standardization of Soap Act",
+  "short_name": "Standardization of Soap Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1957/18/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Standardization of Soap Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires, “soap” means the product which results from the process of the saponification of fats and oils— (a) with sodium hydroxide or potassium hydroxide; (b) by the neutralization of fatty acids with sodium hydroxide or potassium hydroxide or their carbonates or bicarbonates; or (c) by neutralization of fatty acids with ammonia or triethanolamine."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Provisions relating to soap",
+      "content": "(1) Soap in the form of bars, tablets, flakes or chips for house­hold, laundry or toilet purposes shall contain not less than forty-five per cent of fatty acids, of which not more than one-third may be replaced by resin acids, shall not contain more than one-quarter of one per cent of free caustic alkali (calculated for this purpose as sodium hydroxide), and shall be free from any harmful ingredients. (2) Liquid soap shall contain not less than fifteen per cent of fatty acids, of which not more than one-quarter may be replaced by resin acids, shall contain not more than one-twentieth of one per centum of free caustic alkali (calculated for this purpose as sodium hydroxide), and shall be free from any harmful ingredients. (3) Soft soap shall contain not less than thirty-five per cent of fatty acids, of which not more than one-third may be replaced by resin acids, and shall contain not more than three-quarters of one per cent of free caustic alkali (calculated for this purpose as sodium hydroxide)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restrictions on manufacture",
+      "content": "(1) Except with the permission of the Minister, no person shall manufacture for sale any soap the composition of which, at the time when the soap is packed, does not comply with section 3 (1), (2) or (3) as the case may be. (2) Any person who manufactures soap in contravention of subsection (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Inspection",
+      "content": "(1) Any person generally or specially authorized thereto by the Minister may at any time enter upon premises where soap is manufactured and take samples of soap for examination or analysis. (2) Any person who owns, occupies or is in control of any premises where soap is manufactured and every person employed by him on such premises shall, at all times, permit any person authorized in terms of subsection (1) to enter such premises in the course of his duties and to exercise the powers conferred by that subsection. (3) Any person who fails to comply with subsection (2) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Offences and penalties",
+      "content": "(1) Any person who is guilty of an offence under this Act shall be liable— (a) for a first offence, to a fine of K200 or, in default of payment, to imprisonment for six months; (b) for a second or subsequent offence, to a fine of K400 or to imprisonment for twelve months. (2) Where any person is convicted of an offence under section 4 , the court may order that any soap which is the subject matter of such offence shall be forfeited and any soap so forfeited may thereafter be disposed of as the Minister may direct. History of this document 31 December 2014 this version Consolidation 29 November 1957 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "soap",
+      "definition": "the product which results from the process of the saponification of fats and oils— (a) with sodium hydroxide or potassium hydroxide",
+      "source_provision": "s2"
+    }
+  ]
+}

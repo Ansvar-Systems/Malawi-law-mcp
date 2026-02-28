@@ -1,15 +1,15 @@
 # Coverage Index -- Malawi Law MCP
 
 > Auto-generated from census data. Do not edit manually.
-> Generated: 2026-02-27
+> Generated: 2026-02-28
 
 ## Source
 
 | Field | Value |
 |-------|-------|
-| Authority | MalawiLII (AfricanLII member) |
+| Authority | Laws.Africa / Government of Malawi |
 | Portal | [malawilii.org](https://malawilii.org) |
-| License | Government Open Data |
+| License | Government Publication |
 | Census date | 2026-02-27 |
 
 ## Summary
@@ -19,11 +19,9 @@
 | Total laws enumerated | 546 |
 | Ingestable | 546 |
 | Ingested | 545 |
-| With provisions | 287 |
 | Excluded | 0 |
-| Inaccessible | 0 |
 | Provisions extracted | 14,392 |
-| **Coverage** | **100%** |
+| **Coverage** | **99.8%** |
 
 ## Laws (545 ingested)
 
@@ -456,7 +454,6 @@
 | Protection of Animals Act | [link](https://malawilii.org/akn/mw/act/1944/16/eng@2014-12-31) | in_force | 14 |
 | Public Accountants and Auditors Act | [link](https://malawilii.org/akn/mw/act/2013/5/eng@2014-12-31) | in_force | 64 |
 | Public Audit Act | [link](https://malawilii.org/akn/mw/act/2003/6/eng@2014-12-31) | in_force | 32 |
-| Public Auditors and Audit Firms Regulations, 2017 | [link](https://malawilii.org/akn/mw/act/gn/2017/2/eng@2017-01-13) | in_force | 0 |
 | Public Finance Management (Kamuzu Central Hospital Treasury Fund) Order, 2022 | [link](https://malawilii.org/akn/mw/act/gn/2022/18/eng@2022-07-01) | in_force | 0 |
 | Public Finance Management (Mzuzu Central Hospital Treasury Fund) Order, 2022 | [link](https://malawilii.org/akn/mw/act/gn/2022/19/eng@2022-07-01) | in_force | 0 |
 | Public Finance Management (Public Health Institute of Malawi Treasury Fund) Order, 2022 | [link](https://malawilii.org/akn/mw/act/gn/2022/20/eng@2022-07-01) | in_force | 0 |
@@ -575,3 +572,9 @@
 | Weights and Measures Act | [link](https://malawilii.org/akn/mw/act/1959/18/eng@2014-12-31) | in_force | 35 |
 | Witchcraft Act | [link](https://malawilii.org/akn/mw/act/1911/4/eng@2014-12-31) | in_force | 11 |
 | Workers’ Compensation Act | [link](https://malawilii.org/akn/mw/act/2000/7/eng@2014-12-31) | in_force | 70 |
+
+## Not Ingested (1)
+
+| Title | Official URL | Reason |
+|-------|-------------|--------|
+| Public Auditors and Audit Firms Regulations, 2017 | [link](https://malawilii.org/akn/mw/act/gn/2017/2/eng@2017-01-13) | ingestable |

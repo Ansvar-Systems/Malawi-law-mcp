@@ -1,0 +1,82 @@
+{
+  "id": "mw-act-1966-46",
+  "type": "statute",
+  "title": "Investment Disputes (Enforcement of Awards) Act",
+  "title_en": "Investment Disputes (Enforcement of Awards) Act",
+  "short_name": "Investment Disputes (Enforc...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1966/46/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Investment Disputes (Enforcement of Awards) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires— “ Award ” means an Award made in accordance with the Convention ; “ Convention ” means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States dated 18th March, 1965; \" Investment Dispute \" means a legal dispute arising directly out of an investment which is within the scope of the Convention ; \" party \" means a person who has had an Investment Dispute which has resulted in an Award ; \" Secretary General \" means the Secretary General of the International Centre for Settlement of Investment Disputes established under the Convention ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Binding effect of Award",
+      "content": "Every Award shall be binding on the parties."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for registration",
+      "content": "(1) Where an Award has been obtained, a party may apply to the High Court for registration of the Award at any time within six years after the date of the Award , or within such longer period as the High Court may in its discretion allow. (2) An application under subsection (1) shall be accompanied by— (a) a copy of the Award certified by the Secretary General ; (b) a sworn statement made by the applicant or his duly authorized officer that no application is pending under Article 52 of the Convention and that enforcement of the Award has not been stayed; (c) if the party against whom it is sought to enforce the Award is not the Government, a statement of the property which it is proposed should be the subject of proceedings for enforcement. (3) In any case where any document required to be furnished under subsection (2) is in a foreign language, it shall be the duty of the applicant to produce a translation certified as correct in such manner as may be approved by the Court. (4) Where the Court is satisfied in relation to an Award of the truth of the sworn statement made in accordance with subsection (2) and— (a) that the Government is a party ; or (b) that there is property in Malawi which can properly be the subject of execution proceedings, the Court shall direct registration of the Award ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Effect of registration",
+      "content": "Where an Award is registered under section 4 , then— (a) the Award shall, as from the date of registration, have the same effect as a judgment of the High Court so far as relates to the enforcement in Malawi of pecuniary obligations imposed by the Award ; (b) the reasonable costs of and incidental to the registration of the Award (including the cost of obtaining a certified copy thereof and of the application for registration) shall be recoverable in the like manner as if they were sums payable under the Award ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Rules",
+      "content": "The Chief Justice may make rules of court prescribing the procedure to be followed and the fees to be paid in proceedings under this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Act binding on the Government",
+      "content": "This Act shall bind the Government. History of this document 31 December 2014 this version Consolidation 10 January 1967 Commenced 29 December 1966 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Award",
+      "definition": "an Award made in accordance with the Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the Convention on the Settlement of Investment Disputes between States and Nationals of Other States dated 18th March, 1965",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Investment Dispute",
+      "definition": "a legal dispute arising directly out of an investment which is within the scope of the Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "party",
+      "definition": "a person who has had an Investment Dispute which has resulted in an Award",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretary General",
+      "definition": "the Secretary General of the International Centre for Settlement of Investment Disputes established under the Convention .",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "mw-act-1991-26",
+  "type": "statute",
+  "title": "Industrial Licensing Act",
+  "title_en": "Industrial Licensing Act",
+  "short_name": "Industrial Licensing Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1991/26/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Industrial Licensing Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ industrial licence ” means a licence issued under this Act; “ manufacture ” means to subject physical matter to any process which materially changes it in substance, character or appearance and includes the business of treating or disposing of hazardous waste by a person other than a local authority; “ product ” means any article, thing or substance produced as a result of any manufacturing process."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Industrial licence required for the manufacture of certain products",
+      "content": "(1) Every person manufacturing a product of a description specified in the Schedule to this Act at any place in Malawi must be in possession of an industrial licence to manufacture that product at that place issued to him in accordance with regulations made under this Act. (2) A person who contravenes subsection (1) shall be guilty of an offence and liable to a fine of K20,000 and to imprisonment for three years. (3) The Minister may, by order published in the Gazette , amend the Schedule to this Act. (4) An order under subsection (3) amending the Schedule to this Act so as to add any product to the list of products of a description specified therein shall be made only with the advice of the Board of the Malawi Investment Promotion Agency established under the Investment Promotion Act. [28 of 1991] (5) Determination by the Minister that a product is of a description specified in the Schedule to this Act shall be final and shall not open to any question in or by any court."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Minister to make regulations for the purposes of this Act",
+      "content": "(1) The Minister shall, by regulations published in the Gazette , provide for— (a) all matters relating to applications for an industrial licence ; (b) the issuing of an industrial licence and for conditions, if any, attached thereto; (c) the requirement for publications of an industrial licence and for the making of representations or objections concerning an application for an industrial licence ; (d) the conduct of inquiries into an application for an industrial licence and into representations or objections, if any, concerning such application; (e) the grounds on which an industrial licence may not be granted or, if granted, may not be renewed or may be cancelled; (f) the obligations of the holder of an industrial licence ; (g) the transfer of an industrial licence ; (h) offences and penalties for contravention of the regulations; (i) any matter which the Minister considers necessary or expedient for the purposes of this Act or of any provision of any regulations made under this Act. (2) The Minister may make different regulations or may, in any regulations, make different provisions for different products or different classes of products. (3) The Minister may, in regulations made under this Act— (a) authorize the making (for the purpose of this Act, or of regulations made under this Act) of rules, orders, notices or other form of subsidiary legislation by the Minister or by any public officer specified in the regulations; (b) provide for any level of fines and any term of imprisonment as penalty for any offence against the regulations or against rules, orders, notices or other form of subsidiary legislation made under the regulations, notwithstanding the maximum levels of penalties prescribed in section 21 (e) of the General Interpretation Act with respect to offences under subsidiary legislation. [Cap. 1:01]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Compliance with other laws",
+      "content": "The issue of a licence to any person under this Act shall not be deemed in any way to relieve the licencee from compliance with any other written law relating to the activity for which the licence was issued."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Requirement with respect to the manufacture of other products",
+      "content": "(1) The Minister may, by order published in the Gazette or by written notice to the manufacturer, require the manufacturer of any product , notwithstanding that the product is not of a description specified in the Schedule to this Act as one for which an industrial licence is required, to furnish to the Minister regularly or otherwise and within such period of time as the Minister may specify in the order or the notice the type or some of the type of information required to be furnished by a manufacturer licensed under this Act or any other type of information of a statistical nature. (2) A manufacturer who fails to comply with an order or with a notice under subsection (1) shall be guilty of an offence and liable to a fine of K15,000 and to imprisonment for two years. (3) For the purposes of this section, the Minister shall have power to require to be furnished with the address and other particulars of any manufacturer by the Registrar of Companies or by any other authority or source in Malawi. Schedule (Sections 3, 5 and 6) Products the manufacture of which requires an industrial licence 1. Fire arms, ammunition and chemical and biological weapons 2. Explosives 3. Hazardous waste 4. Products, the manufacture of which includes use of radio-active material History of this document 31 December 2014 this version Consolidation 24 January 1992 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "industrial licence",
+      "definition": "a licence issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacture",
+      "definition": "to subject physical matter to any process which materially changes it in substance, character or appearance and includes the business of treating or disposing of hazardous waste by a person other than a local authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "product",
+      "definition": "any article, thing or substance produced as a result of any manufacturing process.",
+      "source_provision": "s2"
+    }
+  ]
+}

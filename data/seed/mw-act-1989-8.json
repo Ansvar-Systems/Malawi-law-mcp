@@ -1,0 +1,630 @@
+{
+  "id": "mw-act-1989-8",
+  "type": "statute",
+  "title": "Reserve Bank of Malawi Act",
+  "title_en": "Reserve Bank of Malawi Act",
+  "short_name": "Reserve Bank of Malawi Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/1989/8/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Reserve Bank of Malawi Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ agency ” means any institution, other than a bank , established or appointed under section 18 ; “ Bank ” means the Reserve Bank of Malawi established under section 3 ; “ bank ” means a company as a bank under the Banking Act; [Cap. 44:01] [5 of 2011] “ Board ” means the Board of Directors of the Bank established under section 6 ; “ Code of Conduct ” means the code of conduct provided for under section 15B and set out in the First Schedule; [5 of 2011] “ controlling party ” has the meaning assigned thereto in the Financial Services Act; [Cap. 44:05] [5 of 2011] “ convertible currency ” means any currency which is freely negotiable and transferable in international exchange markets at exchange rates consistent with the Articles of Agreement of the International Monetary Fund in force from time to time; “deposit liabilities” means liabilities arising from demand, time and savings deposits; “ Deputy Governor ” means a Deputy Governor of the Bank appointed under section 12 ; [5 of 2011] “ director ”, in relation to the Bank , means a member of the Board and includes the Governor and Deputy Governors; [5 of 2011] “ external currency ” means any currency, other than the currency issued by the Bank under this Act; “ financial institution ” has the meaning assigned thereto in the Financial Services Act; [Cap. 44:05] [5 of 2011] “ financial services law ” has the meaning assigned thereto in the Financial Services Act; [Cap. 44:05] [5 of 2011] “ Governor ” means the Governor of the Bank appointed under section 12 ; “ Malawi currency ” means the legal tender currency of Malawi issued by the Bank under this Act; “ statutory body ” has the meaning assigned thereto in the Finance and Audit Act. [Cap. 37:01] [5 of 2011] Part II – Establishment of the Bank"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment",
+      "content": "(1) The Reserve Bank of Malawi shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name, and which, subject to this Act, may acquire, hold and dispose of movable and immovable property for the purpose of its functions. (2) The Bank shall have its head office in Lilongwe and may open branches in Malawi and appoint agents and correspondents in accordance with the decisions of the Board . (3) The common seal shall be affixed under such conditions as the Board may from time to time determine. Part III – Principal objectives of the Bank"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part III",
+      "section": "4",
+      "title": "Principal objectives of the Bank",
+      "content": "(1) The principal objectives of the Bank shall be— (a) to issue legal tender currency in Malawi; (b) to act as banker and adviser to the Government; (c) to maintain external reserves so as to safeguard the international value of the Malawi currency ; (d) to implement measures designed to influence the money supply and the availability of credit, interest rates and exchange rates with the view to promoting economic growth, employment, stability in prices and a sustainable balance of payments position; (e) to promote a sound financial structure in Malawi, including payment systems, clearing systems and adequate financial services; (f) to promote a money and capital market in Malawi; (g) to act as lender of last resort to the banking system; (h) to support the regulation and supervision of Financial institutions in accordance with financial services laws; [5 of 2011] (i) to collect economic data of the financial and other sectors for research and policy purposes; and (j) to promote development in Malawi. (2) In pursuing, or in performing any functions in the pursuit of, its principal objectives, the Bank shall act with due regard to the interest of the national economy and to the economic policies of the Government. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s4A",
+      "chapter": "Part III",
+      "section": "4A",
+      "title": "Independence of the Bank",
+      "content": "(1) Except as provided by this Act, the Bank shall be independent and shall not be subject to direction by any person or authority. (2) Any person who improperly seeks to influence the Bank , or a director or employee of the Bank , in the performance of its or his functions, commits an offence and shall, on conviction, be liable to a fine of K1,000,000 and to imprisonment for four years. (3) If, after consultation with the Governor , the Minister is of the opinion that— (a) a policy being pursued by the Bank is not adequate for, or conducive to, the achievement of the objects of the Bank as set out in Part III, or in a financial services law ; or (b) it is in the national interest to do so, the Minister may, by written direction, determine the policy to be adopted by the Bank . (4) A direction under subsection (3) shall not relate to an individual financial institution . (5) A direction under subsection (3) shall state that the Government accepts responsibility for the policy determined in the direction. (6) The Bank shall give effect to the policy set out in a direction under subsection (3) while the direction remains in force. (7) A direction under subsection (3) shall be published in the Gazette within seven days after it is given to the Bank . [5 of 2011] Part IV – Capital and reserves"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part IV",
+      "section": "5",
+      "title": "Capital and reserves",
+      "content": "(1) The capital of the Bank shall be three million Kwacha. (2) The capital may, from time to time, be increased by such amount as the Board may resolve with the consent of the Minister, and the Government shall subscribe and pay up, at par, the amount of such increase; and the Government shall ensure that the Bank is kept solvent at all times. (3) The capital shall be exclusively held by the Government. (4) The Bank shall create and maintain reserves in accordance with section 54 of this Act. Part V – Organization and administration"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part V",
+      "section": "6",
+      "title": "Board of Directors",
+      "content": "(1) There shall be a Board of Directors of the Bank . (2) The Board shall consist of the Governor , at least one but not more than three Deputy Governors, and at least four but not more than seven directors, who may include two of either— (a) the Secretary to the Treasury; and (b) the Secretary responsible for Economic Planning and Development; or (c) the Accountant General. (3) The directors shall be appointed by the President for a term of three years and shall be eligible for re-appointment for one more term: Provided that, with a view to ensuring continuity, appointments and re-appointments to the Board shall, wherever practicable, be made in such a way that at least one-half of the number of directors shall continue to serve on the Board . (4) A person shall not be appointed a director unless the President is satisfied that the person is a fit and proper person to hold the office of a director and qualified for appointment by virtue of his knowledge of, or experience in, one or more of the following fields— (a) economics; (b) finance; (c) financial markets, financial products or financial services; (d) financial sector supervision and regulation; (e) law; (f) accounting; or (g) other fields relevant to central banking. (5) Appointments and reappointments to the Board shall be made with a view to ensuring that at all times the Board has an appropriate range of relevant skills and experience. (6) The Board shall be responsible for the administrative and management policies of the Bank , and shall oversee the operations, administration and management of the Bank and the exercise of the powers and functions of the Bank with a view to ensuring that the operations, administration and management of the Bank are being conducted in a proper, efficient and effective manner. (7) Without limiting the generality of subsection (6), the Board shall have powers as outlined in the Second Schedule. [Second Schedule] (8) The Minister may, on the recommendation of the Board , by order published in the Gazette , amend the Second Schedule. [Second Schedule] (9) Every Director shall be entitled to such fees and allowances as the Board may, with the approval of the Minister, determine. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part V",
+      "section": "7",
+      "title": "Persons not eligible for appointment as directors",
+      "content": "The following persons shall not be eligible to be appointed as director — (a) a member of Parliament; (b) a financial institution , or a director , salaried official or employee of a financial institution ; (c) a controlling party of a financial institution ; (d) a person who provides or is engaged to provide, whether as a member of a firm or not, professional services to the Bank ; (e) a public officer, other than the public officer mentioned in section 6 (2); (f) a person who is disqualified, whether in Malawi or elsewhere, from acting as a director or official of a body corporate under a law relating to corporations or to the provision of financial services; (g) a person who at any time has been adjudged bankrupt by a competent court, whether in Malawi or elsewhere, or who, whether in Malawi or elsewhere, has made an arrangement or composition with, or has suspended payment to, his creditors; (h) a person who has at any time been convicted, whether in Malawi or elsewhere, of theft, any offence involving an element of dishonesty, fraud, forgery, issuing of a forged document, or perjury or any similar offence; and (i) a person removed by a court of competent jurisdiction, whether in Malawi or elsewhere, from an office of trust on account of misconduct in the exercise of his duties in that office. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part V",
+      "section": "8",
+      "title": "Resignation of directors",
+      "content": "A director may resign his office by giving one month's notice in writing to the President. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part V",
+      "section": "9",
+      "title": "Termination of appointment as director",
+      "content": "(1) The appointment of a director shall immediately terminate if the director — (a) becomes a member of Parliament; (b) becomes a financial institution , or a director , salaried official or employee of a financial institution ; (c) provides or is engaged to provide, whether as a member of a firm or not, professional services to the Bank or a financial institution ; (d) is disqualified in Malawi from acting as a director or official of a body corporate under a law relating to corporations or to the provision of financial services; (e) becomes a public officer, other than one mentioned in section 6 (2); (f) is adjudged bankrupt by a competent court in Malawi; (g) in Malawi, makes an arrangement or composition with, or suspends payment to, his creditors; (h) is convicted in Malawi of an offence of a kind referred to in section 7 (h); or (i) is removed from office in Malawi as mentioned in section 7 (i). (2) The President may terminate an appointment of a director on the ground that the director — (a) has ceased to be fit and proper to be a director ; (b) is suffering from a mental or physical condition such that he cannot properly carry out the duties of the office; (c) has failed, without leave of the Board , to attend more than three consecutive meetings of the Board of which he has had notice; (d) is a controlling party of a financial institution ; (e) has been disqualified, outside Malawi, from acting as a director or official of a body corporate under a law relating to corporations or to the provision of financial services; (f) has been adjudged bankrupt by a competent court outside Malawi; (g) while outside Malawi, has made an arrangement or composition with, or has suspended payment to, his creditors; (h) has been convicted outside Malawi of an offence of a kind referred to in section 7 (h); (i) has been removed from office outside Malawi as mentioned in section 7 (i); (j) has failed to comply with the Code of Conduct in a material particular; (k) is incompetent; or (l) is in breach of this Act or any other financial services law . [5 of 2011]"
+    },
+    {
+      "provision_ref": "s9A",
+      "chapter": "Part V",
+      "section": "9A",
+      "title": "Procedure for removal of a director",
+      "content": "(1) Where the President has information that a director should be removed from office on any of the grounds listed in section 9 (2), the President shall appoint a committee to inquire into the information and furnish its findings to the President. (2) The committee appointed under subsection (i) shall consist of— (a) a person, who has sufficient knowledge of the law, who shall be the chairperson of the committee; and (b) two other persons of good character, high integrity and with at least ten years experience in the field of economics or finance. (3) Where the committee, on the basis of its findings, advises the President that the director concerned ought to be removed from office, the President shall terminate the appointment of that director . (4) At the time of appointing the committee, the President may, where the director concerned is the Governor or Deputy Governor , send him on leave, and in the case of any other director , suspend him from office as director . [5 of 2011]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part V",
+      "section": "10",
+      "title": "Filling of vacancy of a director",
+      "content": "Upon the resignation of any director , or upon a director ceasing to hold office, before the expiry of the term for which he was appointed, another person shall be appointed in his place."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part V",
+      "section": "11",
+      "title": "Meetings of the Board",
+      "content": "(1) The Governor shall be chairman of the Board and, in his absence, a Deputy Governor nominated by the Governor shall be chairman. (2) Meetings of the Board shall be called by the Chairman and shall be conducted in such manner as the Board may from time to time determine. (3) The Chairman and three other directors shall form a quorum at any meeting of the Board and, unless otherwise provided or determined by the Board , the decision of the majority of the directors present at any meeting shall constitute the decision of the Board . (4) The Chairman shall have a deliberative vote and, in addition, in the event of an equality of votes, a casting vote. (5) No act or proceeding of the Board shall be invalidated merely by reason of the existence of a vacancy or vacancies among the directors. (6) All bona fide acts of a director shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualifications. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s11A",
+      "chapter": "Part V",
+      "section": "11A",
+      "title": "Disclosure of interest",
+      "content": "(1) Each director shall disclose in writing to the Bank all interests that the director has that may conflict with the proper performance of the functions of his office, whether the interest was acquired before or after appointment. (2) A disclosure under subsection (1) shall be given as soon as practicable after the director becomes aware of the interest. (3) The Bank shall record all disclosures under this section. (4) A director who has an interest that may conflict with the proper performance of the functions of his office in relation to a particular matter shall not perform functions in relation to the matter. (5) The Bank shall take reasonable steps to ensure that its employees and other persons performing or exercising functions or powers of the Bank under financial services laws make proper and adequate disclosure of their interest. (6) For the purposes of subsections (1) and (4), it shall not matter whether the interest is direct, indirect, pecuniary or non-pecuniary, nor when the interest was acquired. (7) For the purposes of this section— (a) if an associate of a director has an interest; and (b) if the director had the interest that could conflict with the proper performance of the functions of the director 's office, the director shall be deemed to have the interest, and this section shall apply accordingly. (8) For the purposes of this section— “associate of a director ” means— (a) a spouse, child or relative of the person; and (b) a partner, or a spouse, child or relative of a partner, of the person. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s11B",
+      "chapter": "Part V",
+      "section": "11B",
+      "title": "Committees of the Board",
+      "content": "(1) The Board shall ensure that there are at all times the following committees of the Board — (a) an Audit Committee; (b) a Directors' Affairs and Remuneration Committee; and (c) a Regulation and Supervision Committee. (2) A committee mentioned in subsection (1) shall consist of such directors as the Board appoints to the committee and the Board may, by resolution, remove a director from a committee. (3) Subject to any direction of the Board — (a) a committee mentioned in subsection (1) may obtain assistance from employees of the Bank and other persons; and (b) the procedure of a committee shall be as determined by the committee. (4) The functions of the committees shall be as prescribed, and such other functions as the Board may confer on them. (5) The Board may establish other committees, and confer functions on them, as it thinks fit. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part V",
+      "section": "12",
+      "title": "The Governor and Deputy Governors",
+      "content": "(1) There shall be a Governor of the Bank who shall be appointed by the President. (2) There shall be up to three Deputy Governors of the Bank who shall be appointed by the President. (3) The Governor and the Deputy Governors shall be appointed for a term of five years, and shall be eligible for reappointment for one more term. (4) The Governor and the Deputy Governors shall be appointed on such terms and conditions as may be set out in the instrument of appointment, which terms and conditions shall not be altered to the disadvantage of the Governor or a Deputy Governor during the term for which they are appointed. (5) The Governor and the Deputy Governors shall not occupy any other office or have any other employment, whether paid or otherwise: Provided that the Minister may give his express approval to the Governor or a Deputy Governor to hold a particular office or employment. (6) The provisions of section 9 and section 9A shall apply mutatis mutandis to the termination of appointment, and procedure for removal of, the Governor or a Deputy Governor . [5 of 2011]"
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "Part V",
+      "section": "12A",
+      "title": "Qualifications for appointment",
+      "content": "(1) A person shall not be appointed Governor unless the President is satisfied that the person is a fit and proper person to hold the office of Governor and qualified for the appointment by virtue of his or her knowledge of, or experience in, the fields of economics and finance. (2) A person shall not be appointed Deputy Governor unless the President is satisfied that the person is a fit and proper person to hold the office of Governor or Deputy Governor qualified for the appointment by virtue of his or her knowledge of, or experience in, one or more of the following fields— (a) economics; (b) finance; (c) financial markets, financial products or financial services; (d) financial sector supervision and regulation; (e) law; (f) accounting; or (g) other fields relevant to central banking. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part V",
+      "section": "13",
+      "title": "Executive duties of Governor and Deputy Governor",
+      "content": "(1) The Governor shall be responsible for the day-to-day management of the Bank and shall be answerable to the Board for his actions and decisions. (2) In pursuing monetary and other related policies the Governor shall be guided by the need to achieve the objectives of the Bank as stipulated in section 4 of this Act. (3) The Deputy Governors shall perform such duties as the Governor may direct and, in the event of the absence or a vacancy in the office of the Governor , a Deputy Governor designated by the Governor shall perform the duties of the Governor and shall have and may exercise the powers and perform the functions of the Governor . [5 of 2011] (4) In the event of the temporary absence of both the Governor and the Deputy Governors, the Governor shall designate in writing a senior official of the Bank to perform the duties of Governor . [5 of 2011]"
+    },
+    {
+      "provision_ref": "s13A",
+      "chapter": "Part V",
+      "section": "13A",
+      "title": "Resignation of the Governor or Deputy Governor",
+      "content": "The Governor or a Deputy Governor may resign his office by giving three months' notice in writing to the President. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part V",
+      "section": "14",
+      "title": "Appointment of officers and staff of the Bank",
+      "content": "(1) The Governor shall appoint officers and other staff of the Bank as he considers necessary for the proper carrying out of the powers and functions of the Bank , and shall refer the appointment of senior officers to the Board . (2) Officers and staff of the Bank shall be employed for such period or periods, receive such salaries and allowances and be subject to such other terms and conditions of service as may be determined by the Board . (3) The Board — (a) may, out of the funds of the Bank , establish and maintain a pension fund for the officers and staff of the Bank and their dependants; and [5 of 2011] (b) may, out of the funds of the Bank , establish and maintain a pension fund for the Governor , Deputy Governors and their dependants. [5 of 2011] [5 of 2011]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part V",
+      "section": "15",
+      "title": "Salaries",
+      "content": "No salary, fees, wage, or other remuneration, or allowance paid by the Bank shall be computed by reference to the financial results of the Bank ."
+    },
+    {
+      "provision_ref": "s15A",
+      "chapter": "Part V",
+      "section": "15A",
+      "title": "Protection of officers",
+      "content": "(1) None of the following shall be liable for any loss sustained by or damage caused to any person as a result of anything done or omitted to be done by it or him in the exercise or purported exercise of its or his powers, functions and duties— (a) the Bank ; (b) a director or employee of the Bank ; (c) an examiner or investigator appointed by the Registrar under the Financial Services Act. [Cap. 44:05] (2) Subsection (1) shall not apply if it is established that the act or omission was done in bad faith. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s15B",
+      "chapter": "Part V",
+      "section": "15B",
+      "title": "Code of Conduct",
+      "content": "(1) There shall be a Code of Conduct as set out in the First Schedule, which shall apply to the directors and employees of the Bank. (2) The Board may review the Code of Conduct at any time, but shall do so at least once a year. (3) The Minister shall, on the recommendation of the Board after review of the Code of Conduct, by order published in the Gazette , amend the First Schedule. [First Schedule] (4) The Code of Conduct shall be consistent with this Act, and other financial services laws, and shall make provision for at least the following matters— (a) use and disclosure of information by directors and employees of the Bank; (b) reducing or eliminating improper influence on the Bank and on directors and employees of the Bank in carrying out their functions under financial services laws; (c) trading in and ownership of securities or other financial instruments by directors and employees of the Bank; (d) conflicts of interest; and (e) receiving, keeping, holding and reporting gifts of any description by directors and employees of the Bank. (5) A director or employee of the Bank shall not contravene the Code of Conduct. (6) Contravention of the Code of Conduct shall not of itself amount to an offence, but, without limiting any other law, an employee of the Bank who contravenes the Code of Conduct commits a breach of his or her contract of service with the Bank. [First Schedule] [5 of 2011] Part VI – Legal tender"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part VI",
+      "section": "16",
+      "title": "Unit of Malawi currency",
+      "content": "The unit of currency of Malawi shall be the Kwacha which shall be divided into one hundred tambala."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part VI",
+      "section": "17",
+      "title": "Sole right to issue legal tender",
+      "content": "The Bank shall have the sole right of issuing bank notes and coins throughout Malawi and neither the Government nor any other person shall issue any notes and coins which are likely to pass as legal tender."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part VI",
+      "section": "18",
+      "title": "Provisions for issue of Malawi currency",
+      "content": "The Bank shall— (a) arrange for the printing of notes and minting of coins; (b) issue, reissue and exchange notes and coins at the Bank ’s offices and at such agencies and banks as the Bank may, from time to time, establish or appoint in Malawi; and the establishment or appointment of an agency or a bank shall be on such terms and conditions as may be agreed upon between the Bank and such agency or bank ; (c) arrange for the safe custody of unissued stocks of currency and for the preparation, safe custody and destruction of plates and paper for the printing of notes and dies for the minting of coins."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part VI",
+      "section": "19",
+      "title": "Denomination, description and form of notes and coins",
+      "content": "Notes and coins issued by the Bank shall be— (a) in such denominations or fractions thereof; (b) of such forms and designs bearing such devices; (c) of such standard weight and composition, and of such an amount of remedy and variation, as shall be approved by the Minister on the recommendation of the Bank ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part VI",
+      "section": "20",
+      "title": "Withdrawal",
+      "content": "The Bank shall have the power to call in any of its notes and coins on giving not less than three months' notice in the Gazette and notes and coins shall cease to be legal tender on the expiry of the period for exchange announced at the time of such recall."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Lost and damaged currency",
+      "content": "The Bank shall not be required to replace destroyed and mutilated currency, but may do so at its absolute discretion."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Exemption from stamp duty",
+      "content": "The Bank shall not be liable to the payment of any stamp duties or other taxes in respect of its notes issued as currency."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VI",
+      "section": "23",
+      "title": "Offenses relating to bank notes",
+      "content": "(1) For the purpose of this section “note” means a note of the Bank, or any note which has at any time been legal tender in Malawi including any other note, by whatever name called, which is legal tender in the country in which it was issued. (2) Any person who— (a) without the authority of the Bank, engraves or makes upon any material whatsoever any words, figures, letters, marks, lines or devices, the print of which resembles in whole or in part any words, figures, marks, lines or devices peculiar to and used in or upon any note; (b) without the authority of the Bank, uses or, knowing that it is to be used, for an unlawful purpose, has in his possession any material whatsoever upon which has been engraved or made any such words, figures, letters, marks, lines or devices as a mentioned in paragraph (a); or (c) wilfully defaces, soils or damages any note or writes or places any drawing thereon or attaches thereto anything in the nature of an advertisement, or who uses such a note or part of such a note or any device resembling such a note or part of such a note as part of an advertisement without the authority of the Bank, shall be guilty of an offence and liable— (i) in the case of an offence referred to in paragraph (a) or (b), to imprisonment for seven years; (ii) in the case of an offence referred to in paragraph (c), to a fine of K100. Part VII – Foreign assets"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VII",
+      "section": "24",
+      "title": "International value of Malawi currency",
+      "content": "The international value of the Malawi currency shall be determined in accordance with the system designed by the Bank in consultation with the Minister, taking into account Malawi’s general economic situation and its competitive position, with a view to ensuring a viable balance of payments position and sustainable economic growth."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VII",
+      "section": "25",
+      "title": "Foreign assets",
+      "content": "(1) The Bank shall manage foreign assets and maintain foreign exchange reserves at a level which is, in the opinion of the Bank , adequate for Malawi’s international transactions and such foreign assets shall consist of any or all of the following— (a) gold; (b) foreign exchange in the form of— (i) deposits with central, correspondent and other banks abroad; (ii) documents and instruments customarily used for the making of payments or transfers in international transactions; (iii) notes and coins; (c) treasury bills issued by the government of any country whose currency is convertible currency ; and (d) securities issued by the government of any country whose currency is convertible currency . (2) The Bank may include in its reserves of foreign assets any internationally recognized foreign assets, including— (a) the reserve position of Malawi in the International Monetary Fund; (b) any readily available international drawing facility; and (c) other freely convertible foreign assets."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VII",
+      "section": "26",
+      "title": "Trade in foreign currency",
+      "content": "Unless otherwise prohibited by any law relating to the control of foreign exchange, the Bank may— (a) buy and sell Malawi currency against any convertible currency ; and (b) at its discretion, buy and sell currency against any currencies eligible for inclusion in the foreign exchange reserves specified in section 25 ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VII",
+      "section": "27",
+      "title": "Exchange control",
+      "content": "The Bank shall exercise such functions as are necessary in the administration of any law relating to the control of foreign exchange transactions in accordance with such law. Part VIII – Powers and functions of the Bank Division I - General powers and functions"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VIII",
+      "section": "28",
+      "title": "General powers and functions",
+      "content": "The Bank may— (a) issue demand drafts and effect other kinds of remittances payable at its own offices or at the offices of agencies or correspondents; (b) purchase and sell gold; (c) open accounts for, and accept deposits from the Government, funds, corporations and institutions controlled by the Government, banks and other financial institutions in Malawi and act as banker to any such funds, corporations, institutions, banks or other financial institutions; (d) maintain accounts with central banks and other banks abroad and act as correspondent, bank or agent for any central or other banks or other monetary authority and for any international bank or international monetary authority established under governmental auspices; (e) purchase, sell, discount and rediscount domestic bills of exchange and promissory notes arising out of bonafide commercial transactions; (f) purchase, sell, discount and rediscount domestic bills of exchange and promissory notes drawn or issued for the purpose of financing the transportation, marketing or processing of agricultural produce or minerals; (g) purchase, sell, discount and rediscount Treasury Bills of the Government forming part of a public issue and maturing within ninety-one days; (h) purchase, sell and manage securities of the Government having a definite maturity period; (i) invest in securities for any amount, and to mature at any time, on behalf of staff funds and superannuation funds and other internal funds of the Bank ; (j) with the approval of the Minister— (i) subscribe to, hold and sell shares of any corporation set up with the approval of or under the authority of the Government for the purpose of facilitating economic development: Provided that the total value, held by the Bank , of such shares shall not at any time exceed ten per cent of the aggregate amount of the capital and General Reserve Fund of the Bank ; (ii) purchase, sell and discount securities of any corporation or company primarily for the purpose of promoting capital market development; [12 of 1992] (k) act as intermediary or agent between foreign lending institutions, organizations or governments and borrowing entities in Malawi; (l) subject to the prior consent of the Minister, lend to any statutory body in such manner and on such terms and conditions as it may deem fit; (m) purchase and sell external currencies and purchase, sell, discount foreign bills of exchange and foreign treasury bills maturing within one hundred and eighty days; (n) purchase and sell government and government guaranteed securities denominated in convertible currency of any country and securities denominated in convertible currencies issued by international financial institutions of which Malawi is a member; (o) on behalf of Malawi, make payments to, and receive moneys from, the International Monetary Fund and issue, purchase and sell any securities (whether expressed in Malawi currency or external currency and whether or not maturing at a fixed date) occasioned by, or arising from, the membership of Malawi in the International Monetary Fund and the participation of Malawi in the Special Drawing Rights Account thereof; (p) accept from customers for custody securities and other articles of value; (q) undertake on behalf of customers and correspondents the purchase, sale, collection and payment of securities; (r) make arrangements or enter into agreements, subject to the consent of the Minister, with any bank or financial institution in a country outside Malawi, to borrow, on such terms and conditions as it may deem fit, any convertible currency ; and (s) issue promissory notes and other securities as it deems fit for open market operations."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VIII",
+      "section": "29",
+      "title": "Prohibited activities",
+      "content": "The Bank may not— (a) except as expressly authorized by this Act, engage in trade or otherwise have a direct interest in any commercial, agricultural, industrial or any other undertaking, except such interests as the Bank may in any way acquire in the course of the satisfaction of debts due to it, and provided that all such interests so acquired shall be disposed of at the earliest suitable moment; (b) save as provided for in section 28 (i) and (j), purchase the shares of any corporation or company, including the shares of any bank, or grant loans upon the security of any such shares; (c) subject to section 40 and section 46 , grant unsecured advances or advances secured otherwise than as laid down under those sections: Provided that in the event of any debts due to the Bank , becoming in the opinion of the Bank endangered, the Bank may secure such debts on any real or other property of the debtor and may acquire such property, which shall be sold at the earliest suitable moment; (d) purchase, acquire or lease real property except in accordance with the proviso to paragraph (c) and except so far as the Bank shall consider necessary or expedient for the provision, or future provision, of premises for the conduct of its business the residence or amenities of staff or other similar requirements incidental to the performance of its functions under the terms to this Act; (e) draw or accept bills payable otherwise than on demand; (f) allow the renewal or substitution of maturing bills of exchange purchased, discounted or rediscounted by or pledged with the Bank save in exceptional circumstances with the explicit approval of the Board ; (g) pay interest on customers’ balances except as may be determined by the Board ; and (h) accept for discount, or as security for an advance made by the Bank , bills or notes signed by members of the Board or by the Bank ’s officials or other employees, except such bills and notes as are signed by a member in his official capacity. Division II - Monetary functions"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VIII",
+      "section": "30",
+      "title": "Monetary functions",
+      "content": "In pursuance of its monetary policy the Bank shall influence the flow of money and credit, and may issue regulations with respect to the level of interest rates and foreign exchange rates."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VIII",
+      "section": "31",
+      "title": "Credit operations",
+      "content": "For the purpose of influencing the flow of money and credit, the Bank may, in accordance with such operational procedure, if any, as the Bank may lay down from time to time, engage in the following credit operations— (a) rediscount of domestic trade bills and bank drafts resulting from bonafide commercial transactions; (b) rediscount of domestic trade bills and bank drafts drawn for the purpose of financing the transportation, marketing or processing of agricultural produce and minerals; and (c) rediscount of treasury bills, forming part of a public Government issue and maturing in ninety-one days."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VIII",
+      "section": "32",
+      "title": "Rediscount rate",
+      "content": "The Bank shall determine its rediscount and other rates which shall be made public by displaying such rates at its premises."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VIII",
+      "section": "33",
+      "title": "Credit ceilings",
+      "content": "The Bank may prescribe credit ceilings for banks and financial institutions aimed at limiting the availability of credit in the economy."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VIII",
+      "section": "34",
+      "title": "Open market operations",
+      "content": "To regulate the liquidity in the economy, the Bank may undertake open market operations as part of its monetary policy through the use of the following instruments— (a) treasury bills issued by the Government under section 28 (g) for maturities of ninety-one days; (b) treasury bills maturing in ninety-one days issued by the Government under section 40 (5) on request of the Bank against advances granted, in respect of temporary shortfalls of the budget revenue; (c) treasury bills or other securities mobilized on the request of the Bank against its receivables from the devaluation of the Kwacha in the form of promissory notes issued by the Government under section 40 (5); (d) treasury bills or other securities converted on request of the Bank under section 40 (5) from the Government's outstanding long-term loans; (e) promissory notes or such other securities issued by the Bank for its open market operations under section 28 (s)."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VIII",
+      "section": "35",
+      "title": "Use of instruments",
+      "content": "The Bank may use the instruments specified in section 34 for monetary purposes and to ensure orderly market conditions. The Bank may conduct its open market operations through outright sale and purchase or repurchase agreements or other methods."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VIII",
+      "section": "36",
+      "title": "Reserve requirement",
+      "content": "(1) The Bank may require banks to hold a specific portion, expressed as a percentage, of the liabilities arising from demand, time and savings deposits, as well as from short-and medium-term borrowings, except borrowings from other banks, subject to reserve requirements, as deposits with the Bank . (2) The percentage for the purposes of subsection (1), shall be set from time to time by the Bank . (3) The Bank may also require financial institutions to maintain deposits as reserves with it."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VIII",
+      "section": "37",
+      "title": "Cash reserves",
+      "content": "(1) The Bank may require banks to maintain a prudential cash reserve as a deposit with it and such deposit may not exceed five per cent of demand liabilities. (2) The Bank may also require financial institutions to maintain minimum cash reserves."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VIII",
+      "section": "38",
+      "title": "Interest to banks and financial institutions",
+      "content": "Deposits under sections 36 and 37 of this Act shall not carry any interest except as the Bank shall otherwise decide, and such decisions shall be an integral part of the Bank’s monetary policy. Division III - Relations with the Government"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VIII",
+      "section": "39",
+      "title": "Banker and adviser to the Government",
+      "content": "The Bank shall act as a banker and adviser to the Government: Provided that the Government may maintain accounts in Malawi with other Banks, and use their services in such cases and on such conditions as may be agreed upon between the Minister and the Bank ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Short-term advances to the Government",
+      "content": "(1) The Bank may make short-term advances to the Government in respect of temporary shortfalls in budget revenues on such terms and conditions as the Bank may determine. (2) The total amount of advances outstanding at any time made by the Bank under this section shall not exceed twenty per cent of the annual budgeted revenues of the Government as defined in subsection (3). (3) For the purposes of this section, the annual budgeted revenues of the Government shall be those revenues derived from sources within Malawi as estimated for the Government's financial year in which such advances are made. (4) All advances made under subsection (1) shall be repaid as soon as possible and, in any event, shall be repayable within four months of the end of the Government’s financial year in which they are made, and if after the end of the financial year such advances remain outstanding, the power of the Bank to grant further such advances shall not be exercisable unless and until the outstanding advances have been repaid. (5) If at any time the Bank has any Government loans and advances outstanding, irrespective of maturity, the Bank may require the Government to issue to it treasury bills or promissory notes and other instruments as the Bank may deem fit for open market policy purposes, and the terms and conditions shall be agreed upon between the Bank and the Minister."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Issue and management of Government securities",
+      "content": "(1) The Bank shall be entrusted with the issue and management of Government securities publicly issued in Malawi upon such terms and conditions as may be agreed upon between the Minister and the Bank . (2) The Bank may purchase and sell securities of the Government maturing in not more than twenty-five years which have been publicly offered for sale or form part of an issue which is being made to the public at the time of acquisition: Provided that at any particular date the total amount of such securities of a maturity exceeding two years in the ownership of the Bank (other than securities held in terms of section 28 (i) or held by the Bank as collateral under section 46 (i)(b) or held as a result of its open market operations under section 34 (b)), shall not together at any time exceed twenty per cent or such lower percentage as the Minister, after consulting the Governor, may from time to time determine by order published in the Gazette , of the total development budget of the Government for the current fiscal year. (3) The Bank may upon request of the Government, guarantee the repayment of the principal and the payment of interest and charges of any external borrowing by the Government or by any statutory body and in the case of a statutory body the Bank shall be entitled to request the Government to counter guarantee such borrowing."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VIII",
+      "section": "42",
+      "title": "Agent of the Government",
+      "content": "The Bank may generally act as agent of the Government— (a) where it can do so appropriately and consistently with this Act and with its duties and functions as a central bank ; and (b) on such terms and conditions as may be agreed upon between the Minister and the Bank ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Government to consult the Bank on Government loans",
+      "content": "The Minister shall, when contracting any external debt on behalf of the Government, consult the Bank on the terms and conditions of such debt relating to interest, fees and maturity. Division IV — Relations with banks and other financial institutions"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Banker to other banks",
+      "content": "The Bank may act as banker to other banks in Malawi."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Clearing systems",
+      "content": "The Bank may promote money transfer and clearing systems and provide facilities therefor."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Lender to banks",
+      "content": "(1) The Bank may grant advances to banks or financial institutions for periods not exceeding three months against promissory notes secured by the pledge with the Bank of— (a) publicly issued treasury bills maturing within ninety-one days; (b) securities issued by the Government (Local Registered Stock) maturing within twenty-five years; (c) other securities which may be declared eligible by the Bank from time to time, with the approval of the Minister; (d) bills of exchange and promissory notes which are eligible for purchase, discount or rediscount by the Bank; and (e) warehouse warrants or other documents of title to goods duly insured and with a letter of hypothecation from the owner: Provided that no advance so secured shall at any time exceed— (i) seventy-five per cent, in the case of those mentioned in subsections (a), (b), (c) and (d); or (ii) sixty per cent in the case of those mentioned in subsection (e), of the market value of the security pledged. (2) Where in the opinion of the Bank there is no established market value for the securities mentioned in subsection (1), the value for the purpose of the proviso to that subsection shall be determined by the Bank. (3) Notwithstanding the foregoing provisions of this section, the Governor may, with the approval of the Minister, grant advances to banks and financial institutions on the terms and conditions to be determined by the Bank."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Co-operation with banks",
+      "content": "The Bank shall promote close co-operation with the banks and financial institutions in Malawi aimed at— (a) maintaining and furthering satisfactory banking services for the public; (b) ensuring high standards of conduct and management throughout the financial system; and (c) furthering such policies which are in the national interest and which are not inconsistent with this Act. Part IX – Supervision of banks and other financial institutions"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IX",
+      "section": "48",
+      "title": "***",
+      "content": "[Repealed by 5 of 2011]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IX",
+      "section": "49",
+      "title": "***",
+      "content": "[Repealed by 5 of 2011] Part X – Accounts and statements"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part X",
+      "section": "50",
+      "title": "Annual accounts",
+      "content": "The financial year of the Bank shall begin on the 1st day of January and end on the 31st day of December."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Audit",
+      "content": "(1) The accounts of the Bank shall be audited by internationally recognized public auditors appointed annually by the Board with the approval of the Minister. (2) Without prejudice to subsection (1), the Minister may at any time request the Auditor General to make an examination of, and submit a report on, the accounts relating to the issue, reissue, exchange and withdrawal of notes and coins by the Bank or, in what the Minister may consider to be exceptional circumstance, the accounts of the Bank as a whole, and the Auditor General shall do so accordingly and the Bank shall provide all necessary and proper facilities therefor."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "Accounts, annual reports and publication thereof",
+      "content": "(1) The Bank shall, as soon as possible from the close of each financial year of the Bank , submit to the Minister— (a) a copy of the annual accounts certified by the auditors; and (b) a report on its operations during that year which shall be published by the Bank . (2) The Minister shall as soon as possible— (a) cause a copy of the annual accounts and the report to be laid before the National Assembly; and (b) cause a copy of the annual accounts to be published in the Gazette . (3) The Bank shall, as soon as possible after the last working day of each month, prepare and publish a return of its assets and liabilities as at the close of business on that day and a copy of the return shall be submitted to the Minister, who shall cause it to be published in the Gazette and in such other publications as the Minister may decide."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part X",
+      "section": "53",
+      "title": "Determination of net results of the bank",
+      "content": "The net financial results of the Bank for each financial year shall be determined by the Bank after meeting all current expenditure for that year and making such provision as it thinks fit for bad and doubtful debts, depreciation of assets, pensions, gratuities or other benefits usually provided by bankers for their staff."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part X",
+      "section": "54",
+      "title": "General Reserve Fund and appropriation of profits",
+      "content": "(1) The Bank shall establish a General Reserve Fund to which allocations shall be made in accordance with this section. (2) The profit of the Bank shall be distributed in the following order— (a) twenty-five per cent or one million Kwacha, whichever is higher, to the General Reserve Fund until it reaches ten per cent of the amount of the currency ( bank notes and coins) in circulation as at the end of the respective financial year: Provided that if the profit is less than one million Kwacha the whole of it shall be allocated to the General Reserve Fund; [5 of 2011] (b) in the event of a loss incurred by the Bank , such loss shall be deducted from the General Reserve Fund and if the General Reserve Fund is exhausted, the Government shall immediately cover the remaining loss without an appropriation Act being necessary. (3) With the approval of the Minister further allocations may be made from time to time to the General Reserve Fund. (4) The remainder of the net profits shall be transferred to the Government: Provided that in the event of outstanding promissory notes issued by the Government to cover losses from currency devaluation, ten per cent of the net profit or one million Kwacha, whichever is higher, shall be credited to a special account to be used to redeem such outstanding amounts of promissory notes, and if the remainder of the net profits would be less than one million Kwacha the whole of the remainder shall be credited to the special account. (5) Results from any devaluation or revaluation of the Malawi currency shall be posted directly into a special account without affecting the Bank ’s profit and loss account and any devaluation losses shall be covered by promissory notes of the Government on such terms and conditions as shall be agreed upon between the Minister and the Bank . [5 of 2011] Part XI – Miscellaneous"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part XI",
+      "section": "55",
+      "title": "By-laws",
+      "content": "The Board may, with the approval of the Minister, make by-laws for the administration and management of the Bank . Any such by-laws shall be authenticated by the Bank ’s seal and shall be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part XI",
+      "section": "56",
+      "title": "Regulations",
+      "content": "The Minister may, after consultation with the Bank , make regulations for the better carrying out of the objectives and purposes of this Act, or to give force or effect to its provisions, or for its better administration."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part XI",
+      "section": "57",
+      "title": "Income tax",
+      "content": "The profits of the Bank shall not be liable to income tax or other taxes in Malawi."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part XI",
+      "section": "58",
+      "title": "Prohibited banking names",
+      "content": "Save with the written consent of the Minister on the recommendation, of the Bank , no bank shall hereafter be registered under the provisions of any legislation by a name which includes any of the words “Central”, “Malawi”, “National”, “Reserve” or “State” or their equivalent in any other language or their derivatives."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part XI",
+      "section": "59",
+      "title": "Secrecy",
+      "content": "(1) In this section— “individual information” means information relating to the affairs of the Bank or another person, including a financial institution ; “officer” means a person who is or has been— (a) a director or employee of the Bank ; (b) a person engaged by the Bank to provide services to it; or (c) an examiner or investigator appointed under the Financial Services Act; [Cap. 44.05] “protected information” means each of the following— (a) individual information; or (b) information that would have a commercial value if disclosed otherwise than in accordance with this Act or any other financial services law . (2) An officer shall not disclose to any person orally or in writing, any protected information that the officer has acquired in the performance of his duties or functions as an officer. (3) Subsection (2) shall not prevent— (a) disclosure of a summary or collection of information of a kind referred to in paragraph (b) of the definition of the words “protected information” in subsection (1) that is prepared so that information relating to any particular person cannot be found out from it; (b) disclosure of the name of a licensed financial institution ; (c) disclosure of the addresses at which licensed financial institutions carry on business; (d) disclosure of any other information reasonably necessary to enable members of the public to contact financial institutions; or (e) disclosure of information to the Commissioner of Taxes. (4) It shall be a defence to a prosecution for an offence under subsection (2) that— (a) the disclosure was for the purposes and in the course of the exercise of the officer's duties or the performance of the officer's functions under a financial services law ; (b) the disclosure was made to or with the consent of the person concerned; (c) the disclosure was made in accordance with a lawful requirement of a court of competent jurisdiction; (d) the disclosure was authorized by a financial services law ; (e) the disclosure was required by another law; or (f) the disclosure was authorized by regulations made for the purposes of this section. (5) An officer who discloses information of a kind mentioned in subsection (2) may, at the time of the disclosure, impose conditions to be complied with in relation to the information. (6) In addition to any disciplinary action that may be taken, any person who contravenes this section or fails to comply with a condition imposed under subsection (5) shall be guilty of an offence and shall, on conviction, be liable to a fine of K 1,000,000 and to imprisonment for four years. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XI",
+      "section": "60",
+      "title": "Development",
+      "content": "The Bank shall within the framework of its powers, functions and objectives under this Act, and within the limitations of its position as a central bank , promote further development of trade, industry, agriculture, transport, financial and other sectors in Malawi. [5 of 2011]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XI",
+      "section": "61",
+      "title": "Discharge of duties",
+      "content": "Subject to the express provision of this Act, the Bank may do all such things as are incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Submission of information to the bank",
+      "content": "The Bank may for monetary policy and research purposes require banks, other financial institutions and companies to submit within a reasonable period such information and in such format as may be prescribed by the Bank . Part XII – Transitional provisions"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XII",
+      "section": "63",
+      "title": "Transitional",
+      "content": "Notwithstanding the term of office of the Governor or Deputy Governor prescribed in this Act, a person serving as Governor or Deputy Governor at the commencement of this Act shall continue to serve in accordance with the instrument of his appointment then subsisting and shall be eligible for reappointment under this Act. First Schedule (Sections 2 and 15B) Code of Conduct for the directors and employees of the Bank"
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Principal standards of conduct",
+      "content": "The directors and employees of the Bank shall be honest, objective, independent and impartial in the execution of their responsibilities, and shall subscribe to the highest standards of professional ethics, diligence, good faith and integrity. They shall avoid any action, or inaction, which in any way may impair the Bank's capacity to carry out its duties, or compromise its public standing and reputation."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Conflict of interest",
+      "content": "In the performance of their duties, the directors and the employees shall avoid any situation that may give rise to a conflict of interest. No discrepancies shall be allowed to exist between a director or an employee official responsibilities and any kind of personal or external interests which could jeopardize his impartiality and integrity in performing his responsibilities. The directors and employees shall not accept any gifts or favors that may have the appearance of influencing the performance of any of their functions or duties."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Declaration of interests",
+      "content": "To assist in the fulfillment of obligations in relation to conflicts of interests, directors and employees shall declare any situations where they have private or personal interest which may influence or appear to influence the impartial and objective performance of their duties."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Immunity from personal liability",
+      "content": "Directors or employees shall not be personally liable for any civil or criminal proceedings, arrest, imprisonment or damages for anything done in the discharge of their duties, unless it is established that it was done in bad faith."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Compliance",
+      "content": "The directors and employees shall strictly comply with this Code of Conduct. Deviation from the standards of this Code shall be deemed to be misconduct and shall be dealt with as misconduct, and the director or employee shall be disciplined in accordance with the provisions of the Act. Any investigation into a suspected or possible contravention of this Code shall be kept confidential."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Independence",
+      "content": "Directors and employees shall be independent from any political influence in the performance of their duties and functions under this Act, and shall not act as delegates or representatives of any interest groups or industry in the discharge of their duties."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Confidentiality",
+      "content": "Directors and employees are required to maintain strict confidentiality of the information acquired from the Bank in the performance of their duties and shall not divulge any such confidential information. Directors or employees shall not use such confidential information for purposes of carrying out direct or indirect private financial transactions."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Continuance of duties",
+      "content": "To avoid any situations of conflict of interest, the directors and employees shall maintain the confidentiality requirement for a period of one year from the date they cease to be directors or employees of the Bank. [5 of 2011] Second Schedule (Section 6) Additional powers and duties of the Board The Board shall— (a) monitor implementation of monetary policy in order to ensure compliance with this Act; (b) approve all determinations, guidelines and instructions of general application that are to be issued by the Bank; (c) approve all annual reports and recommendations that the Bank is required to make to the Minister or to Parliament; (d) establish and monitor the implementation of financial sector development policy; (e) establish appropriate supervisory and regulatory structures and regimes for all sectors of the financial services industry in order to meet the objectives of the financial services law; (f) establish and monitor the implementation of financial sector stability and soundness policies; (g) approve policies and directives relating to the supervision and regulation of the financial sector; (h) determine the policies applicable to the administration and operations of the Bank; (i) determine the organization structure of the Bank; (j) establish and close subsidiaries, branch offices and agencies of the Bank; (k) determine the terms and conditions of service of directors; (l) approve the terms and conditions of employment of the Bank's agents and correspondents; (m) propose increases in the authorised capital of the Bank, to establish special reserve on the books of the Bank, to determine the net income of the Bank and to determine what amount of such net income shall be transferred to any reserve; (n) approve the Bank's budget; (o) determine the accounting policies of the Bank and to approve the annual reports and financial statements of the Bank; (p) determine and ensure the establishment of an effective risk management structure; and (q) ensure good corporate governance of the Bank. [5 of 2011] History of this document 31 December 2017 Consolidation 31 December 2014 this version Consolidation 01 May 1989 Commenced 26 April 1989 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agency",
+      "definition": "any institution, other than a bank , established or appointed under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bank",
+      "definition": "the Reserve Bank of Malawi established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Directors of the Bank established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Code of Conduct",
+      "definition": "the code of conduct provided for under section 15B and set out in the First Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlling party",
+      "definition": "assigned thereto in the Financial Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "convertible currency",
+      "definition": "any currency which is freely negotiable and transferable in international exchange markets at exchange rates consistent with the Articles of Agreement of the International Monetary Fund in force from time to time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit liabilities",
+      "definition": "liabilities arising from demand, time and savings deposits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Governor",
+      "definition": "a Deputy Governor of the Bank appointed under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external currency",
+      "definition": "any currency, other than the currency issued by the Bank under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "assigned thereto in the Financial Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial services law",
+      "definition": "assigned thereto in the Financial Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Governor",
+      "definition": "the Governor of the Bank appointed under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Malawi currency",
+      "definition": "the legal tender currency of Malawi issued by the Bank under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory body",
+      "definition": "assigned thereto in the Finance and Audit Act. [Cap. 37:01] [5 of 2011] Part II – Establishment of the Bank",
+      "source_provision": "s2"
+    }
+  ]
+}

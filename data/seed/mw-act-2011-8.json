@@ -1,0 +1,646 @@
+{
+  "id": "mw-act-2011-8",
+  "type": "statute",
+  "title": "Financial Cooperatives Act",
+  "title_en": "Financial Cooperatives Act",
+  "short_name": "Financial Cooperatives Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://malawilii.org/akn/mw/act/2011/8/eng@2014-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Financial Cooperatives Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— “ Appeals Committee ” means the Financial Services Appeals Committee established under the Financial Services Act; [Cap. 44:05] “ bank ” has the meaning ascribed to it in the Banking Act; [Cap. 44:01] “ body corporate ” means a company or corporation incorporated under or by virtue of the laws of Malawi or of any other state, but does not include a corporation sole; “ borrower ” means a person who has concluded a loan agreement with a SACCO ; “ capital ” includes unimpaired reserves, retained earnings, donations to a SACCO and permanent and non-withdrawable shares; “ compulsory or collateral savings ” means a sum of money which is paid to a SACCO as— (a) security; (b) partial guarantee of a loan; or (c) a precondition for a loan granted or promised to be granted at a future date to a member making the payment; “ cooperative society ” means an entity registered under the Cooperative Societies Act; [Cap. 47:02] “ credit facility ” means— (a) the granting by a SACCO of an advance, loan or other facility which enables a member of the SACCO , or another person at the request of the member, to access funds or financial guarantees; or (b) the incurring of an obligation by a SACCO on behalf of a member at the direction of the member; “ deposit ” means money entrusted to a SACCO and accepted by it for credit to a depositor’s account, without putting up any security for the deposit; “ director ” means a member of the board of directors of a SACCO ; “ dormant account ” means an account that has been kept inactive for twelve months; “ licence ” means a licence issued in accordance with this Act; “ licensee ” includes a provisionally licensed SACCO ; “ national association ” means an umbrella body of all financial cooperatives in Malawi; “ officer ” includes a manager of a SACCO ; “ ownership share ” means an amount held by a member and established by the SACCO as the member’s ownership interest in the assets of the SACCO ; “ permanent and non-withdrawable share ” means a share of a SACCO that may not be redeemable or repurchased by the SACCO ; “ person ” includes an individual, a body corporate , a partnership, an association, and any other group of persons acting in concert, whether incorporated or not; “ primary SACCO ” means a SACCO the membership of which consists of individual persons and includes any body of persons approved by the Registrar of Cooperative Societies; “ provisionally licensed SACCO ” means a registered SACCO that, immediately before the coming into effect of this Act, is carrying on SACCO business; “ Register ” means the SACCO Register established and maintained pursuant to section 16 ; “ Registrar of Cooperatives ” means the Registrar of Corporatives as defined in the Cooperative Societies Act; [Cap. 47:02] “ SACCO ” means a savings and credit cooperative society registered under the Cooperative Societies Act and licensed under the Financial Services Act, whose principal object includes accepting deposits, advancing of loans, and providing other financial services to, or for, its members; [Cap. 47:02] [Cap. 44:05] “ secondary SACCO ” means a SACCO , the membership of which is restricted to primary SACCOs; “ supervisory committee ” means a supervisory committee elected by a SACCO under section 43 . (2) Subject to subsection (1) and except where a contrary intention appears, expressions used in this Act shall have respective meanings as in the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "This Act shall apply in addition to the Financial Services Act, and the Cooperative Societies Act, to all persons providing member-based savings and credit services as a whole or as part of their business except to the extent that such persons are exempted by the Registrar pursuant to his authority under the Financial Services Act. [Cap. 44:05] [Cap. 47:02] Part II – Licensing of registered SACCOs"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Prohibition against operating business without licence",
+      "content": "(1) No person shall engage in the business of receiving deposits, extending credit and providing other financial services to its members as a SACCO unless he is— (a) firstly incorporated under the provisions of the Cooperative Societies Act; and [Cap. 47:02] (b) licensed under the provisions of the Financial Services Act, as a— (i) primary SACCO; or (ii) secondary SACCO. [Cap. 44:05] (2) Any person who contravenes section (1) commits an offence."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Application for licence",
+      "content": "(1) An applicant for a licence shall submit an application in writing in a form prescribed under the Financial Services Act, and containing such information as the Registrar may specify. (2) An application under subsection (1) shall be accompanied by a fee as specified by the Registrar. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Criteria for licensing",
+      "content": "(1) In considering an application for a licence , the Registrar shall, in addition to the requirements stipulated in the Financial Services Act, take into account the following factors— (a) that the applicant is incorporated under the Cooperative Societies Act; [Cap. 47:02] (b) that the applicant is a member of a national association of financial cooperatives; (c) the financial condition and prospects of the applicant; (d) that the applicant shall be governed by a board of directors elected from within its membership; (e) that the by-laws of the SACCO provide for prudent governance in accordance with cooperative principles; and (f) any other matter that the Registrar may consider necessary. (2) A primary SACCO , or fifteen licensed primary SACCOs, in case of a secondary SACCO , shall submit to the Registrar a complete set of application for a licence . (3) The Registrar may grant a licence to a primary or secondary SACCO upon being satisfied that the proposed business shall be financially viable. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Issue of licence",
+      "content": "(1) The Registrar shall, within sixty days from the date of receipt of a completed application for a licence — (a) grant a licence with or without conditions; or (b) refuse to grant a licence . (2) The Registrar shall communicate his decision in writing to the applicant: Provided that, in case of refusal, he shall give reasons. (3) A person aggrieved by the decision of the Registrar may appeal to the Appeals Committee in accordance with the Financial Services Act, within thirty days after being notified of the decision. [Cap. 44:05] (4) The Appeals Committee may reverse the decision of the Registrar where— (a) the Registrar failed to follow required procedures in making his decision; (b) the Registrar’s decision was contrary to this Act; (c) there was no factual basis for the decision of the Registrar; or (d) based on a review of the record, the Registrar— (i) committed a manifest error in his assessment of facts; or (ii) abused his discretion in making his decision. (5) The Appeals Committee may, in consultation with the Registrar, specify further requirements to be fulfilled for the grant of a licence to a registered SACCO ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Conditions of licence",
+      "content": "The Registrar may endorse on a licence granted under the Financial Services Act, such conditions as he considers necessary and may, from time to time, add, vary or substitute such conditions when deemed appropriate. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Prohibition against transfer or assignment of licence",
+      "content": "(1) A licence shall not be transferred, assigned or encumbered in any way. (2) Any person who contravenes subsection (1) commits an offence."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Expiry of licence",
+      "content": "(1) A licence shall automatically expire where the licensee fails to commence its business within a period of one year following the granting of the licence . (2) Where a licence has expired pursuant to subsection (1) and the applicant indicates to the Registrar his interest to operate the business, the applicant may submit a fresh application to the Registrar in accordance with section 5 ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Suspension or revocation of licence",
+      "content": "(1) In addition to provisions under the Financial Services Act, the Registrar may, by notice in writing to a licensed SACCO, suspend or revoke the licence where the SACCO— (a) is deregistered under the Cooperative Societies Act; or [Cap. 47:02] (b) fails to comply with this Act or any financial services law. (2) Upon suspension or revocation of a licence as provided under the Financial Services Act— [Cap. 44:05] (a) the Registrar shall record the revocation of a licence in the Register; and (b) in addition to the powers of the Registrar under the Financial Services Act, the Registrar shall give directions with respect to the disposal of any assets, and the conduct of any transactions permitted under the licence. [Cap. 44:05] (3) Any person aggrieved by the decision of the Registrar to suspend or revoke a licence may appeal to the Appeals Committee in accordance with the provisions of the Financial Services Act. [Cap. 44:05] (4) The decision of the Registrar shall remain in force unless reversed by the Registrar or set aside by the Appeals Committee. (5) The Registrar shall inform the Registrar of Cooperative Societies of his decision to suspend or revoke a licence within five days of making the decision. (6) A SACCO whose licence is suspended or revoked shall immediately cease to provide, directly or indirectly, any financial service, including as an agent of any financial institution. (7) Any person who contravenes this section commits an offence. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Revocation of licence not relief from obligations",
+      "content": "(1) Revocation of a licence shall not relieve the licensee of any obligation incurred or assumed by the licensee during the period of validity of the licence . (2) The revocation of a licence shall not prevent a cooperative society from carrying out cooperative business under the Cooperative Societies Act. [Cap. 47:02]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Protection of name",
+      "content": "(1) No person, other than a registered or licensed SACCO, shall— (a) use a name or title containing the words “SACCO” or “Savings and Credit Cooperative”; (b) present himself as a SACCO; or (c) conduct business as a SACCO. (2) No person shall adopt a name that is identical to that of another SACCO or similar as to be misleading or cause confusion. (3) Notwithstanding subsection (1), an apex society that is a federation or confederation of SACCOs or an organization whose membership or ownership consists primarily of SACCOs or SACCO organizations may use the words “SACCO” or “Savings and Credit Cooperative” in its official name. (4) Any person who contravenes this section commits an offence and shall, upon conviction, be liable, to a fine of K1,000,000 and to imprisonment for four years. Part III – Conduct of business in certified premises"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Premises certificate",
+      "content": "(1) The Registrar may determine minimum standards for premises of a SACCO . (2) The Registrar shall carry out an inspection of the premises of a SACCO to determine compliance with the minimum standards referred to in subsection (1). (3) Upon certifying the compliance of the premises with the determined minimum standards, the Registrar shall issue a premises certificate. (4) A premises certificate of a SACCO shall indicate— (a) the name of the SACCO ; (b) the type of business that the licensee is authorized to conduct; (c) the date of certificate; (d) the number of certificate; and (e) the place of business. (5) A SACCO shall not engage in any business other than the business designated in its premises certificate."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Business to be conducted in certified premises",
+      "content": "(1) A SACCO shall conduct its business at the place of business specified in the premises certificate. (2) A SACCO wishing to relocate from the place of business premises specified in the premises certificate shall make an application to the Registrar. (3) Where the Registrar is satisfied with reasons for the relocation of the place of business of a SACCO , he shall issue a new certificate to the SACCO . (4) A person who contravenes the provisions of this section commits an offence. Part IV – Register of licensed SACCOs"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Register",
+      "content": "(1) The Registrar shall establish and maintain a register to be known as the SACCO Register . (2) The Registrar shall enter into the Register particulars of all licensees and their licences. (3) The Register or a copy of the Register shall be available for inspection by the public at the offices of the Registrar during working hours."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Publication of licensed SACCOs",
+      "content": "The Registrar shall cause the list of all licensed SACCOs to be published once every year in at least one electronic or print media of national circulation."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Evidence of register",
+      "content": "(1) For the purpose of ascertaining the facts concerning licensing status of any person , entries made in the Register shall be prima facie evidence as to those facts. (2) A document certified by the Registrar as a true copy or extract of the Register shall be admissible in any proceedings including in any court as prima facie evidence of the contents of the Register . Part V – Permissible activities of SACCOs"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Permissible services for primary SACCOs",
+      "content": "(1) A primary SACCO may— (a) provide deposit , credit and financial services to its members; and (b) invest its funds, as permitted under this Act: Provided that no more than five per cent of its assets, or as may be determined by the Registrar, from time to time, shall be invested in non-financial activities. (2) A SACCO may offer transactional services such as money transfers, automated teller machine services, to non-members provided that the services do not directly affect the balance sheet of the SACCO . (3) An individual or body corporate may become a member of a SACCO or SACCOs subject to the same one-member one-vote restrictions, deposit and loan concentration limits. (4) Notwithstanding any written law, but subject to any restrictions in its licence , a primary SACCO may offer any of the following services— (a) credit facilities; (b) shared branching among SACCOs; (c) transfers; (d) chequing; (e) deposit taking; (f) insurance agency; (g) leasing; (h) bill payments; (i) automated teller machines and debit cards; (j) participatory loans among other SACCOs; and (k) any other financial services as the Registrar may approve, from time to time."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Permissible services for secondary SACCOs",
+      "content": "(1) Notwithstanding any written law, a secondary SACCO may provide all of the services permissible to primary SACCOs, in addition to liquidity management services, auditing services of primary SACCOs, clearing services and securitization. (2) Notwithstanding any written law, a secondary SACCO may directly participate in any national payments, clearing and settlement system. (3) Subject to prior written approval of the Registrar, a secondary SACCO may provide insurance services to a person that has a deposit with, or an investment in, the ownership shares of, a primary SACCO . (4) The Registrar may issue Registrar’s directives with respect to provision of insurance services by the secondary SACCOs. (5) A SACCO may have access to the liquidity window of the Reserve Bank under such conditions as the Reserve Bank may define. Part VI – Governance of SACCOs"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Directors’ terms of office, meetings, responsibilities",
+      "content": "(1) In addition to the provisions of the Financial Services Act— (a) with the exception of the chief executive officer , a term of office of any director shall not exceed three years; (b) a director may serve up to a maximum of two consecutive terms of office after which time he can be re-elected to the board after sitting out one full term; (c) the directors shall meet at least once every quarter or as may be determined by the Registrar for the transaction of SACCO business; and (d) the Registrar may determine responsibilities and qualifications for the directors of a SACCO . (2) Any appointee director deemed not to be fit and proper by the Registrar may be granted one year or such other time as may be directed by the Registrar to obtain the requisite skills. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Duties of management",
+      "content": "(1) Management of a SACCO shall prudently oversee the operations of the SACCO , in accordance with this Act, the Financial Services Act, and policies established by the board of directors of the SACCO . (2) The Registrar may, through Registrar’s directives, determine responsibilities and qualifications of any officer in the management of a SACCO . [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VI",
+      "section": "23",
+      "title": "No employee director in licensed SACCOs",
+      "content": "No employee of a SACCO , other than the chief executive officer , shall serve as a director of the SACCO ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VI",
+      "section": "24",
+      "title": "Disclosure of fees, expenses, paid to director",
+      "content": "Any compensation, fee and travel or meeting expense or reimbursement paid to a director of a SACCO shall be disclosed to the members of the SACCO at the annual general meeting."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VI",
+      "section": "25",
+      "title": "Internal control systems",
+      "content": "A SACCO shall, at all times, maintain internal control systems. Part VII – Regulation and supervision of SACCOs"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VII",
+      "section": "26",
+      "title": "Capital requirements",
+      "content": "(1) The Registrar shall, through Registrar’s directives and without prejudice to the generality of his powers under this Act or the Financial Services Act, determine the minimum capital for SACCOs. [Cap. 44:05] (2) The Registrar may, from time to time, determine on-going capital requirements for individual SACCOs where supervisory review process reveals risks warranting additional capital ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VII",
+      "section": "27",
+      "title": "Minimum liquid assets",
+      "content": "(1) A SACCO shall maintain such minimum holding of liquid assets of deposits and borrowings of its members as may be prescribed, from time to time, by the Registrar. (2) Every SACCO shall calculate the average period balance of its deposits and borrowings at the close of business for submission to the Registrar on such day as may be prescribed through directives."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VII",
+      "section": "28",
+      "title": "Additional directives for SACCOs",
+      "content": "(1) In addition to directives issued under the Financial Services Act, the Registrar may determine— (a) levels of standards for the categories of SACCOs; and [Cap. 44:05] (b) other financial and operational standards for SACCOs. (2) The Registrar may take appropriate supervisory action in accordance with provisions of this Act in the case of a SACCO which contravenes the provisions of this section. (3) Any director or person concerned in the management of a SACCO who fails to act reasonably to comply with subsection (1) may be liable to administrative penalties under the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VII",
+      "section": "29",
+      "title": "Other permissible investment of funds",
+      "content": "(1) Any funds of a SACCO not committed in loans to its members may be invested in— (a) securities, or other debt instruments issued or guaranteed by the Government or any agency of the Government; (b) deposits, with banking institutions; (c) shares, deposits in, loans to any secondary SACCO licensed under this Act; and (d) other investments as may be determined by the Registrar from time to time. (2) An investment made under this section shall not in the aggregate exceed such proportion of the total core capital and deposits of a SACCO as the Registrar may prescribe. (3) A SACCO shall not purchase or acquire any land or any interest or right therein except as may be reasonably necessary for the purpose of conducting its business and where such investments do not exceed such proportion of the total assets of the SACCO as the Registrar may prescribe."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VII",
+      "section": "30",
+      "title": "Insider lending",
+      "content": "(1) A licensed SACCO may make loans to its employees and members of its board of directors in an amount in the aggregate not exceeding such proportion of its total assets as the Registrar may, from time to time, prescribe. (2) No director or employee of a SACCO shall receive any product or service from the SACCO on terms that are any more or less favorable than any other member of the SACCO with a similar credit history and capacity to repay. (3) All loans of a SACCO involving any related party of a SACCO shall be disclosed to the board of directors and annually to the Registrar. (4) No employer or director of a SACCO shall act as a guarantor of any person with respect to a loan advance or credit facility granted to a person by the SACCO . (5) No employee, director or agent of a SACCO shall participate or be present in the deliberation upon or the determination of any question affecting that person ’s pecuniary interest or the pecuniary interest of any related party and in that event such person shall disclose any related parties or conflicts of interest annually to the board of directors. (6) A person who fails to disclose the interests outlined in subsection (5) commits an offence."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VII",
+      "section": "31",
+      "title": "Charge against shares and savings deposit",
+      "content": "(1) A SACCO shall hold a first charge against share capital , deposits and upon any dividends or interest payable to a member for any debt due to the SACCO from a member, as a guarantor or endorser of a loan, credit facility or any other obligation. (2) A SACCO may refuse to allow withdrawals from any deposit account operated by a member where such member is in arrears on a debt owed to the SACCO ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VII",
+      "section": "32",
+      "title": "Treatment of dormant accounts",
+      "content": "(1) The Registrar shall, upon expiry of three years of holding funds in SACCO member’s account that is deemed dormant, determine, from time to time, direction on treatment of such funds. (2) The direction shall be restricted to the promotion and development of SACCOs in Malawi."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VII",
+      "section": "33",
+      "title": "Limits on loans and credit facilities",
+      "content": "A SACCO shall not, without prior approval of the Registrar, grant or permit to be outstanding any credit facility to any member as may be determined, from time to time, by the Registrar."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Ownership shares",
+      "content": "(1) No member of a SACCO shall, without the approval of the Registrar, hold more than ten per cent of the ownership shares or deposits in the SACCO , individually or cumulatively through related parties. (2) Subject to subsection (3), ownership shares in a SACCO are liabilities of the SACCO . (3) Ownership shares shall be equity of the SACCO if the SACCO ’s by-law provides for the shares to be permanent and non-withdrawable. (4) Ownership shares that are redeemable may, subject to compliance with this Act and the Financial Services Act, be purchased at their issue price and in the event of insolvency, such ownership shares shall be redeemable at the discounted value of the insolvency. [Cap. 44:05] (5) A SACCO shall, through by-laws, determine the value of ownership share in the SACCO ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Conduct of business",
+      "content": "A SACCO shall— (a) conduct business with integrity, prudence and professional skill; (b) focus on the institutional sustainability of financial services to members; and (c) engage only in bona fide transactions."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Disclosure of cost of borrowing",
+      "content": "A SACCO shall at all times disclose, in writing, to the borrower , the cost of borrowing, including the interest rate and related fees."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Exhibition of financial and other information",
+      "content": "(1) A SACCO shall exhibit, throughout the year, in a conspicuous position in every place of business— (a) a copy of its last audited financial statements in the prescribed format; (b) code of conduct; (c) information on member rights and responsibilities; (d) financial products and services it offers; and (e) terms under which products and services are offered. (2) A SACCO that does not comply with the provisions of this section commits an offence and shall be liable to administrative penalty under the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Actions requiring approval",
+      "content": "In addition to provisions that require approval of the Registrar in this Act, a SACCO shall not, without prior written approval of the Registrar— (a) open or close a place of business in Malawi; (b) engage on its own account in wholesale or retail trade, including import and export trade, except insofar as may be necessary in the course of the satisfaction of debts due to it; (c) purchase or acquire or hold immovable property other than for the purpose of conducting its business unless acquired in default of repayment in which case the immovable property be availed for resale as soon as possible thereafter; (d) offer any deposit or credit products to a non-member or invest in the shares of another SACCO ; and (e) undertake amalgamation or similar corporate restructuring transaction."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Amendment of by-laws",
+      "content": "(1) A SACCO shall notify the Registrar of any amendments to its by-laws within thirty days of the adoption of such amendments by the membership. (2) A SACCO shall submit to the Registrar of Cooperatives , for approval, a copy of proposed amended by-laws. Part VIII – Accounts and audit"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Financial year",
+      "content": "The financial year for a SACCO shall be the period of twelve months ending on the 31st of December in each year, or as may be determined by the Registrar."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Accounts",
+      "content": "A SACCO shall keep accounts and records which— (a) shall show a true and fair state of affairs of the institution; and (b) shall explain all transactions, and the financial position of the SACCO to enable the Registrar to determine whether the institution has complied with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VIII",
+      "section": "42",
+      "title": "Disclosure requirements",
+      "content": "The financial statements of a SACCO shall include disclosures on— (a) members, if any, who hold more than ten per cent of the share capital and deposits in the SACCO ; and (b) any advance or credit facility exceeding such limits of its core capital as may be determined by the Registrar."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Supervisory committee",
+      "content": "(1) A SACCO shall, at its annual general meeting, elect a supervisory committee from its membership who shall report to the board of directors on internal control systems and financial condition of the SACCO . (2) The supervisory committee shall also present its findings to the members at the annual general meeting. (3) Former, but not current, directors shall be eligible to run for election to the supervisory committee ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Duties of external auditor",
+      "content": "(1) In addition to the duties of an external auditor under the Financial Services Act, the supervisory committee , in consultation with the board of directors, shall appoint an external auditor who shall report to the board of directors on— (a) profit and loss account; (b) assets and liabilities of the SACCO ; (c) cash balances, securities and accounts; (d) delinquent loans and loans to directors and employees and their related parties; (e) any violation of prudential standards or a condition of the licence ; (f) any other contravention of this Act; and (g) any other matter as may be determined by the Registrar. (2) Where for any reason a casual vacancy occurs in the appointment of the external auditor in the course of the year of the appointment, the board of directors of the SACCO shall, with the approval of the Registrar, and subject to subsection (1), appoint another external auditor. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Qualification of external auditor",
+      "content": "No person shall be qualified for appointment as an external auditor of a SACCO unless the person — (a) is qualified as an auditor under the Companies Act; and [Cap. 46:03] (b) is not— (i) an officer of a SACCO ; (ii) a partner of a director of a SACCO ; (iii) an employer or employee of an officer of a SACCO ; (iv) an officer or employee of an associate of a SACCO ; (v) a partner or an employer of a person who regularly performs the duties of secretary or book-keeper for a SACCO ; or (vi) a firm or member of a firm of auditors of which any partner or employee falls within the categories enumerated in this paragraph."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Rectification of audited accounts",
+      "content": "(1) Where the Registrar is satisfied that the audited accounts of a SACCO do not comply with the requirements of this Act or that the audited accounts contain information that may be misleading, the Registrar may require the SACCO to— (a) amend the audited accounts to comply with the requirements of this Act; (b) correct the misleading information; or (c) submit to the Registrar further documents or information relating to the accounts as the Registrar may deem appropriate. (2) Where the Registrar is satisfied that the non-compliance with the requirements of this Act was deliberate and has been caused with malafide intentions, he may revoke the licence of the SACCO or impose administrative penalties under the Financial Services Act. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Accounting records and retention",
+      "content": "(1) A SACCO shall maintain books, records, accounting systems and procedures in the manner approved by the Registrar. (2) The records relating to a SACCO may only be destroyed under such conditions, and after such period of retention of the records, as the Registrar may prescribe."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Publication and sharing of information",
+      "content": "(1) The Registrar shall publish in whole or in part, at such times and in such manner as he deems fit, any information furnished to him under this Act. (2) The information furnished under subsection (1) shall not be published if such disclosure details financial affairs of an individual account holder, unless written consent of the account holder has been granted. (3) Except as provided in this Act, no person shall disclose or publish any information which comes into his possession in the course of the performance of his duties or responsibilities under this Act. (4) A person who discloses or publishes any information in contravention of subsection (3) commits an offence. (5) Notwithstanding the provisions of this section— (a) the Registrar may disclose any information received under this Act to any financial regulatory authority, tax authority, fraud investigations authority or pursuant to a court order, within or outside Malawi, where such information is reasonably required for the proper discharge of the functions of the Registrar or the requesting regulatory authority, tax authority, investigation authority or court; (b) a SACCO shall, in the ordinary course of business and in such manner and to such extent as the Registrar may prescribe, exchange such information on non-performing loans as may, from time to time, be specified by the Registrar; and (c) the Registrar and any SACCO may, in the ordinary course of business in such manner and to such extent as the Registrar may prescribe, exchange such information as is reasonably required for the proper discharge of their functions. (6) No duty to which a SACCO or its officers may be subject shall be breached by reason only of the disclosure, in good faith, of any information under this section to— (a) the Registrar or to another SACCO ; or (b) a credit reference bureau, in the course of the performance of their duties and no action shall lie against the SACCO or any of its officers on account of such disclosures. Part IX – Remedial measures and winding-up of SACCOs"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IX",
+      "section": "49",
+      "title": "Remedial measures",
+      "content": "(1) In addition to the provision of the Financial Services Act, the Registrar may issue an order directing a merger of a SACCO with any other SACCO that voluntarily agrees to the merger upon the Registrar being satisfied or where the Registrar has reasonable cause to believe that in respect of a SACCO— (a) its capital is seriously affected and does not meet the prescribed requirements; (b) the continuation of its activities is not in the best interest of its depositors or creditors; (c) its assets and provisions are insufficient to cover its liabilities; or (d) the SACCO has refused or refuses to permit an inspection to be made of its business in accordance with provisions of this Act, or has otherwise obstructed such inspection, or has failed to comply with any requirements of the Registrar: Provided that the Registrar is satisfied that— (a) a SACCO cannot reasonably be expected to operate as a viable stand-alone organization; (b) other alternatives are not reasonably available; (c) interest of members would be best served by the merger; (d) a merger is acceptable to the receiving institution; and (e) the merger would not severely impact the financial condition of the receiving SACCO. (2) If no suitable merger partner can be identified, the Registrar may— (a) identify a compromise or arrangement between the SACCO and its creditors; and (b) wind-up a SACCO and appoint a liquidator. (3) In the case of liquidation, the Registrar shall have full and exclusive powers to manage and control the SACCO in liquidation, including powers to— (a) temporarily continue its operations; (b) stop or limit the payment of its obligations; (c) employ any necessary officers and employees; (d) execute any instrument in the name of the SACCO; and (e) initiate, defend and conduct in the name of the SACCO any action or proceedings to which it may be a party. (4) Upon liquidation, the Registrar shall inform the Registrar of Cooperatives of the liquidation. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IX",
+      "section": "50",
+      "title": "Winding-up",
+      "content": "(1) Upon liquidation or voluntary winding-up of a SACCO by its members, any remaining net assets after paying all deposits and creditors shall be used to— (a) repurchase ownership shares at their issue price; (b) if the SACCO is insolvent, repurchase at the discounted value of the insolvency; and (c) any balance shall be donated to another cooperative, that members choose, for the expressed purpose of education on cooperatives. (2) The Registrar may refuse to make any payments to any person who, in the opinion of the Registrar, had any responsibility for, or may have benefited directly or indirectly from the circumstances leading to, the SACCO becoming insolvent. Part X – Deposit Guarantee Fund"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Establishment of Deposit Guarantee Fund",
+      "content": "(1) There is hereby established a fund to be known as the Deposit Guarantee Fund. (2) The Deposit Guarantee Fund shall vest in a Board of Trustees appointed under this Act. (3) The funds under the Deposit Guarantee Fund shall be invested by the Board of Trustees in Government securities and in deposits with other financial institutions as directed by the Board of Trustees."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "Appointment of Board of Trustees",
+      "content": "The Minister shall appoint a Board of Trustees to exercise powers, functions and authority conferred on the Board of Trustees by or under this Act."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part X",
+      "section": "53",
+      "title": "Composition of Board of Trustees",
+      "content": "(1) The Board of Trustees shall consist of— (a) the Registrar’s appointee; (b) the Registrar of Cooperatives or his representative; (c) the Secretary to the Treasury or his representative; (d) four members nominated by licensed SACCOs and approved by the Registrar; and (e) the chief executive officer of a national association who shall be ex officio member and secretary to the Board of Trustees. (2) The Minister may, by regulations, provide for the manner of nominations under subsection (1)(c)."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part X",
+      "section": "54",
+      "title": "Powers and functions of Board of Trustees",
+      "content": "(1) The Board of Trustees shall be responsible for the management of the Deposit Guarantee Fund and shall in particular— (a) provide oversight function in the management of the Fund; (b) manage and apply the Fund in accordance with this Act; and (c) levy contributions for the Fund in accordance with this Act. (2) The Board of Trustees shall appoint an administrator of the Fund. (3) The Board of Trustees shall regulate the conduct of its affairs."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part X",
+      "section": "55",
+      "title": "Remuneration of Board of Trustees",
+      "content": "The Board of Trustees shall pay its members such remunerations or allowances for expenses out of the Deposit Guarantee Fund as it may determine, after consultation with the Registrar."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "Sources of Deposit Guarantee Fund",
+      "content": "The Deposit Guarantee Fund shall consist of— (a) funds contributed to the Deposit Guarantee Fund by SACCOs in accordance with this Act; (b) income investment interest accruing to the Deposit Guarantee Fund; (c) funds borrowed for the purposes of the Deposit Guarantee Fund; and (d) funds received as donations or grants to the Deposit Guarantee Fund."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Protection of deposits",
+      "content": "(1) The Deposit Guarantee Fund shall provide protection for deposits of members, but not shares, up to an amount as determined by the Trustees, from time to time, and approved by the Registrar. (2) The amount being the aggregate credit balance of any accounts maintained by a member to a SACCO , less any liability of the member to the SACCO , shall be a protected deposit . (3) A deposits of a member shall be used to offset any liabilities owed by the SACCO under liquidation, including any liability under a loan guarantee by such member. (4) If a member has outstanding loans or credit facilities owing to a SACCO , the deposit of the member or guarantor, as the case may be, shall offset the loan or credit facility before the member or guarantor may receive any net from the members’ or guarantors’ protected deposits. (5) A SACCO may, upon becoming insolvent, lodge a claim with the Registrar, in such form as the Registrar may approve, for the payment of claims out of the Deposit Guarantee Fund of any guaranteed deposits. (6) The Board of Trustees may, before paying any claim lodged under this Act, require the claimant to furnish such documentary proof to support such claim as may be prescribed by the Registrar. (7) The Board of Trustees may refuse to make any payments to any person who, in its opinion, had any responsibility for, or may have benefited directly or indirectly from the circumstances leading to, the SACCO becoming insolvent. (8) The Board of Trustees may at any time cause inspection to be carried out to ascertain the type, number and value of the protected deposits in any SACCO . (9) Upon payment of protected deposits from the Deposit Guarantee Fund, the Board of Trustees shall be entitled to receive from the SACCO or its liquidator, as the case may be, the amount paid from the Deposit Guarantee Fund. (10) Notwithstanding the provisions of any other law— (a) a claim for payment of a protected deposit by a creditor of a SACCO shall not be brought after the expiry of two years from the date of publication of commencement of such payment by the Board of Trustees; and (b) a claim for payment of a dividend by a creditor of a SACCO shall not be brought after the expiry of one year from the date of commencement of such payment by the Board of Trustees. (11) Subsection (10) shall not apply to a person who has, for reasons beyond his control and to the satisfaction of the Board of Trustees, been unable to make his claim within the said period."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Contribution to Deposit Guarantee Fund",
+      "content": "(1) A SACCO shall contribute to the Deposit Guarantee Fund and shall pay into the Deposit Guarantee Fund such annual amount, and at such times, as the Board of Trustees may determine, in consultation with the Registrar from time to time. (2) The Board of Trustees shall serve on every SACCO a notice specifying the amount and the period, which shall not be later than twenty-one days after the date of service of the notice, within which the amount shall be paid into the Deposit Guarantee Fund by the SACCO . (3) A SACCO which, for any reason, fails to pay its contribution to the Deposit Guarantee Fund within the period specified in a notice issued under subsection (2) shall be liable to pay to the Fund a penalty interest charge not exceeding one-half per cent of the unpaid amount for every day outside the notice period on which the amount remains unpaid. (4) Where it appears to the Board of Trustees that the affairs of a SACCO are being conducted in a manner detrimental to its own interests or to the interest of its members, the Board of Trustees may increase the contributions of that SACCO beyond the maximum amounts prescribed or terminate the protection of the deposits of such SACCO . (5) The Board of Trustees shall, as soon as reasonably practicable after terminating the protection of the deposits of a SACCO under subsection (4), cause the name of that SACCO to be published in the Gazette and in at least one daily newspaper of national circulation. (6) The Board of Trustees shall cause a list of all SACCOs whose deposits are protected to be published in the Gazette and in at least one daily newspaper of national circulation annually."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Deposit Guarantee Fund annual report",
+      "content": "The Board of Trustees shall, within four months after the close of each financial year, submit to the Minister a report on the operations of the Deposit Guarantee Fund for the year in question. Part XI – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XI",
+      "section": "60",
+      "title": "Default by officers",
+      "content": "Any officer of a SACCO who fails to— (a) take all reasonable steps to secure the compliance of the SACCO with this Act; (b) take all reasonable steps to secure the accuracy and correctness of any statement or information submitted under this Act; or (c) supply any information required under this Act to the Registrar or his agent, commits an offence."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XI",
+      "section": "61",
+      "title": "Falsification of books, and other prohibited acts",
+      "content": "(1) Any officer of a SACCO who willfully— (a) with intent to deceive, falsifies any book of account, report, statement, record or other document of the SACCO ; (b) signs, issues, publishes or transmits to a Government official any book of account, report, statement, record or other document which that person knows, or has reason to believe, to be false; (c) with intent to deceive, knowingly obtains a forged signature on a document; (d) with intent to deceive, destroys any book of account, report, statement, record, or other document of the SACCO ; and (e) engages in transaction or takes part in a deliberation in which there is a conflict of interest prohibited under this Act, commits an offence. (2) Where an officer of a SACCO is convicted of an offence under subsection (1), the court shall, in addition to the penalty that it may impose under subsection (1), order the convicted officer to be prohibited from holding office in any SACCO ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Employer or agent to deduct and remit",
+      "content": "(1) An employer or agent of a SACCO member shall, on being so requested in writing by the member, make deductions from the member’s earnings and remit the deducted amount to the SACCO which the member directs, within fourteen days after the end of the month in which the deductions are made. (2) Any principal officer who contravenes subsection (1) shall be liable to administrative penalties prescribed by the Registrar under the Financial Services Act. [Cap. 44:05] (3) An employer who contravenes subsection (1) shall, in addition to the penalty that the Registrar may impose under subsection (2), be liable to pay to the SACCO the sum requested to be deducted together with a compound interest on the sum at the rate of not less than the average commercial base rate. (4) In this section, “employer” includes any person , body corporate or government entity. (5) The Registrar, or a SACCO on its own, may institute legal proceedings in court for recovery of the sum owing under subsection (1) without prejudice to any other mode of recovery and such sum shall be a civil debt recoverable accordingly. (6) The Registrar may, by written notice, appoint any person , to be an agent of any SACCO for the purposes of the collection and recovery of a debt owed to the SACCO ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XI",
+      "section": "63",
+      "title": "Fee or commission for effecting deductions",
+      "content": "An employer may, in consultation with the Registrar, charge a fee or commission, in whatever form, for effecting deductions from the salary of an employee who is a SACCO member and remitting the deducted amount to a SACCO for the purpose of recovering costs that may be incurred."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XI",
+      "section": "64",
+      "title": "Voluntary mergers",
+      "content": "(1) A SACCO intending to enter into an arrangement to merge with, amalgamate with or transfer its assets to, another SACCO , shall notify the Registrar thirty days prior to the conclusion of the proposed agreement. (2) The merger referred to in subsection (1) shall be conducted in accordance with such procedure as the Registrar may determine. (3) Where a merger under this section is approved by the Registrar, all property, property rights and members’ interest of the merging SACCOs shall vest in the continuing SACCO without any instrument of transfer. (4) All debts, obligations and liabilities of the merging SACCOs shall be deemed to have been assumed by the continuing SACCO . (5) The rights and privileges of the members of the merging SACCOs shall not be affected by the merger."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XI",
+      "section": "65",
+      "title": "Confidentiality",
+      "content": "(1) A SACCO and its staff shall ensure that all transactions are conducted in strict confidence and that the confidentiality of members is maintained. (2) A SACCO may, with the consent of the customer, provide any necessary information to third parties such as members of a group guarantee scheme or a credit register."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Money laundering transactions",
+      "content": "Every SACCO shall furnish the Registrar or other enforcement agencies of Malawi with relevant information for of transactions deemed suspicious under the Money Laundering, Proceeds of Serious Crimes and Terrorist Financing Act. [Cap. 8:07]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XI",
+      "section": "67",
+      "title": "Obstruction of the Registrar and other acts",
+      "content": "Any person who— (a) obstructs the Registrar or his agent in the exercise of any power conferred upon him under this Act; (b) fails to provide information required under this Act alter written request by the Registrar or his agent; (c) with intent to evade any provisions of this Act destroys, mutilates, or hides any document; or (d) knowingly and intentionally contravenes a duty imposed by this Act, commits an offence."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XI",
+      "section": "68",
+      "title": "General offences and penalties",
+      "content": "(1) Any person who contravenes a provision of this Act for which no offence is specifically provided commits an offence. (2) The provisions of the Financial Services Act, governing imposition of penalties shall apply to any person who commits an offence under this Act for which no penalty is specifically provided. [Cap. 44:05]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XI",
+      "section": "69",
+      "title": "Regulations",
+      "content": "(1) The Minister may, on the recommendation of the Registrar, make regulations for the better carrying out of this Act and for its better administration. (2) The Minister may make different provisions for different categories of SACCOs in regulations made under subsection (1). (3) Subject to Part XII, the Minister may make regulations with respect to transitional provisions to enable existing SACCOs to comply with this Act. (4) For avoidance of doubt, the power to make regulations in this Act does not extend to making regulations about a matter in respect of which the Registrar may issue directives."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XI",
+      "section": "70",
+      "title": "Directives and guidelines",
+      "content": "(1) The powers conferred on the Registrar under this Act shall, without prejudice to the powers of the Registrar under the Financial Services Act, be exercised through issuance of Registrar’s directives. [Cap. 44:05] (2) The directives may prohibit, restrict or subject to conditions— (a) certain classes of credit facilities, investments, and risk bearing commitments; or (b) any other transactions affecting the solvency or liquidity of a SACCO . (3) The directives may vary for different categories of SACCOs as determined by the Registrar. (4) The directives may include provisions on any corrective action or administrative sanctions which the Registrar considers appropriate. (5) The Registrar may issue guidelines, bulletins or other regulatory statements as he may consider necessary or desirable for the implementation or explanation of any provision of this Act."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XI",
+      "section": "71",
+      "title": "Voluntary membership withdrawal from SACCO",
+      "content": "A SACCO shall pay out share deposits to a member who voluntarily decides to withdraw from a SACCO upon sale of the existing members shares to either existing or new SACCO members. Part XII – Transitional provisions"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part XII",
+      "section": "72",
+      "title": "Transitional provisions",
+      "content": "(1) On commencement of this Act— (a) each existing registered SACCO may continue as a provisionally licensed SACCO and shall automatically be granted a provisional licence to operate under this Act if the registered SACCO submits an application to the Registrar within six months of this Act coming into effect; (b) every document validly filed by an existing registered SACCO shall be deemed to be filed by the relevant provisionally licensed SACCO pursuant to this section and a copy of each such file shall be transmitted to the Registrar; (c) by-laws of an existing registered SACCO shall be the by-laws of the provisionally licensed SACCO ; (d) the persons elected or appointed as the members of the committee or to the board of directors of an existing registered SACCO shall be the directors of the provisionally licensed SACCO and may hold office as such during the term of election or appointment, but subject to any direction of the Registrar; (e) the persons appointed as officers of an existing registered SACCO shall be the officers for the provisionally licensed SACCO ; (f) the person appointed as the auditor of an existing registered SACCO shall be the auditor for the provisionally licensed SACCO , during the term of appointment, subject to any direction of the Registrar; (g) any notice, order or direction made by the Registrar of Cooperatives , in respect of an existing registered SACCO pursuant to the Cooperative Societies Act shall be deemed to be a direction made by the Registrar under this Act in respect of the relevant provisionally licensed SACCO ; [Cap. 47:02] (h) any charge registered, in respect to an existing Registered SACCO , pursuant to the Cooperative Societies Act shall be a charge binding on the relevant provisionally licensed SACCO ; and [Cap. 47:02] (i) a share issued by an existing registered SACCO shall be deemed to be a share issued by the relevant provisionally licensed SACCO and no approval shall be required pursuant to the Financial Services Act, to permit the issue of those shares. [Cap. 44:05] (2) The Registrar shall issue a provisional licence to a registered SACCO and may specify the place(s) of business of the SACCO . (3) The Registrar may issue a provisional licence with conditions and, in such circumstance, the provisions of section 11 (3) shall apply."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part XII",
+      "section": "73",
+      "title": "Compliance by existing SACCOs",
+      "content": "(1) A registered SACCO that is issued a provisional licence under this Act shall, not later than three years from the date of commencement of this Act, apply for a licence from the Registrar. (2) To obtain a licence , a registered SACCO shall— (a) be financially solvent; and (b) have complied with minimum capital adequacy ratio defined by the Registrar. (3) Notwithstanding subsection (2) and subject to subsection (4), the Registrar may grant a licence to a registered SACCO that has complied with minimum capital adequacy ratio as defined by the Registrar. (4) Any provisionally licensed SACCO that obtains a licence prior to meeting minimum capital adequacy requirements as determined by the Registrar through Registrar’s directives shall have five years within which to attain the minimum standard. (5) Except for the requirement on ownership and capital adequacy, an existing registered SACCO shall comply with the provisions of this Act within twelve months from commencement of the Act. History of this document 31 December 2014 this version Consolidation 01 October 2011 Commenced 01 April 2011 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About MalawiLII The Malawi Legal Information Institute (MalawiLII) was launched in 2009 as an online resource that provides free access to the laws of Malawi. Pocket Law Use MalawiLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Gender and Justice Unit Laws.Africa With support from National Endowment for Democracy The Indigo Trust Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeals Committee",
+      "definition": "the Financial Services Appeals Committee established under the Financial Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank",
+      "definition": "ascribed to it in the Banking Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "body corporate",
+      "definition": "a company or corporation incorporated under or by virtue of the laws of Malawi or of any other state, but does not include a corporation sole",
+      "source_provision": "s2"
+    },
+    {
+      "term": "borrower",
+      "definition": "a person who has concluded a loan agreement with a SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "capital",
+      "definition": "unimpaired reserves, retained earnings, donations to a SACCO and permanent and non-withdrawable shares",
+      "source_provision": "s2"
+    },
+    {
+      "term": "compulsory or collateral savings",
+      "definition": "a sum of money which is paid to a SACCO as— (a) security",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cooperative society",
+      "definition": "an entity registered under the Cooperative Societies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit",
+      "definition": "money entrusted to a SACCO and accepted by it for credit to a depositor’s account, without putting up any security for the deposit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "a member of the board of directors of a SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dormant account",
+      "definition": "an account that has been kept inactive for twelve months",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "a provisionally licensed SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national association",
+      "definition": "an umbrella body of all financial cooperatives in Malawi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "a manager of a SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ownership share",
+      "definition": "an amount held by a member and established by the SACCO as the member’s ownership interest in the assets of the SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanent and non-withdrawable share",
+      "definition": "a share of a SACCO that may not be redeemable or repurchased by the SACCO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "an individual, a body corporate , a partnership, an association, and any other group of persons acting in concert, whether incorporated or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "primary SACCO",
+      "definition": "a SACCO the membership of which consists of individual persons and includes any body of persons approved by the Registrar of Cooperative Societies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provisionally licensed SACCO",
+      "definition": "a registered SACCO that, immediately before the coming into effect of this Act, is carrying on SACCO business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "the SACCO Register established and maintained pursuant to section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar of Cooperatives",
+      "definition": "the Registrar of Corporatives as defined in the Cooperative Societies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SACCO",
+      "definition": "a savings and credit cooperative society registered under the Cooperative Societies Act and licensed under the Financial Services Act, whose principal object includes accepting deposits, advancing of loans, and providing other financial services to, or for, its members",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secondary SACCO",
+      "definition": "a SACCO , the membership of which is restricted to primary SACCOs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supervisory committee",
+      "definition": "a supervisory committee elected by a SACCO under section 43 . (2) Subject to subsection (1) and except where a contrary intention appears, expressions used in this Act shall have respective meanings as in the Financial Services Act. [Cap. 44:05]",
+      "source_provision": "s2"
+    }
+  ]
+}
