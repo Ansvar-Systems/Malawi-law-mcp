@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Malawi Law (malawilii.org) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'MalawiLII (malawilii.org) — Malawi Legal Information Institute, hosted by AfricanLII',
+    jurisdiction: 'MW',
     disclaimer:
-      'This data is sourced from Malawi Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Malawi Law portal (malawilii.org).',
+      'This data is sourced from MalawiLII under free access principles. ' +
+      'Government legislation is public domain under Malawian law. ' +
+      'Always verify with the official Malawi Government Gazette or Parliament of Malawi portal.',
     freshness,
   };
 }
